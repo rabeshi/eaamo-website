@@ -1,9 +1,12 @@
 ---
 widget: about
-widget_id: Bio
+widget_id: Description
 headless: true
 weight: 20
 title: ""
-active: false
+active: true
 author: admin
+design:
+  background:
+    text_color_light: false
 ---
