@@ -1,6 +1,6 @@
 ---
 title: Name of the conference
-role: Professor of Artificial Intelligence
+role: Abbreviation of the conference name
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
