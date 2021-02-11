@@ -1,6 +1,6 @@
 ---
-title: Name of the conference
-role: Abbreviation of the conference name
+title: EAAMO
+role: Equity and Access in Algorithms, Mechanisms, and Optimization
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
