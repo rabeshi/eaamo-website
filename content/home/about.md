@@ -9,5 +9,5 @@ author: admin
 design:
   background:
     text_color_light: false
-    color: "#cb2701"
+    color: rgba(255, 255, 255, 0)
 ---
