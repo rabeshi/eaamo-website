@@ -1,8 +1,7 @@
 ---
 title: EAAMO
-role: Equity and Access in Algorithms, Mechanisms, and Optimization
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -24,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: October 5-8, 2021, Virtual
+    url: ""
 education:
   courses:
     - course: PhD in Artificial Intelligence
