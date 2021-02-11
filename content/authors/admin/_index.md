@@ -1,11 +1,8 @@
 ---
-title: EAAMO
+title: <font color = "rgb(255,255,255)">EAAMO</font>
 role: ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,7 +37,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
