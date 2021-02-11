@@ -29,7 +29,3 @@ superuser: true
 highlight_name: false
 ---
 The inaugural ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization aims to highlight work where techniques from algorithms, optimization, and mechanism design can be useful in welding research pipelines together with the social sciences in helping improve access to opportunity for historically underserved and disadvantaged communities. The conference is part of the [Mechanism Design for Social Good](http://md4sg.com/) initiative, building on the success of the MD4SG [workshop series](http://md4sg.com/workshop/EC19/cfp.html), tutorials at ACM EC, ACM COMPASS and WINE, as well as numerous online activities including [working groups](http://md4sg.com/workinggroups/index.html) and an [online colloquium series](http://md4sg.com/colloquium/index.html).
-
-
-
-\#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
