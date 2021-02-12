@@ -26,12 +26,12 @@ header:
 - [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Columbia University
 
 ## Executive Committee:
-- [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), Cornell University
-- [Sera Linardi](http://www.linardi.gspia.pitt.edu/), University of Pittsburgh
-- [Illenin Kondo](https://www.illenin.com/), the Federal Reserve Bank of Minneapolis
-- [Maximilian Kasy](https://maxkasy.github.io/home/), Oxford University
-- [Kira Goldner](https://www.kiragoldner.com/), Columbia University
 - [Rediet Abebe](https://www.cs.cornell.edu/~red/), Berkeley University
+- [Kira Goldner](https://www.kiragoldner.com/), Columbia University
+- [Maximilian Kasy](https://maxkasy.github.io/home/), Oxford University
+- [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), Cornell University
+- [Illenin Kondo](https://www.illenin.com/), the Federal Reserve Bank of Minneapolis
+- [Sera Linardi](http://www.linardi.gspia.pitt.edu/), University of Pittsburgh
 - [Irene Lo](https://sites.google.com/view/irene-lo), Stanford University
 - [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Columbia University
 
