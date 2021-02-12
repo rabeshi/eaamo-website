@@ -29,7 +29,7 @@
   weight = 50
 
 [[main]]
-  name = "Organizing committee"
+  name = "Organizers"
   url = "committee"
   weight = 50
   
