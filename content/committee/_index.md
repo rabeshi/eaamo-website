@@ -18,14 +18,13 @@ header:
 
 ## Program Co-chairs:
 
-- Rediet Abebe, Berkeley University
-- Irene Lo, Stanford University
-- Ana-Andreea Stoica, Columbia University
+- [Rediet Abebe](https://www.cs.cornell.edu/~red/), Berkeley University
+- [Irene Lo](https://sites.google.com/view/irene-lo), Stanford University
+- [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Columbia University
 
 ## Steering Committee:
-
-- Jon Kleinberg, Cornell University
-- Sera Linardi, University of Pittsburgh
-- Illenin Kondo, the Federal Reserve Bank of Minneapolis
-- Maximilian Kasy, Oxford University
-- Kira Goldner, Columbia University
+- [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), Cornell University
+- [Sera Linardi](http://www.linardi.gspia.pitt.edu/), University of Pittsburgh
+- [Illenin Kondo](https://www.illenin.com/), the Federal Reserve Bank of Minneapolis
+- [Maximilian Kasy](https://maxkasy.github.io/home/), Oxford University
+- [Kira Goldner](https://www.kiragoldner.com/), Columbia University
