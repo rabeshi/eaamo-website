@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Registration"
-  url = "#registration"
+  url = "registration"
   weight = 20
 
 [[main]]
