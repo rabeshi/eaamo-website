@@ -9,25 +9,30 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Registration"
+  url = "#registration"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Program Schedule"
+  url = "#programschedule"
   weight = 30
 
 [[main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Invited speakers"
+  url = "#speakers"
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Call for Papers"
+  url = "#cfp"
   weight = 50
 
+[[main]]
+  name = "Organizing committee"
+  url = "#committee"
+  weight = 50
+  
 [[main]]
   name = "Contact"
   url = "#contact"
