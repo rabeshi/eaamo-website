@@ -15,22 +15,22 @@
 
 [[main]]
   name = "Program Schedule"
-  url = "#programschedule"
+  url = "programschedule"
   weight = 30
 
 [[main]]
   name = "Invited speakers"
-  url = "#speakers"
+  url = "speakers"
   weight = 40
 
 [[main]]
   name = "Call for Papers"
-  url = "#cfp"
+  url = "cfp"
   weight = 50
 
 [[main]]
   name = "Organizing committee"
-  url = "#committee"
+  url = "committee"
   weight = 50
   
 [[main]]
