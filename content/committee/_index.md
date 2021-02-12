@@ -16,6 +16,9 @@ header:
   image: ""
 ---
 
+## General Chair:
+- [Francisco Marmolejo-Cossio](https://www.fmarmolejo.com/)
+
 ## Program Co-chairs:
 
 - [Rediet Abebe](https://www.cs.cornell.edu/~red/), Berkeley University
