@@ -10,8 +10,6 @@ social:
 organizations:
   - name: October 5-8, 2021, Virtual
     url: ""
-education:
-  courses: []
 email: ""
 superuser: true
 highlight_name: false
