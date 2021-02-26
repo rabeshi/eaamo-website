@@ -16,9 +16,6 @@ header:
   image: ""
 ---
 
-## General Chair:
-- [Francisco Marmolejo-Cossio](https://www.fmarmolejo.com/), Oxford University
-
 ## Program Co-chairs:
 
 - [Rediet Abebe](https://www.cs.cornell.edu/~red/), Berkeley University
@@ -26,7 +23,7 @@ header:
 - [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Columbia University
 
 ## Executive Committee:
-- [Rediet Abebe](https://www.cs.cornell.edu/~red/), Berkeley University
+- [Rediet Abebe](https://www.cs.cornell.edu/~red/), Berkeley University & Harvard Society of Fellows
 - [Kira Goldner](https://www.kiragoldner.com/), Columbia University
 - [Maximilian Kasy](https://maxkasy.github.io/home/), Oxford University
 - [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), Cornell University
@@ -34,4 +31,8 @@ header:
 - [Sera Linardi](http://www.linardi.gspia.pitt.edu/), University of Pittsburgh
 - [Irene Lo](https://sites.google.com/view/irene-lo), Stanford University
 - [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Columbia University
+
+## General Chair:
+- [Francisco Marmolejo-Cossio](https://www.fmarmolejo.com/), Oxford University
+
 
