@@ -18,7 +18,7 @@ header:
 
 ## Program Co-chairs:
 
-- [Rediet Abebe](https://www.cs.cornell.edu/~red/), Berkeley University
+- [Rediet Abebe](https://www.cs.cornell.edu/~red/), Berkeley University & Harvard Society of Fellows
 - [Irene Lo](https://sites.google.com/view/irene-lo), Stanford University
 - [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Columbia University
 
