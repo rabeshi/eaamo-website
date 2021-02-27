@@ -14,7 +14,7 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  # autolink: true
   
   For any questions, contact us at [pc@eaamo.org](mailto:pc@eaamo.org)
 design:
