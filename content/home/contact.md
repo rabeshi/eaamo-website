@@ -10,7 +10,8 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: For any questions, contact us at [pc@eaamo.org](mailto:pc@eaamo.org)
+
 
 content:
   # Automatically link email and phone or display as text?
@@ -19,4 +20,3 @@ content:
 design:
   columns: '2'
 ---
-For any questions, contact us at [pc@eaamo.org](mailto:pc@eaamo.org)
