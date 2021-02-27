@@ -38,6 +38,12 @@
   url = "#contact"
   weight = 30
 
+
+[[main]]
+  name = "MD4SG"
+  url = "www.md4sg.com"
+  weight = 40
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 # [[main]]
