@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: For any questions, contact us at [pc@eaamo.org](mailto:pc@eaamo.org)
+subtitle: For any questions, contact us at [pc@eaamo.org](mailto:pc@eaamo.org).
 
 
 content:
