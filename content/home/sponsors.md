@@ -15,7 +15,12 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-
+feature: 
+- icon: "acm"
+  icon_pack: "custom"
+  name: 
+  description: 
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
@@ -25,8 +30,5 @@ subtitle:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-- icon: "acm"
-  icon_pack: "custom"
-  name: 
-  description: 
+
 ---
