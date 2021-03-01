@@ -19,14 +19,7 @@ content:
 design:
   columns: '2'
   
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature: 
-- icon: "acm"
-  icon_pack: "custom"
-  name: 
-  description: 
+
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -39,3 +32,11 @@ feature:
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 
 ---
+# Showcase personal skills or business features.
+# - Add/remove as many `feature` blocks below as you like.
+# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+feature: 
+- icon: "acm"
+  icon_pack: "custom"
+  name: 
+  description: 
