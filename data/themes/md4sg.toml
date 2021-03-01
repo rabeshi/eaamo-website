@@ -15,7 +15,7 @@ menu_title = "#CB2701"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
-home_section_even "rgb(93, 93, 93)"
+home_section_even = "rgb(93, 93, 93)"
 
 link = "#20668F"
 link_hover = "#20668F"
