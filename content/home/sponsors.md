@@ -12,6 +12,13 @@ weight: 50
 title: Sponsors
 subtitle:
 
+content:
+  # Automatically link email and phone or display as text?
+  # autolink: true
+  
+design:
+  columns: '2'
+  
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
