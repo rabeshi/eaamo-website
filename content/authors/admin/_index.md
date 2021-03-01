@@ -1,5 +1,5 @@
 ---
-title: EAAMO
+title: 
 role: ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization
 bio: ""
 interests: []
