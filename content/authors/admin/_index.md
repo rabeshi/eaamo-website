@@ -1,5 +1,5 @@
 ---
-title: "blue-og-bold-transparent.png"
+title: EAAMO
 role: ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization
 bio: ""
 interests: []
