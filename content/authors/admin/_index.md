@@ -1,7 +1,5 @@
 ---
-title: #+ATTR_HTML: :alt alt text
-#+ATTR_HTML: :title Image Title
-[[file:blue-og-bold-transparent.png]]
+title: [[file:blue-og-bold-transparent.png]]
 role: ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization
 bio: ""
 interests: []
