@@ -10,8 +10,7 @@ headless: true
 weight: 50
 
 title: Contact
-subtitle: For any questions, contact us at [pc@eaamo.org](mailto:pc@eaamo.org).
-
+subtitle:
 
 content:
   # Automatically link email and phone or display as text?
@@ -20,3 +19,7 @@ content:
 design:
   columns: '2'
 ---
+
+For questions about the conference logistics: gc@eaamo.org
+For questions about the conference program: pc@eaamo.org
+For general questions about the conference series: ec@eaamo.org
