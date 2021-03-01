@@ -16,14 +16,14 @@ header:
   image: ""
 ---
 
-## Program Co-chairs:
+## Program Co-Chairs:
 
-- [Rediet Abebe](https://www.cs.cornell.edu/~red/), Berkeley University & Harvard Society of Fellows
+- [Rediet Abebe](https://www.cs.cornell.edu/~red/), University of California Berkeley & Harvard Society of Fellows
 - [Irene Lo](https://sites.google.com/view/irene-lo), Stanford University
 - [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Columbia University
 
 ## Executive Committee:
-- [Rediet Abebe](https://www.cs.cornell.edu/~red/), Berkeley University & Harvard Society of Fellows
+- [Rediet Abebe](https://www.cs.cornell.edu/~red/), University of California Berkeley & Harvard Society of Fellows
 - [Kira Goldner](https://www.kiragoldner.com/), Columbia University
 - [Maximilian Kasy](https://maxkasy.github.io/home/), Oxford University
 - [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), Cornell University
