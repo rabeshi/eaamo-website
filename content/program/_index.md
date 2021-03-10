@@ -16,11 +16,5 @@ header:
   image: ""
 ---
 
-## Invited speakers:
-
-- [Ellora Derenoncourt](https://sites.google.com/view/ellora-derenoncourt/home), University of California Berkeley
-- [Dirk Dirgemann](https://campuspress.yale.edu/dirkbergemann/), Yale University
-- [Ashish Goel](https://web.stanford.edu/~ashishg/), Stanford University
-- [Mary L. Gray](https://marylgray.org/), Microsoft Research
-
+## TBD.
 
