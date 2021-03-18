@@ -33,12 +33,18 @@
   name = "Call for Participation"
   url = "cfp"
   weight = 30
+ 
+  [[main]]
+  name = "General CfP information"
+  url = "/cfp/"
+  parent = "dropcfp"
+  weight = -30
   
  [[main]]
   name = "Research Track"
   url = "/cfpresearch/"
   parent = "dropcfp"
-  weight = -30
+  weight = 30
 
  [[main]]
   name = "Policy & Practice Track"
