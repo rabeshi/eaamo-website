@@ -34,11 +34,11 @@
   url = "cfp"
   weight = 30
  
-[[main]]
-  name = "General CfP information"
-  url = "cfp"
-  parent = "dropcfp"
-  weight = -30
+#[[main]]
+#  name = "General CfP information"
+#  url = "cfp"
+#  parent = "dropcfp"
+#  weight = -30
   
 [[main]]
   name = "Research Track"
@@ -50,7 +50,7 @@
   name = "Policy & Practice Track"
   url = "cfppolicyandpractice"
   parent = "dropcfp"
-  weight = 40
+  weight = 30
   
 #[[main]]
 #  name = "Program"
