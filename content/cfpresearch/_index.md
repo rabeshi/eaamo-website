@@ -16,7 +16,6 @@ header:
   image: ""
 ---
 
- 
 The inaugural **Conference on Equity and Access in Algorithms, Mechanisms, and Optimization** (EAAMO ‘21) will take place on October 5-8, 2021, virtually, on Zoom and Gather.town.
  
 The goal of this event is to highlight work where techniques from algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies, can improve access to opportunity for historically underserved and disadvantaged communities. 
