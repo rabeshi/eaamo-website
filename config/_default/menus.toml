@@ -36,19 +36,19 @@
  
   [[main]]
   name = "General CfP information"
-  url = "/cfp/"
+  url = "cfp"
   parent = "dropcfp"
   weight = -30
   
  [[main]]
   name = "Research Track"
-  url = "/cfpresearch/"
+  url = "cfpresearch"
   parent = "dropcfp"
   weight = 30
 
  [[main]]
   name = "Policy & Practice Track"
-  url = "/cfppolicypractice/"
+  url = "cfppolicypractice"
   parent = "dropcfp"
   weight = 30
   
