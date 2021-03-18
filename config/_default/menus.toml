@@ -28,29 +28,29 @@
 #  url = "speakers"
 #  weight = 40
 
-[[main]]
-  identifier = "dropcfp"
-  name = "Call for Participation"
-  url = "cfp"
-  weight = 30
+#[[main]]
+#  identifier = "dropcfp"
+#  name = "Call for Participation"
+#  url = "cfp"
+#  weight = 30
  
-[[main]]
-  name = "General CfP information"
-  url = "cfp"
-  parent = "dropcfp"
-  weight = -30
+#[[main]]
+#  name = "General CfP information"
+#  url = "cfp"
+#  parent = "dropcfp"
+#  weight = -30
   
-[[main]]
-  name = "Research Track"
-  url = "cfpresearch"
-  parent = "dropcfp"
-  weight = 30
+#[[main]]
+#  name = "Research Track"
+#  url = "cfpresearch"
+#  parent = "dropcfp"
+#  weight = 30
 
-[[main]]
-  name = "Policy & Practice Track"
-  url = "cfppolicypractice"
-  parent = "dropcfp"
-  weight = 30
+#[[main]]
+#  name = "Policy & Practice Track"
+#  url = "cfppolicypractice"
+#  parent = "dropcfp"
+#  weight = 30
   
 #[[main]]
 #  name = "Program"
