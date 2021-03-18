@@ -1,5 +1,5 @@
 ---
-title: Call for Participation for the Policy and Practice Track
+title: Call for Participation for the Policy & Practice Track
 cms_exclude: true
 date: "2019-01-01T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
@@ -15,6 +15,9 @@ header:
   caption: ""
   image: ""
 ---
+
+Deadline: <span style="color:red">**June 3rd, 2021, 9pm ET**</span>
+Submission Link: [EasyChair](https://easychair.org/conferences/?conf=eamo21)
 
 The inaugural **Conference on Equity and Access in Algorithms, Mechanisms, and Optimization** (EAAMO ‘21) will take place on October 5-8, 2021, virtually, on Zoom and Gather.town.
  
