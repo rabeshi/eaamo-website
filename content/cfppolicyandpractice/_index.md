@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-# Call for participation
+## Call for participation
 
 Deadline: <span style="color:red">**June 3rd, 2021, 9pm ET**</span>
 
