@@ -1,5 +1,5 @@
 ---
-title: Call for Participation for the Research Track
+title: EAAMO'21 Call for Participation Research Track
 cms_exclude: true
 date: "2019-01-01T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
