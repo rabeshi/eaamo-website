@@ -33,26 +33,5 @@ We encourage submissions from across various disciplines and covering domains in
 Submissions will fall in one of two categories: 
 - Research Track
 - Policy and Practice Track
- 
-For all submissions in either track, topics of interest include but are not limited to:
-- market and mechanism design challenges in resource-constrained settings
-- redistributive mechanisms to improve access to opportunity
-- improving social service delivery and evaluation 
-- allocating health insurance funds and managing access to healthcare
-- equitable provision of healthcare across communities
-- economic inequality and intergenerational mobility
-- mitigating unequal economic outcomes in on- and off-line labor markets
-- detecting existence or causes of exploitative market behavior in labor markets
-- improving diversity and equity using algorithmic approaches
-- market regulations for data and privacy
-- evaluating the impacts of teachers, schools, or education policy
-- improving allocation of educational resources
-- measuring and evaluating progress to achieve sustainable development goals
-- reducing inefficiencies in smallholder farms and under-resourced supply chains
-- algorithmic proposals to encourage civic participation
-- evaluating fairness in electoral representation
-- informing climate change and policy design
-- designing equitable transportation systems
-- tackling infrastructural challenges impacting marginalized communities 
-- ethical considerations when using interventions informed by algorithm and mechanism design in public sector settings 
+
 
