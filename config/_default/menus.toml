@@ -50,7 +50,7 @@
   name = "Policy & Practice Track"
   url = "cfppolicyandpractice"
   parent = "dropcfp"
-  weight = 30
+  weight = 40
   
 #[[main]]
 #  name = "Program"
