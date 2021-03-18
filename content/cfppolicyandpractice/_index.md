@@ -99,9 +99,9 @@ The conference will provide a number of need-based grants to subsidize the costs
  
 ## Important Information:
 
-Paper Submission Deadline: 3 June 2021 at  9 PM ET
-Paper Submission Page: [EasyChair](https://easychair.org/conferences/?conf=eamo21)
-Financial Assistance Application Deadline: 3 June 2021 at 9 PM ET
-Notification: 15 July 2021
-Event Date: 5-8 October 2021 
+- Paper Submission Deadline: 3 June 2021 at  9 PM ET
+- Paper Submission Page: [EasyChair](https://easychair.org/conferences/?conf=eamo21)
+- Financial Assistance Application Deadline: 3 June 2021 at 9 PM ET
+- Notification: 15 July 2021
+- Event Date: 5-8 October 2021 
  
