@@ -17,6 +17,7 @@ header:
 ---
 
 Deadline: <span style="color:red">**June 3rd, 2021, 9pm ET**</span>
+
 Submission Link: [EasyChair](https://easychair.org/conferences/?conf=eamo21)
 
 The inaugural **Conference on Equity and Access in Algorithms, Mechanisms, and Optimization** (EAAMO ‘21) will take place on October 5-8, 2021, virtually, on Zoom and Gather.town.
