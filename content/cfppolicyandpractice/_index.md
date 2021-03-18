@@ -35,8 +35,8 @@ We encourage submissions from across various disciplines and covering domains in
 ## Submission Types
 
 Submissions will fall in one of two categories: 
-- Research Track
-- Policy and Practice Track
+- [Research Track](https://eaamo.org/cfpresearch/)
+- [Policy and Practice Track](https://eaamo.org/cfppolicyandpractice)
  
 For all submissions in either track, topics of interest include but **are not limited to**:
 - market and mechanism design challenges in resource-constrained settings
