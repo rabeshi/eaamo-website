@@ -69,7 +69,7 @@ For the research track, submissions will have the option to be either **archival
  
 ## Submission Instructions
  
-Authors should upload a PDF of their paper to EasyChair. There are no formatting or length requirements for the PDF submission, but accepted **archival** papers will have a page limit of 10 pages in the camera-ready version at the time of publication. In addition to the PDF, authors are asked to upload a 200-250 word description onto EasyChair summarizing their submission and its relevance to the conference. 
+Authors should upload a PDF of their paper to [EasyChair](https://easychair.org/conferences/?conf=eamo21). There are no formatting or length requirements for the PDF submission, but accepted **archival** papers will have a page limit of 10 pages in the camera-ready version at the time of publication. In addition to the PDF, authors are asked to upload a 200-250 word description onto EasyChair summarizing their submission and its relevance to the conference. 
  
 Submissions are double-blind: authors should take care to not include the names and affiliations of the authors in the paper, including when referring to previous work. Submitters should list all co-authors on the submitted work in EasyChair but not in the PDF of the submission. 
  
