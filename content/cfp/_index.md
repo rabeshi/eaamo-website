@@ -24,7 +24,7 @@ The conference aims to foster a multi-disciplinary community, facilitating inter
  
 We solicit submissions in the **research track** and **policy and practice track**. Submissions can include research, survey, and position papers as well as problem- and practice-driven submissions by academics from any discipline and practitioners from any sector. For more details on submitting to each track, please visit each track's page: 
 
-- [Research Track](https://eaamo.org/cfpresearch) call for participation
+- <a href="https://eaamo.org/cfpresearch">Research Track</a> call for participation
 - [Policy & Practice Track](https://eaamo.org/cfpolicyandpractice) call for participation
 
 We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is **June 3rd, 2021, 9pm ET**.
