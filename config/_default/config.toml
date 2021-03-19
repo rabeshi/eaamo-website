@@ -62,7 +62,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     endLevel = 3
 
 [imaging]
-  resampleFilter = "bilinear"
+  #resampleFilter = "bilinear"
   quality = 90
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
