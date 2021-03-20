@@ -10,3 +10,7 @@ heading_font = "Titillium Web"
 body_font = "Open Sans"
 nav_font = "Open Sans"
 mono_font = "Open Sans Mono"
+
+# Font size
+font_size = "14"
+font_size_small = "12"
