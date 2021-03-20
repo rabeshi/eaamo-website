@@ -40,4 +40,5 @@ design:
   view: 2
 ---
 
-Our Call for Participation is now live! 
+- Our Call for Participation for the [Research Track](https://eaamo.org/cfpresearch/) and for the [Policy & Practice Track](https://eaamo.org/cfppolicyandpractice/) are now live!
+- We are proud to be sponsored by the ACM [SIGecom](https://www.sigecom.org/) and [SIGAI](https://sigai.acm.org/)!
