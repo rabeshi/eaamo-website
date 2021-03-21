@@ -12,11 +12,6 @@
   name = "About"
   url = "#about"
   weight = 20
-  
-#[[main]]
-#  name = "Registration"
-#  url = "registration"
-#  weight = 20
 
 #[[main]]
 #  name = "Program Schedule"
@@ -51,7 +46,13 @@
   url = "cfppolicyandpractice"
   parent = "dropcfp"
   weight = 40
+
   
+[[main]]
+  name = "Registration"
+  url = "registration"
+  weight = 40
+
 #[[main]]
 #  name = "Program"
 #  url = "program"
@@ -61,17 +62,17 @@
 [[main]]
   name = "Organizers"
   url = "committee"
-  weight = 40
+  weight = 50
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "MD4SG"
   url = "https://md4sg.com"
-  weight = 60
+  weight = 70
   
 #[[main]]
 #  name = "CFP Research Track"
