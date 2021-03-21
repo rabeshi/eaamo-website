@@ -98,12 +98,7 @@ Papers that are out of scope of the conference as evaluated by these criteria ma
 
 EAAMO’21 will follow a two-phase reviewing system. All submissions will be peer-reviewed by at least 2 reviewers in a double-blind format. The committee reserves the right to not review all the technical details of submissions. 
  
-## Registration Waivers and Data Plans
- 
-The conference will provide a number of need-based grants to subsidize the costs of registration as well as provide additional financial assistance to procure data plans for attending the conference. Awardees of the grants will have the opportunity to participate in an interdisciplinary networking session with members of the broader MD4SG community. Preference will be given to individuals who have submitted papers to the conference. We especially encourage those from underrepresented communities and institutions to submit a financial assistance application. Details forthcoming. 
- 
-**All financial assistance applications must be submitted by June 3rd, 2020 at 9 PM ET**; applications received after this date will not be considered.
- 
+Register [here](https://eaamo.org/registration) for the conference. The conference will provide financial assistance for registration costs, as well as data plans. All financial assistance applications must be submitted by June 3rd, 2020 at 9 PM ET; applications received after this date will not be considered. 
  
 ## Important Information:
 
