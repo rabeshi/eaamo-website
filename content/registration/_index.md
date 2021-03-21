@@ -1,0 +1,3 @@
+## Registration Waivers and Data Plans
+ 
+The conference will provide a number of need-based grants to subsidize the costs of registration as well as provide additional financial assistance to procure data plans for attending the conference. Awardees of the grants will have the opportunity to participate in an interdisciplinary networking session with members of the broader MD4SG community. Preference will be given to individuals who have submitted papers to the conference. We especially encourage those from underrepresented communities and institutions to submit a financial assistance application. Details forthcoming. 
