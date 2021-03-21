@@ -27,14 +27,10 @@ feature:
   icon_pack: "custom"
   name: 
   description: 
-
-feature: 
 - icon: "sigecom_logo_4rgb"
   icon_pack: "custom"
   name: 
   description: 
-
-feature: 
 - icon: "SIGAI"
   icon_pack: "custom"
   name: 
