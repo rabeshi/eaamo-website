@@ -18,13 +18,13 @@ header:
 
 ## Call for participation 
 
-Deadline: <span style="color:red">**June 3rd, 2021, 5 PM PT**</span>
+Deadline: <span style="color:red">**June 3rd, 2021, 5 PM ET / 9 PM GMT**</span>
 
-Dates: **October 5-8, 2021**
+Dates: **October 5-9, 2021**
 
 Submission Link: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
 
-The inaugural **Conference on Equity and Access in Algorithms, Mechanisms, and Optimization** (EAAMO ‘21) will take place on October 5-8, 2021, virtually, on Zoom and Gather.town.
+The inaugural **Conference on Equity and Access in Algorithms, Mechanisms, and Optimization** (EAAMO ‘21) will take place on October 5-9, 2021, virtually, on Zoom and Gather.town.
  
 The goal of this event is to highlight work where techniques from algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies, can improve access to opportunity for historically underserved and disadvantaged communities. 
 
@@ -32,7 +32,7 @@ The conference aims to foster a multi-disciplinary community, facilitating inter
 
 We solicit submissions in the **research track** and **policy and practice track**. Submissions can include research, survey, and position papers as well as problem- and practice-driven submissions by academics from any discipline and practitioners from any sector.
 
-We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is June 3rd, 2021, 5 PM PT.
+We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is June 3rd, 2021, 5 PM ET (9 PM GMT).
 
 *ACM EAAMO is part of the [Mechanism Design for Social Good](md4sg.com) (MD4SG) initiative, and builds on the MD4SG technical [workshop series](https://www.md4sg.com/workshop/index.html) and tutorials at conferences including ACM EC, ACM COMPASS, ACM FAccT, and WINE.*
 
@@ -102,8 +102,8 @@ Register [here](https://eaamo.org/registration) for the conference. The conferen
  
 ## Important Information
 
-- Paper Submission Deadline: 3 June 2021 at 5 PM PT
+- Paper Submission Deadline: 3 June 2021 at 5 PM ET (9 PM GMT)
 - Paper Submission Page: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
-- [Financial Assistance Application](https://forms.gle/AP9nmLStPzHSrqMv7) Deadline: 3 June 2021 at 5 PM PT
+- [Financial Assistance Application](https://forms.gle/AP9nmLStPzHSrqMv7) Deadline: 3 June 2021 at 5 PM ET (9 PM GMT)
 - Notification: 15 July 2021
-- Event Date: 5-8 October 2021
+- Event Date: 5-9 October 2021
