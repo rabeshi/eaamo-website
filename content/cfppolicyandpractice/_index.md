@@ -18,13 +18,13 @@ header:
 
 ## Call for participation
 
-Deadline: <span style="color:red">**June 3rd, 2021, 5 PM PT**</span>
+Deadline: <span style="color:red">**June 3rd, 2021, 5 PM ET / 9 PM GMT**</span>
 
-Dates: **October 5-8, 2021**
+Dates: **October 5-9, 2021**
 
 Submission Link: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
 
-The inaugural **Conference on Equity and Access in Algorithms, Mechanisms, and Optimization** (EAAMO ‘21) will take place on October 5-8, 2021, virtually, on Zoom and Gather.town.
+The inaugural **Conference on Equity and Access in Algorithms, Mechanisms, and Optimization** (EAAMO ‘21) will take place on October 5-9, 2021, virtually, on Zoom and Gather.town.
  
 The goal of this event is to highlight work where techniques from algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies, can improve access to opportunity for historically underserved and disadvantaged communities. 
 
@@ -32,7 +32,7 @@ The conference aims to foster a multi-disciplinary community, facilitating inter
 
 We solicit submissions in the **research track** and **policy and practice track**. Submissions can include research, survey, and position papers as well as problem- and practice-driven submissions by academics from any discipline and practitioners from any sector.
 
-We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is June 3rd, 2021, 5 PM PT.
+We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is June 3rd, 2021, 5 PM ET (9 PM GMT).
 
 *ACM EAAMO is part of the [Mechanism Design for Social Good](md4sg.com) (MD4SG) initiative, and builds on the MD4SG technical [workshop series](https://www.md4sg.com/workshop/index.html) and tutorials at conferences including ACM EC, ACM COMPASS, ACM FAccT, and WINE.*
 
@@ -66,7 +66,7 @@ For all submissions in either track, topics of interest include but **are not li
 
 ## Policy and Practice Track 
  
-The policy and practice track is dedicated to submissions from researchers and domain experts that emphasize applied work, policy issues, or practical problems. For this track, submissions will have the option to be either **archival** or **non-archival**, with preference given to archival papers. Individuals with any institutional or organizational affiliations can submit to this track, and we especially encourage contributions from individuals in government and non-government organizations and industry. Submissions will fall into one of five focus areas:
+The policy and practice track is dedicated to submissions from researchers and domain experts that emphasize applied work, policy issues, or practical problems. Individuals with any institutional or organizational affiliations can submit to this track, and we especially encourage contributions from individuals in government and non-government organizations and industry. Submissions will fall into one of five focus areas:
 
 - **Dataset** submissions of novel datasets collected and documented for the purpose of fostering new research in different application domains, creating new standards for data collection, transparency, and accountability, and fostering interdisciplinary collaborations. The submission should include the dataset, which will be uploaded as a supplementary file as well as metadata information. The dataset may also be uploaded to external data sharing services, and the conference will provide an additional option for a data portal upon acceptance of the submission. The submission should be accompanied by a document detailing the application domain, potential for use of the data, as well as any known issues, limitations, and ethical considerations for the collection, curation, access, and use. Authors are encouraged to consider questions presented in the [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf) recommendations. 
  
@@ -80,7 +80,7 @@ The policy and practice track is dedicated to submissions from researchers and d
 
 ## Submission Instructions
  
-Authors should upload a PDF of their paper to [EasyChair](https://easychair.org/conferences/?conf=eaamo21) and should also upload any relevant material, such as datasets for dataset submissions, in the supplementary section. There are no formatting or length requirements for the PDF submission, but accepted **archival** papers will have a page limit of 10 pages in the camera-ready version. In addition to the PDF, authors are asked to upload a 200-250 word description onto EasyChair summarizing their submission and its relevance to the conference. 
+For this track, submissions will have the option to be either **archival** or **non-archival**, with preference given to archival papers. Authors should upload a PDF of their paper to [EasyChair](https://easychair.org/conferences/?conf=eaamo21) and should also upload any relevant material, such as datasets for dataset submissions, in the supplementary section. There are no formatting or length requirements for the PDF submission, but accepted **archival** papers will have a page limit of 10 pages in the camera-ready version. In addition to the PDF, authors are asked to upload a 200-250 word description onto EasyChair summarizing their submission and its relevance to the conference. 
  
 Submissions are double-blind: authors should take care to not include the names and affiliations of the authors in their submissions, including when referring to previous work. Submitters should list all co-authors on the submitted work in EasyChair but not in the PDF of the submission. Authors may submit unpublished work, work under review, or work that has been published no earlier than January 2019. If the work is already published, please include a citation on EasyChair.
 
@@ -98,13 +98,13 @@ Papers that are out of scope of the conference as evaluated by these criteria ma
 
 EAAMO’21 will follow a two-phase reviewing system. All submissions will be peer-reviewed by at least 2 reviewers in a double-blind format. The committee reserves the right to not review all the technical details of submissions. 
  
-Register [here](https://eaamo.org/registration) for the conference. The conference will provide financial assistance for registration costs, as well as data plans. All financial assistance applications must be submitted by June 3rd, 2020 at 5 PM PT; applications received after this date will not be considered. 
+Register [here](https://eaamo.org/registration) for the conference. The conference will provide financial assistance for registration costs, as well as data plans. All financial assistance applications must be submitted by June 3rd, 2020 at 5 PM ET; applications received after this date will not be considered. 
  
 ## Important Information:
 
-- Paper Submission Deadline: 3 June 2021 at  5 PM PT
+- Paper Submission Deadline: 3 June 2021 at  5 PM ET (9 PM GMT)
 - Paper Submission Page: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
-- [Financial Assistance Application](https://forms.gle/AP9nmLStPzHSrqMv7) Deadline: 3 June 2021 at 5 PM PT
+- [Financial Assistance Application](https://forms.gle/AP9nmLStPzHSrqMv7) Deadline: 3 June 2021 at 5 PM ET (9 PM GMT)
 - Notification: 15 July 2021
-- Event Date: 5-8 October 2021 
+- Event Date: 5-9 October 2021 
  
