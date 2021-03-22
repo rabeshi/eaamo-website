@@ -67,7 +67,7 @@ For all submissions in either track, topics of interest include but **are not li
 
 ## Research Track 
  
-For the research track, submissions will have the option to be either **archival** or **non-archival**, with preference given to archival papers. The archival track welcomes submissions that constitute new research papers that have not been published in conference proceedings or journals before. The non-archival track also welcomes research papers that have been published no earlier than January 2019. The submissions can introduce new theory or applications or can be position papers synthesizing existing work and perspectives or highlighting future directions. Submissions will fall into one of five focus areas:
+Submissions to the research track can introduce new theory or applications or can be position papers synthesizing existing work and perspectives or highlighting future directions. Submissions will fall into one of five focus areas:
 
 - **AI and Machine Learning** including AI for social impact, statistical reasoning and probabilistic inference, data science, bias and fairness considerations, fair division and resource allocation, human computer interaction in socio-technical systems, multi-agent systems, privacy and security, and social choice theory.
 - **Applied and Quantitative Modeling** including proposing and analyzing applied models for novel practical problems in AI for social impact, data science, market and mechanism design, applied microeconomic theory, supply chain management, computational social science, heterogeneous-agents macroeconomic models, and multi-agent systems.
@@ -77,7 +77,7 @@ For the research track, submissions will have the option to be either **archival
  
 ## Submission Instructions
  
-Authors should upload a PDF of their paper to [EasyChair](https://easychair.org/conferences/?conf=eaamo21). There are no formatting or length requirements for the PDF submission, but accepted **archival** papers will have a page limit of 10 pages in the camera-ready version at the time of publication. In addition to the PDF, authors are asked to upload a 200-250 word description onto EasyChair summarizing their submission and its relevance to the conference. 
+For the research track, submissions will have the option to be either **archival** or **non-archival**, with preference given to archival papers. The archival track welcomes submissions that constitute new research papers that have not been published in conference proceedings or journals before. The non-archival track also welcomes research papers that have been published no earlier than January 2019. Authors should upload a PDF of their paper to [EasyChair](https://easychair.org/conferences/?conf=eaamo21). There are no formatting or length requirements for the PDF submission, but accepted **archival** papers will have a page limit of 10 pages in the camera-ready version at the time of publication. In addition to the PDF, authors are asked to upload a 200-250 word description onto EasyChair summarizing their submission and its relevance to the conference. 
  
 Submissions are double-blind: authors should take care to not include the names and affiliations of the authors in the paper, including when referring to previous work. Submitters should list all co-authors on the submitted work in EasyChair but not in the PDF of the submission. 
  
