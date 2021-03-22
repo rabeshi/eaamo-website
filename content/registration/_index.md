@@ -8,7 +8,7 @@ The conference will provide a number of need-based grants to subsidize the costs
 
 We will provide two kinds of assistance:
 
-- Waiver of 10 USD registration fee.
+- Waiver of the registration fee.
 - Paid data plan top-ups for virtual attendance.
 
 Please complete [this form](https://forms.gle/AP9nmLStPzHSrqMv7) if you require financial assistance, specifying what kind of assistance you are requiring. **All financial assistance applications must be submitted by June 3rd, 2020 at 9 PM ET**; applications received after this date will not be considered.
