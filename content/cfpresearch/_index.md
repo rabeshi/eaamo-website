@@ -18,7 +18,7 @@ header:
 
 ## Call for participation 
 
-Deadline: <span style="color:red">**June 3rd, 2021, 9pm ET**</span>
+Deadline: <span style="color:red">**June 3rd, 2021, 5pm PT**</span>
 
 Dates: **October 5-8, 2021**
 
@@ -67,7 +67,7 @@ For all submissions in either track, topics of interest include but **are not li
 
 ## Research Track 
  
-For the research track, submissions will have the option to be either **archival** or **non-archival**. The archival track welcomes submissions that constitute new research papers that have not been published in conference proceedings or journals before. The non-archival track also welcomes research papers that have been published no earlier than January 2019. The submissions can introduce new theory or applications or can be position papers synthesizing existing work and perspectives or highlighting future directions. Submissions will fall into one of five focus areas:
+For the research track, submissions will have the option to be either **archival** or **non-archival**, with preference given to archival papers. The archival track welcomes submissions that constitute new research papers that have not been published in conference proceedings or journals before. The non-archival track also welcomes research papers that have been published no earlier than January 2019. The submissions can introduce new theory or applications or can be position papers synthesizing existing work and perspectives or highlighting future directions. Submissions will fall into one of five focus areas:
 
 - **AI and Machine Learning** including AI for social impact, statistical reasoning and probabilistic inference, data science, bias and fairness considerations, fair division and resource allocation, human computer interaction in socio-technical systems, multi-agent systems, privacy and security, and social choice theory.
 - **Applied and Quantitative Modeling** including proposing and analyzing applied models for novel practical problems in AI for social impact, data science, market and mechanism design, applied microeconomic theory, supply chain management, computational social science, heterogeneous-agents macroeconomic models, and multi-agent systems.
