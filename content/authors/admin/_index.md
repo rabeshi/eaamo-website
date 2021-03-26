@@ -8,7 +8,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/ACMEAAMO
 organizations:
-  - name: October 5-8, 2021, Virtual
+  - name: October 5-9, 2021, Virtual
     url: ""
 email: ""
 superuser: true
