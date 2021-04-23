@@ -22,9 +22,9 @@ Fecha límite: <span style="color:red">**3 de Junio de 2021, 5 PM ET / 9 PM GMT*
 
 Fecha del Taller: **Octubre 5-9, 2021**
 
-Página para el envío electrónico de propuestas: [EasyChair](https://easychair.org/conferences/?conf=eaamo21
+Página para el envío electrónico de propuestas: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
 
-La conferencia inaugural sobre **Equidad y Acceso en Algoritmos, Mecanismos y Optimizaciónn** (EAAMO ‘21, por sus siglas en inglés)se llevará a cabo los días 5 a 9 de Octubre 2021, de manera virtual a través de las plataformas Zoom y Gather.town.
+La conferencia inaugural sobre **Equidad y Acceso en Algoritmos, Mecanismos y Optimizaciónn** (EAAMO ‘21, por sus siglas en inglés) se llevará a cabo los días 5 a 9 de Octubre 2021, de manera virtual a través de las plataformas Zoom y Gather.town.
  
 La meta de esta reunión virtual es destacar trabajos que demuestren potencial para mejorar el acceso a oportunidades para comunidades históricamente desatendidas y desfavorecidas, mediante la utilización de técnicas tales como los algoritmos, la optimización y diseño de mecanismos, junto con conocimientos de las ciencias sociales y estudios humanísticos.
 
