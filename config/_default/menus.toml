@@ -47,6 +47,20 @@
   parent = "dropcfp"
   weight = 40
 
+
+[[main]]
+  name = "Research Track (Español)"
+  url = "cfppolicyandpractice"
+  parent = "dropcfp"
+  weight = 50
+
+
+[[main]]
+  name = "Policy & Practice Track (Español)"
+  url = "cfppolicyandpractice"
+  parent = "dropcfp"
+  weight = 60
+
   
 [[main]]
   name = "Registration"
