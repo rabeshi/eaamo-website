@@ -50,14 +50,14 @@
 
 [[main]]
   name = "Research Track (Español)"
-  url = "cfppolicyandpractice"
+  url = "cfpresearchspanish"
   parent = "dropcfp"
   weight = 50
 
 
 [[main]]
   name = "Policy & Practice Track (Español)"
-  url = "cfppolicyandpractice"
+  url = "cfppolicyspanish"
   parent = "dropcfp"
   weight = 60
 
