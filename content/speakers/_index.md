@@ -19,3 +19,6 @@ header:
 # Speaker of the Week #
 ___
 ## Speaker Name ##
+
+![Blank Profile Photo for Speaker](/starter-academic/content/speakers/nobody.png "Profile Photo")
+
