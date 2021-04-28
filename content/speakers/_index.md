@@ -20,5 +20,5 @@ header:
 ___
 ## Speaker Name ##
 
-![Blank Profile Photo for Speaker](/starter-academic/content/speakers/nobody.png "Profile Photo")
+![Blank Profile Photo for Speaker](./speakers/nobody.png "Profile Photo")
 
