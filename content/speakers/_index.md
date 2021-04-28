@@ -20,5 +20,5 @@ header:
 ___
 ## Speaker Name ##
 
-![Blank Profile Photo for Speaker](images/nobody.png "Profile Photo")
+<img src="images/nobody.png" width="25%">
 
