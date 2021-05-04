@@ -18,7 +18,7 @@ header:
 
 ## Convocatoria 
 
-Fecha límite: <span style="color:red">**3 de Junio de 2021, 5 PM ET / 9 PM GMT**</span>
+Fecha límite: <span style="color:red">**14 de Junio de 2021, 5 PM ET / 9 PM GMT**</span>
 
 Fecha del Taller: **Octubre 5-9, 2021**
 
@@ -34,7 +34,7 @@ El evento espera propiciar interacciones entre áreas académicas, de política 
 
 Solicitamos propuestas dentro de dos ejes temáticos: **investigación** y **políticas públicas y práctica**. Las propuestas pueden incluir investigación original,  revisión de literatura y/o prácticas relevantes, así como propuestas guiadas por problemáticas sociales y soluciones por parte de académicos de cualquier disciplina y profesionales de cualquier sector.
 
-Aceptaremos solicitudes y contribuciones de varias disciplinas, incluyendo: participación cívica, economías de datos, parcialidad y discriminación, desigualdad económica, desarrollo económico, educación, medio ambiente y cambio climático, servicios de salud, vivienda, mercados laborales, derecho y política pública. Las propuestas serán revisadas por expertos de de la temática competente.  La fecha límite para las propuestas es el 3 de Junio de 2021, 5 PM ET (9 PM GMT).
+Aceptaremos solicitudes y contribuciones de varias disciplinas, incluyendo: participación cívica, economías de datos, parcialidad y discriminación, desigualdad económica, desarrollo económico, educación, medio ambiente y cambio climático, servicios de salud, vivienda, mercados laborales, derecho y política pública. Las propuestas serán revisadas por expertos de de la temática competente.  La fecha límite para las propuestas es el 14 de Junio de 2021, 5 PM ET (9 PM GMT).
 
 *ACM EAAMO es parte de la iniciativa de [Diseño de Mecanismos para el Bien Social](https://www.md4sg.com) (MD4SG), y construye sobre la serie de [talleres técnicos](https://www.md4sg.com/workshop/index.html) de MD4SG y tutoriales en conferencias incluyendo ACM EC, ACM COMPASS, ACM FaccT y WINE.*
 
@@ -99,13 +99,13 @@ Propuestas que quedan fuera del ámbito de la conferencia pueden ser rechazadas 
 
 EAAMO’21 utilizará un sistema de revisión de propuestas de dos fases. Todas las propuestas serán revisadas por al menos dos miembros del comité de programa bajo formato doble ciego. El comité se reserva el derecho a no revisar todos los detalles técnicos de las propuestas.
  
-Se puede registrar [aquí](https://eaamo.org/registration) para la conferencia. Se proveerá asistencia financiera para costos de registro, al igual que planes de datos móviles para asistir a los eventos virtuales. **Todas las aplicaciones para asistencia financiera se deberán entregar antes del 3 de Junio a las 5PM PT.** No se considerarán aplicaciones que se reciban después de tal fecha.
+Se puede registrar [aquí](https://eaamo.org/registration) para la conferencia. Se proveerá asistencia financiera para costos de registro, al igual que planes de datos móviles para asistir a los eventos virtuales. **Todas las aplicaciones para asistencia financiera se deberán entregar antes del 14 de Junio a las 5PM PT.** No se considerarán aplicaciones que se reciban después de tal fecha.
  
  
 ## Información Importante
 
-- Fecha límite para el envío de propuestas: 3 de junio 2021 a las 5PM ET (9 PM GMT)
+- Fecha límite para el envío de propuestas: 14 de junio 2021 a las 5PM ET (9 PM GMT)
 - Página para el envío electrónico de propuestas: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
-- [Forma de solicitud para apoyo financiero.](https://forms.gle/AP9nmLStPzHSrqMv7) Fecha límite: 3 junio a las 5 PM ET (9 PM GMT)  
-- Notificación de resultados: 3 agosto 2021
+- [Forma de solicitud para apoyo financiero.](https://forms.gle/AP9nmLStPzHSrqMv7) Fecha límite: 14 junio a las 5 PM ET (9 PM GMT)  
+- Notificación de resultados: 12 agosto 2021
 - Fecha de conferencia: 5-9 octubre 2021
