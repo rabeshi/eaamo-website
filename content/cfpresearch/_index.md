@@ -83,6 +83,8 @@ Submissions are double-blind: authors should take care to not include the names 
  
 There will be an option to choose between archival (with published proceedings) or non-archival (no published proceedings). Authors may submit unpublished work, work under review, or work that has been published no earlier than January 2019. If the work is already published, please include a citation on EasyChair.
 
+We will only accept submissions in the English language. MD4SG and EEAMO are committed to building multilingual communities, and we anticipate allowing submissions in other languages at future events. 
+
 ## Reviewing 
  
 Submissions will be evaluated on the following criteria:
