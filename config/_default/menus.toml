@@ -24,7 +24,7 @@
 #  weight = 40
 
 [[main]]
-  identifier = "dropcfp"
+#  identifier = "dropcfp"
   name = "Call for Participation"
   url = "cfp"
   weight = 30
@@ -35,31 +35,31 @@
 #  parent = "dropcfp"
 #  weight = -30
   
-[[main]]
-  name = "Research Track"
-  url = "cfpresearch"
-  parent = "dropcfp"
-  weight = 30
+#[[main]]
+#  name = "Research Track"
+#  url = "cfpresearch"
+#  parent = "dropcfp"
+#  weight = 30
 
-[[main]]
-  name = "Policy & Practice Track"
-  url = "cfppolicyandpractice"
-  parent = "dropcfp"
-  weight = 40
-
-
-[[main]]
-  name = "Research Track (Español)"
-  url = "cfpresearchspanish"
-  parent = "dropcfp"
-  weight = 50
+#[[main]]
+#  name = "Policy & Practice Track"
+#  url = "cfppolicyandpractice"
+#  parent = "dropcfp"
+#  weight = 40
 
 
-[[main]]
-  name = "Policy & Practice Track (Español)"
-  url = "cfppolicyspanish"
-  parent = "dropcfp"
-  weight = 60
+#[[main]]
+#  name = "Research Track (Español)"
+#  url = "cfpresearchspanish"
+#  parent = "dropcfp"
+#  weight = 50
+
+
+#[[main]]
+#  name = "Policy & Practice Track (Español)"
+#  url = "cfppolicyspanish"
+#  parent = "dropcfp"
+#  weight = 60
 
   
 [[main]]
