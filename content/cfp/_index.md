@@ -22,8 +22,10 @@ The goal of this event is to highlight work where techniques from algorithms, op
  
 We solicit submissions in the **research track** and **policy and practice track**. Submissions can include research, survey, and position papers as well as problem- and practice-driven submissions by academics from any discipline and practitioners from any sector. For more details on submitting to each track, please visit each track's page: 
 
-- [Research Track](https://eaamo.org/cfp/cfpresearch/) call for participation
-- [Policy & Practice Track](https://eaamo.org/cfppolicyandpractice/) call for participation
+- *(English)* [Research Track](https://eaamo.org/cfp/cfpresearch/) call for participation
+- *(English)* [Policy & Practice Track](https://eaamo.org/cfppolicyandpractice/) call for participation
+- *(Español)* [Rama de Investigación](https://eaamo.org/cfp/cfpresearch/) convocatoria
+- *(Español)* [Policy & Practice Track](https://eaamo.org/cfppolicyspanish/) convocatoria
 
 We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is <span style="color:red">**June 14th, 2021, 9pm ET**.</span>
 
