@@ -40,10 +40,10 @@ We solicit submissions in the **research track** and **policy and practice track
 - *(Pусский язык)* Приглашение к участию:
   - [научные исследования](https://eaamo.org/cfpresearchrs/) 
   - [теория и практика](https://eaamo.org/cfppolicyrs/)
-- فارسی)* دعوت به مشارکت)*:
+- :فارسی) دعوت به مشارکت)
   - [رشته پژوهش](https://eaamo.org/cfpresearchfarsi/) 
   - [رشته سیاست و عمل](https://eaamo.org/cfppolicyfarsi/)
-- اللغة العربية)* دعوة للمشاركة)*:
+- :اللغة العربية) دعوة للمشاركة):
   - [المساق البحثي لـ](https://eaamo.org/cfpresearchar/) 
   - [مساق السياسة والممارسة لـ](https://eaamo.org/cfppolicyar/)
 - *(中文)* 呼吁参与:
