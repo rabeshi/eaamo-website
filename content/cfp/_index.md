@@ -40,6 +40,15 @@ We solicit submissions in the **research track** and **policy and practice track
 - *(Pусский язык)* Приглашение к участию:
   - [научные исследования](https://eaamo.org/cfpresearchrs/) 
   - [теория и практика](https://eaamo.org/cfppolicyrs/)
+- فارسی)* دعوت به مشارکت)*:
+  - [رشته پژوهش](https://eaamo.org/cfpresearchfarsi/) 
+  - [رشته سیاست و عمل](https://eaamo.org/cfppolicyfarsi/)
+- اللغة العربية)* دعوة للمشاركة)*:
+  - [المساق البحثي لـ](https://eaamo.org/cfpresearchar/) 
+  - [مساق السياسة والممارسة لـ](https://eaamo.org/cfppolicyar/)
+- *(中文)* 呼吁参与:
+  - [研究方向](https://eaamo.org/cfpresearchch/) 
+  - [政策与实践方向](https://eaamo.org/cfppolicych/)
 
 We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is <span style="color:red">**June 14th, 2021, 9pm ET**.</span>
 
