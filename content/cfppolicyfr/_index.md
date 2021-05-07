@@ -86,7 +86,7 @@ Une option sera disponible qui vous permettra de choisir entre archivage (avec a
 Seules les propositions en Anglais seront acceptées. MD4SG et EAAMO sont soucieuses de construire des communautés multilingues, et prévoient permettre des soumissions en d’autres langues à l’avenir.
 
 ## Évaluation  
- 
+
 Les propositions seront évaluées selon les critères suivants :
 - *Qualité de la proposition*, évaluée par la précision et la clarté de l'exposition.
 - *Pertinence* par rapport à l'objectif de la conférence.
