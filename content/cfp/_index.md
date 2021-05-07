@@ -28,6 +28,9 @@ We solicit submissions in the **research track** and **policy and practice track
 - *(Español)* Convocatoria:
   - [Rama de Investigación](https://eaamo.org/cfpresearchspanish/) 
   - [Rama de Políticas Públicas y Práctica](https://eaamo.org/cfppolicyspanish/)
+- *(Kiswahili)* Wito wa ushiriki:
+  - [Ufuatiliaji wa Utafiti](https://eaamo.org/cfpresearchsw/)
+  - [Ufuatiliaji wa Sera na Utendaji](https://eaamo.org/cfppolicysw/)
 
 We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is <span style="color:red">**June 14th, 2021, 9pm ET**.</span>
 
