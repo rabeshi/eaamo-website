@@ -85,18 +85,17 @@ Waandishi wanaweza kuwasilisha kazi ambazo hazijachapishwa, kazi inayopitiwa kab
 Tutakubali tu mawasilisho kwa lugha ya Kiingereza. MD4SG na EEAMO wamejitolea kwa kukuza jamii za lugha nyingi, na tunatarajia kuruhusu mawasilisho katika lugha zingine kwenye matukio yajayo. 
 
 ## Mapitio 
- 
-Mawasilisho yatafanyiwa tathmini kwa kuzingatia vigezo hivi vifuatavyo:
+Mawasilisho yatafanyiwa tathmini kwa kuzingatia vigezo vifuatavyo:
 - *Ubora wa uwasilishaji* unaopimwa kwa usahihi na uwazi wa ufafanuzi.
 - *Umuhimu* kwa lengo la kongamano.
 - *Uwasilishaji wa tukio jipya na halisi linalowezekana:* tunahimiza sana kazi ambayo inachunguza matumizi ya tukio halisi linalowezekana au hutumia mbinu za matendo mapya yanayowezekana kusoma matukio ya programu zilizopo.
 - Pia, mawasilisho yatatathminiwa kulingana na:
   - *Uwezo wa kazi ya ufuatiliaji wa taaluma mbalimbali.* Tunakaribisha mawasilisho yenye uwezo wa kuchochea ushirikiano kati ya taaluma mbalimbali,
-  - *Uwasilishaji wa maarifa maalum ya eneo.* Tunakaribisha haswa watendaji walio na hamu au uzoefu katika kutafsiri kati ya shida za kiutendaji na njia za utafiti wa kitaaluma.
+  - *Uwasilishaji wa maarifa maalum ya eneo.* Tunakaribisha watendaji walio na hamu au uzoefu katika kutafsiri kati ya shida za kiutendaji na njia za utafiti wa kitaaluma.
 
 Nyaraka ambazo ziko nje ya mtazamo wa kongamano kama zilivyotathminiwa na vigezo hivi zinaweza kukataliwa kushiriki.
 
-EAAMO’21 itafuata mfumo wa ukaguzi wa awamu mbili. Mawasilisho yote yatakaguliwa na watu wa kada moja ambapo ni angalau wahakiki 2 katika muundo wa kutojua wanahakiki kazi ya nani hasa. Kamati ina haki ya kutopitia maelezo yote ya kiufundi ya maoni ya mawasilisho.
+EAAMO’21 itafuata mfumo wa ukaguzi wa awamu mbili. Mawasilisho yote yatakaguliwa na watu wa kada moja ambapo ni angalau wahakiki 2 katika muundo wa kutojua wanahakiki kazi ya nani hasa. Kamati ina haki ya kutopitia maelezo yote ya kiufundi ya mawasilisho ya maoni.
 
 Jisajili [hapa](https://eaamo.org/registration) kushiriki kwenye kongamano. Kongamano hilo litatoa msaada wa kifedha kwa gharama za usajili, pamoja na mipango ya taarifa. **Maombi yote ya msaada wa kifedha lazima yawasilishwe ifikapo tarehe 14 Juni, 2021 saa 11 jioni ET;** maombi yaliyopokelewa baada ya tarehe hii hayatazingatiwa. 
 
