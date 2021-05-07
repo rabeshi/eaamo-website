@@ -34,10 +34,10 @@ We solicit submissions in the **research track** and **policy and practice track
 - *(Française)* Appel à participation:
   - [Volet Recherche](https://eaamo.org/cfpresearchfr/) 
   - [Volet Pratiques et Politiques Publiques](https://eaamo.org/cfppolicyfr/)
- - *(Português)* Convite para Participação:
+- *(Português)* Convite para Participação:
   - [Seção Temática de Investigação](https://eaamo.org/cfpresearchpr/) 
   - [Seção Temática de Políticas e Práticas](https://eaamo.org/cfppolicypr/)
- - *(Pусский язык)* Приглашение к участию:
+- *(Pусский язык)* Приглашение к участию:
   - [научные исследования](https://eaamo.org/cfpresearchrs/) 
   - [теория и практика](https://eaamo.org/cfppolicyrs/)
 
