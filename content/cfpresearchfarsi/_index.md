@@ -21,78 +21,81 @@ header:
 
 مهلت: 14 ژوئن 2021، تا ساعت 5 عصر به زمان استاندارد شرقی یا 9 شب به وقت گرینویچ
 
-Dates: **October 5-9, 2021**
+تاریخ: 5 تا 9 اکتبر 2021
 
-Submission Link: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
+[EasyChair](https://easychair.org/conferences/?conf=eaamo21): لینک ارسال درخواست:
 
-The inaugural **Conference on Equity and Access in Algorithms, Mechanisms, and Optimization** (EAAMO ‘21) will take place on October 5-9, 2021, virtually, on Zoom and Gather.town.
+همایش افتتاحیه برابری و دسترسی به الگوریتم ها، مکانیسم ها و بهینه سازی (EAAMO ’21) از پنجم تا نهم اکتبر 2021 به صورت مجازی در زوم و Gather.town برگزار خواهد شد.
+
+هدف از این رویداد تأکید بر آثار و مقالاتی است که با استفاده از روش های دربردارنده الگوریتم ها، بهینه سازی و طراحی های مکانیسم، و همچنین بینش های برگرفته شده از علوم اجتماعی و انسانی می توانند برای جوامعی که سابقه محرومیت دارند، امکان دسترسی به فرصت های جدید را فراهم کنند.
+
+این همایش با هدف توسعه یک جامعه چند زمینه ای، در جهت تسهیل تعاملات بین محیط دانشگاهی، صنعت و بخش های دولتی و داوطلبانه فعالیت می کند. به این منظور، این همایش با اتخاذ دید وسیعی از سهم پژوهش در دسترسی به فرصت ها، از تمامی آثار و فعالیت ها، صرف نظر از این که در چه مرحله ای از مسیر پژوهش تا عمل قرار دارند، استقبال می کند. این موضوع همچنین آثاری را شامل می شود که بینش های بدیعی را در عملکرد سیستم های اجتماعی به کار می گیرند. این برنامه شامل سخنرانی ها و ارائه های اصلی توسط محققان و کارشناسان و همچنین ارائه های کمکی در رشته های «پژوهش» و «سیاست و عمل» خواهد بود.
+
+از شما خواهشمندیم که درخواست های خود را برای رشته های «پژوهش» و «سیاست و عمل» ارسال نمایید. درخواست ها می توانند به صورت تحقیق و پژوهش، مقالات مروری، گزارش وضعیت و همچنین درخواست های مشکل محور و عمل محور از دانشجویان و متخصصان در تمامی رشته ها و زمینه ها باشند.
+
+ما از شما دعوت می کنیم که مقالات خود در رشته ها و حوزه های پوششی مختلف از جمله مشارکت مدنی، اقتصاد داده، تبعیض و سوگیری، نابرابری اقتصادی، توسعه اقتصادی، آموزش، محیط زیست و اقلیم، بهداشت و درمان، مسکن، بازار کار و قوانین و سیاست ها را برای ما ارسال نمایید. مقالات شما توسط کارشناسان هم سطح در رشته مربوطه بررسی خواهند شد. مهلت ارسال درخواست ها تا 14 ژوئن 2021، ساعت 5 عصر به وقت استاندارد شرقی (9 شب به وقت گرینویچ) می باشد.
+
+*ACM EAAMO جزئی از طرح ابتکاری «طراحی مکانیسم برای منافع اجتماعی» یا MD4SG می باشد و بر پایه برنامه های آموزشی ومجموعه کارگاه های فنی MD4SG که در همایش هایی از جمله ACM EC، ACM COMPASS، ACM FAccT و WINE مورد استفاده قرار گرفته اند، بنا شده است.*
+
+## انواع مقالات
+
+مقالات ارسالی در یکی از این دو دسته قرار خواهند گرفت:
+- [رشته پژوهش](https://eaamo.org/cfpresearchfarsi/)
+- [رشته سیاست و عمل](https://eaamo.org/cfppolicyfarsi/)
  
-The goal of this event is to highlight work where techniques from algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies, can improve access to opportunity for historically underserved and disadvantaged communities. 
 
-The conference aims to foster a multi-disciplinary community, facilitating interactions between academia, industry, and the public and voluntary sectors. To this end, it takes a broad view of how research can contribute to access to opportunity, and welcomes work from along all stages of the research-to-practice pipeline. This also includes work that surfaces novel insights into the workings of social systems. The program will feature keynote presentations from researchers and practitioners as well as contributed presentations in the research and policy & practice tracks. 
+درخواست های ثبت شده برای هر دو رشته موضوعات زیر را شامل شده اما محدود به این موضوعات نیستند.
+- چالش های طراحی مکانیسم و بازار در محیط هایی با منابع محدود
+- مکانیسم های توزیع مجدد به منظور بهبود دسترسی به فرصت
+- بهبود ارزیابی و ارائه خدمات اجتماعی
+- تخصیص بودجه برای بیمه سلامتی و مدیریت دسترسی به خدمات بهداشتی درمانی
+- ارائه منصفانه خدمات بهداشتی درمانی در سطح جوامع
+- نابرابری اقتصادی و تحرک بین نسلی
+- کاهش نتایج نابرابر اقتصادی در بازارهای کاری آنلاین و آفلاین
+- شناسایی حضور و یا علل رفتارهای استثماری در بازارهای کار
+- افزایش تنوع و برابری از طریق رویکردهای الگوریتمی
+- مقررات بازار در زمینه داده و حریم شخصی
+- ارزیابی تاثیرات معلمان، مدارس و یا سیاست های تحصیلی
+- بهبود تخصیص منابع تحصیلی
+- اندازه گیری و ارزیابی پیشرفت در زمینه دستیابی به اهداف مربوط به توسعه پایدار
+- کاهش ناکارآمدی ها در مزارع خرده مالک و زنجیره های تأمین با منابع کم
+- الگوریتم های پیشنهادی به منظور ترویج مشارکت مدنی
+- سنجش عدالت در نمایندگی های انتخاباتی
+- اطلاع رسانی در مورد تغییرات اقلیمی و سیاست گذاری
+- طراحی سیستم های حمل و نقل منصفانه
+- رویارویی با چالش های زیرساختاری موثر بر جوامع حاشیه نشین
+- ملاحظات اخلاقی به هنگام استفاده از طرح های مکانیسم و الگوریتم های واسطه در بخش های دولتی
 
-We solicit submissions in the **research track** and **policy and practice track**. Submissions can include research, survey, and position papers as well as problem- and practice-driven submissions by academics from any discipline and practitioners from any sector.
-
-We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is June 14th, 2021, 5 PM ET (9 PM GMT).
-
-*ACM EAAMO is part of the [Mechanism Design for Social Good](https://www.md4sg.com) (MD4SG) initiative, and builds on the MD4SG technical [workshop series](https://www.md4sg.com/workshop/index.html) and tutorials at conferences including ACM EC, ACM COMPASS, ACM FAccT, and WINE.*
-
-## Submission Types
-
-Submissions will fall in one of two categories: 
-- [Research Track](https://eaamo.org/cfpresearch/)
-- [Policy and Practice Track](https://eaamo.org/cfppolicyandpractice)
+## رشته پژوهش
  
+مقالات ارسالی برای رشته پژوهش می توانند نظریه ها یا کاربردهای جدیدی را معرفی کرده و یا به صورت گزارش های وضعیت به منظور ادغام آثار کنونی و مسیرها و چشم اندازهای برجسته در آینده باشند. این درخواست ها در پنج دسته اصلی طبقه بندی می شوند:
 
-For all submissions in either track, topics of interest include but **are not limited to**:
-- market and mechanism design challenges in resource-constrained settings
-- redistributive mechanisms to improve access to opportunity
-- improving social service delivery and evaluation 
-- allocating health insurance funds and managing access to healthcare
-- equitable provision of healthcare across communities
-- economic inequality and intergenerational mobility
-- mitigating unequal economic outcomes in on- and off-line labor markets
-- detecting existence or causes of exploitative market behavior in labor markets
-- improving diversity and equity using algorithmic approaches
-- market regulations for data and privacy
-- evaluating the impacts of teachers, schools, or education policy
-- improving allocation of educational resources
-- measuring and evaluating progress to achieve sustainable development goals
-- reducing inefficiencies in smallholder farms and under-resourced supply chains
-- algorithmic proposals to encourage civic participation
-- evaluating fairness in electoral representation
-- informing climate change and policy design
-- designing equitable transportation systems
-- tackling infrastructural challenges impacting marginalized communities 
-- ethical considerations when using interventions informed by algorithm and mechanism design in public sector settings 
+- هوش مصنوعی و یادگیری ماشین: شامل هوش مصنوعی با هدف تاثیرات اجتماعی، استدلال آماری و استنباط احتمالی، علم داده، ملاحظات مربوط به سوگیری و عدالت، تخصیص و تقسیم عادلانه منابع، تعامل انسان و رایانه در سیستم های فنی اجتماعی، سیستم های چندعامله، امنیت و حریم شخصی و نظریه انتخاب اجتماعی.
+- مدل سازی کمی و کاربردی: شامل طراحی و تحلیل مدل های کاربردی برای مشکلات عملی جدید در هوش مصنوعی با هدف تاثیرات اجتماعی، علم داده، طراحی مکانیسم و بازار، نظریه اقتصاد خرد کاربردی، مدیریت زنجیره تأمین، علوم اجتماعی محاسباتی، مدل های اقتصاد کلان با عوامل ناهمگون و سسیسم های چندعامله.
+- مطالعات تجربی: شامل تحلیل تجربی سیاست های دنیای واقعی، سیستم ها و مکانیسم ها، مطالعات اندازه گیری، اقتصاد خرد کاربردی، سازمان صنعتی تجربی، مطالعات و روش های تجربی، مطالعات میدانی، کاربردهای یادگیری ماشین، استنباط علیت و علوم اجتماعی محاسباتی.
+- گزارش های وضعیت تحقیقاتی با تمرکز بر یک موضوع یا زمینه معین پژوهشی و ارائه یک مفهوم بدیع در موضوع مورد بحث. هدف از این گزارش ها ارائه یک موقعیت یا ایده جدید و یا ایجاد یک موضوع بحث جدید در یک زمینه پژوهشی معین می باشد که در چهارچوب این همایش قرار گرفته باشد. گزارشات بر اساس میزان ابتکار و توانایی آنها در ارائه اصول سازماندهی جدید در یک زمینه، اتخاذ چشم اندازهای بدیع و ایجاد ارتباط بین پژوهش و سیاست یا عمل ارزیابی خواهند شد.
+- درخواست های نظری: شامل تحلیل های نظری در طراحی الگوریتم، تخصیص و تقسیم عادلانه منابع، نظریه بازی، طراحی مکانیسم و بازار، مدل های رفتاری، بهینه سازی، مدیریت عملیات، انتخاب اجتماعی محاسباتی، تحلیل شبکه اجتماعی و نظریه یادگیری ماشین.
 
-## Research Track 
- 
-Submissions to the research track can introduce new theory or applications or can be position papers synthesizing existing work and perspectives or highlighting future directions. Submissions will fall into one of five focus areas:
+## دستورالعمل های ارسال
 
-- **AI and Machine Learning** including AI for social impact, statistical reasoning and probabilistic inference, data science, bias and fairness considerations, fair division and resource allocation, human computer interaction in socio-technical systems, multi-agent systems, privacy and security, and social choice theory.
-- **Applied and Quantitative Modeling** including proposing and analyzing applied models for novel practical problems in AI for social impact, data science, market and mechanism design, applied microeconomic theory, supply chain management, computational social science, heterogeneous-agents macroeconomic models, and multi-agent systems.
-- **Empirical Studies** including empirical analysis of real-world policies, systems, and mechanisms, measurement studies, applied microeconomics, empirical industrial organization, experimental studies and methods, field studies, applied machine learning, causal inference, and computational social science. 
-- **Research Position Papers** that focus on a particular research topic or domain and bring a novel conception of the discussed topic. These submissions will aim to present a novel position, idea, or open a new area of discussion regarding a particular research topic related to the scope of the conference. Submissions will be evaluated based on their novelty and potential to offer new organizing principles for a field, fostering new perspectives and bridges between research and policy/practice.
-- **Theory** including theoretical analysis in algorithm design, fair division and resource allocation, game theory, market and mechanism design, behavioral models, optimization, operations management, computational social choice, social network analysis, and theory of machine learning.
- 
-## Submission Instructions
- 
-For the research track, submissions will have the option to be either **archival** or **non-archival**, with preference given to archival papers. In particular, the archival track welcomes submissions that constitute new research papers that have not been published in conference proceedings before. The archival track welcomes papers under submission in journal publications. The non-archival track also welcomes research papers that have been published no earlier than January 2019. Authors should upload a PDF of their paper to [EasyChair](https://easychair.org/conferences/?conf=eaamo21). There are no formatting or length requirements for the PDF submission, but accepted **archival** papers will have a page limit of 10 pages in the camera-ready version at the time of publication. In addition to the PDF, authors are asked to upload a 200-250 word description onto EasyChair summarizing their submission and its relevance to the conference. 
- 
-Submissions are double-blind: authors should take care to not include the names and affiliations of the authors in the paper, including when referring to previous work. Submitters should list all co-authors on the submitted work in EasyChair but not in the PDF of the submission. 
- 
-There will be an option to choose between archival (with published proceedings) or non-archival (no published proceedings). Authors may submit unpublished work, work under review, or work that has been published no earlier than January 2019. If the work is already published, please include a citation on EasyChair.
+برای مقالات ارسالی در رشته پژوهش، شما می توانید بین دو گزینه بایگانی و غیربایگانی انتخاب نمایید. اولویت با مقالات بایگانی است. بخش بایگانی از مقالات پژوهشی جدیدی استقبال می کند که قبلاً در مجموعه مقالات همایشی یا مجلات چاپ نشده اند. بخش بایگانی از مقالات تحت ارسال به مجلات استقبال می کند. بخش غیربایگانی نیز مقالاتی را می پذیرد که پس از ژانویه 2019 به چاپ رسیده اند. مؤلفان بایستی فایل PDF مقاله خود را در EasyChair بارگذاری نمایند. برای ارسال PDF، هیچگونه الزاماتی در مورد اندازه یا قالب بندی فایل وجود ندارد؛ اما نسخه آماده چاپ مقالات بایگانی پذیرفته شده در زمان انتشار نباید بیش از 10 صفحه باشند. از مؤلفان درخواست می شود که علاوه بر فایل PDF، یک توضیح 200 تا 250 کلمه ای نیز در مورد مقاله خود و ارتباط آن با موضوع همایش را در EasyChair ارائه دهند.
 
-We will only accept submissions in the English language. MD4SG and EEAMO are committed to building multilingual communities, and we anticipate allowing submissions in other languages at future events. 
+ارسال مقالات به صورت ناشناس انجام می گیرد. مؤلفان باید توجه داشته باشند که نام و مشخصات نویسندگان را در مقاله ذکر نکنند؛ حتی به هنگام ارجاع به آثار پیشین. ارسال کنندگان بایستی لیست تمامی مؤلفان مقاله بارگذاری شده را در EasyChair فراهم کرده، اما در فایل PDF از آنها نامی نبرند.
 
-## Reviewing 
+شما می توانید در سایت بین مقالات بایگانی (با مجموعه مقالات منتشر شده) و غیر بایگانی (بدون مجموعه مقالات منتشر شده) انتخاب نمایید. مؤلفان می توانند مقالات منتشر نشده، مقالات در حال بررسی و مقالاتی که پس از ژانویه 2019 منتشر شده اند را ارسال نمایند. چنانچه مقاله شما به چاپ رسیده است، لطفاً منبع آن را در EasyChair ذکر کنید.
+
+تنها مقالات به زبان انگلیسی پذیرفته می شوند. MD4SG و EAAMO خود را متعهد به برقراری اجتماعی چند زبانه می دانند و پیش بینی می شود در آینده امکان ارسال به زبان های دیگر فراهم شود.
+
+
+## بررسی
  
-Submissions will be evaluated on the following criteria:
-- *Quality of submission* as measured by accuracy and clarity of exposition.
-- *Relevance* to the goal of the conference. 
-- *Novelty of domain:* we particularly encourage work that explores novel applications or uses novel approaches to study existing application domains.
-- Submissions will also be evaluated based on either:
+ 
+مقالات ارسالی بر اساس معیارهای زیر ارزیابی خواهند شد:
+- کیفیت مقاله که بر اساس صحت و وضوح بیان سنجیده خواهد شد.
+- مرتبط بودن با هدف همایش
+- نوآوری زمینه: ما به خصوص ارسال مقالاتی را تشویق می کنیم که کاربردهای جدید را بررسی کرده و از رویکردهای جدید برای مطالعه دامنه های کاربردی موجود استفاده می کنند.
+- :مقالات ارسالی همچنین بر اساس یکی از دو مورد زیر ارزیابی خواهند شد:
+
   - *Potential for interdisciplinary follow-up work.* We welcome submissions with the potential to spark interdisciplinary collaborations,
   - *Presentation of domain-specific knowledge.* We especially welcome practitioners with interest or experience in translating between practical problems and academic research approaches.
 
