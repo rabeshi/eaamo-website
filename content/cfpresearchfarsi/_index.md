@@ -94,22 +94,20 @@ header:
 - کیفیت مقاله که بر اساس صحت و وضوح بیان سنجیده خواهد شد.
 - مرتبط بودن با هدف همایش
 - نوآوری زمینه: ما به خصوص ارسال مقالاتی را تشویق می کنیم که کاربردهای جدید را بررسی کرده و از رویکردهای جدید برای مطالعه دامنه های کاربردی موجود استفاده می کنند.
-- :مقالات ارسالی همچنین بر اساس یکی از دو مورد زیر ارزیابی خواهند شد:
+- مقالات ارسالی همچنین بر اساس یکی از دو مورد زیر ارزیابی خواهند شد:
+  - امکان ادامه موضوع با مقالات بین رشته ای: ما از مقالاتی که امکان ایجاد همکاری های بین رشته ای را فراهم می کنند، استقبال می کنیم.
+  - ارائه دانش و اطلاعات مرتبط با رشته: ما به خصوص از متخصصانی استقبال می کنیم که به ایجاد ارتباط بین مشکلات عملی و رویکردهای پژوهشی علاقه داشته یا در این زمینه تجربه دارند.
 
-  - *Potential for interdisciplinary follow-up work.* We welcome submissions with the potential to spark interdisciplinary collaborations,
-  - *Presentation of domain-specific knowledge.* We especially welcome practitioners with interest or experience in translating between practical problems and academic research approaches.
+مقالاتی که بر طبق این معیارها خارج از چهارچوب همایش تشخیص داده شوند، احتمالاً بلافاصله مردود خواهند شد.
 
-Papers that are out of scope of the conference as evaluated by these criteria may be desk rejected.
+EAAMO’21 از یک سیستم ارزیابی دو مرحله ای پیروی می کند. تمام مقالات توسط حداقل دو ارزیاب هم سطح به صورت ناشناس بررسی خواهند شد. کمیته ارزیابی این حق را برای خود محفوظ داشته که تمام جزئیات فنی مقالات را بررسی نکند.
 
-EAAMO’21 will follow a two-phase reviewing system. All submissions will be peer-reviewed by at least 2 reviewers in a double-blind format. The committee reserves the right to not review all the technical details of submissions. 
+برای حضور در همایش، اینجا ثبت نام کنید. همایش برای جبران هزینه های ثبت نام، کمک های مالی و برنامه های اینترنتی برای تلفن همراه را فراهم می کند. تمام درخواست های مربوط به کمک های مالی باید قبل از 14 ژوئن 2021 ساعت 5 عصر به وقت استاندارد شرقی ثبت شوند. درخواست های دریافت شده پس از این تاریخ در نظر گرفته نخواهند شد. *[Registration link](https://eaamo.org/registration)* 
  
-Register [here](https://eaamo.org/registration) for the conference. The conference will provide financial assistance for registration costs, as well as data plans. **All financial assistance applications must be submitted by June 14th, 2020 at 5 PM PT;** applications received after this date will not be considered.
- 
- 
-## Important Information
+## اطلاعات مهم
 
-- Paper Submission Deadline: 14 June 2021 at 5 PM ET (9 PM GMT)
-- Paper Submission Page: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
-- [Financial Assistance Application](https://forms.gle/AP9nmLStPzHSrqMv7) Deadline: 14 June 2021 at 5 PM ET (9 PM GMT)
-- Notification: 12 August 2021
-- Event Date: 5-9 October 2021
+- مهلت ارسال مقالات: 14 ژوئن 2021 ساعت 5 عصر به زمان استاندارد شرقی (9 شب به وقت گرینویچ)
+- [EasyChair](https://easychair.org/conferences/?conf=eaamo21) صفحه ارسال مقالات:
+- مهلت درخواست کمک مالی: 14 ژوئن 2021 ساعت 5 عصر به زمان استاندارد شرقی (9 شب به وقت گرینویچ); [Financial Assistance Application](https://forms.gle/AP9nmLStPzHSrqMv7)
+- اعلانیه: 12 آگوست 2021
+- تاریخ همایش: 5 تا 9 اکتبر 2021
