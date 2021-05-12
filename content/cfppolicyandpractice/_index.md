@@ -82,9 +82,11 @@ The policy and practice track is dedicated to submissions from researchers and d
  
 For the policy and practice track, submissions will have the option to be either **archival** or **non-archival**, with preference given to archival papers.  In particular, the archival track welcomes submissions that constitute new research papers that have not been published in conference proceedings before. The archival track welcomes papers under submission in journal publications. The non-archival track also welcomes research papers that have been published no earlier than January 2019. Authors should upload a PDF of their paper to [EasyChair](https://easychair.org/conferences/?conf=eaamo21) and should also upload any relevant material, such as datasets for dataset submissions, in the supplementary section. There are no formatting or length requirements for the PDF submission, but accepted **archival** papers will have a page limit of 10 pages in the camera-ready version. In addition to the PDF, authors are asked to upload a 200-250 word description onto EasyChair summarizing their submission and its relevance to the conference. 
  
-Submissions are double-blind: authors should take care to not include the names and affiliations of the authors in their submissions, including when referring to previous work. Submitters should list all co-authors on the submitted work in EasyChair but not in the PDF of the submission. Authors may submit unpublished work, work under review, or work that has been published no earlier than January 2019. If the work is already published, please include a citation on EasyChair.
+Submissions are double-blind: authors should take care to not include the names and affiliations of the authors in their submissions, including when referring to previous work. Submitters should list all co-authors on the submitted work in EasyChair but not in the PDF of the submission.
 
-We will only accept submissions in the English language. MD4SG and EEAMO are committed to building multilingual communities, and we anticipate allowing submissions in other languages at future events. 
+There will be an option to choose between archival (with published proceedings in the ACM Digital Library) or non-archival (no published proceedings). Authors may submit unpublished work, work under review, or work that has been published no earlier than January 2019. If the work is already published, please include a citation on EasyChair.
+
+We will only accept submissions in the English language. MD4SG and EAAMO are committed to building multilingual communities, and we anticipate allowing submissions in other languages at future events. 
 
 ## Reviewing 
  
