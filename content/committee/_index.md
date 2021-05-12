@@ -27,6 +27,7 @@ header:
 - [Kira Goldner](https://www.kiragoldner.com/), Columbia University
 - [Maximilian Kasy](https://maxkasy.github.io/home/), University of Oxford
 - [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), Cornell University
+- [Illenin Kondo](https://www.illenin.com/), the Federal Reserve Bank of Minneapolis
 - [Sera Linardi](http://www.linardi.gspia.pitt.edu/), University of Pittsburgh
 - [Irene Lo](https://sites.google.com/view/irene-lo), Stanford University
 - [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Columbia University
