@@ -40,5 +40,7 @@ design:
   view: 2
 ---
 
+- The [CfP](https://eaamo.org/cfp/) is now available in different languagues! 
+- The deadline has been extended to June 14th, 5pm ET / 9 pm GMT.
 - Our Call for Participation for the [Research Track](https://eaamo.org/cfpresearch/) and for the [Policy & Practice Track](https://eaamo.org/cfppolicyandpractice/) are now live!
 - We are proud to be sponsored by the ACM [SIGecom](https://www.sigecom.org/) and [SIGAI](https://sigai.acm.org/)!
