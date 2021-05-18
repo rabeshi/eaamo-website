@@ -31,7 +31,7 @@ We solicit submissions in the **research track** and **policy and practice track
 - *(Kiswahili)* Wito wa ushiriki:
   - [Ufuatiliaji wa Utafiti](https://eaamo.org/cfpresearchsw/)
   - [Ufuatiliaji wa Sera na Utendaji](https://eaamo.org/cfppolicysw/)
-- *(Française)* Appel à participation:
+- *(Français)* Appel à participation:
   - [Volet Recherche](https://eaamo.org/cfpresearchfr/) 
   - [Volet Pratiques et Politiques Publiques](https://eaamo.org/cfppolicyfr/)
 - *(Português)* Convite para Participação:
