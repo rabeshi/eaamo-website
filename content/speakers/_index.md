@@ -21,5 +21,5 @@ ___
 ## Speaker Name ##
 
 
-<img style = "float:left; margin-right: 30px" src="images/nobody.png" width="25%" height = "auto"> <p>This is a sample paragraph for the bio of the speaker of the week. This is a sample paragraph for the bio of the speaker of the week. This is a sample paragraph for the bio of the speaker of the week. This is a sample paragraph for the bio of the speaker of the week.</p> 
+<img style = "float:left; margin-top: 20px; margin-right: 30px" src="images/nobody.png" width="25%" height = "auto"> <p>This is a sample paragraph for the bio of the speaker of the week. This is a sample paragraph for the bio of the speaker of the week. This is a sample paragraph for the bio of the speaker of the week. This is a sample paragraph for the bio of the speaker of the week.</p> 
 
