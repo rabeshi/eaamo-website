@@ -101,7 +101,7 @@ Propuestas que quedan fuera del ámbito de la conferencia pueden ser rechazadas 
 
 EAAMO’21 utilizará un sistema de revisión de propuestas de dos fases. Todas las propuestas serán revisadas por lo menos por dos miembros del comité de programa bajo un formato doble ciego. El comité se reserva el derecho a no revisar todos los detalles técnicos de las propuestas.
  
-Se puede registrar [aquí](https://eaamo.org/registration) para la conferencia. Se proveerá asistencia financiera para costos de registro, al igual que planes de datos móviles para asistir a los eventos virtuales. **Todas las aplicaciones para asistencia financiera se deberán entregar antes del 14 de Junio a las 5PM PT**. No se considerarán propuestas que se reciban después de tal fecha. 
+Se puede registrar [aquí](https://eaamo.org/registration) para la conferencia. Se proveerá asistencia financiera para costos de registro, al igual que planes de datos móviles para asistir a los eventos virtuales. **Todas las aplicaciones para asistencia financiera se deberán entregar antes del 14 de Junio a las 5PM ET**. No se considerarán propuestas que se reciban después de tal fecha. 
  
 ## Información Importante:
 
