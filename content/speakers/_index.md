@@ -23,6 +23,5 @@ ___
 
 
 <img style="float: left;" src="images/nobody.png" width="25%">
-
 This is a sample paragraph for the bio of the speaker of the week. 
 
