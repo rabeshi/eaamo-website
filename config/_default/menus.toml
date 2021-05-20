@@ -78,10 +78,10 @@
   url = "committee"
   weight = 50
   
-[[main]]
-  name = "Speaker of the Week"
-  url = "speakers"
-  weight = 60
+#[[main]]
+#  name = "Speaker of the Week"
+#  url = "speakers"
+#  weight = 60
   
 [[main]]
   name = "Contact"
