@@ -20,7 +20,9 @@ header:
 ___
 ## Speaker Name ##
 
-<img src="images/nobody.png" width="25%">
+
+
+<img style="float: right;" src="images/nobody.png" width="25%">
 
 This is a sample paragraph for the bio of the speaker of the week. 
 
