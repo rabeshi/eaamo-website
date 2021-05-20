@@ -21,5 +21,5 @@ ___
 ## Speaker Name ##
 
 
-<img style="align: left;" src="images/nobody.png" width="25%"> This is a sample paragraph for the bio of the speaker of the week. This is a sample paragraph for the bio of the speaker of the week. This is a sample paragraph for the bio of the speaker of the week. This is a sample paragraph for the bio of the speaker of the week. 
+<img align = "left" src="images/nobody.png" width="25%"> This is a sample paragraph for the bio of the speaker of the week. This is a sample paragraph for the bio of the speaker of the week. This is a sample paragraph for the bio of the speaker of the week. This is a sample paragraph for the bio of the speaker of the week. 
 
