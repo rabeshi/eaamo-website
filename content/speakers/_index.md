@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-# **Speaker of the Week** #
+# ***Speaker of the Week*** #
 ___
 ## Speaker Name ##
 
