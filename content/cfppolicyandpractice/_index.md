@@ -102,7 +102,7 @@ Papers that are out of scope of the conference as evaluated by these criteria ma
 
 EAAMO’21 will follow a two-phase reviewing system. All submissions will be peer-reviewed by at least 2 reviewers in a double-blind format. The committee reserves the right to not review all the technical details of submissions. 
  
-Register [here](https://eaamo.org/registration) for the conference. The conference will provide financial assistance for registration costs, as well as data plans. All financial assistance applications must be submitted by June 14th, 2020 at 5 PM ET; applications received after this date will not be considered. 
+Register [here](https://eaamo.org/registration) for the conference. The conference will provide financial assistance for registration costs, as well as data plans. All financial assistance applications must be submitted by June 14th, 2021 at 5 PM ET; applications received after this date will not be considered. 
  
 ## Important Information:
 
