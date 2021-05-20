@@ -79,24 +79,29 @@
   weight = 50
   
 [[main]]
+  name = "Speaker of the Week"
+  url = "speakers"
+  weight = 60
+  
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "MD4SG"
   url = "https://md4sg.com"
-  weight = 70
+  weight = 80
   
 #[[main]]
 #  name = "CFP Research Track"
 #  url = "cfpresearch"
-#  weight = 70
+#  weight = 90
   
 #[[main]]
 #  name = "CFP Policy Track"
 #  url = "cfppolicypractice"
-#  weight = 80
+#  weight = 100
   
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
