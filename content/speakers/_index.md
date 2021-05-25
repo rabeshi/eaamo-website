@@ -20,7 +20,7 @@ header:
 ___
 <img style = "float:left; margin:20px 30px 20px 0px" src="images/Trooper Headshot.JPEG" width="25%" height = "auto">
 
-# Trooper Sanders, CEO at Benefits Data Trust #
+## Trooper Sanders, CEO at Benefits Data Trust ##
 
 <HR COLOR="#FF0000" SIZE="4">
 
