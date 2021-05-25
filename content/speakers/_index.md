@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-# **Speakers** #
+# **Keynote Speakers** #
 ___
 
 <img style = "float:left; margin:20px 30px 20px 0px" src="images/Trooper Headshot.JPEG" width="25%" height = "auto">
