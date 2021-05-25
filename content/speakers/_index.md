@@ -40,6 +40,7 @@ ___
 
 ## Avinatan Hassidim; Professor, Bar Ilan University and Google ##
 
+<br>
 ---
 
 <p><a href="https://u.cs.biu.ac.il/~avinatan/">Avinatan Hassidim</a> is a professor of computer Science at Bar Ilan University, and a director in Google research where he leads the Israel research group. His main research interest is market design, and specifically matching markets. In addition to do theoretical work, Avinatan designed the Israeli medical interns lottery, the Israeli Psychology Match and the Israeli Lawyers' match. Avinatan's group at Google did projects from Flood Forecasting (system protects 200M people in India and Bangladesh), Looking to Listen, Google Duplex and Euphonia. Avinatan's work has won numerous awards, including Editor's choice PRL 2010, Best paper award SIGMETRICS 2011, and Runner Up for Best Paper INFOCOM 2012&2013.</p>
