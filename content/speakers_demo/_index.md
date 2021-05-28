@@ -19,6 +19,7 @@ header:
 # **Keynote Speakers** #
 ___
 
+<br>
 <img style = "float:left; margin:20px 30px 20px 0px" src="images/Trooper_square.JPEG" width="25%" height = "auto">
   
 ## Trooper Sanders; CEO, Benefits Data Trust ##
