@@ -37,7 +37,7 @@ ___
 <p><a href="https://www.some.ox.ac.uk/people/radhika-khosla/">Dr. Radhika Khosla</a> is Associate Professor at the Smith School of Enterprise and Environment and Research Director of the Oxford India Centre for Sustainable Development at the University of Oxford. She works on examining the productive tensions between urban transitions, energy services consumption, and climate change, with a focus on developing country cities. Radhika is also the Principal Investigator of the Oxford Martin School's interdisciplinary and multi-country program on the Future of Cooling, and co-investigator for the Oxford Net Zero program. She is a contributing author to the sixth assessment report of the Intergovernmental Panel on Climate Change (IPCC) and lead author of the UNEP Emissions Gap Report. She is a member of the UK Government’s UK-India Advisory Committee and serves on boards of journals, advancing interdisciplinary understanding of how cities in transition manage the tensions of meeting growing energy needs for development while protecting the local and global environment. Previously, she has been at the Massachusetts Institute of Technology, a Fellow at the Centre for Policy Research in New Delhi, and Staff Scientist at the Natural Resources Defense Council in New York. Radhika holds a Ph.D in the Geophysical Sciences from the University of Chicago and undergraduate and Master's degrees in Physics from the University of Oxford.</p><br>
 
 
-<img style = "float:left; margin:20px 30px 20px 0px" src="images/avinatan.JPG" width="25%" height = "auto">
+<img style = "float:left; margin:20px 30px 20px 0px" src="images/avinatan.JPG" width="25%" height = "25%">
 
   
 ## Avinatan Hassidim; Professor, Bar Ilan University and Google ##
