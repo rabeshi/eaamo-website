@@ -81,10 +81,11 @@ ___
  <p>A Detroit native, <a href="https://bdtrust.org/trooper-sanders/">Trooper</a> has more than 20 years of experience working at the crossroads of business, government, and the nonprofit sector. He currently serves as Chief Executive Officer at Benefits Data Trust, a national nonprofit that helps people live healthier, more independent lives by creating smarter ways to access essential benefits and services. Prior to joining BDT, Trooper was a social impact and policy advisor to financial technology startups, business leaders, and philanthropic initiatives. At the Clinton Foundation, Trooper helped create the Alliance for a Healthier Generation, a joint venture with the American Heart Association to reduce obesity in the U.S. Trooper also held White House policy staff positions during two separate administrations. He most recently served as a Rockefeller Foundation Fellow, carrying out a project to identify opportunities to ensure that artificial intelligence improves social and economic equity. Trooper is a graduate of the University of Michigan and holds a Master of Science degree from the London School of Economics and a Master of Laws from the University of London.</p><br>
  
 
-<img style = "float:left; margin:20px 30px 20px 0px" src="images/sey_square.JPEG" width="25%" height = "auto">
+<img style = "float:left; margin:20px 30px 20px 0px" src="images/sey_square.JPG" width="25%" height = "auto">
 
 
-## Araba Sey; Principal Research Scientist, University of Washington Information School ##
+## Araba Sey ##
+### Principal Research Scientist, University of Washington Information School ###
 
 ---
 
