@@ -55,7 +55,7 @@ ___
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/avinatan_square.JPG" width="25%" height = "25%">
 
   
-## Avinatan Hassidim; Professor, Bar Ilan University and Google ##
+## Avinatan Hassidim; Professor, Bar Ilan University ##
 
 
 ---
