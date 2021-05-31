@@ -85,7 +85,7 @@ ___
 
 
 ## Araba Sey ##
-### Principal Research Scientist, University of Washington Information School ###
+#### Principal Research Scientist, University of Washington Information School ####
 
 ---
 
