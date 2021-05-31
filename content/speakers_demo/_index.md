@@ -22,7 +22,8 @@ ___
 <br>
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/bergemann.JPG" width="25%" height = "auto">
 
-## Dirk Bergemann; Yale University ##
+## Dirk Bergemann ##
+#### Yale University ####
 
 ---
 
@@ -30,7 +31,8 @@ ___
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/derenoncourt_square.JPG" width="25%" height = "auto">
 
-## Ellora Derenoncourt; Assistant Professor, University of California, Berkeley ##
+## Ellora Derenoncourt ##
+#### Assistant Professor, University of California, Berkeley ####
 
 ---
 
@@ -38,7 +40,8 @@ ___
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/gray_square.JPG" width="25%" height = "auto">
 
-## Mary Gray; Microsoft Research ##
+## Mary Gray ##
+#### Microsoft Research ####
 
 ---
 
@@ -46,7 +49,8 @@ ___
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/gummadi_square.JPG" width="25%" height = "auto">
 
-## Krishna Gummadi; Scientific Director, Max Planck Institute for Software Systems ##
+## Krishna Gummadi ##
+#### Scientific Director, Max Planck Institute for Software Systems ####
 
 ---
 
@@ -55,7 +59,8 @@ ___
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/avinatan_square.JPG" width="25%" height = "25%">
 
   
-## Avinatan Hassidim; Professor, Bar Ilan University ##
+## Avinatan Hassidim ##
+#### Professor, Bar Ilan University ####
 
 
 ---
@@ -65,7 +70,8 @@ ___
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/radhika_square.JPG" width="25%" height = "auto">
   
-## Radhika Khosla; Associate Professor, University of Oxford ##
+## Radhika Khosla ##
+#### Associate Professor, University of Oxford ####
 
 ---
  
@@ -74,7 +80,8 @@ ___
 <img style = "float:left; margin:20px 30px 20px 0px" src="images/Trooper_square.JPEG" width="25%" height = "auto">
 
 
-## Trooper Sanders; CEO, Benefits Data Trust ##
+## Trooper Sanders ##
+#### CEO, Benefits Data Trust ####
 
 ---
 
