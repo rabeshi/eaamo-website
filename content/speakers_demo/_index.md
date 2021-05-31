@@ -20,7 +20,7 @@ header:
 ___
 
 <br>
-<img style = "float:left; margin:20px 30px 10px 0px" src="images/bergemann.JPG" width="25%" height = "auto">
+<img style = "float:left; margin:20px 30px 10px 0px" src="images/bergemann_square.JPG" width="25%" height = "auto">
 
 ## Dirk Bergemann ##
 #### Yale University ####
