@@ -20,10 +20,20 @@ header:
 ___
 
 <br>
+<img style = "float:left; margin:20px 30px 10px 0px" src="images/solomon_square.png" width="25%" height = "auto">
+
+## Solomon Assefa ##
+#### Vice President, IBM Research ####
+
+---
+
+<p><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-sassefa">Dr. Solomon Assefa</a> is a Vice President at IBM Research. He heads research strategy, execution, commercialization, and partnerships for Impact Science, which includes Future of Climate, Future of Work, and Future of Health. Under his leadership, researchers from IBM’s global labs are applying and advancing disruptive technologies that will transform industries and benefit society. These technologies include AI, cloud, quantum computing, and accelerated discovery. He is also directing the worldwide effort focused on developing core technologies and partnerships for climate change mitigation and adaptation. He directs scientists from IBM’s global labs who are innovating in areas such as sustainable hybrid cloud, AI-enabled material discovery for carbon capture, carbon footprint optimization, AI-driven climate risk and impact modelling to enable resiliency</p><br>
+
+
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/bergemann_square.png" width="25%" height = "auto">
 
 ## Dirk Bergemann ##
-#### Yale University ####
+#### Professor, Yale University ####
 
 ---
 
@@ -38,10 +48,21 @@ ___
 
 <p><a href="https://www.elloraderenoncourt.com/">Ellora Derenoncourt</a> is a labor economist and economic historian whose work focuses on inequality. Her recent studies have examined northern backlash against the Great Migration and ensuing reductions in Black upward mobility and the role of federal minimum wage policy in closing the racial earnings gap in the Civil Rights Era. She has also written on wage determination in low-wage labor markets and the evolution of the racial wealth gap from pre-Emancipation to the present. Her work has been featured in the Economist, the New York Times, the Wall Street Journal, Fortune Magazine, and NPR. Dr. Derenoncourt received her PhD in Economics from Harvard University in 2019, her MSc in Human Geography from the London School of Economics, and her A.B. at Harvard University.</p><br>
 
+
+<img style = "float:left; margin:20px 30px 10px 0px" src="images/ashish_square.JPG" width="25%" height = "auto">
+
+## Ashish Goel ##
+#### Professor, Stanford University ####
+
+---
+
+<p><a href="https://web.stanford.edu/~ashishg/">Ashish Goel</a> is a Professor of Management Science and Engineering and (by courtesy) Computer Science at Stanford University. He received his PhD in Computer Science from Stanford in 1999, and was an Assistant Professor of Computer Science at the University of Southern California from 1999 to 2002. His research interests lie in the design, analysis, and applications of algorithms; current application areas of interest include social networks, participatory democracy, Internet commerce, and large scale data processing. He has received an Alfred P. Sloan faculty fellowship (2004-06) and a Rajeev Motwani mentorship award (2010). He was a co-author on the paper that won the best paper award at WWW 2009, an Edelman Laureate in 2014, and a co-winner of the SigEcom Test of Time Award in 2018. Professor Goel was a research fellow and technical advisor at Twitter, Inc. from July 2009 to Aug 2014.</p><br>
+
+
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/gray_square.JPG" width="25%" height = "auto">
 
 ## Mary Gray ##
-#### Microsoft Research ####
+#### Senior Principal Researcher, Microsoft Research ####
 
 ---
 
@@ -76,6 +97,17 @@ ___
 ---
  
 <p><a href="https://www.some.ox.ac.uk/people/radhika-khosla/">Dr. Radhika Khosla</a> is Associate Professor at the Smith School of Enterprise and Environment and Research Director of the Oxford India Centre for Sustainable Development at the University of Oxford. She works on examining the productive tensions between urban transitions, energy services consumption, and climate change, with a focus on developing country cities. Radhika is also the Principal Investigator of the Oxford Martin School's interdisciplinary and multi-country program on the Future of Cooling, and co-investigator for the Oxford Net Zero program. She is a contributing author to the sixth assessment report of the Intergovernmental Panel on Climate Change (IPCC) and lead author of the UNEP Emissions Gap Report. She is a member of the UK Government’s UK-India Advisory Committee and serves on boards of journals, advancing interdisciplinary understanding of how cities in transition manage the tensions of meeting growing energy needs for development while protecting the local and global environment. Previously, she has been at the Massachusetts Institute of Technology, a Fellow at the Centre for Policy Research in New Delhi, and Staff Scientist at the Natural Resources Defense Council in New York. Radhika holds a Ph.D in the Geophysical Sciences from the University of Chicago and undergraduate and Master's degrees in Physics from the University of Oxford.</p><br>
+
+
+<img style = "float:left; margin:20px 30px 10px 0px" src="images/sylvia_square.JPEG" width="25%" height = "auto">
+
+
+## Sylvia Ortega Salazar ##
+#### Principal Consultant, CONALEP ####
+
+---
+
+ <p> Sociologist and educator,<a href="https://www.gob.mx/mejoredu/articulos/sylvia-ortega-salazar-fue-elegida-por-unanimidad-como-presidenta-del-consejo-ciudadano-de-mejoredu">Dr. Sylvia Ortega Salazar</a> served as Vice minister for Upper High School and VET of México. She has been Rector of the Metropolitan Autonomous University-Azcapotzalco; General Director of International Cooperation at the National Council for Science and Technology (CONACyT), Vice minister of Basic Education in Mexico City, Rector of the National Pedagogical University and General Director of the Colegio de Bachilleres, a network of public upper high schools. She was the first woman Rector of a public University in Mexico and has received numerous recognitions for academic achievement, public service and contributions to international education. Widely published, her lines of research include educational policy design and practice; teacher training and professional development; theories of educational change; dual models of education and employability. She currently serves as principal consultant to the Colegio Nacional de Educación Profesional Técnica (CONALEP). As of January 2021, she was elected President of the National Advisory Council in Education. Dr. Ortega obtained a BA degree in Sociology at the National Autonomous University of Mexico, an MSc from the University of Wisconsin and a Ph.D. at the University of Texas. She resides in Mexico City.</p><br>
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/Trooper_square.JPEG" width="25%" height = "auto">
 
