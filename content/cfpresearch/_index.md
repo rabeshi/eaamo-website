@@ -32,7 +32,7 @@ The conference aims to foster a multi-disciplinary community, facilitating inter
 
 We solicit submissions in the **research track** and **policy and practice track**. Submissions can include research, survey, and position papers as well as problem- and practice-driven submissions by academics from any discipline and practitioners from any sector.
 
-We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is June 14th, 2021, 5 PM ET (9 PM GMT).
+We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is June 14th, 2021, AoE.
 
 *ACM EAAMO is part of the [Mechanism Design for Social Good](https://www.md4sg.com) (MD4SG) initiative, and builds on the MD4SG technical [workshop series](https://www.md4sg.com/workshop/index.html) and tutorials at conferences including ACM EC, ACM COMPASS, ACM FAccT, and WINE.*
 
@@ -107,7 +107,7 @@ Register [here](https://eaamo.org/registration) for the conference. The conferen
  
 ## Important Information
 
-- Paper Submission Deadline: 14 June 2021 at 5 PM ET (9 PM GMT)
+- Paper Submission Deadline: 14 June 2021 at AoE
 - Paper Submission Page: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
 - [Financial Assistance Application](https://forms.gle/AP9nmLStPzHSrqMv7) Deadline: 14 June 2021 at 5 PM ET (9 PM GMT)
 - Notification: 12 August 2021
