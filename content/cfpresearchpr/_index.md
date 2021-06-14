@@ -18,7 +18,7 @@ header:
 
 ## Convite para Participação
 
-Prazo de Inscrição: <span style="color:red">**14 de junho de 2021 até às 17h ET/ 21h GMT**</span>
+Prazo de Inscrição: <span style="color:red">**14 de junho de 2021**</span>
 
 Data: **Dias 5 a 9 de outubro de 2021**
 
@@ -32,7 +32,7 @@ Esta conferência procura promover uma comunidade multidisciplinar, facilitando 
 
 Nós solicitamos submissões para a seção de investigação e também para a seção de políticas e práticas. As submissões podem incluir investigação teórica, revisão de literatura, e de posição escrita. As submissões podem ainda incluir problematizações relacionadas com a prática elaboradas por acadêmicos de qualquer disciplina e/ou por profissionais de qualquer setor.
 
-Nós incentivamos as submissões provenientes de todas as disciplinas e que cubram domínios que incluem a participação cívica, as economias de dados, discriminação e viés, desigualdade económica, desenvolvimento económico, educação, ambiente e clima, cuidados de saúde, habitação, mercados de trabalho, lei e políticas. As submissões passarão pelo processo de avaliação de pares realizado por especialistas na área disciplinar. A data-limite para submissões é 14 de junho de 2021, 17h ET (21h GMT).
+Nós incentivamos as submissões provenientes de todas as disciplinas e que cubram domínios que incluem a participação cívica, as economias de dados, discriminação e viés, desigualdade económica, desenvolvimento económico, educação, ambiente e clima, cuidados de saúde, habitação, mercados de trabalho, lei e políticas. As submissões passarão pelo processo de avaliação de pares realizado por especialistas na área disciplinar. A data-limite para submissões é 14 de junho de 2021.
 
 *A ACM EAAMO faz parte da iniciativa de [Design de Mecanismos para o Bem Social](https://www.md4sg.com) (MD4SG), integrando a [seção de workshops](https://www.md4sg.com/workshop/index.html) e tutoriais em conferências que incluem a ACM EC, ACM COMPASS, ACM FAccT e a WINE.*
 
@@ -102,7 +102,7 @@ Registe-se [aqui](https://eaamo.org/registration) para a conferência. Será pre
  
 ## Informações Importantes
 
-- Data-limite para a submissão de artigos: 14 de junho de 2021 às 17h ET (21h GMT)
+- Data-limite para a submissão de artigos: 14 de junho de 2021
 - Página de submissão para artigos: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
 - Data-limite para o [Pedido para Assistência Financeira](https://forms.gle/AP9nmLStPzHSrqMv7): 14 de junho de 2021 às 17h ET (21h GMT)
 - Notificação: 12 de agosto de 2021
