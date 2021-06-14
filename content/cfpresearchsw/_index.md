@@ -17,7 +17,7 @@ header:
 ---
 ## Wito wa ushiriki
 
-Tarehe ya mwisho: <span style="color:red">**14 Juni, 2021, saa 11 jioni ET (saa 3 usiku GMT)**</span>
+Tarehe ya mwisho: <span style="color:red">**14 Juni, 2021**</span>
 
 Tarehe: **Oktoba 5-9, 2021**
 
@@ -31,7 +31,7 @@ Kongamano hilo linakusudia kukuza jamii anuwai, kuwezesha muingiliano kati ya wa
 
 Tunaomba mawasilisho katika ufuatiliaji wa utafiti na ufuatiliaji wa sera na utendaji. Mawasilisho yanaweza kujumuisha utafiti, dodoso, na nyaraka za lengo lililotakiwa na pia mawasilisho yanayochagizwa na matatizo na utendaji kutoka kwa wasomi kutoka kwenye nyanja yoyote na watendaji kutoka kwenye sekta yoyote.
 
-Tunahimiza mawasilisho kutoka kwenye taaluma za aina mbalimbali na ukigusia maeneo yanayohusisha ushiriki wa raia, data za uchumi, ubaguzi na upendeleo, ukosefu wa usawa wa kiuchumi, maendeleo ya kiuchumi, elimu, mazingira na hali ya hewa, huduma za afya, nyumba, masoko ya kazi, na sheria na sera. Nyaraka zitapitiwa na wataalamu wenza katika eneo husika la kitaaluma. Mwisho wa mawasilisho ni tarehe 14 Juni, 2021, saa 11 jioni.
+Tunahimiza mawasilisho kutoka kwenye taaluma za aina mbalimbali na ukigusia maeneo yanayohusisha ushiriki wa raia, data za uchumi, ubaguzi na upendeleo, ukosefu wa usawa wa kiuchumi, maendeleo ya kiuchumi, elimu, mazingira na hali ya hewa, huduma za afya, nyumba, masoko ya kazi, na sheria na sera. Nyaraka zitapitiwa na wataalamu wenza katika eneo husika la kitaaluma. Mwisho wa mawasilisho ni tarehe 14 Juni, 2021.
 
 *ACM EAAMO ni sehemu ya mpango wa [Kubuni Utaratibu kwa Faida ya Jamii](https://www.md4sg.com) (MD4SG), na unaunda kwenye [mifululizo ya semina za mafunzo ya kiufundi](https://www.md4sg.com/workshop/index.html) ya MD4SG na semina za ukufunzi kwenye mikutano ikiwa ni pamoja na ACM EC, ACM COMPASS, ACM FAccT, na WINE.*
 
@@ -102,7 +102,7 @@ Jisajili [hapa](https://eaamo.org/registration) kushiriki kwenye kongamano. Kong
 
 ## Taarifa za muhimu
 
-- Tarehe ya Mwisho ya Kuwasilisha Utafiti: 14 Juni, 2021 saa 11 jioni (saa tatu usiku GMT)
+- Tarehe ya Mwisho ya Kuwasilisha Utafiti: 14 Juni, 2021
 - Ukurasa wa Kuwasilishia Utafiti: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
 - Tarehe ya mwisho wa [Maombi ya Msaada wa Kifedha](https://forms.gle/AP9nmLStPzHSrqMv7): 14 Juni, 2021 saa 11 jioni (saa tatu usiku GMT)
 - Siku ya Kujulishwa: 12 Agosti, 2021
