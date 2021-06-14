@@ -18,7 +18,7 @@ header:
 
 ## Appel à participation
 
-Date limite : <span style="color:red">**14 juin 2021, 5 PM ET / 9 PM GMT**</span>
+Date limite : <span style="color:red">**14 juin 2021**</span>
 
 Dates : **du 5 au 9 octobre 2021**
 
@@ -32,7 +32,7 @@ La conférence vise à promouvoir une communauté multidisciplinaire, en facilit
 
 Nous sollicitons des contributions s’inscrivant dans l’un des deux volets de la conférence: le **volet recherche** et le **volet pratiques et politiques publiques**. Les soumissions peuvent inclure des projets de recherche, de revue scientifique, et de prises de position ainsi que des soumissions guidées par les problématiques de politique publique ou de pratique professionnelle. Les soumissions peuvent provenir d’universitaires de toute discipline et des praticiens de tout secteur.
 
-Nous encourageons les soumissions provenant de diverses disciplines et couvrant des domaines tels que: la participation civique, l'économie des données, l'étude des discriminations et des préjugés, les inégalités économiques, le développement économique, l'éducation, à l'environnement et le climat, la santé, le logement, les marchés du travail, le droit et les politiques publiques. Les articles seront évalués par des experts de la discipline concernée. La date limite pour soumettre ces propositions est fixée au 14 juin 2021, 17h00 ET (21h00 GMT).
+Nous encourageons les soumissions provenant de diverses disciplines et couvrant des domaines tels que: la participation civique, l'économie des données, l'étude des discriminations et des préjugés, les inégalités économiques, le développement économique, l'éducation, à l'environnement et le climat, la santé, le logement, les marchés du travail, le droit et les politiques publiques. Les articles seront évalués par des experts de la discipline concernée. La date limite pour soumettre ces propositions est fixée au 14 juin 2021.
 
 *ACM EAAMO fait partie de l'initiative [Conception de Mécanismes pour le Bien Social](https://www.md4sg.com) (en anglais Mechanism Design for Social Good, MD4SG) et s'appuie sur la [série d'ateliers](https://www.md4sg.com/workshop/index.html) techniques MD4SG et les tutoriels des conférences ACM EC, ACM COMPASS, ACM FAccT et WINE.*
 
@@ -103,7 +103,7 @@ Inscrivez-vous [ici](https://eaamo.org/registration) pour la conférence. La con
  
 ## Informations importantes
 
-- Date limite pour la soumission des propositions : 14 juin 2021 à 17h00 ET (21h00 GMT).
+- Date limite pour la soumission des propositions : 14 juin 2021.
 - Page de soumission des propositions : [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
 - Date limite de réception du [formulaire d’aide financière](https://forms.gle/AP9nmLStPzHSrqMv7) : 14 juin 2021 à 17h00 ET (21h00 GMT).
 - Annonce des résultats : 12 août 2021
