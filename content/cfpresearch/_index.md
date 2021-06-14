@@ -18,7 +18,7 @@ header:
 
 ## Call for participation 
 
-Deadline: <span style="color:red">**June 14th, 2021, 5 PM ET / 9 PM GMT**</span>
+Deadline: <span style="color:red">**June 14th, 2021, AoE**</span>
 
 Dates: **October 5-9, 2021**
 
