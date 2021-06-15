@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: contact
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -19,6 +19,8 @@ content:
 design:
   columns: '2'
 ---
+{{< spoiler text="Click to view the Sponsorship Policy" >}} 
+
 The MD4SG Initiative and ACM EAAMO conference seek sponsorship to support year-round activities within the MD4SG community and to improve access to the ACM EAAMO conference. These activities include financial inclusion initiatives (e.g. data grants, fee waivers), research and implementation seed-grants, summer programs, as well as operational costs associated with the initiative and conference. Funding sources include charitable foundations, companies, individual donors, and government and international agencies. 
 
 We follow several guidelines and policies related to fundraising activities: 
@@ -34,3 +36,5 @@ We follow several guidelines and policies related to fundraising activities:
 * MD4SG and EAAMO reserve the right to decline or return any funding should the sponsorship committee decide that the funding source is misaligned with the mission of the initiative and conference. 
 
 Please contact sponsorship@md4sg.com with any questions or concerns. 
+
+{{< /spoiler >}}
