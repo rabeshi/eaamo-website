@@ -20,13 +20,13 @@ design:
   columns: '2'
 ---
 
-{{< spoiler text="Click to view the EAAMO Code of Conduct" >}}
+{{< spoiler text="EAAMO Code of Conduct" >}}
 
 The goal of EAAMO’21 is to highlight multi-institutional, collaborative work that draws on multiple disciplines and engages historically underserved and disadvantaged communities to improve access to opportunity for such communities. Toward this goal, it is critical that all participants at the conference respect, understand, and value the importance of contributions from a diverse group of participants, and especially those from historically underserved and disadvantaged communities. Organizers of EAAMO’21 ask that all conference participants adhere to the [ACM Policy Against Harassment and Discrimination](https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment), as well as the [MD4SG Code of Conduct](https://www.md4sg.com/policies.html). Any violations of either code of conduct can be reported via the ACM or MD4SG reporting procedures, or submitted via email to gc@eaamo.com or to general chair Illenin Kondo at kondo@illenin.com.
 
 {{< /spoiler >}}
 
-{{< spoiler text="Click to view the Sponsorship Policy" >}} 
+{{< spoiler text="Sponsorship Policy" >}} 
 
 The MD4SG Initiative and ACM EAAMO conference seek sponsorship to support year-round activities within the MD4SG community and to improve access to the ACM EAAMO conference. These activities include financial inclusion initiatives (e.g. data grants, fee waivers), research and implementation seed-grants, summer programs, as well as operational costs associated with the initiative and conference. Funding sources include charitable foundations, companies, individual donors, and government and international agencies. 
 
