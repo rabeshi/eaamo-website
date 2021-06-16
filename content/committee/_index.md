@@ -59,6 +59,9 @@ header:
 - Sam Taggart, Oberlin College
 - Matt Weinberg, Princeton University
 
+#### Policy & Prectice track
+- Robizon Khubulashvili, University of Pittsburgh
+- Bryan Wilder, Harvard University
 
 
 
