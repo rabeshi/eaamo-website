@@ -15,6 +15,7 @@ header:
   caption: ""
   image: ""
 ---
+# EAAMO '21 Committees
 
 ## Program Co-Chairs:
 
@@ -35,5 +36,30 @@ header:
 ## General Chair:
 - [Illenin Kondo](https://www.illenin.com/), the Federal Reserve Bank of Minneapolis
 - [Francisco Marmolejo-Cossio](https://www.fmarmolejo.com/), University of Oxford
+
+### Area chairs 
+
+#### Research track: Artificial Intelligence and Machine Learning
+- Yixin Wang, University of California Berkeley 
+- Sanmay Das, George Mason University
+- Abhijnan Chakraborty, Indian Institute of Technology, Delhi
+- Maria De-Arteaga, University of Texas at Austin
+
+#### Research track: Applied and Quantitative Modeling
+- Nikhil Garg, University of California Berkeley 
+- Vahideh Manshadi, Yale University
+- Elena Falcettoni, Federal Reserve Board of Governors
+
+#### Research track: Empirical Studies
+- Hamsa Bastani, University of Pennsylvania
+- Eric Chan, Babson College
+
+#### Research track: Theory
+- Angela Zhou, Cornell University
+- Sam Taggart, Oberlin College
+- Matt Weinberg, Princeton University
+
+
+
 
 
