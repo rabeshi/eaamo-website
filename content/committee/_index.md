@@ -40,24 +40,24 @@ header:
 ### Area chairs 
 
 #### Research track: Artificial Intelligence and Machine Learning
-- Yixin Wang, University of California Berkeley 
-- Sanmay Das, George Mason University
 - Abhijnan Chakraborty, Indian Institute of Technology, Delhi
+- Sanmay Das, George Mason University
 - Maria De-Arteaga, University of Texas at Austin
+- Yixin Wang, University of California Berkeley 
 
 #### Research track: Applied and Quantitative Modeling
+- Elena Falcettoni, Federal Reserve Board of Governors
 - Nikhil Garg, University of California Berkeley 
 - Vahideh Manshadi, Yale University
-- Elena Falcettoni, Federal Reserve Board of Governors
 
 #### Research track: Empirical Studies
 - Hamsa Bastani, University of Pennsylvania
 - Eric Chan, Babson College
 
 #### Research track: Theory
-- Angela Zhou, Cornell University
 - Sam Taggart, Oberlin College
 - Matt Weinberg, Princeton University
+- Angela Zhou, Cornell University
 
 #### Policy & Prectice track
 - Robizon Khubulashvili, University of Pittsburgh
