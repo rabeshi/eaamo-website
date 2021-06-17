@@ -66,6 +66,7 @@ header:
 ### Program Committee
 - Andrés Abeliuk, Universidad de Chile
 - Sina Aghaei, University of Southern California
+- Claudia Allende, Stanford University
 - Nicholas Arnosti, Columbia University
 - Itai Ashlagi, Stanford University
 - Sid Banerjee, Cornell University
