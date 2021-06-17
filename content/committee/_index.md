@@ -130,6 +130,7 @@ header:
 - Jun Li, University of Michigan
 - Wanyi Li, Facebook
 - Edwin Lock, University of Oxford
+- Kayse Maass, Northeastern University
 - Dina Machuve, Nelson Mandela Institute
 - Roland Maio, Columbia University
 - Siva Mathiyazhagan, Columbia University
