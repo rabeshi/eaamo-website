@@ -101,6 +101,7 @@ header:
 - Elizabeth Evans, Cayenna Capital Management
 - Jessie Finocchiaro, University of Colorado Boulder
 - Abraham Flaxman, University of Washington
+- Neil Gaikwad, MIT
 - Jiarui Gan, Max Planck Institute
 - Ashish Goel, Stanford University
 - Joel Goh, NUS Business School
@@ -146,6 +147,7 @@ header:
 - Abdoulaye Ndiaye, New York University
 - Diana Negoescu, LinkedIn
 - Christopher Neilson, Princeton University
+- Nyalleng Moroosi, Google AI
 - George Obaido, University of Witwatersand
 - Chika Okafor, Harvard University
 - Chinasa Okolo, Cornell University
@@ -182,6 +184,7 @@ header:
 - Kentaro Tomoeda, University of Technology Sydney
 - Kentaro Toyama, University of Michigan		
 - Suresh Venkatasubramanian, University of Utah
+- Anne Washington, New York University
 - Ingmar Weber, Qatar Computing Research Institute
 - James Wright, University of Alberta
 - Lily Xu, Harvard University
