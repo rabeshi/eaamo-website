@@ -40,6 +40,7 @@ header:
 ### Area chairs 
 
 - Hamsa Bastani, University of Pennsylvania
+- Michael Best, Columbia University
 - Abhijnan Chakraborty, Indian Institute of Technology, Delhi
 - Eric Chan, Babson College
 - Sanmay Das, George Mason University
@@ -62,7 +63,6 @@ header:
 - Nicholas Arnosti, Columbia University
 - Itai Ashlagi, Stanford University
 - Sid Banerjee, Cornell University
-- Michael Best, Columbia University 
 - Michael Best, Georgia Institute of Technology
 - Asia Biega, Max Planck Institute
 - Zachary Bleemer, University of California Berkeley
