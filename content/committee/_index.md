@@ -39,7 +39,6 @@ header:
 
 ### Area chairs 
 
-#### Research track
 - Hamsa Bastani, University of Pennsylvania
 - Abhijnan Chakraborty, Indian Institute of Technology, Delhi
 - Eric Chan, Babson College
@@ -48,15 +47,13 @@ header:
 - Fernando Delgado, Cornell University
 - Elena Falcettoni, Federal Reserve Board of Governors
 - Nikhil Garg, University of California Berkeley 
+- Robizon Khubulashvili, University of Pittsburgh
 - Vahideh Manshadi, Yale University
 - Sam Taggart, Oberlin College
 - Yixin Wang, University of California Berkeley 
 - Matt Weinberg, Princeton University
-- Angela Zhou, Cornell University
-
-#### Policy & Prectice track
-- Robizon Khubulashvili, University of Pittsburgh
 - Bryan Wilder, Harvard University
+- Angela Zhou, Cornell University
 
 ### Program Committee
 - Andrés Abeliuk, Universidad de Chile
