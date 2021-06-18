@@ -39,23 +39,18 @@ header:
 
 ### Area chairs 
 
-#### Research track: Artificial Intelligence and Machine Learning
+#### Research track
+- Hamsa Bastani, University of Pennsylvania
 - Abhijnan Chakraborty, Indian Institute of Technology, Delhi
+- Eric Chan, Babson College
 - Sanmay Das, George Mason University
 - Maria De-Arteaga, University of Texas at Austin
-- Yixin Wang, University of California Berkeley 
-
-#### Research track: Applied and Quantitative Modeling
+- Fernando Delgado, Cornell University
 - Elena Falcettoni, Federal Reserve Board of Governors
 - Nikhil Garg, University of California Berkeley 
 - Vahideh Manshadi, Yale University
-
-#### Research track: Empirical Studies
-- Hamsa Bastani, University of Pennsylvania
-- Eric Chan, Babson College
-
-#### Research track: Theory
 - Sam Taggart, Oberlin College
+- Yixin Wang, University of California Berkeley 
 - Matt Weinberg, Princeton University
 - Angela Zhou, Cornell University
 
@@ -117,7 +112,7 @@ header:
 - Marc Juarez, University of Southern California
 - Anson Kahng, Carnegie Mellon University
 - Adam Kapor, Princeton University
-- Sarah Keren, Tel Aviv University
+- Sarah Keren, Technion - Israel Institute of Technology
 - Pauline Kim, Washington University in Saint Louis
 - Sara Kingsley, Carnegie Mellon University
 - Lynn Kirabo, Carnegie Mellon University
