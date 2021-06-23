@@ -42,7 +42,7 @@ header:
 - Hamsa Bastani, University of Pennsylvania
 - Michael Best, Columbia University
 - Abhijnan Chakraborty, Indian Institute of Technology, Delhi
-- Eric Chan, Babson College
+- Eric W. Chan, Babson College
 - Sanmay Das, George Mason University
 - Maria De-Arteaga, University of Texas at Austin
 - Fernando Delgado, Cornell University
@@ -54,7 +54,7 @@ header:
 - Yixin Wang, University of California Berkeley 
 - Matt Weinberg, Princeton University
 - Bryan Wilder, Harvard University
-- Angela Zhou, Cornell University
+- Angela Zhou, University of California Berkeley
 
 ### Program Committee
 - Andrés Abeliuk, Universidad de Chile
@@ -63,14 +63,14 @@ header:
 - Nicholas Arnosti, Columbia University
 - Itai Ashlagi, Stanford University
 - Sid Banerjee, Cornell University
+- Mario Banuelos, California State University, Fresno
 - Michael Best, Georgia Institute of Technology
 - Asia Biega, Max Planck Institute
-- Zachary Bleemer, University of California Berkeley
+- Zachary Bleemer, Harvard University
 - Camelia Bohorquez, Fundación Ceiba
+- Elizabeth Bondi, Harvard University 
 - Mark Braverman, Princeton University
-- Elisabeth Bondi, Harvard University 
-- Mario Bunuelos, Fresno State University
-- Patricia Cabero Tapia, Technische Universität Berlin
+- Patricia Cabero Tapia, Universidad Católica Boliviana "San Pablo"
 - Sydnee Caldwell, University of California Berkeley
 - Caterina Calsamiglia, Barcelona Institute of Political Economy and Governance
 - Augustin Chaintreau, Columbia University
@@ -79,15 +79,15 @@ header:
 - Lenore Cowen, Tufts University
 - Zoe Cullen, Harvard University
 - Tinglong Dai, Johns Hopkins University
-- Krishna Dasaratha, Harvard University
+- Krishna Dasaratha, Yale University
 - Bikramaditya Datta, Indian Institute of Technology Kanpur
 - John Dickerson, University of Maryland
 - Winnie van Dijk, Harvard University
 - Kate Donahue, Cornell University
 - Alon Eden, Harvard University
+- Edith Elkind, University of Oxford
 - Adam Elmachtoub, Columbia University
 - Wedad Elmaghraby, University of Maryland
-- Edith Elkind, University of Oxford
 - Doaa Abu Elyounes, Harvard University 
 - Meryem Essaidi, Princeton University
 - Elizabeth Evans, Cayenna Capital Management
@@ -99,21 +99,23 @@ header:
 - Joel Goh, NUS Business School
 - Lauri Goldkind, Fordham University
 - Paul Gölz, Carnegie Mellon University
-- Michelle Gonzalez Amador, United Nations University
+- Michelle González Amador, UNU-MERIT and Maastricht University
 - Alban Grastien, Australian National University
 - Michael Hamilton, University of Pittsburgh
 - Moritz Hardt, University of California Berkeley
-- Yoan Hermstruewer, Max Planck Institute
+- Yoan Hermstrüwer, Max Planck Institute for Research on Collective Goods
 - Jonas Israel, Technische Universität Berlin
 - Kenny Joseph, University at Buffalo
 - Marc Juarez, University of Southern California
 - Anson Kahng, Carnegie Mellon University
 - Adam Kapor, Princeton University
+- Atoosa Kasirzadeh, University of Toronto
 - Sarah Keren, Technion - Israel Institute of Technology
 - Pauline Kim, Washington University in Saint Louis
 - Sara Kingsley, Carnegie Mellon University
 - Lynn Kirabo, Carnegie Mellon University
 - Marlene Koffi, University of Toronto
+- Scott Kominers, Harvard University
 - Aviv Landau, Columbia University
 - Seth Lazar, Australian National University 
 - David Lee, University of California Santa Cruz
@@ -123,15 +125,17 @@ header:
 - Jun Li, University of Michigan
 - Wanyi Li, Facebook
 - Edwin Lock, University of Oxford
-- Kayse Maass, Northeastern University
+- Kayse Lee Maass, Northeastern University
 - Dina Machuve, Nelson Mandela Institute
 - Roland Maio, Columbia University
+- Amelie Marian, Rutgers University
 - Siva Mathiyazhagan, Columbia University
 - Nicholas Mattei, Tulane University
 - Duncan McElfresh, University of Maryland
 - Teddy Mekonnen, Brown University
 - Faidra Monachou, Stanford University
 - Ken Moon, University of Pennsylvania
+- Nyalleng Moroosi, Google AI
 - Zanele Munyikwa, MIT
 - Suresh Naidu, Columbia University
 - Moses Namara, Clemson University
@@ -139,30 +143,31 @@ header:
 - Abdoulaye Ndiaye, New York University
 - Diana Negoescu, LinkedIn
 - Christopher Neilson, Princeton University
-- Nyalleng Moroosi, Google AI
 - George Obaido, University of Witwatersand
 - Chika Okafor, Harvard University
-- Chinasa Okolo, Cornell University
-- Matt Olckers, Monash University
-- Tilsa Ore-Monago, Universidad de Piura Peru 
-- Gourab Patro, Indian Institute of Technology Kanpur
-- Lucy Qin, Brown University
+- Chinasa T. Okolo, Cornell University
+- Matthew Olckers, UNSW Sydney
+- Tilsa Oré-Mónago, Universidad de Piura, Lima School of Economics 
 - Bobby Pakzad-Hurson, Brown University
-- Elisabeth Paulson, MIT
+- Gourab K Patro, IIT Kharagpur
+- Elisabeth Paulson, Stanford University
 - David Pennock, Rutgers University
 - Emmanouil Pountourakis, Drexel University
+- Lucy Qin, Brown University
 - Manish Raghavan, Cornell University
-- Aida Ramahtallabi, University of Southerrn California
+- Aida Rahmattalabi, University of Southern California
 - Sekou Remy, IBM Africa
 - Evan Riehl, Cornell University
 - Alejandro Robinson-Cortes, University of Exeter
-- Scott Rodilitz, Yale University
+- Scott Rodilitz, Yale University/Stanford University
 - Maria Rodriguez, University at Buffalo
+- David Rolnick, McGill University
 - Sarita Rosenstock, Australian National University
 - Atri Rudra, University at Buffalo
 - Daniela Saban, Stanford University
-- Jacob Schoeffer, Karlsruhe Institute of Technology
-- Rajiv Sethi, Columbia University/Barnard College
+- Melanie Sage, University at Buffalo
+- Jakob Schoeffer, Karlsruhe Institute of Technology
+- Rajiv Sethi, Barnard College, Columbia University
 - Zhaowei She, Georgia Institute of Technology
 - Harvineet Singh, New York University
 - Somya Singhvi, University of Southern Califorrnia
@@ -175,7 +180,7 @@ header:
 - Neil Thakral, Brown University
 - Kentaro Tomoeda, University of Technology Sydney
 - Kentaro Toyama, University of Michigan		
-- Suresh Venkatasubramanian, University of Utah
+- Suresh Venkatasubramanian, University of Utah and Brown University
 - Anne Washington, New York University
 - Ingmar Weber, Qatar Computing Research Institute
 - James Wright, University of Alberta
