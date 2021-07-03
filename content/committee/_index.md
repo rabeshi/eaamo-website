@@ -156,7 +156,7 @@ header:
 - Lucy Qin, Brown University
 - Manish Raghavan, Cornell University
 - Aida Rahmattalabi, University of Southern California
-- Sekou Remy, IBM Africa
+- Sekou L Remy, IBM Research | Africa
 - Evan Riehl, Cornell University
 - Alejandro Robinson-Cortes, University of Exeter
 - Scott Rodilitz, Yale University/Stanford University
