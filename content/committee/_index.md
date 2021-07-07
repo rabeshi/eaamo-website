@@ -181,6 +181,7 @@ header:
 - Kentaro Tomoeda, University of Technology Sydney
 - Kentaro Toyama, University of Michigan		
 - Suresh Venkatasubramanian, University of Utah and Brown University
+- Serena Wang, University of California Berkeley
 - Anne Washington, New York University
 - Ingmar Weber, Qatar Computing Research Institute
 - James Wright, University of Alberta
