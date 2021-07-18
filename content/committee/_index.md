@@ -104,6 +104,7 @@ header:
 - Michael Hamilton, University of Pittsburgh
 - Moritz Hardt, University of California Berkeley
 - Yoan Hermstrüwer, Max Planck Institute for Research on Collective Goods
+- Jack Hessel, AI2
 - Jonas Israel, Technische Universität Berlin
 - Kenny Joseph, University at Buffalo
 - Marc Juarez, University of Southern California
