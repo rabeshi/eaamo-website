@@ -46,3 +46,10 @@ We follow several guidelines and policies related to fundraising activities:
 Please contact sponsorship@md4sg.com with any questions or concerns. 
 
 {{< /spoiler >}}
+
+{{< spoiler text="[ACM Anti-harrassment Policy](https://www.acm.org/about-acm/policy-against-harassment)" >}} 
+{{< /spoiler >}}
+
+{{< spoiler text="[ACM Privacy Policy ](https://www.acm.org/about-acm/privacy-policy)" >}} 
+{{< /spoiler >}}
+
