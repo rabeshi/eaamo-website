@@ -12,7 +12,7 @@ The registration fees are the following:
 
 ## Registration Waivers and Data Plans
  
-The conference will provide a number of need-based grants to subsidize the costs of registration as well as provide additional financial assistance to procure data plans for attending the conference. Preference will be given to individuals who have submitted papers to the conference. We especially encourage those from underrepresented communities and institutions to submit a financial assistance application. 
+The conference will provide a number of need-based grants to subsidize the costs of registration as well as provide additional financial assistance to procure data plans for attending the conference. Preference will be given to individuals who have submitted papers to the conference. We especially encourage those from underrepresented communities and institutions to submit a financial assistance application. The deadline for applying for registration waivers and data plans is **September 10, 2021, 5 PM GMT.**
 
 We will provide two kinds of assistance:
 
