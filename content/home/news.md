@@ -40,6 +40,7 @@ design:
   view: 2
 ---
 
+- Registration is now [live](https://www.eventbrite.com/e/acm-eaamo-2021-by-md4sg-tickets-162602387117)! More details [here](https://eaamo.org/registration/).
 - Our CfP is now available in [different languagues](https://eaamo.org/cfp/)! 
 - The deadline has been extended to June 14th, 5pm ET / 9 pm GMT.
 - Our Call for Participation for the [Research Track](https://eaamo.org/cfpresearch/) and for the [Policy & Practice Track](https://eaamo.org/cfppolicyandpractice/) are now live!
