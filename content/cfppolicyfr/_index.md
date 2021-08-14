@@ -106,6 +106,6 @@ Inscrivez-vous [ici](https://eaamo.org/registration) pour la conférence. La con
 - Date limite pour la soumission des propositions : 14 juin 2021.
 - Page de soumission des propositions : [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
 - Date limite de réception du [formulaire d’aide financière](https://forms.gle/AP9nmLStPzHSrqMv7) : 14 juin 2021 à 17h00 ET (21h00 GMT).
-- Annonce des résultats : 12 août 2021
+- Annonce des résultats : ~~12~~ 14 août 2021
 - Date de l’événement : 5-9 octobre 2021
 
