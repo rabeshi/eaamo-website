@@ -105,6 +105,6 @@ Jisajili [hapa](https://eaamo.org/registration) kushiriki kwenye kongamano. Kong
 - Tarehe ya Mwisho ya Kuwasilisha Utafiti: 14 Juni, 2021
 - Ukurasa wa Kuwasilishia Utafiti: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
 - Tarehe ya mwisho wa [Maombi ya Msaada wa Kifedha](https://forms.gle/AP9nmLStPzHSrqMv7): 14 Juni, 2021 saa 11 jioni (saa tatu usiku GMT)
-- Siku ya Kujulishwa: ~~12~~ 14 Agosti, 2021
+- Siku ya Kujulishwa: ~~12~~ 15 Agosti, 2021
 - Tarehe za Tukio: 5-9 Oktoba, 2021
 
