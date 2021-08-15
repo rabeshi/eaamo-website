@@ -107,5 +107,5 @@ Se puede registrar [aquí](https://eaamo.org/registration) para la conferencia. 
 - Fecha límite para el envío de propuestas: 14 de junio 2021
 - Página para el envío electrónico de propuestas: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
 - [Forma de solicitud para apoyo financiero.](https://forms.gle/AP9nmLStPzHSrqMv7) Fecha límite: 14 junio a las 5 PM ET (9 PM GMT)  
-- Notificación de resultados: ~~12~~ 14 agosto 2021
+- Notificación de resultados: ~~12~~ 15 agosto 2021
 - Fecha de conferencia: 5-9 octubre 2021
