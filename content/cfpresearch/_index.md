@@ -110,5 +110,5 @@ Register [here](https://eaamo.org/registration) for the conference. The conferen
 - Paper Submission Deadline: 14 June 2021, AoE
 - Paper Submission Page: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
 - [Financial Assistance Application](https://forms.gle/AP9nmLStPzHSrqMv7) Deadline: 14 June 2021 at 5 PM ET (9 PM GMT)
-- Notification: ~~12~~ 14 August 2021
+- Notification: ~~12~~ 15 August 2021
 - Event Date: 5-9 October 2021
