@@ -103,6 +103,6 @@ Registe-se [aqui](https://eaamo.org/registration) para a conferência. Será pre
 - Data-limite para a submissão de artigos: 14 de junho de 2021
 - Página de submissão para artigos: [EasyChair](https://easychair.org/conferences/?conf=eaamo21)
 - Data-limite para o [Pedido para Assistência Financeira](https://forms.gle/AP9nmLStPzHSrqMv7): 14 de junho de 2021 às 17h ET (21h GMT)
-- Notificação: ~~12~~ 14 de agosto de 2021
+- Notificação: ~~12~~ 15 de agosto de 2021
 - Data do Evento: 5 a 9 outubro de 2021
 
