@@ -8,7 +8,7 @@ The registration fees are the following:
 - Non-ACM/SIG member: $25 (Regular, until September 10), $40 (Late, until September 30)
 - Student: $15 (Regular, until September 10), $30 (Late, until September 30)
 
-*Note: If you are part of Science Writers or work in the civic and public sector, registration is complimentary. You can select the relevant option on Eventbrite and provide your work email for verification.*
+*Note: If you are a ScienceWriters2021 participant or a civic or public sector practitioner volunteering in our outreach forum, registration is complimentary. You will be able to select your complimentary registration option after entering the registration code you were provided with.*
 
 ## Registration Waivers and Data Plans
  
