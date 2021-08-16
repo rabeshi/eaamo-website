@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="style.css">
-</head>
+
 
 # Registration information
 
@@ -10,7 +6,7 @@ Registration for the 1st ACM Conference on Equity and Access in Algorithms, Mech
 
 The registration fees are the following:
 
-<div class="table-wrapper" markdown="block">
+<div style= "overflow-x: scroll">
 
 |  | Regular (until September 10) | Late (until September 30) |
 | ----------- | :---: | :---: |
@@ -32,7 +28,6 @@ We will provide two kinds of assistance:
 - Paid data plan top-ups for virtual attendance.
 
 Please complete [this form](https://forms.gle/AP9nmLStPzHSrqMv7) if you require financial assistance, specifying what kind of assistance you are requiring. Upon approval, you will receive a promo code to register for free on [Eventbrite](https://eaamo21.eventbrite.com).
-</html>
 
 
 
