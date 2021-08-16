@@ -8,7 +8,7 @@ The registration fees are the following:
 - Non-ACM/SIG member: $25 (Regular, until September 10), $40 (Late, until September 30)
 - Student: $15 (Regular, until September 10), $30 (Late, until September 30)
 
-<table>
+<table overflow-x: hidden;>
   <tr>
     <th> </th>
     <th>Regular (until September 10)</th>
