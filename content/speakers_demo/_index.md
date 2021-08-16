@@ -4,32 +4,15 @@ Registration for the 1st ACM Conference on Equity and Access in Algorithms, Mech
 
 The registration fees are the following:
 
-- ACM member: $20 (Regular, until September 10), $35 (Late, until September 30)
-- Non-ACM/SIG member: $25 (Regular, until September 10), $40 (Late, until September 30)
-- Student: $15 (Regular, until September 10), $30 (Late, until September 30)
+<div class="table-wrapper" markdown="block">
 
-<table overflow-x: hidden;>
-  <tr>
-    <th> </th>
-    <th>Regular (until September 10)</th>
-    <th>Late (until September 30)</th>
-  </tr>
-  <tr>
-    <td>ACM member</td>
-    <td>$20</td>
-    <td>$35</td>
-  </tr>
-  <tr>
-    <td>Non-ACM/SIG member</td>
-    <td>$25</td>
-    <td>$40</td>
-  </tr>
-  <tr>
-    <td>Student</td>
-    <td>$15</td>
-    <td>$30</td>
-  </tr>
-</table>
+|  | Regular (until September 10) | Late (until September 30) |
+| ----------- | :---: | :---: |
+| ACM member          | $20 | $35 |
+| Non-ACM/SIG member  | $25 | $40 |
+| Student             | $15 | $30 |
+
+</div>
 
 *Note: If you are a ScienceWriters2021 participant or a civic or public sector practitioner volunteering in our outreach forum, registration is complimentary. You will be able to select your complimentary registration option after entering the registration code you were provided with.*
 
