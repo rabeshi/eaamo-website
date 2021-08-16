@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
 # Registration information
 
 Registration for the 1st ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization is now live! Please register on [Eventbrite](https://eaamo21.eventbrite.com) by September 10 for regular admission.
