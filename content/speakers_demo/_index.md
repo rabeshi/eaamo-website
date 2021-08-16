@@ -6,7 +6,7 @@ Registration for the 1st ACM Conference on Equity and Access in Algorithms, Mech
 
 The registration fees are the following:
 
-<div style= "overflow-x: scroll">
+<div style= "overflow-x: hidden">
 
 |  | Regular (until September 10) | Late (until September 30) |
 | ----------- | :---: | :---: |
