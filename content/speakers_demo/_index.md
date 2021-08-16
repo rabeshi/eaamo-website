@@ -14,7 +14,10 @@ The registration fees are the following:
 | Student             | $15 | $30 |
 
 
-<button name="button" onclick="https://eaamo21.eventbrite.com">Register Here</button>
+
+<button type="button" name="button" class="btn" onclick="https://eaamo21.eventbrite.com">Register Here</button>
+
+[Link button](http://example.com/){: .btn }
 
 *Note: If you are a ScienceWriters2021 participant or a civic or public sector practitioner volunteering in our outreach forum, registration is complimentary. You will be able to select your complimentary registration option after entering the registration code you were provided with.*
 
