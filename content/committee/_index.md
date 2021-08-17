@@ -73,7 +73,7 @@ header:
 ### Mentorship Chairs:
 - Mobin YahyazadehJelouda (Stanford University)
 - Renzhe Yu (University of California, Irvine)
-- 
+
 ### Area chairs: 
 
 - Hamsa Bastani, University of Pennsylvania
