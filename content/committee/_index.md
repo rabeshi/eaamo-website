@@ -37,7 +37,44 @@ header:
 - [Illenin Kondo](https://www.illenin.com/), the Federal Reserve Bank of Minneapolis
 - [Francisco Marmolejo-Cossio](https://www.fmarmolejo.com/), University of Oxford
 
-### Area chairs 
+### Social Chairs:
+- Lily Xu (Harvard University)
+- Logan Stapleton (University of Minnesota)
+
+### Poster Chairs:
+- Jessie Finnochiaro (University of Colorado Boulder)
+- Edwin Lock (University of Oxford)
+
+### Geographical Inclusion Chairs:
+- Michelle Gonzalez Amador (UNU-MERIT and Maastricht University)
+- Sandro Radovanović (University of Belgrade)
+- Benjamin Otieno (Kibabii University)
+
+### Registration and Grants Chairs:
+- Chinasa Okolo (Cornell University)
+- Jakob Jonnerby (University of Oxford)
+- Sandro Radovanović (University of Belgrade)
+
+### Accessibility Chair:
+- Sara Kingsley (Carnegie Mellon University)
+
+### Non Profit & Policy Chairs:
+- Christian Ramirez (Universidad San Ignacio de Loyola/ SEMICOM)
+- Matthew Olckers (UNSW Sydney)
+
+### Proceedings Chairs:
+- Paul Gölz (Carnegie Mellon University)
+- Anson Kahng (Carnegie Mellon University)
+
+### Social Media Chairs:
+- Alex DiChristofano (Washington University in St. Louis)
+- Mir Masood Ali (University of Illinois at Chicago)
+
+### Mentorship Chairs:
+- Mobin YahyazadehJelouda (Stanford University)
+- Renzhe Yu (University of California, Irvine)
+- 
+### Area chairs: 
 
 - Hamsa Bastani, University of Pennsylvania
 - Michael Best, Columbia University
