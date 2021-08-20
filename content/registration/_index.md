@@ -11,7 +11,7 @@ The registration fees are the following:
 | Student             | $15 | $30 |
 
 
-*Note: If you are a ScienceWriters2021 participant or a civic or public sector practitioner volunteering in our outreach forum, registration is complimentary. You will be able to select your complimentary registration option after entering the registration code you were provided with.*
+*Note: If you are a ScienceWriters2021 participant or a civic or public sector practitioner volunteering in our outreach forum, registration is complimentary.*
 
 ## Registration Waivers and Data Plans
  
