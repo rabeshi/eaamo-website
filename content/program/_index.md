@@ -67,7 +67,7 @@ Please note that this is a **preliminary conference program** and that slight al
 
 ## October 6 (Wednesday)
 
-**Time** | **Event** | **Details**
+**Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
 ------------ | ------------- | -------------
 11:00 - 11:30 (ET) | **Keynote talk**  | [Krishna Gummadi](https://eaamo.org/speakers/#krishna-gummadi)
 11:30 - 12:00 (ET) | **Keynote panel**  &nbsp; &nbsp; &nbsp; &nbsp; 
