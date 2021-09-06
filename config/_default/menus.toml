@@ -73,6 +73,13 @@
   weight = 50
 
 [[main]]
+  identifier = "schedule"
+  name = "Schedule"
+  url = "schedule"
+  weight = -30
+  parent = "program"
+  
+[[main]]
   name = "Organizers"
   url = "committee"
   weight = 60
