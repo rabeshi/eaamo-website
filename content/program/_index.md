@@ -79,7 +79,7 @@ Please note that this is a **preliminary conference program** and that slight al
 11:00 - 11:30 (ET) | **Keynote**  | [Solomon Assefa](https://eaamo.org/speakers/#solomon-assefa)
 11:30 - 12:00 (ET) | **Keynote panel**
 12:00 - 12:15 (ET) | *Short Break*
-12:15 - 13:15 (ET) | **Policy and Practice panel** 
+12:15 - 13:15 (ET) | **Policy and Practice panel**  &nbsp;
 13:15 - 14:00 (ET) | *Long Break*
 14:00 - 14:30 (ET) | **Keynote talk**  | [Radhika Khosla](https://eaamo.org/speakers/#radhika-khosla)
 14:30 - 15:15 (ET) | Contributed talks
