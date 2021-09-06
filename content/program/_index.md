@@ -82,12 +82,12 @@ Please note that this is a **preliminary conference program** and that slight al
 
 ## October 7 (Thursday)
 
-**Time** | **Event** &nbsp; | **Details**
+**Time** | **Event** | **Details**
 ------------ | ------------- | -------------
 11:00 - 11:30 (ET) | **Keynote**  | [Solomon Assefa](https://eaamo.org/speakers/#solomon-assefa)
 11:30 - 12:00 (ET) | **Keynote panel**
 12:00 - 12:15 (ET) | *Short Break*
-12:15 - 13:15 (ET) | **Non-profit and Policy panel**
+12:15 - 13:15 (ET) | **Non-profit and Policy panel** &nbsp; 
 13:15 - 14:00 (ET) | *Long Break*
 14:00 - 14:30 (ET) | **Keynote talk**  | [Radhika Khosla](https://eaamo.org/speakers/#radhika-khosla)
 14:30 - 15:15 (ET) | Contributed talks
@@ -111,7 +111,7 @@ Please note that this is a **preliminary conference program** and that slight al
 
 ## October 9 (Saturday)
 
-**Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
+**Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
 ------------ | ------------- | -------------
 11:30 - 12:00 (ET) | **Keynote talk**  | [Trooper Sanders](https://eaamo.org/speakers/#trooper-sanders)
 12:00 - 12:30 (ET) | Contributed talks
