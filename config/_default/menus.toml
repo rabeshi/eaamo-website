@@ -75,7 +75,7 @@
   parent = "organization"
   
 [[main]]
-  name = "Contant"
+  name = "Contact"
   url = "contact"
   weight = 30
   parent = "organization"
