@@ -46,7 +46,7 @@ Please note that this is a **preliminary conference program** and that slight al
 
 **Time** | **Event**
 ------------ | -------------
-12:15 - 13:15 (ET) | **Non-profit and Policy panel**
+12:15 - 13:15 (ET) | **Policy and Practice panel**
 
 
 ## October 5 (Tuesday)
@@ -57,7 +57,7 @@ Please note that this is a **preliminary conference program** and that slight al
 11:00 - 11:30 (ET) | **Keynote talk**  | [Mary Gray](https://eaamo.org/speakers/#mary-gray)
 11:30 - 12:00 (ET) | **Keynote panel**
 12:00 - 12:15 (ET) | *Short Break*
-12:15 - 13:15 (ET) | **Non-profit and Policy panel**
+12:15 - 13:15 (ET) | **Policy and Practice panel**
 13:15 - 14:00 (ET) | *Long Break*
 14:00 - 14:30 (ET) | **Keynote talk**  | [Dirk Bergemann](https://eaamo.org/speakers/#dirk-bergemann)
 14:30 - 15:15 (ET) | Contributed talks
@@ -87,7 +87,7 @@ Please note that this is a **preliminary conference program** and that slight al
 11:00 - 11:30 (ET) | **Keynote**  | [Solomon Assefa](https://eaamo.org/speakers/#solomon-assefa)
 11:30 - 12:00 (ET) | **Keynote panel**
 12:00 - 12:15 (ET) | *Short Break*
-12:15 - 13:15 (ET) | **Non-profit and Policy panel** 
+12:15 - 13:15 (ET) | **Policy and Practice panel** 
 13:15 - 14:00 (ET) | *Long Break*
 14:00 - 14:30 (ET) | **Keynote talk**  | [Radhika Khosla](https://eaamo.org/speakers/#radhika-khosla)
 14:30 - 15:15 (ET) | Contributed talks
