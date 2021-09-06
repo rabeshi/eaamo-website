@@ -19,10 +19,17 @@
 #  weight = 40
 
 [[main]]
+  identifier = "participation"
+  name = "Participation"
+  url = "cfp"
+  weight = 30
+  
+[[main]]
 #  identifier = "dropcfp"
   name = "Call for Participation"
   url = "cfp"
-  weight = 30
+  weight = -30
+  parent = "participation"
 
 #[[main]]
 #  name = "General CfP information"
@@ -60,7 +67,8 @@
 [[main]]
   name = "Registration"
   url = "registration"
-  weight = 40
+  weight = 30
+  parent = "participation"
 
 #[[main]]
 #  name = "Program"
