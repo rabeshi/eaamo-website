@@ -29,10 +29,16 @@
 [[main]]
   identifier = "participation"
   name = "Participation"
-  url = "cfp"
+  url = "participation"
   weight = 40
   
-
+[[main]]
+  name = "Policies"
+  url = "policies"
+  weight = 30
+  parent = "participation"
+  
+  
 #[[main]]
 #  name = "General CfP information"
 #  url = "cfp"
@@ -69,7 +75,7 @@
 [[main]]
   name = "Registration"
   url = "registration"
-  weight = 30
+  weight = -30
   parent = "participation"
 
 #[[main]]
