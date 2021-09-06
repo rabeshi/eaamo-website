@@ -24,9 +24,7 @@ EAAMO 2021 will be organized as a virtual-only conference. Details of the virtua
 * Parallel sessions are avoided.
 * The live meetings and social events are aimed to be engaging, dynamic, and as interactive as possible.
 
-EAAMO '21 will use Zoom and Gather.town for all activities:
-* **Zoom meetings** are used for keynote speeches, panel discussions, and live sessions. To diminish the risk of Zoom "bombing" and Zoom crashing, the conference organizers will restrict access only to registered users.
-* **Gather.town** is a web-conferencing software with the added component of seeing the virtual “room” you and others are occupying, and with the ability to move around and interact with other participants based on your locations in the room, just like real life.
+EAAMO '21 will use Zoom meetings for keynote talks, panel discussions, and live sessions, and Gather.town for all other activities.
 
 # Conference Program
 
