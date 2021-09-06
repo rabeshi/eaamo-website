@@ -32,11 +32,13 @@ The inaugural EAAMO ‘21 will take place on **October 5-9, 2021**, virtually, o
 
 Please note that this is a **preliminary conference program** and that slight alterations are possible. Note that ET stands for current "New York, USA" time.
 
-## October 4 (Monday)
+{{< spoiler text="October 4 (Monday)" >}}
 
 **Time** | **Event**
 ------------ | -------------
 12:15 - 13:15 (ET) | **Policy and Practice panel**
+
+{{< /spoiler >}}
 
 
 ## October 5 (Tuesday)
