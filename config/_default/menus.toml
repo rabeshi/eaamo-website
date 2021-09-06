@@ -68,6 +68,7 @@
 #  weight = 30
 
 [[main]]
+  identifier = "program"
   name = "Program"
   url = "program"
   weight = 50
