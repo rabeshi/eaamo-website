@@ -82,7 +82,7 @@ Please note that this is a **preliminary conference program** and that slight al
 
 ## October 7 (Thursday)
 
-**Time** | **Event** | **Details**
+**Time** | **Event** &nbsp; | **Details**
 ------------ | ------------- | -------------
 11:00 - 11:30 (ET) | **Keynote**  | [Solomon Assefa](https://eaamo.org/speakers/#solomon-assefa)
 11:30 - 12:00 (ET) | **Keynote panel**
@@ -111,7 +111,7 @@ Please note that this is a **preliminary conference program** and that slight al
 
 ## October 9 (Saturday)
 
-**Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
+**Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
 ------------ | ------------- | -------------
 11:30 - 12:00 (ET) | **Keynote talk**  | [Trooper Sanders](https://eaamo.org/speakers/#trooper-sanders)
 12:00 - 12:30 (ET) | Contributed talks
