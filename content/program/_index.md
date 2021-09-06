@@ -16,12 +16,12 @@ header:
   image: ""
 ---
 
-# General Guidelines
+## General Guidelines
 EAAMO 2021 will be organized as a virtual-only conference.
 
 Details of the virtual conference format are described below. To determine this format, we have been inspired by good practices and experiences in many other conferences ([ACM FAccT](https://facctconference.org/) and [ACM EC](https://ec21.sigecom.org/)).
 
-# Virtual conference format
+## Virtual conference format
 
 Guiding principles:
 
@@ -31,7 +31,7 @@ Guiding principles:
 * Parallel sessions are avoided.
 * The live meetings and social events are aimed to be engaging, dynamic, and as interactive as possible.
 
-# Tools used
+## Tools used
 
 * **Zoom meetings** are used for keynote speeches, panel discussions, and live sessions. To diminish the risk of Zoom "bombing" and Zoom crashing, the conference organizers will restrict access only to registered users.
 * **Gather.town** is a web-conferencing software with the added component of seeing the virtual “room” you and others are occupying, and with the ability to move around and interact with other participants based on your locations in the room, just like real life.
