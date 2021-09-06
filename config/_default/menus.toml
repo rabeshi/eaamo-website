@@ -14,11 +14,6 @@
   weight = 20
 
 #[[main]]
-#  name = "Program Schedule"
-#  url = "programschedule"
-#  weight = 30
-
-#[[main]]
 #  name = "Invited speakers"
 #  url = "speakers"
 #  weight = 40
@@ -28,13 +23,13 @@
   name = "Call for Participation"
   url = "cfp"
   weight = 30
- 
+
 #[[main]]
 #  name = "General CfP information"
 #  url = "cfp"
 #  parent = "dropcfp"
 #  weight = -30
-  
+
 #[[main]]
 #  name = "Research Track"
 #  url = "cfpresearch"
@@ -61,7 +56,7 @@
 #  parent = "dropcfp"
 #  weight = 60
 
-  
+
 [[main]]
   name = "Registration"
   url = "registration"
@@ -71,38 +66,42 @@
 #  name = "Program"
 #  url = "program"
 #  weight = 30
-  
-  
+
+[[main]]
+  name = "Program"
+  url = "program"
+  weight = 50
+
 [[main]]
   name = "Organizers"
   url = "committee"
-  weight = 50
-  
+  weight = 60
+
 [[main]]
   name = "Invited Speakers"
   url = "speakers"
-  weight = 60
-  
+  weight = 70
+
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "MD4SG"
   url = "https://md4sg.com"
-  weight = 80
-  
+  weight = 90
+
 #[[main]]
 #  name = "CFP Research Track"
 #  url = "cfpresearch"
 #  weight = 90
-  
+
 #[[main]]
 #  name = "CFP Policy Track"
 #  url = "cfppolicypractice"
 #  weight = 100
-  
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 # [[main]]
