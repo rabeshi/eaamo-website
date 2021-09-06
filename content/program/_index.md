@@ -121,5 +121,3 @@ Please note that this is a **preliminary conference program** and that slight al
 14:00 - 14:30 (ET) | **Keynote talk**  | [Ellora Derenoncourt](https://eaamo.org/speakers/#ellora-derenoncourt)
 14:30 - 15:00 (ET) | **Keynote panel**
 15:00 - 15:15 (ET) | *Closing remarks*
-
-*ACM EAAMO is part of the [Mechanism Design for Social Good](https://www.md4sg.com) (MD4SG) initiative, and builds on the MD4SG technical workshop series and tutorials at conferences including ACM EC, ACM COMPASS, ACM FAccT, and WINE.*
