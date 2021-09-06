@@ -41,7 +41,7 @@ Please note that this is a **preliminary conference program** and that slight al
 {{< /spoiler >}}
 
 
-## October 5 (Tuesday)
+{{< spoiler text="October 5 (Tuesday)" >}}
 
 **Time** | **Event** | **Details**
 ------------ | ------------- | -------------
@@ -57,7 +57,9 @@ Please note that this is a **preliminary conference program** and that slight al
 15:30 - 16:15 (ET) | Contributed talks
 16:15 - 17:15 (ET) | Contributed talks
 
-## October 6 (Wednesday)
+{{< /spoiler >}}
+
+{{< spoiler text="October 6 (Wednesday)" >}}
 
 **Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
 ------------ | ------------- | -------------
@@ -72,7 +74,9 @@ Please note that this is a **preliminary conference program** and that slight al
 15:30 - 16:15 (ET) | Contributed talks
 16:15 - 17:15 (ET) | **Poster Session 1**
 
-## October 7 (Thursday)
+{{< /spoiler >}}
+
+{{< spoiler text="October 7 (Thursday)" >}}
 
 **Time** | **Event** | **Details**
 ------------ | ------------- | -------------
@@ -87,7 +91,9 @@ Please note that this is a **preliminary conference program** and that slight al
 15:30 - 16:15 (ET) | Contributed talks
 16:15 - 17:15 (ET) | Contributed talks
 
-## October 8 (Friday)
+{{< /spoiler >}}
+
+{{< spoiler text="October 8 (Friday)" >}}
 
 **Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
 ------------ | ------------- | -------------
@@ -101,7 +107,9 @@ Please note that this is a **preliminary conference program** and that slight al
 15:15 - 16:15 (ET) | Contributed talks
 16:15 - 17:15 (ET) | Contributed talks
 
-## October 9 (Saturday)
+{{< /spoiler >}}
+
+{{< spoiler text="October 9 (Saturday)" >}}
 
 **Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
 ------------ | ------------- | -------------
@@ -113,3 +121,5 @@ Please note that this is a **preliminary conference program** and that slight al
 14:00 - 14:30 (ET) | **Keynote talk**  | [Ellora Derenoncourt](https://eaamo.org/speakers/#ellora-derenoncourt)
 14:30 - 15:00 (ET) | **Keynote panel**
 15:00 - 15:15 (ET) | *Closing remarks*
+
+{{< /spoiler >}}
