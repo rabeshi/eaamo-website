@@ -70,7 +70,7 @@ Please note that this is a **preliminary conference program** and that slight al
 **Time** | **Event** | **Details**
 ------------ | ------------- | -------------
 11:00 - 11:30 (ET) | **Keynote talk**  | [Krishna Gummadi](https://eaamo.org/speakers/#krishna-gummadi)
-11:30 - 12:00 (ET) | **Keynote panel**
+11:30 - 12:00 (ET) | **Keynote panel**  &nbsp; &nbsp; &nbsp; &nbsp; 
 12:00 - 12:15 (ET) | *Short Break*
 12:15 - 13:15 (ET) | Contributed talks
 13:15 - 14:00 (ET) | *Long Break*
