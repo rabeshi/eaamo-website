@@ -109,7 +109,7 @@
   
 [[main]]
   name = "Contant"
-  url = "#contact"
+  url = "contact"
   weight = 30
   parent = "organization"
 
