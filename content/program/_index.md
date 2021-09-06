@@ -97,7 +97,7 @@ Please note that this is a **preliminary conference program** and that slight al
 
 ## October 8 (Friday)
 
-**Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
+**Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
 ------------ | ------------- | -------------
 11:00 - 11:30 (ET) | **Keynote**  | [Avinatan Hassidim](https://eaamo.org/speakers/#avinatan-hassidim)
 11:30 - 12:30 (ET) | **Poster Session 2**
@@ -111,7 +111,7 @@ Please note that this is a **preliminary conference program** and that slight al
 
 ## October 9 (Saturday)
 
-**Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
+**Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
 ------------ | ------------- | -------------
 11:30 - 12:00 (ET) | **Keynote talk**  | [Trooper Sanders](https://eaamo.org/speakers/#trooper-sanders)
 12:00 - 12:30 (ET) | Contributed talks
