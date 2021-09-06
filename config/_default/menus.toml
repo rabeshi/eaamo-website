@@ -23,72 +23,26 @@
 #  identifier = "dropcfp"
   name = "Call for Participation"
   url = "cfp"
-  weight = 40
-
-
-[[main]]
-  identifier = "participation"
-  name = "Participation"
-  url = "participation"
-  weight = 40
-  
-[[main]]
-  name = "Policies"
-  url = "policies"
   weight = 30
-  parent = "participation"
-  
-  
-#[[main]]
-#  name = "General CfP information"
-#  url = "cfp"
-#  parent = "dropcfp"
-#  weight = -30
-
-#[[main]]
-#  name = "Research Track"
-#  url = "cfpresearch"
-#  parent = "dropcfp"
-#  weight = 30
-
-#[[main]]
-#  name = "Policy & Practice Track"
-#  url = "cfppolicyandpractice"
-#  parent = "dropcfp"
-#  weight = 40
-
-
-#[[main]]
-#  name = "Research Track (Español)"
-#  url = "cfpresearchspanish"
-#  parent = "dropcfp"
-#  weight = 50
-
-
-#[[main]]
-#  name = "Policy & Practice Track (Español)"
-#  url = "cfppolicyspanish"
-#  parent = "dropcfp"
-#  weight = 60
-
-
-[[main]]
-  name = "Registration"
-  url = "registration"
-  weight = -30
-  parent = "participation"
-
-#[[main]]
-#  name = "Program"
-#  url = "program"
-#  weight = 30
 
 [[main]]
   identifier = "program"
   name = "Program"
   url = "program"
-  weight = 30
+  weight = 40
 
+[[main]]
+  name = "Invited Speakers"
+  url = "speakers"
+  weight = 30
+  parent = "program"
+
+[[main]]
+  identifier = "participation"
+  name = "Participation"
+  url = "participation"
+  weight = 50
+  
 [[main]]
   identifier = "schedule"
   name = "Schedule"
@@ -97,6 +51,19 @@
   parent = "program"
   
 [[main]]
+  name = "Policies"
+  url = "policies"
+  weight = 30
+  parent = "participation"
+
+[[main]]
+  name = "Registration"
+  url = "registration"
+  weight = -30
+  parent = "participation"
+  
+[[main]]
+  identifier = "organization"
   name = "Organization"
   url = "organization"
   weight = 60
@@ -113,31 +80,16 @@
   weight = 30
   parent = "organization"
 
-[[main]]
-  name = "Invited Speakers"
-  url = "speakers"
-  weight = 30
-  parent = "program"
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 80
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 80
 
 [[main]]
   name = "MD4SG"
   url = "https://md4sg.com"
-  weight = 90
+  weight = 70
 
-#[[main]]
-#  name = "CFP Research Track"
-#  url = "cfpresearch"
-#  weight = 90
-
-#[[main]]
-#  name = "CFP Policy Track"
-#  url = "cfppolicypractice"
-#  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
