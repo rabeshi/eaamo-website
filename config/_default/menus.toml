@@ -23,7 +23,7 @@
 #  identifier = "dropcfp"
   name = "Call for Participation"
   url = "cfp"
-  weight = 30
+  weight = 40
 
 
 [[main]]
@@ -87,7 +87,7 @@
   identifier = "program"
   name = "Program"
   url = "program"
-  weight = 50
+  weight = 30
 
 [[main]]
   identifier = "schedule"
@@ -97,9 +97,21 @@
   parent = "program"
   
 [[main]]
-  name = "Organizers"
-  url = "committee"
+  name = "Organization"
+  url = "organization"
   weight = 60
+
+[[main]]
+  name = "Committees"
+  url = "committee"
+  weight = -30
+  parent = "organization"
+  
+[[main]]
+  name = "Contant"
+  url = "#contact"
+  weight = 30
+  parent = "organization"
 
 [[main]]
   name = "Invited Speakers"
