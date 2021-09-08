@@ -20,15 +20,6 @@ header:
 ___
 
 <br>
-<img style = "float:left; margin:20px 30px 10px 0px" src="images/solomon_square.jpg" width="25%" height = "auto">
-
-## Solomon Assefa ##
-#### Vice President, IBM Research ####
-
----
-
-<p><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-sassefa">Dr. Solomon Assefa</a> is a Vice President at IBM Research. He heads research strategy, execution, commercialization, and partnerships for Impact Science, which includes Future of Climate, Future of Work, and Future of Health. Under his leadership, researchers from IBM’s global labs are applying and advancing disruptive technologies that will transform industries and benefit society. Dr. Assefa is also responsible for IBM’s research labs in Kenya and South Africa, and heads IBM’s research strategy and partnership across Middle East and Africa. As a Research Scientist, Dr. Assefa has worked on IBM’s nanophotonics technology with responsibilities spanning research, development, and technology transfer. He has also worked on field switched and spin torque MRAM technologies. He has co-authored over 150 publications in peer-reviewed journals and conference proceedings and has over 50 patents. Dr. Assefa received a B.S. in Physics (2001), a B.S. in EECS (2001), a M.S. in EECS (2001), and a Ph.D. (2004) all from the Massachusetts Institute of Technology (MIT).</p><br>
-
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/bergemann_square.png" width="25%" height = "auto">
 
