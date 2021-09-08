@@ -97,7 +97,7 @@ Please note that this is a **preliminary conference program** and that slight al
 
 **Time** | **Event**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Details**
 ------------ | ------------- | -------------
-11:00 - 11:30 (ET) | **Keynote**  | [Avinatan Hassidim](https://eaamo.org/speakers/#avinatan-hassidim)
+11:00 - 11:30 (ET) | **Keynote talk**  | [Avinatan Hassidim](https://eaamo.org/speakers/#avinatan-hassidim)
 11:30 - 12:30 (ET) | **Poster Session 2**
 12:30 - 15:15 (ET) | Contributed talks
 13:15 - 14:00 (ET) | *Long Break*
