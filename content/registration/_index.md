@@ -1,10 +1,10 @@
 # Registration information
 
-Registration for the 1st ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization is now live! Please register on [Eventbrite](https://eaamo21.eventbrite.com) by September 10 for regular admission.
+Registration for the 1st ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization is now live! Please register on [Eventbrite](https://eaamo21.eventbrite.com) by September 15 for regular admission.
 
 The registration fees are the following:
 
-|  | Regular (until September 10) | Late (until September 30) |
+|  | Regular (until September 15) | Late (until September 30) |
 | ----------- | :---: | :---: |
 | ACM member          | $20 | $35 |
 | Non-ACM/SIG member  | $25 | $40 |
@@ -21,7 +21,7 @@ You are welcome to signal your interest or nominate someone else in [this form](
 
 ## Registration Waivers and Data Plans
  
-The conference will provide a number of need-based grants to subsidize the costs of registration as well as provide additional financial assistance to procure data plans for attending the conference. Preference will be given to individuals who have submitted papers to the conference. We especially encourage those from underrepresented communities and institutions to submit a financial assistance application. The deadline for applying for registration waivers and data plans is **September 15, 2021, 5 PM GMT.**
+The conference will provide a number of need-based grants to subsidize the costs of registration as well as provide additional financial assistance to procure data plans for attending the conference. Preference will be given to individuals who have submitted papers to the conference. We especially encourage those from underrepresented communities and institutions to submit a financial assistance application. The deadline for applying for registration waivers and data plans is **September 10, 2021, 5 PM GMT.**
 
 We will provide two kinds of assistance:
 
