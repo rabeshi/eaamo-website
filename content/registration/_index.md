@@ -13,7 +13,7 @@ The registration fees are the following:
 
 *Note: If you are a ScienceWriters2021 participant or a civic or public sector practitioner volunteering in our outreach forum, registration is complimentary.*
 
-## Call for interest from practitioners working with underserved and disadvantaged communities
+## Call for interest from practitioners
 
 A main goal of the conference is to bridge research and practice. The program committee is seeking interest from practitioners working at non-profits and in government to attend the conference. All invited practitioners can attend free of charge and will be integrated into the conference program to connect with researchers. 
 
