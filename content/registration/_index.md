@@ -17,7 +17,7 @@ The registration fees are the following:
 
 A main goal of the conference is to bridge research and practice. The program committee is seeking interest from practitioners working at non-profits and in government to attend the conference. All invited practitioners can attend free of charge and will be integrated into the conference program to connect with researchers. 
 
-You are welcome to signal your interest or nominate someone else in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc38RtZFP8pqm3r7DzpAPYRarDhDzUVLWWifIGERzDh79zsNA/viewform).
+You are welcome to signal your interest or nominate someone else in [this form](https://docs.google.com/forms/d/e/1FAIpQLSc38RtZFP8pqm3r7DzpAPYRarDhDzUVLWWifIGERzDh79zsNA/viewform) by September 15, 2021.
 
 ## Registration Waivers and Data Plans
  
