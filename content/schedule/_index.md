@@ -80,7 +80,7 @@ Please note that this is a **preliminary conference program** and that slight al
 
 **Time** | **Event** | **Details**
 ------------ | ------------- | -------------
-11:00 - 11:30 (ET) | **Keynote**  
+11:00 - 11:30 (ET) | **Keynote talk**  
 11:30 - 12:00 (ET) | **Keynote panel**
 12:00 - 12:15 (ET) | *Short Break*
 12:15 - 13:15 (ET) | **Policy and Practice panel**  &nbsp;
