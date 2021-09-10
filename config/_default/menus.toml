@@ -51,6 +51,13 @@
   parent = "program"
   
 [[main]]
+  identifier = "Accepted"
+  name = "Accepted Papers and Posters"
+  url = "accepted"
+  weight = -30
+  parent = "program"
+  
+[[main]]
   name = "Policies"
   url = "policies"
   weight = 30
