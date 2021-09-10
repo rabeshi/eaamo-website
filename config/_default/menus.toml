@@ -61,6 +61,13 @@
   url = "registration"
   weight = -30
   parent = "participation"
+
+[[main]]
+  name = "Policy and practice sessions"
+  url = "policypractice"
+  weight = -10
+  parent = "participation"
+  
   
 [[main]]
   identifier = "organization"
