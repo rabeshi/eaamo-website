@@ -15,7 +15,6 @@ header:
   caption: ""
   image: ""
 ---
-# Accepted Papers and Posters
 
 ## Accepted Papers:
 
