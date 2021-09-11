@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-## Accepted Papers:
+## Accepted Papers:  
 Exclusion of Extreme Jurors and Minority Representation:The Effect of Jury Selection Procedures  
 *Andrea Moro and Martin Van der Linden*
 
