@@ -16,7 +16,10 @@ header:
   image: ""
 ---
 
-## Accepted Papers:  
+## Accepted Papers:
+<details open>
+<summary>Click to expand/collapse the list of papers</summary>
+
 Exclusion of Extreme Jurors and Minority Representation:The Effect of Jury Selection Procedures  
 *Andrea Moro and Martin Van der Linden*
 
@@ -154,7 +157,7 @@ Catchment Areas, Stratification and Access to Better Schools
 
 Health Sentinel: A mobile crowdsourcing platform for self-reported surveys provides early detection of COVID-19 clusters in San Luis Potosí, Mexico  
 *Salvador Ruiz-Correa, Rúben López-Revilla, Fernando Díaz-Barriga, Francisco Javier Marmolejo Cossio, Viridiana del Carmen Robledo-Valero, Emilio Ernesto Hernández-Huérfano, Leonardo Álvarez-Rivera, Mónica Liliana Rangel-Martínez, Miguel Ángel Lutzow-Steiner, Luis Alfredo Ortiz-Vázquez, Andrea Rebeca Mendoza-Lara, Montserrat Olivo-Rodríguez, Marco Sebastián Galván-Ramírez, Ángel Emanuel Morales-Neri, Víctor Uriel Martínez-Donjuan, Massiel Isabella Cervantes-Irurzo, Andreu Comas-García, Fernando Hernández-Maldonado and Carlos Aguilar-Acosta*
-
+</details>
 
 
 ## Accepted Posters:
