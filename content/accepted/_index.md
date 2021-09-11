@@ -56,19 +56,19 @@ Dropping Standardized Testing for Admissions Trades Off Information and Access
 A public transit network optimization model for equitable access to social services  
 *Adam Rumpf and Hemanshu Kaul*
 
-Redistributive Allocation Mechanisms  	
+Redistributive Allocation Mechanisms   	
 *Mohammad Akbarpour, Piotr Dworczak and Scott Kominers*
 
 An Economic Framework for Vaccine Prioritization  	
 *Mohammad Akbarpour, Eric Budish, Piotr Dworczak and Scott Kominers*
 
-Open Data Standard and Analysis Framework: Towards Response Equity in Local Governments  	
+Open Data Standard and Analysis Framework: Towards Response Equity in Local Governments    	
 *Joy Hsu, Ramya Ravichandran, Edwin Zhang and Christine Keung*
 
-(Machine) Learning what Policymakers Value  	
+(Machine) Learning what Policymakers Value    	
 *Daniel Bjorkegren, Joshua Blumenstock and Samsun Knight*
 
-Adaptive Combinatorial Allocation  	
+Adaptive Combinatorial Allocation    	
 *Maximilian Kasy and Alexander Teytelboym*
 
 Algorithm is Experiment: Machine Learning, Market Design, and Policy Eligibility Rules  	
