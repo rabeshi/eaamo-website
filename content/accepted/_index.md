@@ -32,7 +32,7 @@ Facing an Adult Problem: New Datasets for Fair Machine Learning
 Can Shared Service Delivery Increase Customer Engagement? A Study of Shared Medical Appointments  
 *Nazli Sonmez, Kamalini Ramdas and Ryan W. Buell*
 
-Increasing the Demand for Workers with a Criminal Record   	
+Increasing the Demand for Workers with a Criminal Record  
 *Zoe Cullen, Mitch Hoffman and Will Dobbie*
 
 School Choice and Housing Market  
