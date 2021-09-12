@@ -163,6 +163,9 @@ Health Sentinel: A mobile crowdsourcing platform for self-reported surveys provi
 
 ## Accepted Posters:
 
+<details open>
+<summary>Click to expand/collapse the list of posters</summary>  
+
 Statistical Equity: A Fairness Classification Objective  
 *Ninareh Mehrabi, Yuzhong Huang and Fred Morstatter*
 
@@ -300,5 +303,5 @@ Assisted Quick Screener Demonstration: Improving public benefit access for hard-
 
 Using a Bayesian multi-level microsimulation model to target inequalities in energy access: A case study of Coimbatore  
 *André Neto-Bradley, Ruchi Choudhary and Peter Challenor*
-
+</details>
 
