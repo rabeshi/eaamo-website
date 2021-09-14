@@ -295,7 +295,7 @@ Assisted Quick Screener Demonstration: Improving public benefit access for hard-
 An economic theory of differential treatment  
 *Emil Temnyalov*
 
-Sophistication and Cautiousness in College Applications
+Sophistication and Cautiousness in College Applications  
 *Kentaro Tomoeda, Yan Song and Xiaoyu Xia*
 
 Market Design for a Monopsonistic Labor Market  
