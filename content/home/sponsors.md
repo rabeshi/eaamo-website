@@ -36,6 +36,11 @@ feature:
   name: 
   description: 
   
+# - icon: "macarthurlogo"
+#  icon_pack: "custom"
+#  name: 
+#  description: 
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
