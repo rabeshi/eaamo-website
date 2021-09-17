@@ -226,7 +226,7 @@ Sequential Genealogy Search for Genetic Privacy
 Strategic Instrumental Variable Regression: Recovering Causal Relationships From Strategic Responses  
 *Keegan Harris, Daniel Ngo, Logan Stapleton, Hoda Heidari and Steven Wu*
 
-Stateful Strategic Regression
+Stateful Strategic Regression  
 *Keegan Harris, Hoda Heidari and Z. Steven Wu*
 
 On designing and operating Vote-by-Mail processes  
