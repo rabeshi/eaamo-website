@@ -259,6 +259,9 @@ An innovative approach to identifying schools for the Robin Hood Learning + Tech
 Using a Bayesian multi-level microsimulation model to target inequalities in energy access: A case study of Coimbatore  
 *André Neto-Bradley, Ruchi Choudhary and Peter Challenor*
 
+Using Algorithms in Public Sector: Notes from Rural Road Planning in India  
+*Harsh Nisar, Deepak Gupta, Pankaj Kumar, M. Srinivasa Rao, A. V. Rajesh and Alka Upadhyaya*
+  
 Optimal allocations to heterogeneous agents with an application to stimulus checks  
 *Vegard Nygaard, Bent Sørensen and Fan Wang*
 
