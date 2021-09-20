@@ -18,7 +18,8 @@ header:
 
 ## Accepted Papers:
 <details open>
-<summary>Click to expand/collapse the list of papers</summary>  
+<summary>Click to expand/collapse the list of papers</summary>
+<br>
   
 Who Benefits from Faster Public Transit?  
 *Prottoy Akbar*
@@ -167,7 +168,8 @@ Algorithmic Auditing for Social Justice
 ## Accepted Posters:
 
 <details open>
-<summary>Click to expand/collapse the list of posters</summary>  
+<summary>Click to expand/collapse the list of posters</summary> 
+<br>
 
 Parallel Markets in School Choice  
 *Mustafa Oguz Afacan, Piotr Evdokimov, Rustamdjan Hakimov and Bertan Turhan*
