@@ -297,7 +297,7 @@ Algorithmic Redistricting and Black Representation
 Assisted Quick Screener Demonstration: Improving public benefit access for hard-to-reach populations through community based social service organizations  
 *Daniel Singer and Margaret Spring*
 
-An economic theory of differential treatment  
+An information theory of efficient differential treatment  
 *Emil Temnyalov*
 
 Sophistication and Cautiousness in College Applications  
