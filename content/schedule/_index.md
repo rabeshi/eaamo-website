@@ -43,29 +43,29 @@ Please note that this is a **preliminary conference program** and that slight al
 
 {{< spoiler text="October 5 (Tuesday)" >}}
 
-**Time** | **Event** | **Details**
------------- | ------------- | -------------
+**Time** | **Event** 
+------------ | ------------- 
 10:45 - 11:00 (ET) | *Opening remarks*
-11:00 - 11:30 (ET) | **Keynote talk**  | [Mary Gray](https://eaamo.org/speakers/#mary-gray)
+11:00 - 11:30 (ET) | **Keynote talk**: [Mary Gray](https://eaamo.org/speakers/#mary-gray)
 11:30 - 12:00 (ET) | **Keynote panel**
 12:00 - 12:15 (ET) | *Short Break*
 12:15 - 13:15 (ET) | **Non-profit and Policy panel**
 13:15 - 14:00 (ET) | *Long Break*
-14:00 - 14:30 (ET) | **Keynote talk**  | [Dirk Bergemann](https://eaamo.org/speakers/#dirk-bergemann)
+14:00 - 14:30 (ET) | **Keynote talk**: [Dirk Bergemann](https://eaamo.org/speakers/#dirk-bergemann)
 14:30 - 15:15 (ET) | Session: **Data Standards and Datasets**
-14:30 - 14:46 (ET) | Facing an Adult Problem: New Datasets for Fair Machine Learning
-14:46 - 15:02 (ET) | Measuring Data Collection Diligence for Community Healthcare
-15:02 - 15:13 (ET) | Open Data Standard and Analysis Framework: Towards Response Equity in Local Governments
+14:30 - 14:46 (ET) | Facing an Adult Problem: New Datasets for Fair Machine Learning (F. Ding, M. Hardt, J. Miller and L. Schmidt)
+14:46 - 15:02 (ET) | Measuring Data Collection Diligence for Community Healthcare (R. Karunasena, M. S. Ambiya, A. Sinha, R. Nagar, S. Dalal, D. Thakkar, D. Narayanan and M. Tambe)
+15:02 - 15:13 (ET) | Open Data Standard and Analysis Framework: Towards Response Equity in Local Governments (J. Hsu, R. Ravichandran, E. Zhang and C. Keung)
 15:15 - 15:30 (ET) | *Short Break*
 15:30 - 16:15 (ET) | Session: **Law and Politics**
-15:30 - 15:46 (ET) | Prosecutor Politics: The Impact of Election Cycles on Criminal Sentencing in the Era of Rising Incarceration
-15:46 - 16:02 (ET) | Breaking Taboos in Fair Machine Learning: An Experimental Study
-16:02 - 16:13 (ET) | Proportional Apportionment: A Case Study From the Chilean Constitutional Convention
+15:30 - 15:46 (ET) | Prosecutor Politics: The Impact of Election Cycles on Criminal Sentencing in the Era of Rising Incarceration (C. Okafor)
+15:46 - 16:02 (ET) | Breaking Taboos in Fair Machine Learning: An Experimental Study (J. Nyarko, S. Goel and R. Sommers)
+16:02 - 16:13 (ET) | Proportional Apportionment: A Case Study From the Chilean Constitutional Convention (J. Cembrano, J. Correa, G. Diaz and V. Verdugo)
 16:15 - 17:15 (ET) | Session: **Policy and Funding**
-16:15 - 16:31 (ET) | Redistributive Allocation Mechanisms
-16:31 - 16:47 (ET) | Algorithm is Experiment: Machine Learning, Market Design, and Policy Eligibility Rules
-16:47 - 17:03 (ET) | (Machine) Learning what Policymakers Value
-17:03 - 17:14 (ET) | Impact Remediation: Optimal Interventions to Reduce Inequality
+16:15 - 16:31 (ET) | Redistributive Allocation Mechanisms (Z. Schutzman)
+16:31 - 16:47 (ET) | Algorithm is Experiment: Machine Learning, Market Design, and Policy Eligibility Rules (Y. Narita and K. Yata)
+16:47 - 17:03 (ET) | (Machine) Learning what Policymakers Value (D. Bjorkegren, J. Blumenstock and S. Knight)
+17:03 - 17:14 (ET) | Impact Remediation: Optimal Interventions to Reduce Inequality (L. Bynum, J. Loftus and J. Stoyanovich)
 
 {{< /spoiler >}}
 
@@ -77,10 +77,10 @@ Please note that this is a **preliminary conference program** and that slight al
 11:30 - 12:00 (ET) | **Keynote panel** | [Michal Feldman](https://www.mfeldman.sites.tau.ac.il/)
 12:00 - 12:15 (ET) | *Short Break*
 12:15 - 13:15 (ET) | Session: **Recommendations and Auditing**
-12:15 - 12:31 (ET) | The Stereotyping Problem in Collaboratively Filtered Recommender Systems
-12:31 - 12:47 (ET) | Algorithmic Auditing for Social Justice
-12:47 - 13:03 (ET) | Project 412Connect: Bridging Students to Communities
-13:03 - 13:19 (ET) | Unpacking the Black Box: Regulating Algorithmic Decision-Making with Ex-Post Audits
+12:15 - 12:31 (ET) | The Stereotyping Problem in Collaboratively Filtered Recommender Systems (W. Guo, K. Krauth, M. Jordan and N. Garg).
+12:31 - 12:47 (ET) | Algorithmic Auditing for Social Justice (B. Vecchione, K. Levy and S. Barocas)
+12:47 - 13:03 (ET) | Project 412Connect: Bridging Students to Communities (A. DiChristofano, M. L. Hamilton, S. Linardi and M. F. McCloud)
+13:03 - 13:19 (ET) | Unpacking the Black Box: Regulating Algorithmic Decision-Making with Ex-Post Audits (L. Blattner, S. Nelson and J. Spiess)
 13:19 - 14:00 (ET) | *Long Break*
 14:00 - 14:30 (ET) | **Keynote talk**  | [Ashish Goel](https://eaamo.org/speakers/#ashish-goel)
 14:30 - 15:15 (ET) | Session: **Allocation**
