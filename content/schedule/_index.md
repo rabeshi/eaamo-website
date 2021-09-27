@@ -128,7 +128,7 @@ Please note that this is a **preliminary conference program** and that slight al
 ------------ | ------------- 
 11:00 - 11:30 (ET) | **Keynote**: [Avinatan Hassidim](https://eaamo.org/speakers/#avinatan-hassidim)
 11:30 - 12:30 (ET) | **Poster Session 2**
-12:30 - 15:15 (ET) | Session: **Labor Markets and Education**
+12:30 - 13:15 (ET) | Session: **Labor Markets and Education**
 12:30 - 12:46 (ET) | Increasing the Demand for Workers with a Criminal Record (Z. Cullen, M. Hoffman and W. Dobbie)
 12:46 - 13:02 (ET) | A Market Design Solution to the Unequal Distribution of Teachers in Schools (U. Dur, J. Combe, C. Terrrier, O. Terciux and U. Unver)
 13:02 - 13:18 (ET) | Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209 (Z. Bleemer)
