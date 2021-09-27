@@ -163,7 +163,7 @@ Please note that this is a **preliminary conference program** and that slight al
 12:45 - 13:01 (ET) | A Framework of Potential Sources of Harm Throughout the Machine Learning Life Cycle (H. Suresh and J. Guttag)
 13:01 - 13:17 (ET) | Algorithmic Reparation (J. L. Davis, A. Williams and M. Yang)
 13:17 - 13:33 (ET) | Opportunities for a More Interdisciplinary Approach to Perceptions of Fairness in Machine Learning (C. M. Boykin, S. Dasch, V. Rice Jr., V. Lakshminarayanan, T. A. Togun and S. M. Brown)
-13:33 - 13:44 (ET) | Understanding Accuracy-Efficiency Trade-Offs as a Means for Holding Distributed ML Systems Accountable (A. F. Cooper, K. Levy and C. De Sa)
+13:33 - 13:44 (ET) | Accuracy-Efficiency Trade-Offs and Accountability in Distributed ML Systems (A. F. Cooper, K. Levy and C. De Sa)
 13:45 - 14:00 (ET) | *Short Break*
 14:00 - 14:30 (ET) | **Keynote talk**: [Ellora Derenoncourt](https://eaamo.org/speakers/#ellora-derenoncourt)
 14:30 - 15:00 (ET) | **Keynote panel**
