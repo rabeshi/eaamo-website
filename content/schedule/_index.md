@@ -49,7 +49,7 @@ Please note that this is a **preliminary conference program** and that slight al
 11:00 - 11:30 (ET) | **Keynote talk**: [Mary Gray](https://eaamo.org/speakers/#mary-gray)
 11:30 - 12:00 (ET) | **Keynote panel**
 12:00 - 12:15 (ET) | *Short Break*
-12:15 - 13:15 (ET) | **Non-profit and Policy panel**
+12:15 - 13:15 (ET) | **Policy and Practice panel: Latin America focus**
 13:15 - 14:00 (ET) | *Long Break*
 14:00 - 14:30 (ET) | **Keynote talk**: [Dirk Bergemann](https://eaamo.org/speakers/#dirk-bergemann)
 14:30 - 15:15 (ET) | Session: **Data Standards and Datasets**
@@ -103,7 +103,7 @@ Please note that this is a **preliminary conference program** and that slight al
 11:00 - 11:30 (ET) | **Keynote**: [Radhika Khosla](https://eaamo.org/speakers/#radhika-khosla)
 11:30 - 12:00 (ET) | **Keynote panel**: [Araba Sey](https://researchictafrica.net/author/araba-sey/)
 12:00 - 12:15 (ET) | *Short Break*
-12:15 - 13:15 (ET) | **Non-profit and Policy panel**
+12:15 - 13:15 (ET) | **Policy and Practice panel: refugees and asylees focus**
 13:15 - 14:30 (ET) | *Long Break*
 14:30 - 15:15 (ET) | Session: **Language and Bias**
 14:30 - 14:46 (ET) | Mitigating Racial Biases in Toxic Language Detection with an Equity-Based Ensemble Framework (M. Halevy, C. Harris, A. Bruckman, D. Yang and A. Howard)
