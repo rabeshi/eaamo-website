@@ -30,7 +30,7 @@ EAAMO '21 will use Zoom meetings for keynote talks, panel discussions, and live 
 
 The inaugural EAAMO ‘21 will take place on **October 5-9, 2021**, virtually, on Zoom and Gather.town, with the following program.
 
-Please note that this is a **preliminary conference program** and that slight alterations are possible. Note that ET stands for current "New York, USA" time.
+Please note that this is a **preliminary conference program** and that slight alterations are possible. Note that ET stands for current "New York, USA" time. Please find **Google Calendar** below the conference program. Feel free to subscribe to the calendar.
 
 {{< spoiler text="October 4 (Monday)" >}}
 
@@ -170,3 +170,5 @@ Please note that this is a **preliminary conference program** and that slight al
 15:00 - 15:15 (ET) | *Closing remarks*
 
 {{< /spoiler >}}
+
+<iframe src=“https://calendar.google.com/calendar/embed?src=c_kd49fbl0hch5p662rpi8ls1p34%40group.calendar.google.com&ctz=America%2FNew_York” style=“border: 0" width=“800” height=“600" frameborder=“0” scrolling=“no”></iframe>
