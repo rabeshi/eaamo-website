@@ -36,7 +36,17 @@ feature:
   name: 
   description: 
   
-- icon: "macarthur_logo"
+- icon: "macarthur"
+  icon_pack: "custom"
+  name: 
+  description: 
+  
+- icon: "patterns"
+  icon_pack: "custom"
+  name: 
+  description: 
+  
+- icon: "sloan"
   icon_pack: "custom"
   name: 
   description: 
