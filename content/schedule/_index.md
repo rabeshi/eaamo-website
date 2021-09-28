@@ -171,4 +171,4 @@ Please note that this is a **preliminary conference program** and that slight al
 
 {{< /spoiler >}}
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=Y19rZDQ5ZmJsMGhjaDVwNjYycnBpOGxzMXAzNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=WEEK&showDate=1&showTabs=1&showTz=1&src=Y19rZDQ5ZmJsMGhjaDVwNjYycnBpOGxzMXAzNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26&dates=20211004/20211010" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
