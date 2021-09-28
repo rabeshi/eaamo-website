@@ -47,7 +47,7 @@ Please note that this is a **preliminary conference program** and that slight al
 ------------ | ------------- 
 10:45 - 11:00 (ET) | *Opening remarks*
 11:00 - 11:30 (ET) | **Keynote talk**: [Mary Gray](https://eaamo.org/speakers/#mary-gray)
-11:30 - 12:00 (ET) | **Keynote panel**
+11:30 - 12:00 (ET) | **Keynote panel**: [Dirk Bergemann](https://eaamo.org/speakers/#dirk-bergemann), [Mary Gray](https://eaamo.org/speakers/#mary-gray)
 12:00 - 12:15 (ET) | *Short Break*
 12:15 - 13:15 (ET) | **Policy and Practice panel: Latin America focus**
 13:15 - 14:00 (ET) | *Long Break*
@@ -74,7 +74,7 @@ Please note that this is a **preliminary conference program** and that slight al
 **Time** | **Event** 
 ------------ | ------------- 
 11:00 - 11:30 (ET) | **Keynote talk**: [Krishna Gummadi](https://eaamo.org/speakers/#krishna-gummadi)
-11:30 - 12:00 (ET) | **Keynote panel**: [Michal Feldman](https://www.mfeldman.sites.tau.ac.il/)
+11:30 - 12:00 (ET) | **Keynote talk**: [Ashish Goel](https://eaamo.org/speakers/#ashish-goel) 
 12:00 - 12:15 (ET) | *Short Break*
 12:15 - 13:15 (ET) | Session: **Recommendations and Auditing**
 12:15 - 12:31 (ET) | The Stereotyping Problem in Collaboratively Filtered Recommender Systems (W. Guo, K. Krauth, M. Jordan and N. Garg).
@@ -82,7 +82,7 @@ Please note that this is a **preliminary conference program** and that slight al
 12:47 - 13:03 (ET) | Project 412Connect: Bridging Students to Communities (A. DiChristofano, M. L. Hamilton, S. Linardi and M. F. McCloud)
 13:03 - 13:19 (ET) | Unpacking the Black Box: Regulating Algorithmic Decision-Making with Ex-Post Audits (L. Blattner, S. Nelson and J. Spiess)
 13:19 - 14:00 (ET) | *Long Break*
-14:00 - 14:30 (ET) | **Keynote talk**: [Ashish Goel](https://eaamo.org/speakers/#ashish-goel)
+14:00 - 14:30 (ET) | **Keynote panel**: [Michal Feldman](https://www.mfeldman.sites.tau.ac.il/), [Ashish Goel](https://eaamo.org/speakers/#ashish-goel), [Krishna Gummadi](https://eaamo.org/speakers/#krishna-gummadi)
 14:30 - 15:15 (ET) | Session: **Allocation**
 14:30 - 14:46 (ET) | Adaptive Combinatorial Allocation (M. Kasy and A. Teytelboym)
 14:46 - 15:02 (ET) | On Symmetries and Fairness in Multi-Dimensional Mechanism Design (M. Essaidi and S. M. Weinberg)
@@ -101,7 +101,7 @@ Please note that this is a **preliminary conference program** and that slight al
 **Time** | **Event** 
 ------------ | ------------- 
 11:00 - 11:30 (ET) | **Keynote**: [Radhika Khosla](https://eaamo.org/speakers/#radhika-khosla)
-11:30 - 12:00 (ET) | **Keynote panel**: [Araba Sey](https://researchictafrica.net/author/araba-sey/)
+11:30 - 12:00 (ET) | **Keynote panel**: [Radhika Khosla](https://eaamo.org/speakers/#radhika-khosla), [Araba Sey](https://researchictafrica.net/author/araba-sey/)
 12:00 - 12:15 (ET) | *Short Break*
 12:15 - 13:15 (ET) | **Policy and Practice panel: refugees and asylees focus**
 13:15 - 14:30 (ET) | *Long Break*
@@ -134,7 +134,7 @@ Please note that this is a **preliminary conference program** and that slight al
 13:02 - 13:18 (ET) | Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209 (Z. Bleemer)
 13:18 - 14:00 (ET) | *Long Break*
 14:00 - 14:30 (ET) | **Keynote talk**: [Sylvia Ortega Salazar](https://eaamo.org/speakers/#sylvia-ortega-salazar)
-14:30 - 15:00 (ET) | **Keynote panel**: [Eric Chan](https://www.babson.edu/academics/faculty/faculty-profiles/eric-wai-kin-chan.php)
+14:30 - 15:00 (ET) | **Keynote panel**: [Eric Chan](https://www.babson.edu/academics/faculty/faculty-profiles/eric-wai-kin-chan.php), [Avinatan Hassidim](https://eaamo.org/speakers/#avinatan-hassidim), [Sylvia Ortega Salazar](https://eaamo.org/speakers/#sylvia-ortega-salazar)
 15:00 - 15:15 (ET) | *Short Break*
 15:15 - 16:15 (ET) | Session: **Admissions and Representation**
 15:15 - 15:31 (ET) | An Algorithmic Framework for Positive Action (O. Thomas, M. Zilka, A. Weller and N. Quadrianto)
@@ -166,7 +166,7 @@ Please note that this is a **preliminary conference program** and that slight al
 13:33 - 13:44 (ET) | Accuracy-Efficiency Trade-Offs and Accountability in Distributed ML Systems (A. F. Cooper, K. Levy and C. De Sa)
 13:45 - 14:00 (ET) | *Short Break*
 14:00 - 14:30 (ET) | **Keynote talk**: [Ellora Derenoncourt](https://eaamo.org/speakers/#ellora-derenoncourt)
-14:30 - 15:00 (ET) | **Keynote panel**
+14:30 - 15:00 (ET) | **Keynote panel**: [Ellora Derenoncourt](https://eaamo.org/speakers/#ellora-derenoncourt), [Trooper Sanders](https://eaamo.org/speakers/#trooper-sanders)
 15:00 - 15:15 (ET) | *Closing remarks*
 
 {{< /spoiler >}}
