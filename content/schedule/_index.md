@@ -62,7 +62,7 @@ Please note that this is a **preliminary conference program** and that slight al
 15:46 - 16:02 (ET) | Breaking Taboos in Fair Machine Learning: An Experimental Study (J. Nyarko, S. Goel and R. Sommers)
 16:02 - 16:13 (ET) | Proportional Apportionment: A Case Study From the Chilean Constitutional Convention (J. Cembrano, J. Correa, G. Diaz and V. Verdugo)
 16:15 - 17:15 (ET) | Session: **Policy and Funding**
-16:15 - 16:31 (ET) | Redistributive Allocation Mechanisms (Z. Schutzman)
+16:15 - 16:31 (ET) | Redistributive Allocation Mechanisms (M. Akbarpour, P. Dworczak and S. Kominers)
 16:31 - 16:47 (ET) | Algorithm is Experiment: Machine Learning, Market Design, and Policy Eligibility Rules (Y. Narita and K. Yata)
 16:47 - 17:03 (ET) | (Machine) Learning what Policymakers Value (D. Bjorkegren, J. Blumenstock and S. Knight)
 17:03 - 17:14 (ET) | Impact Remediation: Optimal Interventions to Reduce Inequality (L. Bynum, J. Loftus and J. Stoyanovich)
