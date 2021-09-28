@@ -36,7 +36,7 @@ feature:
   name: 
   description: 
   
-- icon: "macarthurlogo"
+- icon: "macarthur_logo"
   icon_pack: "custom"
   name: 
   description: 
