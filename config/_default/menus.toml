@@ -18,7 +18,7 @@
 #  url = "speakers"
 #  weight = 40
 
-  
+
 [[main]]
 #  identifier = "dropcfp"
   name = "Call for Participation"
@@ -42,21 +42,21 @@
   name = "Participation"
   url = "participation"
   weight = 50
-  
+
 [[main]]
   identifier = "schedule"
   name = "Schedule"
   url = "schedule"
   weight = -30
   parent = "program"
-  
+
 [[main]]
   identifier = "Accepted"
   name = "Accepted Papers and Posters"
   url = "accepted"
   weight = -30
   parent = "program"
-  
+
 [[main]]
   name = "Policies"
   url = "policies"
@@ -70,12 +70,12 @@
   parent = "participation"
 
 [[main]]
-  name = "Policy and practice sessions"
+  name = "Policy and Practice Sessions"
   url = "policypractice"
   weight = -10
-  parent = "participation"
-  
-  
+  parent = "program"
+
+
 [[main]]
   identifier = "organization"
   name = "Organization"
@@ -87,7 +87,7 @@
   url = "committee"
   weight = -30
   parent = "organization"
-  
+
 [[main]]
   name = "Contact"
   url = "contact"

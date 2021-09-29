@@ -36,20 +36,20 @@ Please note that this is a **preliminary conference program** and that slight al
 
 **Time** | **Event**
 ------------ | -------------
-12:15 - 13:15 (ET) | **Policy and Practice panel**
+12:15 - 13:15 (ET) | **[Practioner and Researcher networking session](../networking/)**. <br> Meet practitioners and researchers on Gather.
 
 {{< /spoiler >}}
 
 
 {{< spoiler text="October 5 (Tuesday)" >}}
 
-**Time** | **Event** 
------------- | ------------- 
+**Time** | **Event**
+------------ | -------------
 10:45 - 11:00 (ET) | *Opening remarks*
 11:00 - 11:30 (ET) | **Keynote talk**: [Mary Gray](https://eaamo.org/speakers/#mary-gray)
 11:30 - 12:00 (ET) | **Keynote panel**: [Dirk Bergemann](https://eaamo.org/speakers/#dirk-bergemann), [Mary Gray](https://eaamo.org/speakers/#mary-gray)
 12:00 - 12:15 (ET) | *Short Break*
-12:15 - 13:15 (ET) | **Policy and Practice panel: Latin America focus**
+12:15 - 13:15 (ET) | **[Policy and Practice panel: Latin America focus](../panel_discussion_2021-10-05/)**: [Juan Manuel Arribas Berendsohn](../panel_discussion_2021-10-05/#juan-manuel-arribas-berendsohn), [Rocio Maciel](../panel_discussion_2021-10-05/#rocio-maciel), and [Nancy Rumaldo](../panel_discussion_2021-10-05/#nancy-rumaldo)
 13:15 - 14:00 (ET) | *Long Break*
 14:00 - 14:30 (ET) | **Keynote talk**: [Dirk Bergemann](https://eaamo.org/speakers/#dirk-bergemann)
 14:30 - 15:15 (ET) | Session: **Data Standards and Datasets**
@@ -71,10 +71,10 @@ Please note that this is a **preliminary conference program** and that slight al
 
 {{< spoiler text="October 6 (Wednesday)" >}}
 
-**Time** | **Event** 
------------- | ------------- 
+**Time** | **Event**
+------------ | -------------
 11:00 - 11:30 (ET) | **Keynote talk**: [Krishna Gummadi](https://eaamo.org/speakers/#krishna-gummadi)
-11:30 - 12:00 (ET) | **Keynote talk**: [Ashish Goel](https://eaamo.org/speakers/#ashish-goel) 
+11:30 - 12:00 (ET) | **Keynote talk**: [Ashish Goel](https://eaamo.org/speakers/#ashish-goel)
 12:00 - 12:15 (ET) | *Short Break*
 12:15 - 13:15 (ET) | Session: **Recommendations and Auditing**
 12:15 - 12:31 (ET) | The Stereotyping Problem in Collaboratively Filtered Recommender Systems (W. Guo, K. Krauth, M. Jordan and N. Garg).
@@ -98,12 +98,12 @@ Please note that this is a **preliminary conference program** and that slight al
 
 {{< spoiler text="October 7 (Thursday)" >}}
 
-**Time** | **Event** 
------------- | ------------- 
+**Time** | **Event**
+------------ | -------------
 11:00 - 11:30 (ET) | **Keynote**: [Radhika Khosla](https://eaamo.org/speakers/#radhika-khosla)
 11:30 - 12:00 (ET) | **Keynote panel**: [Radhika Khosla](https://eaamo.org/speakers/#radhika-khosla), [Araba Sey](https://researchictafrica.net/author/araba-sey/)
 12:00 - 12:15 (ET) | *Short Break*
-12:15 - 13:15 (ET) | **Policy and Practice panel: refugees and asylees focus**
+12:15 - 13:15 (ET) | **[Policy and Practice panel: refugees and asylees focus](../panel_discussion_2021-10-07/)**: [Yeukai Chideya](../panel_discussion_2021-10-07/#yeukai-chideya), [Richard Thickpenny](../panel_discussion_2021-10-07/#richard-thickpenny), [Paulina Vera](../panel_discussion_2021-10-07/#paulina-vera), and [Alicia Wrenn](../panel_discussion_2021-10-07/#alicia-wrenn).
 13:15 - 14:30 (ET) | *Long Break*
 14:30 - 15:15 (ET) | Session: **Language and Bias**
 14:30 - 14:46 (ET) | Mitigating Racial Biases in Toxic Language Detection with an Equity-Based Ensemble Framework (M. Halevy, C. Harris, A. Bruckman, D. Yang and A. Howard)
@@ -124,8 +124,8 @@ Please note that this is a **preliminary conference program** and that slight al
 
 {{< spoiler text="October 8 (Friday)" >}}
 
-**Time** | **Event** 
------------- | ------------- 
+**Time** | **Event**
+------------ | -------------
 11:00 - 11:30 (ET) | **Keynote**: [Avinatan Hassidim](https://eaamo.org/speakers/#avinatan-hassidim)
 11:30 - 12:30 (ET) | **Poster Session 2**
 12:30 - 13:15 (ET) | Session: **Labor Markets and Education**
@@ -150,7 +150,7 @@ Please note that this is a **preliminary conference program** and that slight al
 
 {{< spoiler text="October 9 (Saturday)" >}}
 
-**Time** | **Event** 
+**Time** | **Event**
 ------------ | -------------
 11:00 - 11:30 (ET) | **Keynote talk**: [Trooper Sanders](https://eaamo.org/speakers/#trooper-sanders)
 11:30 - 11:45 (ET) | *Short Break*

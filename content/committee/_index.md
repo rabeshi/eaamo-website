@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 cms_exclude: true
 date: "2019-01-01T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
@@ -58,7 +58,7 @@ header:
 ### Accessibility Chair:
 - Sara Kingsley (Carnegie Mellon University)
 
-### Non Profit & Policy Chairs:
+### Policy & Practice Chairs:
 - Christian Ramirez (Universidad San Ignacio de Loyola/ SEMICOM)
 - Matthew Olckers (UNSW Sydney)
 
@@ -74,7 +74,7 @@ header:
 - Mobin YahyazadehJelouda (Stanford University)
 - Renzhe Yu (University of California, Irvine)
 
-### Area chairs: 
+### Area chairs:
 
 - Hamsa Bastani, University of Pennsylvania
 - Michael Best, Columbia University
@@ -84,11 +84,11 @@ header:
 - Maria De-Arteaga, University of Texas at Austin
 - Fernando Delgado, Cornell University
 - Elena Falcettoni, Federal Reserve Board of Governors
-- Nikhil Garg, University of California Berkeley 
+- Nikhil Garg, University of California Berkeley
 - Robizon Khubulashvili, University of Pittsburgh
 - Vahideh Manshadi, Yale University
 - Sam Taggart, Oberlin College
-- Yixin Wang, University of California Berkeley 
+- Yixin Wang, University of California Berkeley
 - Matt Weinberg, Princeton University
 - Bryan Wilder, Harvard University
 - Angela Zhou, University of California Berkeley
@@ -105,7 +105,7 @@ header:
 - Asia Biega, Max Planck Institute
 - Zachary Bleemer, Harvard University
 - Camelia Bohorquez, Fundación Ceiba
-- Elizabeth Bondi, Harvard University 
+- Elizabeth Bondi, Harvard University
 - Mark Braverman, Princeton University
 - Patricia Cabero Tapia, Universidad Católica Boliviana "San Pablo"
 - Sydnee Caldwell, University of California Berkeley
@@ -125,7 +125,7 @@ header:
 - Edith Elkind, University of Oxford
 - Adam Elmachtoub, Columbia University
 - Wedad Elmaghraby, University of Maryland
-- Doaa Abu Elyounes, Harvard University 
+- Doaa Abu Elyounes, Harvard University
 - Meryem Essaidi, Princeton University
 - Elizabeth Evans, Cayenna Capital Management
 - Jessie Finocchiaro, University of Colorado Boulder
@@ -155,7 +155,7 @@ header:
 - Marlene Koffi, University of Toronto
 - Scott Kominers, Harvard University
 - Aviv Landau, Columbia University
-- Seth Lazar, Australian National University 
+- Seth Lazar, Australian National University
 - David Lee, University of California Santa Cruz
 - Christina Lee Yu, Cornell Univerrsity
 - Michael Lewis, Hunter College
@@ -177,7 +177,7 @@ header:
 - Zanele Munyikwa, MIT
 - Suresh Naidu, Columbia University
 - Moses Namara, Clemson University
-- Yusuke Narita, Yale University 
+- Yusuke Narita, Yale University
 - Abdoulaye Ndiaye, New York University
 - Diana Negoescu, LinkedIn
 - Christopher Neilson, Princeton University
@@ -185,7 +185,7 @@ header:
 - Chika Okafor, Harvard University
 - Chinasa T. Okolo, Cornell University
 - Matthew Olckers, UNSW Sydney
-- Tilsa Oré-Mónago, Universidad de Piura, Lima School of Economics 
+- Tilsa Oré-Mónago, Universidad de Piura, Lima School of Economics
 - Bobby Pakzad-Hurson, Brown University
 - Gourab K Patro, IIT Kharagpur
 - Elisabeth Paulson, Stanford University
@@ -229,7 +229,3 @@ header:
 - Juba Ziani, University of Pennsylvania
 
 (Committee members are listed in alphabetical order.)
-
-
-
-

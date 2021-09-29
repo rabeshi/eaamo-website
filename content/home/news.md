@@ -40,6 +40,6 @@ design:
   view: 2
 ---
 
-- Call for practitioners in our Policy & Practice sessions is now [live](https://eaamo.org/policypractice/)!
+- All attendees, join our [practitioner and researcher networking session](/networking/) on Monday, October 4 at 12:15 ET. 
 - Registration is now [live](https://www.eventbrite.com/e/acm-eaamo-2021-by-md4sg-tickets-162602387117)! More details [here](https://eaamo.org/registration/).
 - We are proud to be sponsored by the ACM [SIGecom](https://www.sigecom.org/) and [SIGAI](https://sigai.acm.org/)!
