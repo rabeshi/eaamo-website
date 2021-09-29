@@ -17,6 +17,9 @@ header:
 ---
 
 # **Keynote Speakers and Discussants** #
+___
+
+<br>
 
 - <a href="https://campuspress.yale.edu/dirkbergemann/">Dirk Bergemann</a>, Professor, Yale University
 - <a href="https://www.elloraderenoncourt.com/">Ellora Derenoncourt</a>, Assistant Professor, University of California, Berkeley
