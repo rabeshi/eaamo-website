@@ -48,7 +48,7 @@ Please note that this is a **preliminary conference program** and that slight al
     </tr>
   </thead>
   <tbody>
-    <tr data-toggle="collapse" data-target="#collapseMonOne" aria-expanded="false" aria-controls="collapseMonOne" class="collapsed">
+    <tr eaamo-toggle="collapse" eaamo-target="#collapseMonOne" aria-expanded="false" aria-controls="collapseMonOne" class="collapsed">
       <th scope="row">1</th>
       <td>12:15 - 13:15 (ET)</td>
       <td><b><a href="https://eaamo.org/networking/">Practioner and Researcher networking session.</b><br/>Meet practitioners and researchers on Gather.</td>
@@ -92,13 +92,13 @@ Please note that this is a **preliminary conference program** and that slight al
     </tr>
   </thead>
   <tbody>
-    <tr data-toggle="collapse" data-target="#collapseTueOne" aria-expanded="false" aria-controls="collapseTueOne" class="collapsed">
+    <tr eaamo-toggle="collapse" eaamo-target="#collapseTueOne" aria-expanded="false" aria-controls="collapseTueOne" class="collapsed">
       <th scope="row">1</th>
       <td>10:45 - 11:00 (ET)</td>
       <td>Opening remarks</td>
 	  <td></td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseTueTwo" aria-expanded="false" aria-controls="collapseTueTwo" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueTwo" aria-expanded="false" aria-controls="collapseTueTwo" class="collapsed">
       <th scope="row">2</th>
       <td>11:00 - 11:30 (ET)</td>
       <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#mary-gray">Mary Gray</a></td>
@@ -111,7 +111,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Mary L. Gray is Senior Principal Researcher at Microsoft Research and Faculty Associate at Harvard University’s Berkman Klein Center for Internet and Society. She maintains a faculty position in the Luddy School of Informatics, Computing, and Engineering with affiliations in Anthropology and Gender Studies at Indiana University. Mary, an anthropologist and media scholar by training, focuses on how people’s everyday uses of technologies transform labor, identity, and human rights. She sits on several boards, including Public Responsibility in Medicine and Research and the California Governor’s Council of Economic Advisors, in addition to chairing the Microsoft Research Ethics Review Program—the only federally-registered institutional review board of its kind in the tech industry. In 2020, Mary was named a MacArthur Fellow for her contributions to anthropology and the study of technology, digital economies, and society.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseTueThree" aria-expanded="false" aria-controls="collapseTueThree" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueThree" aria-expanded="false" aria-controls="collapseTueThree" class="collapsed">
       <th scope="row">3</th>
       <td>11:30 - 12:00 (ET)</td>
       <td><b>Keynote panel</b>: <a href="https://eaamo.org/speakers/#dirk-bergemann">Dirk Bergemann</a>, <a href="https://eaamo.org/speakers/#mary-gray">Mary Gray</a></td>
@@ -125,7 +125,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			<p>Mary L. Gray is Senior Principal Researcher at Microsoft Research and Faculty Associate at Harvard University’s Berkman Klein Center for Internet and Society. She maintains a faculty position in the Luddy School of Informatics, Computing, and Engineering with affiliations in Anthropology and Gender Studies at Indiana University. Mary, an anthropologist and media scholar by training, focuses on how people’s everyday uses of technologies transform labor, identity, and human rights. She sits on several boards, including Public Responsibility in Medicine and Research and the California Governor’s Council of Economic Advisors, in addition to chairing the Microsoft Research Ethics Review Program—the only federally-registered institutional review board of its kind in the tech industry. In 2020, Mary was named a MacArthur Fellow for her contributions to anthropology and the study of technology, digital economies, and society.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseTueFour" aria-expanded="false" aria-controls="collapseTueFour" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueFour" aria-expanded="false" aria-controls="collapseTueFour" class="collapsed">
       <th scope="row">4</th>
       <td>12:00 - 12:15 (ET)</td>
       <td>Short break</td>
@@ -138,7 +138,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the short break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseTueFive" aria-expanded="false" aria-controls="collapseTueFive" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueFive" aria-expanded="false" aria-controls="collapseTueFive" class="collapsed">
       <th scope="row">5</th>
       <td>12:15 - 13:15 (ET)</td>
       <td><a href="https://eaamo.org/panel_discussion_2021-10-05/">Policy and Practice panel: Latin America focus: Juan Manuel Arribas Berendsohn, Rocio Maciel, and Nancy Rumaldo</a></td>
@@ -157,7 +157,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			</ul>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseTueSix" aria-expanded="false" aria-controls="collapseTueSix" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueSix" aria-expanded="false" aria-controls="collapseTueSix" class="collapsed">
       <th scope="row">6</th>
       <td>13:15 - 14:00 (ET)</td>
       <td>Long Break</td>
@@ -170,7 +170,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the long break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseTueSeven" aria-expanded="false" aria-controls="collapseTueSeven" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueSeven" aria-expanded="false" aria-controls="collapseTueSeven" class="collapsed">
       <th scope="row">7</th>
       <td>14:00 - 14:30 (ET)</td>
       <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#dirk-bergemann">Dirk Bergemann</a></td>
@@ -183,7 +183,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Dirk Bergemann is the Douglass and Marion Campbell Professor of Economics at Yale University. He has secondary appointments as Professor of Computer Science in the School of Engineering and Professor of Finance in the School of Management. He received his Ph.D. in Economics from the University of Pennsylvania in 1994. He joined Yale in 1995 as an assistant professor, having previously served as a faculty member at Princeton University. He has been affiliated with the Cowles Foundation for Research in Economics at Yale since 1996 and a fellow of the Econometric Society since 2007. Dirk Bergemann was Chair of the Department of Economics from 2013-2019 and Co-Editor of Econometrica from 2014-2018. He was recently appointed as Co-Editor of American Economic Review: Insights, 2020- and is a Member of the Executive Committee of the Econometric Society 2021. His research is in the area of game theory, contract theory, venture capital and market design. His most recent work is in the area of dynamic mechanism design and dynamic pricing, robust mechanism design, and information design. His research has been supported by grants from the National Science Foundation, the Alfred P. Sloan Research Fellowship, Google Faculty Fellow, the Knight Foundation, the Omidyar Network and the German National Science Foundation.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseTueEight" aria-expanded="false" aria-controls="collapseTueEight" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueEight" aria-expanded="false" aria-controls="collapseTueEight" class="collapsed">
       <th scope="row">8</th>
       <td>14:30 - 15:15 (ET)</td>
       <td>Session: <b>Data Standards and Datasets</b></td>
@@ -217,7 +217,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			</table>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseTueNine" aria-expanded="false" aria-controls="collapseTueNine" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueNine" aria-expanded="false" aria-controls="collapseTueNine" class="collapsed">
       <th scope="row">9</th>
       <td>15:15 - 15:30 (ET))</td>
       <td>Short Break</td>
@@ -230,7 +230,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the short break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseTueTen" aria-expanded="false" aria-controls="collapseTueTen" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueTen" aria-expanded="false" aria-controls="collapseTueTen" class="collapsed">
       <th scope="row">10</th>
       <td>15:30 - 16:15 (ET)</td>
       <td>Session: <b>Law and Politics</b></td>
@@ -264,7 +264,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			</table>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseTueEleven" aria-expanded="false" aria-controls="collapseTueEleven" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueEleven" aria-expanded="false" aria-controls="collapseTueEleven" class="collapsed">
       <th scope="row">11</th>
       <td>16:15 - 17:15 (ET)</td>
       <td>Session: <b>Policy and Funding</b></td>
@@ -318,7 +318,7 @@ Please note that this is a **preliminary conference program** and that slight al
     </tr>
   </thead>
   <tbody>
-	<tr data-toggle="collapse" data-target="#collapseWedOne" aria-expanded="false" aria-controls="collapseWedOne" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedOne" aria-expanded="false" aria-controls="collapseWedOne" class="collapsed">
       <th scope="row">1</th>
       <td>11:00 - 11:30 (ET)</td>
       <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#krishna-gummadi">Krishna Gummadi</a></td>
@@ -331,7 +331,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Krishna Gummadi is a scientific director at the Max Planck Institute for Software Systems (MPI-SWS) and a professor at the University of Saarland in Germany. Krishna's research interests are in the measurement, analysis, design, and evaluation of complex Internet-scale systems, particularly social computing systems. His work on fair machine learning, online social networks and media, Internet access networks, and peer-to-peer systems has been widely cited and his papers have received numerous awards, including Test of Time Awards at ACM SIGCOMM and AAAI ICWSM, Casper Bowden Privacy Enhancing Technologies (PET) and CNIL-INRIA Privacy Runners-Up Awards, IW3C2 WWW Best Paper Honorable Mention, and Best Papers at NIPS ML & Law Symposium, ACM COSN, ACM/Usenix SOUPS, AAAI ICWSM, Usenix OSDI, ACM SIGCOMM IMC, ACM SIGCOMM CCR, and SPIE MMCN. He received an ERC Advanced Grant in 2017 to investigate "Foundations for Fair Social Computing."</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseWedTwo" aria-expanded="false" aria-controls="collapseWedTwo" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedTwo" aria-expanded="false" aria-controls="collapseWedTwo" class="collapsed">
       <th scope="row">2</th>
       <td>11:30 - 12:00 (ET)</td>
       <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#ashish-goel">Ashish Goel</a></td>
@@ -344,7 +344,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Ashish Goel is a Professor of Management Science and Engineering and (by courtesy) Computer Science at Stanford University. He received his PhD in Computer Science from Stanford in 1999, and was an Assistant Professor of Computer Science at the University of Southern California from 1999 to 2002. His research interests lie in the design, analysis, and applications of algorithms; current application areas of interest include social networks, participatory democracy, Internet commerce, and large scale data processing. He has received an Alfred P. Sloan faculty fellowship (2004-06) and a Rajeev Motwani mentorship award (2010). He was a co-author on the paper that won the best paper award at WWW 2009, an Edelman Laureate in 2014, and a co-winner of the SigEcom Test of Time Award in 2018. Professor Goel was a research fellow and technical advisor at Twitter, Inc. from July 2009 to Aug 2014.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseWedThree" aria-expanded="false" aria-controls="collapseWedThree" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedThree" aria-expanded="false" aria-controls="collapseWedThree" class="collapsed">
       <th scope="row">3</th>
       <td>12:15 - 13:15 (ET)</td>
       <td>Session: <b>Recommendations and Auditing</b></td>
@@ -382,7 +382,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			</table>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseWedFour" aria-expanded="false" aria-controls="collapseWedFour" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedFour" aria-expanded="false" aria-controls="collapseWedFour" class="collapsed">
       <th scope="row">4</th>
       <td>13:19 - 14:00 (ET)</td>
       <td>Long Break</td>
@@ -395,7 +395,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the long break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseWedFive" aria-expanded="false" aria-controls="collapseWedFive" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedFive" aria-expanded="false" aria-controls="collapseWedFive" class="collapsed">
       <th scope="row">5</th>
       <td>14:00 - 14:30 (ET)</td>
       <td><b>Keynote panel</b>: <a href="https://www.mfeldman.sites.tau.ac.il/">Michal Feldman</a>, <a href="https://eaamo.org/speakers/#ashish-goel">Ashish Goel</a>, <a href="https://eaamo.org/speakers/#krishna-gummadi">Krishna Gummadi</a></td>
@@ -410,7 +410,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			<p>Krishna Gummadi is a scientific director at the Max Planck Institute for Software Systems (MPI-SWS) and a professor at the University of Saarland in Germany. Krishna's research interests are in the measurement, analysis, design, and evaluation of complex Internet-scale systems, particularly social computing systems. His work on fair machine learning, online social networks and media, Internet access networks, and peer-to-peer systems has been widely cited and his papers have received numerous awards, including Test of Time Awards at ACM SIGCOMM and AAAI ICWSM, Casper Bowden Privacy Enhancing Technologies (PET) and CNIL-INRIA Privacy Runners-Up Awards, IW3C2 WWW Best Paper Honorable Mention, and Best Papers at NIPS ML & Law Symposium, ACM COSN, ACM/Usenix SOUPS, AAAI ICWSM, Usenix OSDI, ACM SIGCOMM IMC, ACM SIGCOMM CCR, and SPIE MMCN. He received an ERC Advanced Grant in 2017 to investigate "Foundations for Fair Social Computing."</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseWedSix" aria-expanded="false" aria-controls="collapseWedSix" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedSix" aria-expanded="false" aria-controls="collapseWedSix" class="collapsed">
       <th scope="row">6</th>
       <td>14:30 - 15:15 (ET)</td>
       <td>Session: <b>Allocation</b></td>
@@ -444,7 +444,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			</table>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseWedSeven" aria-expanded="false" aria-controls="collapseWedSeven" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedSeven" aria-expanded="false" aria-controls="collapseWedSeven" class="collapsed">
       <th scope="row">7</th>
       <td>15:15 - 15:30 (ET)</td>
       <td>Short break</td>
@@ -457,7 +457,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the short break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseWedEight" aria-expanded="false" aria-controls="collapseWedEight" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedEight" aria-expanded="false" aria-controls="collapseWedEight" class="collapsed">
       <th scope="row">8</th>
       <td>15:30 - 16:15 (ET)</td>
       <td>Session: <b>Transportation</b></td>
@@ -491,7 +491,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			</table>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseWedNine" aria-expanded="false" aria-controls="collapseWedNine" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedNine" aria-expanded="false" aria-controls="collapseWedNine" class="collapsed">
       <th scope="row">9</th>
       <td>16:15 - 17:15 (ET)</td>
       <td><b>Poster Session 1</b></td>
@@ -520,7 +520,7 @@ Please note that this is a **preliminary conference program** and that slight al
     </tr>
   </thead>
   <tbody>
-	<tr data-toggle="collapse" data-target="#collapseThuOne" aria-expanded="false" aria-controls="collapseThuOne" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuOne" aria-expanded="false" aria-controls="collapseThuOne" class="collapsed">
       <th scope="row">1</th>
       <td>11:00 - 11:30 (ET)</td>
       <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#radhika-khosla">Radhika Khosla</a></td>
@@ -533,7 +533,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Dr. Radhika Khosla is Associate Professor at the Smith School of Enterprise and Environment and Research Director of the Oxford India Centre for Sustainable Development at the University of Oxford. She works on examining the productive tensions between urban transitions, energy services consumption, and climate change, with a focus on developing country cities. Radhika is also the Principal Investigator of the Oxford Martin School's interdisciplinary and multi-country program on the Future of Cooling, and co-investigator for the Oxford Net Zero program. She is a contributing author to the sixth assessment report of the Intergovernmental Panel on Climate Change (IPCC) and lead author of the UNEP Emissions Gap Report. She is a member of the UK Government’s UK-India Advisory Committee and serves on boards of journals, advancing interdisciplinary understanding of how cities in transition manage the tensions of meeting growing energy needs for development while protecting the local and global environment. Previously, she has been at the Massachusetts Institute of Technology, a Fellow at the Centre for Policy Research in New Delhi, and Staff Scientist at the Natural Resources Defense Council in New York. Radhika holds a Ph.D in the Geophysical Sciences from the University of Chicago and undergraduate and Master's degrees in Physics from the University of Oxford.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseThuTwo" aria-expanded="false" aria-controls="collapseThuTwo" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuTwo" aria-expanded="false" aria-controls="collapseThuTwo" class="collapsed">
       <th scope="row">2</th>
       <td>11:30 - 12:00 (ET)</td>
       <td><b>Keynote panel</b>: <a href="https://eaamo.org/speakers/#radhika-khosla">Radhika Khosla</a>, <a href="https://researchictafrica.net/author/araba-sey/">Araba Sey</a></td>
@@ -547,7 +547,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			<p>Araba Sey is a Principal Researcher with Research ICT Africa, and a Senior Research Scientist at the University of Washington Information School. She has managed international research projects on the impacts of computer and internet access in a variety of contexts including studies of social and economic impacts of public access computing; technology entrepreneurship and livelihood sustainability; coding bootcamp models; gender digital equality; gender and tech hubs in Africa; and participatory methodologies for gender data collection in Africa and Latin America.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseThuThree" aria-expanded="false" aria-controls="collapseThuThree" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuThree" aria-expanded="false" aria-controls="collapseThuThree" class="collapsed">
       <th scope="row">3</th>
       <td>12:00 - 12:15 (ET)</td>
       <td>Short break</td>
@@ -560,7 +560,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the short break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseThuFour" aria-expanded="false" aria-controls="collapseThuFour" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuFour" aria-expanded="false" aria-controls="collapseThuFour" class="collapsed">
       <th scope="row">4</th>
       <td>12:15 - 13:15 (ET)</td>
       <td><a href="https://eaamo.org/panel_discussion_2021-10-07/">Policy and Practice panel: refugees and asylees focus: Yeukai Chideya, Richard Thickpenny, Paulina Vera, and Alicia Wrenn</a></td>
@@ -581,7 +581,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			<p>The aim of the panel discussion is to gain insight into the panelists' work, their careers in the civic sector, the main challenges they face, and how to bridge the gap between research and practice. We will get insight on common misconceptions about refugees and asylees, what the panelists think researchers could learn from their experience, and what changes the panel think could most improve the lives of refugees and asylees.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseThuSix" aria-expanded="false" aria-controls="collapseThuSix" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuSix" aria-expanded="false" aria-controls="collapseThuSix" class="collapsed">
       <th scope="row">5</th>
       <td>13:15 - 14:00 (ET)</td>
       <td>Long Break</td>
@@ -594,7 +594,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the long break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseThuSeven" aria-expanded="false" aria-controls="collapseThuSeven" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuSeven" aria-expanded="false" aria-controls="collapseThuSeven" class="collapsed">
       <th scope="row">6</th>
       <td>14:30 - 15:15 (ET)</td>
       <td>Session: <b>Language and Bias</b></td>
@@ -628,7 +628,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			</table>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseThuEight" aria-expanded="false" aria-controls="collapseThuEight" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuEight" aria-expanded="false" aria-controls="collapseThuEight" class="collapsed">
       <th scope="row">7</th>
       <td>15:15 - 15:30 (ET)</td>
       <td>Short break</td>
@@ -641,7 +641,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the short break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseThuNine" aria-expanded="false" aria-controls="collapseThuNine" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuNine" aria-expanded="false" aria-controls="collapseThuNine" class="collapsed">
       <th scope="row">8</th>
       <td>15:30 - 16:15 (ET)</td>
       <td>Session: <b>Access to Healthcare</b></td>
@@ -675,7 +675,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			</table>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseThuTen" aria-expanded="false" aria-controls="collapseThuTen" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuTen" aria-expanded="false" aria-controls="collapseThuTen" class="collapsed">
       <th scope="row">9</th>
       <td>16:18 - 17:15 (ET)</td>
       <td>Session: <b>COVID-19</b></td>
@@ -729,7 +729,7 @@ Please note that this is a **preliminary conference program** and that slight al
     </tr>
   </thead>
   <tbody>
-	<tr data-toggle="collapse" data-target="#collapseFriOne" aria-expanded="false" aria-controls="collapseFriOne" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriOne" aria-expanded="false" aria-controls="collapseFriOne" class="collapsed">
       <th scope="row">1</th>
       <td>11:00 - 11:30 (ET)</td>
       <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#avinatan-hassidim">Avinatan Hassidim</a></td>
@@ -742,7 +742,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Avinatan Hassidim is a professor of computer Science at Bar Ilan University, and a director in Google research where he leads the Israel research group. His main research interest is market design, and specifically matching markets. In addition to do theoretical work, Avinatan designed the Israeli medical interns lottery, the Israeli Psychology Match and the Israeli Lawyers' match. Avinatan's group at Google did projects from Flood Forecasting (system protects 200M people in India and Bangladesh), Looking to Listen, Google Duplex and Euphonia. Avinatan's work has won numerous awards, including Editor's choice PRL 2010, Best paper award SIGMETRICS 2011, and Runner Up for Best Paper INFOCOM 2012&2013.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseFriTwo" aria-expanded="false" aria-controls="collapseFriTwo" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriTwo" aria-expanded="false" aria-controls="collapseFriTwo" class="collapsed">
       <th scope="row">2</th>
       <td>11:30 - 12:30 (ET)</td>
       <td><b>Poster Session 2</b></td>
@@ -755,7 +755,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Use Gather.town to browse the posters and discuss it with authors</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseFriThree" aria-expanded="false" aria-controls="collapseFriThree" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriThree" aria-expanded="false" aria-controls="collapseFriThree" class="collapsed">
       <th scope="row">3</th>
       <td>12:30 - 13:15 (ET)</td>
       <td>Session: <b>Labor Markets and Education</b></td>
@@ -789,7 +789,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			</table>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseFriFour" aria-expanded="false" aria-controls="collapseFriFour" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriFour" aria-expanded="false" aria-controls="collapseFriFour" class="collapsed">
       <th scope="row">4</th>
       <td>13:18 - 14:00 (ET)</td>
       <td>Long Break</td>
@@ -802,7 +802,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the long break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseFriFive" aria-expanded="false" aria-controls="collapseFriFive" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriFive" aria-expanded="false" aria-controls="collapseFriFive" class="collapsed">
       <th scope="row">5</th>
       <td>14:00 - 14:30 (ET)</td>
       <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#sylvia-ortega-salazar">Sylvia Ortega Salazar</a></td>
@@ -815,7 +815,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Sociologist and educator, Dr. Sylvia Ortega Salazar served as Vice minister for Upper High School and VET of México. She has been Rector of the Metropolitan Autonomous University-Azcapotzalco; General Director of International Cooperation at the National Council for Science and Technology (CONACyT), Vice minister of Basic Education in Mexico City, Rector of the National Pedagogical University and General Director of the Colegio de Bachilleres, a network of public upper high schools. She was the first woman Rector of a public University in Mexico and has received numerous recognitions for academic achievement, public service and contributions to international education. Widely published, her lines of research include educational policy design and practice; teacher training and professional development; theories of educational change; dual models of education and employability. She currently serves as principal consultant to the Colegio Nacional de Educación Profesional Técnica (CONALEP). As of January 2021, she was elected President of the National Advisory Council in Education. Dr. Ortega obtained a BA degree in Sociology at the National Autonomous University of Mexico, an MSc from the University of Wisconsin and a Ph.D. at the University of Texas. She resides in Mexico City.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseFriSix" aria-expanded="false" aria-controls="collapseFriSix" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriSix" aria-expanded="false" aria-controls="collapseFriSix" class="collapsed">
       <th scope="row">6</th>
       <td>14:30 - 15:00 (ET)</td>
       <td><b>Keynote panel</b>: <a href="https://www.babson.edu/academics/faculty/faculty-profiles/eric-wai-kin-chan.php">Eric Chan</a>, <a href="https://eaamo.org/speakers/#avinatan-hassidim">Avinatan Hassidim</a>, <a href="https://eaamo.org/speakers/#sylvia-ortega-salazar">Sylvia Ortega Salazar</a></td>
@@ -830,7 +830,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			<p>Sociologist and educator, Dr. Sylvia Ortega Salazar served as Vice minister for Upper High School and VET of México. She has been Rector of the Metropolitan Autonomous University-Azcapotzalco; General Director of International Cooperation at the National Council for Science and Technology (CONACyT), Vice minister of Basic Education in Mexico City, Rector of the National Pedagogical University and General Director of the Colegio de Bachilleres, a network of public upper high schools. She was the first woman Rector of a public University in Mexico and has received numerous recognitions for academic achievement, public service and contributions to international education. Widely published, her lines of research include educational policy design and practice; teacher training and professional development; theories of educational change; dual models of education and employability. She currently serves as principal consultant to the Colegio Nacional de Educación Profesional Técnica (CONALEP). As of January 2021, she was elected President of the National Advisory Council in Education. Dr. Ortega obtained a BA degree in Sociology at the National Autonomous University of Mexico, an MSc from the University of Wisconsin and a Ph.D. at the University of Texas. She resides in Mexico City.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseFriSeven" aria-expanded="false" aria-controls="collapseFriSeven" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriSeven" aria-expanded="false" aria-controls="collapseFriSeven" class="collapsed">
       <th scope="row">7</th>
       <td>15:00 - 15:15 (ET)</td>
       <td>Short break</td>
@@ -843,7 +843,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the short break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseFriEight" aria-expanded="false" aria-controls="collapseFriEight" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriEight" aria-expanded="false" aria-controls="collapseFriEight" class="collapsed">
       <th scope="row">8</th>
       <td>15:15 - 16:15 (ET)</td>
       <td>Session: <b>Admissions and Representation</b></td>
@@ -881,7 +881,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			</table>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseFriNine" aria-expanded="false" aria-controls="collapseFriNine" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriNine" aria-expanded="false" aria-controls="collapseFriNine" class="collapsed">
       <th scope="row">9</th>
       <td>16:19 - 17:02 (ET)</td>
       <td>Session: <b>Access to Schools</b></td>
@@ -931,7 +931,7 @@ Please note that this is a **preliminary conference program** and that slight al
     </tr>
   </thead>
   <tbody>
-	<tr data-toggle="collapse" data-target="#collapseSatOne" aria-expanded="false" aria-controls="collapseSatOne" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseSatOne" aria-expanded="false" aria-controls="collapseSatOne" class="collapsed">
       <th scope="row">1</th>
       <td>11:00 - 11:30 (ET)</td>
       <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#trooper-sanders">Trooper Sanders</a></td>
@@ -944,7 +944,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>A Detroit native, Trooper has more than 20 years of experience working at the crossroads of business, government, and the nonprofit sector. He currently serves as Chief Executive Officer at Benefits Data Trust, a national nonprofit that helps people live healthier, more independent lives by creating smarter ways to access essential benefits and services. Prior to joining BDT, Trooper was a social impact and policy advisor to financial technology startups, business leaders, and philanthropic initiatives. At the Clinton Foundation, Trooper helped create the Alliance for a Healthier Generation, a joint venture with the American Heart Association to reduce obesity in the U.S. Trooper also held White House policy staff positions during two separate administrations. He most recently served as a Rockefeller Foundation Fellow, carrying out a project to identify opportunities to ensure that artificial intelligence improves social and economic equity. Trooper is a graduate of the University of Michigan and holds a Master of Science degree from the London School of Economics and a Master of Laws from the University of London.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseSatTwo" aria-expanded="false" aria-controls="collapseSatTwo" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseSatTwo" aria-expanded="false" aria-controls="collapseSatTwo" class="collapsed">
       <th scope="row">2</th>
       <td>11:30 - 11:45 (ET)</td>
       <td>Short break</td>
@@ -957,7 +957,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the short break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseSatThree" aria-expanded="false" aria-controls="collapseSatThree" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseSatThree" aria-expanded="false" aria-controls="collapseSatThree" class="collapsed">
       <th scope="row">3</th>
       <td>11:45 - 12:30 (ET)</td>
       <td>Session: <b>Diversity and Representation</b></td>
@@ -991,7 +991,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			</table>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseSatFour" aria-expanded="false" aria-controls="collapseSatFour" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseSatFour" aria-expanded="false" aria-controls="collapseSatFour" class="collapsed">
       <th scope="row">4</th>
       <td>12:30 - 12:45 (ET)</td>
       <td>Short break</td>
@@ -1004,7 +1004,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the short break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseSatFive" aria-expanded="false" aria-controls="collapseSatFive" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseSatFive" aria-expanded="false" aria-controls="collapseSatFive" class="collapsed">
       <th scope="row">5</th>
       <td>12:45 - 13:45 (ET)</td>
       <td>Session: <b>Justice in Machine Learning</b></td>
@@ -1042,7 +1042,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			</table>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseSatSix" aria-expanded="false" aria-controls="collapseSatSix" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseSatSix" aria-expanded="false" aria-controls="collapseSatSix" class="collapsed">
       <th scope="row">6</th>
       <td>13:45 - 14:00 (ET)</td>
       <td>Short break</td>
@@ -1055,7 +1055,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Enjoy the short break. Use Gather.town for discussion and meet new people!</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseSatSeven" aria-expanded="false" aria-controls="collapseSatSeven" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseSatSeven" aria-expanded="false" aria-controls="collapseSatSeven" class="collapsed">
       <th scope="row">7</th>
       <td>14:00 - 14:30 (ET)</td>
       <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#ellora-derenoncourt">Ellora Derenoncourt</a></td>
@@ -1068,7 +1068,7 @@ Please note that this is a **preliminary conference program** and that slight al
     		<p>Ellora Derenoncourt is a labor economist and economic historian whose work focuses on inequality. Her recent studies have examined northern backlash against the Great Migration and ensuing reductions in Black upward mobility and the role of federal minimum wage policy in closing the racial earnings gap in the Civil Rights Era. She has also written on wage determination in low-wage labor markets and the evolution of the racial wealth gap from pre-Emancipation to the present. Her work has been featured in the Economist, the New York Times, the Wall Street Journal, Fortune Magazine, and NPR. Dr. Derenoncourt received her PhD in Economics from Harvard University in 2019, her MSc in Human Geography from the London School of Economics, and her A.B. at Harvard University.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseSatEight" aria-expanded="false" aria-controls="collapseSatEight" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseSatEight" aria-expanded="false" aria-controls="collapseSatEight" class="collapsed">
       <th scope="row">8</th>
       <td>14:30 - 15:00 (ET)</td>
       <td><b>Keynote panel</b>: <a href="https://eaamo.org/speakers/#ellora-derenoncourt">Ellora Derenoncourt</a>, <a href="https://eaamo.org/speakers/#trooper-sanders">Trooper Sanders</a></td>
@@ -1082,7 +1082,7 @@ Please note that this is a **preliminary conference program** and that slight al
 			<p>A Detroit native, Trooper has more than 20 years of experience working at the crossroads of business, government, and the nonprofit sector. He currently serves as Chief Executive Officer at Benefits Data Trust, a national nonprofit that helps people live healthier, more independent lives by creating smarter ways to access essential benefits and services. Prior to joining BDT, Trooper was a social impact and policy advisor to financial technology startups, business leaders, and philanthropic initiatives. At the Clinton Foundation, Trooper helped create the Alliance for a Healthier Generation, a joint venture with the American Heart Association to reduce obesity in the U.S. Trooper also held White House policy staff positions during two separate administrations. He most recently served as a Rockefeller Foundation Fellow, carrying out a project to identify opportunities to ensure that artificial intelligence improves social and economic equity. Trooper is a graduate of the University of Michigan and holds a Master of Science degree from the London School of Economics and a Master of Laws from the University of London.</p>
     	</td>
     </tr>
-	<tr data-toggle="collapse" data-target="#collapseSatNine" aria-expanded="false" aria-controls="collapseSatNine" class="collapsed">
+	<tr eaamo-toggle="collapse" eaamo-target="#collapseSatNine" aria-expanded="false" aria-controls="collapseSatNine" class="collapsed">
       <th scope="row">1</th>
       <td>15:00 - 15:15 (ET)</td>
       <td>Closing remarks</td>
