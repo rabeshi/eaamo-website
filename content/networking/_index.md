@@ -19,6 +19,7 @@ A diverse group of practitioners will be present at the networking session, incl
 - [Robert Upton](#robert-upton), Data Analyst and Algorithm Engineer at Avela.
 - [Ben Winters](#ben-winters), EPIC Counsel and leads EPIC's AI and Human Rights Project.
 
+Greg Bybee, Anastasia Miliano, and Robert Upton from Avela will be using the networking session to meet potential job applicants. More information available [here](#avela-is-hiring).
 
 ---
 
@@ -60,7 +61,9 @@ Ben Winters is EPIC Counsel and leads EPIC's AI and Human Rights Project. His wo
 
 ---
 
-### Avela
+#### Avela is hiring
+*Three employees of Avela will be present at the networking session and they are hoping to meet potential job applicants. Here is note from Avela.*
+
 Avela is an education technology startup focused on equity in education admissions and enrollment. We give enrollment, admission, and award officers the tools to make equitable decisions about the allocation of educational opportunities. We work with school districts and charter networks across the country, including Oakland Enrolls, Tulsa Public Schools, Jersey City Board of Education, and New Orleans Public Schools. We also work with a range of nonprofits and NGOs, including Teach for America and the Inter-American Development Bank.
 
 Our platform has four parts to cover each stage of the admission journey, from exploring options to applying and final selection and admission. Our flagship product, Avela Match, is used for running coordinated matching markets to assign individuals to programs, such as public school placements in choice districts. We also offer a range of consulting services to help districts implement enrollment reforms and advance equity in educational programs.
