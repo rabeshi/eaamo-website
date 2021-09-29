@@ -16,7 +16,20 @@ header:
   image: ""
 ---
 
-# **Keynote Speakers** #
+# **Keynote Speakers and Discussants** #
+
+- <a href="https://campuspress.yale.edu/dirkbergemann/">Dirk Bergemann</a>, Professor, Yale University
+- <a href="https://www.elloraderenoncourt.com/">Ellora Derenoncourt</a>, Assistant Professor, University of California, Berkeley
+- <a href="https://web.stanford.edu/~ashishg/">Ashish Goel</a>, Professor, Stanford University
+- <a href="https://marylgray.org/">Mary L. Gray</a>, Senior Principal Researcher, Microsoft Research
+- <a href="https://people.mpi-sws.org/~gummadi/">Krishna Gummadi</a>, Scientific Director, Max Planck Institute for Software Systems
+- <a href="https://u.cs.biu.ac.il/~avinatan/">Avinatan Hassidim</a>, Professor, Bar Ilan University
+- <a href="https://www.some.ox.ac.uk/people/radhika-khosla/">Radhika Khosla</a>, Associate Professor, University of Oxford 
+- <a href="https://www.gob.mx/mejoredu/articulos/sylvia-ortega-salazar-fue-elegida-por-unanimidad-como-presidenta-del-consejo-ciudadano-de-mejoredu">Sylvia Ortega Salazar</a>, Senior Consultant, National College of Vocational and Professional Training
+- <a href="https://bdtrust.org/trooper-sanders/">Trooper Sanders</a>, CEO, Benefits Data Trust
+- <a href="https://researchictafrica.net/author/araba-sey/">Araba Sey</a>, Principal Researcher, Research ICT Africa
+
+# **Keynote Speakers and Discussants Bios** #
 ___
 
 <br>
