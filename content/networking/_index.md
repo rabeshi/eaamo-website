@@ -1,6 +1,6 @@
 ## Networking session
 
-**October 4 (Monday) 12:15 - 13:15 (ET)** 
+**October 4 (Monday) 12:15 - 13:15 (ET)**
 
 The day before the conference officially kicks offs, we will host a networking session between researchers and practitioners.
 
@@ -52,7 +52,7 @@ Chilean Lawyer, Master in International Law, Investment and Trade from the Unive
 #### Ramya Ravichandran
 Ramya Ravichandran a mission-driven consultant, data scientist, and policy professional focused on cross-sector collaboration to build a more equitable world. She has supported organizations ranging from local government to the private sector, including roles in technology and data policy at EY and UN OCHA. She currently works at the intersection of technology and social impact with the global advisory and communications firm APCO Worldwide. She also volunteers with DataKind, a pro bono data science organization, in collaboration with the City of San Jose. She holds a Master of Public Policy degree and a bachelors in Computer Science, both from the University of Virginia.
 
-### Robert Upton
+#### Robert Upton
 Robert (Bobby) Upton is a Data Analyst and Algorithm Engineer at Avela and a Research Assistant for MIT Blueprint Labs. Bobby works closely with Parag Pathak and Josh Angrist on economic analyses and market design initiatives.
 Previously, Bobby was a Research Assistant at MIT Department of Physics and the Abdul Latif Jameel Poverty Action Lab (J-PAL). Bobby has degrees in math and economics from MIT and will continue his education at MIT as a PhD in the Economics department. When he's not cursing at his Stata code, Bobby enjoys running and exploring his latest home base (currently Washington, DC).
 
