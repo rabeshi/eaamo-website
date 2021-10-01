@@ -16,7 +16,7 @@ The main conference is happening on the Gather.town platform and Zoom. Gather.to
 All oral presentations, keynote speeches and panels will take place on Zoom. Access to the Zoom room will be via gather. In case you have issues with this, please reach out to us at helpdesk@eaamo.org or gc@eaamo.org.
 
 
-Live Translation:
+### Live Translation:
 
 We are glad to provide real-time interpretation between English and Spanish for plenary talks and our panel sessions. To familiarize yourself with Zoom's interpretation feature, please take a look at [this guide](https://support.zoom.us/hc/en-us/articles/360034919791-Language-interpretation-in-meetings-and-webinars#:~:text=Interpreters%20and%20attendees%20will%20now,audio%20which%20they%20can%20translate.).
 
