@@ -732,14 +732,14 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriOne" aria-expanded="false" aria-controls="collapseFriOne" class="collapsed">
       <th scope="row">1</th>
       <td>11:00 - 11:30 (ET)</td>
-      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#avinatan-hassidim">Avinatan Hassidim</a></td>
+      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#sylvia-ortega-salazar">Sylvia Ortega Salazar</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
     </tr>
     <tr>
     	<td colspan="6" id="collapseFriOne" class="collapse acc" data-parent="#accordion">
-    		<p><b>Avinatan Hassidim</b> is a professor of computer Science at Bar Ilan University, and a director in Google research where he leads the Israel research group. His main research interest is market design, and specifically matching markets. In addition to do theoretical work, Avinatan designed the Israeli medical interns lottery, the Israeli Psychology Match and the Israeli Lawyers' match. Avinatan's group at Google did projects from Flood Forecasting (system protects 200M people in India and Bangladesh), Looking to Listen, Google Duplex and Euphonia. Avinatan's work has won numerous awards, including Editor's choice PRL 2010, Best paper award SIGMETRICS 2011, and Runner Up for Best Paper INFOCOM 2012&2013.</p>
+    		<p>Sociologist and educator, <b>Dr. Sylvia Ortega Salazar</b> served as Vice minister for Upper High School and VET of México. She has been Rector of the Metropolitan Autonomous University-Azcapotzalco; General Director of International Cooperation at the National Council for Science and Technology (CONACyT), Vice minister of Basic Education in Mexico City, Rector of the National Pedagogical University and General Director of the Colegio de Bachilleres, a network of public upper high schools. She was the first woman Rector of a public University in Mexico and has received numerous recognitions for academic achievement, public service and contributions to international education. Widely published, her lines of research include educational policy design and practice; teacher training and professional development; theories of educational change; dual models of education and employability. She currently serves as principal consultant to the Colegio Nacional de Educación Profesional Técnica (CONALEP). As of January 2021, she was elected President of the National Advisory Council in Education. Dr. Ortega obtained a BA degree in Sociology at the National Autonomous University of Mexico, an MSc from the University of Wisconsin and a Ph.D. at the University of Texas. She resides in Mexico City.</p>
     	</td>
     </tr>
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriTwo" aria-expanded="false" aria-controls="collapseFriTwo" class="collapsed">
@@ -805,14 +805,14 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriFive" aria-expanded="false" aria-controls="collapseFriFive" class="collapsed">
       <th scope="row">5</th>
       <td>14:00 - 14:30 (ET)</td>
-      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#sylvia-ortega-salazar">Sylvia Ortega Salazar</a></td>
+      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#avinatan-hassidim">Avinatan Hassidim</a></a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
     </tr>
     <tr>
     	<td colspan="6" id="collapseFriFive" class="collapse acc" data-parent="#accordion">
-    		<p>Sociologist and educator, <b>Dr. Sylvia Ortega Salazar</b> served as Vice minister for Upper High School and VET of México. She has been Rector of the Metropolitan Autonomous University-Azcapotzalco; General Director of International Cooperation at the National Council for Science and Technology (CONACyT), Vice minister of Basic Education in Mexico City, Rector of the National Pedagogical University and General Director of the Colegio de Bachilleres, a network of public upper high schools. She was the first woman Rector of a public University in Mexico and has received numerous recognitions for academic achievement, public service and contributions to international education. Widely published, her lines of research include educational policy design and practice; teacher training and professional development; theories of educational change; dual models of education and employability. She currently serves as principal consultant to the Colegio Nacional de Educación Profesional Técnica (CONALEP). As of January 2021, she was elected President of the National Advisory Council in Education. Dr. Ortega obtained a BA degree in Sociology at the National Autonomous University of Mexico, an MSc from the University of Wisconsin and a Ph.D. at the University of Texas. She resides in Mexico City.</p>
+    		<p><b>Avinatan Hassidim</b> is a professor of computer Science at Bar Ilan University, and a director in Google research where he leads the Israel research group. His main research interest is market design, and specifically matching markets. In addition to do theoretical work, Avinatan designed the Israeli medical interns lottery, the Israeli Psychology Match and the Israeli Lawyers' match. Avinatan's group at Google did projects from Flood Forecasting (system protects 200M people in India and Bangladesh), Looking to Listen, Google Duplex and Euphonia. Avinatan's work has won numerous awards, including Editor's choice PRL 2010, Best paper award SIGMETRICS 2011, and Runner Up for Best Paper INFOCOM 2012&2013.</p>
     	</td>
     </tr>
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriSix" aria-expanded="false" aria-controls="collapseFriSix" class="collapsed">
