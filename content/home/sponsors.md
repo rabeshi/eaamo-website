@@ -23,7 +23,7 @@ design:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature: 
-- name: Platinum sponsor
+- title: Platinum sponsor
   icon: "sloan"
   icon_pack: "custom"
   description: 
