@@ -22,6 +22,26 @@ design:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+
+<h2>Platinum sponsors</h2>
+feature:
+- icon: "sloan"
+  icon_pack: "custom"
+  name: 
+  description: 
+- icon: "macarthur"
+  icon_pack: "custom"
+  name: 
+  description: 
+  
+<h2>Silver sponsors</h2>
+feature: 
+- icon: "patterns"
+  icon_pack: "custom"
+  name: 
+  description: 
+
+<h2>Sponsors</h2>
 feature: 
 - icon: "acm"
   icon_pack: "custom"
@@ -36,20 +56,7 @@ feature:
   name: 
   description: 
   
-- icon: "macarthur"
-  icon_pack: "custom"
-  name: 
-  description: 
-  
-- icon: "patterns"
-  icon_pack: "custom"
-  name: 
-  description: 
-  
-- icon: "sloan"
-  icon_pack: "custom"
-  name: 
-  description: 
+
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
