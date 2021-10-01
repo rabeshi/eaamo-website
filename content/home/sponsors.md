@@ -18,8 +18,6 @@ content:
   
 design:
   columns: '2'
-  spacing:
-    padding: ["5px", "0", "5px", "0"]
   
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -29,14 +27,17 @@ feature:
   icon: "sloan"
   icon_pack: "custom"
   description: 
+  padding: ["20px", "0", "20px", "0"]
 - name: Platinum sponsor
   icon: "macarthur"
   icon_pack: "custom"
   description: 
+  padding: ["20px", "0", "20px", "0"]
 - name: Silver sponsor 
   icon: "patterns"
   icon_pack: "custom"
   description: 
+  padding: ["20px", "0", "20px", "0"]
 - icon: "acm"
   icon_pack: "custom"
   name: 
