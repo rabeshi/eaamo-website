@@ -78,7 +78,7 @@ A Market Design Solution to the Unequal Distribution of Teachers in Schools
 On Symmetries and Fairness in Multi-Dimensional Mechanism Design  
 *Meryem Essaidi and S. Matthew Weinberg*
 
-Accuracy-Efficiency Trade-Offs and Accountability in Distributed ML Systems
+Accuracy-Efficiency Trade-Offs and Accountability in Distributed ML Systems  
 *A. Feder Cooper, Karen Levy and Christopher De Sa*
 
 Dropping Standardized Testing for Admissions Trades Off Information and Access  
