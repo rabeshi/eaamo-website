@@ -40,6 +40,7 @@ design:
   view: 2
 ---
 
+- T-3 days until EAAMO'21!
 - All attendees, join our [practitioner and researcher networking session](/networking/) on Monday, October 4 at 12:15 ET.
 - We are honored to be sponsored by the Sloan Foundation, MacArthur Foundation, and Cell Patterns.
 - Schedule is now live [on our website](/schedule)! 
