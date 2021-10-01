@@ -22,11 +22,5 @@ We are glad to provide real-time interpretation between English and Spanish for 
 
 ## Gather Guide
 
-### Setting Up:
-
-We strongly recommend that you give yourself at least a 30 minute margin to enter Gather for the first time. There can be last minute issues when entering the platform, and this way you can ensure you won't miss any workshop events/presentations.
-
-### Moving your avatar:
-
-Once you enter Gather, you will take control of an avatar, which you can move around the workshop venue with your arrow keys
+We strongly recommend that you give yourself at least a 30 minute margin to enter Gather for the first time. There can be last minute issues when entering the platform, and this way you can ensure you won't miss any workshop events/presentations. Please see [this short tutorial](https://www.youtube.com/watch?v=Dx15vYO-IMk) on setting up Gather and navigating on the platform.
 
