@@ -64,9 +64,15 @@
   parent = "participation"
 
 [[main]]
+  name = "Virtual Venue"
+  url = "virtualvenue"
+  weight = -30
+  parent = "participation"
+  
+[[main]]
   name = "Registration"
   url = "registration"
-  weight = -30
+  weight = -10
   parent = "participation"
 
 [[main]]
