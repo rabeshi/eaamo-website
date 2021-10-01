@@ -25,16 +25,16 @@ design:
 feature: 
 - icon: "sloan"
   icon_pack: "custom"
-  name: 
-  description: Platinum sponsor
+  name: Platinum sponsor
+  description: 
 - icon: "macarthur"
   icon_pack: "custom"
-  name: 
-  description: Platinum sponsor
+  name: Platinum sponsor
+  description: 
 - icon: "patterns"
   icon_pack: "custom"
-  name: 
-  description: Silver sponsor
+  name: Silver sponsor
+  description: 
 - icon: "acm"
   icon_pack: "custom"
   name: 
