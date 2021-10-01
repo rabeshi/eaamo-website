@@ -23,17 +23,17 @@ design:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature: 
-- icon: "sloan"
+- name: Platinum sponsor
+  icon: "sloan"
   icon_pack: "custom"
-  name: Platinum sponsor
   description: 
-- icon: "macarthur"
+- name: Platinum sponsor
+  icon: "macarthur"
   icon_pack: "custom"
-  name: Platinum sponsor
   description: 
-- icon: "patterns"
+- name: Silver sponsor 
+  icon: "patterns"
   icon_pack: "custom"
-  name: Silver sponsor
   description: 
 - icon: "acm"
   icon_pack: "custom"
