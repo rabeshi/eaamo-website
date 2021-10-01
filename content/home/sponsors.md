@@ -19,7 +19,7 @@ content:
 design:
   columns: '2'
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["5px", "0", "5px", "0"]
   
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
