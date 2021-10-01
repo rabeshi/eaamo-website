@@ -20,7 +20,7 @@ header:
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="css/style.css">
 
-EAAMO 2021 will be organized as a virtual-only conference. Details of the virtual conference format are described below. To determine this format, we have been inspired by good practices and experiences in many other conferences ([ACM FAccT](https://facctconference.org/) and [ACM EC](https://ec21.sigecom.org/)). Our guiding principles are:
+EAAMO 2021 will be organized as a virtual-only conference. Details of the virtual conference format are described below. To determine this format, we have been inspired by good practices and experiences in many other conferences. Our guiding principles are:
 
 * The interactive nature of a conference is to be preserved as much as possible.
 * We foster sharing of ideas and encourage cooperation between researchers and practitioners.
