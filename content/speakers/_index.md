@@ -22,6 +22,7 @@ ___
 <br>
 
 - <a href="https://campuspress.yale.edu/dirkbergemann/">Dirk Bergemann</a>, Professor, Yale University
+- <a href="https://ericwchan.com/">Eric W. Chan</a>, Assistant Professor, Babson College
 - <a href="https://www.elloraderenoncourt.com/">Ellora Derenoncourt</a>, Assistant Professor, University of California, Berkeley
 - <a href="https://web.stanford.edu/~ashishg/">Ashish Goel</a>, Professor, Stanford University
 - <a href="https://marylgray.org/">Mary L. Gray</a>, Senior Principal Researcher, Microsoft Research
@@ -45,6 +46,23 @@ ___
 ---
 
 <p><a href="https://campuspress.yale.edu/dirkbergemann/">Dirk Bergemann</a> is the Douglass and Marion Campbell Professor of Economics at Yale University. He has secondary appointments as Professor of Computer Science in the School of Engineering and Professor of Finance in the School of Management. He received his Ph.D. in Economics from the University of Pennsylvania in 1994. He joined Yale in 1995 as an assistant professor, having previously served as a faculty member at Princeton University. He has been affiliated with the Cowles Foundation for Research in Economics at Yale since 1996 and a fellow of the Econometric Society since 2007. Dirk Bergemann was Chair of the Department of Economics from 2013-2019 and Co-Editor of Econometrica from 2014-2018. He was recently appointed as Co-Editor of American Economic Review: Insights, 2020- and is a Member of the Executive Committee of the Econometric Society 2021. His research is in the area of game theory, contract theory, venture capital and market design. His most recent work is in the area of dynamic mechanism design and dynamic pricing, robust mechanism design, and information design. His research has been supported by grants from the National Science Foundation, the Alfred P. Sloan Research Fellowship, Google Faculty Fellow, the Knight Foundation, the Omidyar Network and the German National Science Foundation.</p><br>
+
+
+<img style = "float:left; margin:20px 30px 10px 0px" src="images/EricChan_square.jpg" width="25%" height = "auto">
+
+## Eric W. Chan ##
+#### Assistant Professor, Babson College ####
+
+---
+
+<p><a href="https://ericwchan.com/">Eric W. Chan </a> is an Assistant Professor of Statistics and Public Policy at Babson College. Motivated by a
+previous career in education and public policy, his research focuses on the role that parents and parent-
+focused interventions play in children’s academic outcomes. He is also deeply interested in the interplay
+between residential choice and school choice, and the mechanisms that enhances or discourages such
+choices. He has assisted school districts in designing parent engagement surveys and worked with
+several technology platforms on designing effective educational interventions. Dr. Chan received a BS
+degree in Business Management from Babson College, a MA and M.Phil from Teachers College,
+Columbia University, and a Ph.D. in Economics and Education from Columbia University.</p><br>
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/derenoncourt_square2.JPG" width="25%" height = "auto">
 
