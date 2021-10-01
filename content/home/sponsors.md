@@ -31,14 +31,14 @@ feature:
   icon_pack: "custom"
   name: 
   description: Platinum sponsor
-- icon: "acm"
-  icon_pack: "custom"
-  name: 
-  description: 
 - icon: "patterns"
   icon_pack: "custom"
   name: 
   description: Silver sponsor
+- icon: "acm"
+  icon_pack: "custom"
+  name: 
+  description: 
 - icon: "sigaiwide"
   icon_pack: "custom"
   name: 
