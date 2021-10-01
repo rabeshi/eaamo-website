@@ -296,7 +296,7 @@ Please note that this is a **preliminary conference program** and that slight al
 					<tr/>
 					<tr>
 						<td>17:03 - 17:14 (ET)</td>
-						<td>Impact Remediation: Optimal Interventions to Reduce Inequality (L. Bynum, J. Loftus and J. Stoyanovich)</td>
+						<td>Disaggregated Interventions to Reduce Inequality (L. Bynum, J. Loftus and J. Stoyanovich)</td>
 					<tr/>
 				</tbody>
 			</table>

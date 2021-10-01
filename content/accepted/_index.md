@@ -48,7 +48,7 @@ Affirmative Action, Mismatch, and Economic Mobility after California's Propositi
 Opportunities for a More Interdisciplinary Approach to Perceptions of Fairness in Machine Learning  
 *C. Malik Boykin, Sophia Dasch, Vincent Rice Jr., Venkat Lakshminarayanan, Taiwo A. Togun and Sarah M. Brown*
   
-Impact Remediation: Optimal Interventions to Reduce Inequality  
+Disaggregated Interventions to Reduce Inequality  
 *Lucius Bynum, Joshua Loftus and Julia Stoyanovich*
 
 Catchment Areas, Stratification and Access to Better Schools  
