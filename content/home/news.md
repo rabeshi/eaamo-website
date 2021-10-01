@@ -40,6 +40,7 @@ design:
   view: 2
 ---
 
-- All attendees, join our [practitioner and researcher networking session](/networking/) on Monday, October 4 at 12:15 ET. 
+- All attendees, join our [practitioner and researcher networking session](/networking/) on Monday, October 4 at 12:15 ET.
+- We are honored to be sponsored by the Sloan Foundation, MacArthur Foundation, and Cell Patterns.
+- Schedule is now live [on our website](/schedule)! 
 - Registration is now [live](https://www.eventbrite.com/e/acm-eaamo-2021-by-md4sg-tickets-162602387117)! More details [here](https://eaamo.org/registration/).
-- We are proud to be sponsored by the ACM [SIGecom](https://www.sigecom.org/) and [SIGAI](https://sigai.acm.org/)!
