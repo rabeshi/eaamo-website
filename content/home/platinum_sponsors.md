@@ -7,9 +7,9 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 50
 
-title: Sponsors
+title: Platinum Sponsors
 subtitle:
 
 content:
@@ -23,18 +23,17 @@ design:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature: 
-- icon: "acm"
+- icon: "sloan"
   icon_pack: "custom"
   name: 
   description: 
-- icon: "sigaiwide"
+- icon: "macarthur"
   icon_pack: "custom"
   name: 
   description: 
-- icon: "sigecom_logo_4rgb"
-  icon_pack: "custom"
-  name: 
-  description:
+
+  
+
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
