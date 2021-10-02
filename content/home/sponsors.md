@@ -40,6 +40,7 @@ design:
 <div class="col-sm-4 mx-auto" style="display:inline-block">
 <strong style="text-align:center">Platinum sponsor</strong>
 <br/>
+<br/>
 <img src="https://eaamo.org/home/img/sloan.svg" width="400" height="160">
 </div>
 
@@ -61,12 +62,11 @@ design:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 <img src="https://eaamo.org/home/img/acm.svg">
 </div>
 
 <div class="col-sm-4 mx-auto" style="display:inline-block" width="400" height="160">
+<br/>
 <img src="https://eaamo.org/home/img/sigaiwide.svg">
 </div>
 
