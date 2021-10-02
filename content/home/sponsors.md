@@ -22,31 +22,37 @@ design:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature: 
-- icon: "sloan"
-  icon_pack: "custom"
-  name:
-  description: 
-- icon: "macarthur"
-  icon_pack: "custom"
-  name:
-  description: 
-- icon: "patterns"
-  icon_pack: "custom"
-  name:
-  description:
-- icon: "acm"
-  icon_pack: "custom"
-  name: 
-  description: 
-- icon: "sigaiwide"
-  icon_pack: "custom"
-  name: 
-  description: 
-- icon: "sigecom_logo_4rgb"
-  icon_pack: "custom"
-  name: 
-  description:
+
+<div class="container">
+  <div class=""row>
+    <div class="col-sm-3">
+      <strong>Platinum sponsor</strong>
+      <br/>
+      <img src="img/sloan.svg">
+    </div>
+    <div class="col-sm-3">
+      <strong>Platinum sponsor</strong>
+      <br/>
+      <img src="img/macarthur.svg">
+    </div>
+    <div class="col-sm-3">
+      <strong>Silver sponsor</strong>
+      <br/>
+      <img src="img/patterns.svg">
+    </div>
+  </div>
+  <div class=""row>
+    <div class="col-sm-3">
+      <img src="img/acm.svg">
+    </div>
+    <div class="col-sm-3">
+      <img src="img/sigaiwide.svg">
+    </div>
+    <div class="col-sm-3">
+      <img src="img/sigecom_logo_4rgb.svg">
+    </div>
+  </div>
+</div>
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
