@@ -17,7 +17,7 @@ content:
   # autolink: true
   
 design:
-  columns: 2
+  columns: '2'
   
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -34,10 +34,6 @@ design:
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 
 ---
-<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://eaamo.org/home/css/style.css">
-
 <div class="container">
 
 <div class="row mb-10 mx-auto">
@@ -83,6 +79,3 @@ design:
 </div>
 </div>
 </div>
-
-<script src="https://eaamo.org/home/js/jquery.min.js"></script>
-<script src="https://eaamo.org/home/js/bootstrap.min.js"></script>
