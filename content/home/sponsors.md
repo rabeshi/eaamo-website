@@ -41,7 +41,6 @@ design:
 <strong style="text-align:center">Platinum sponsor</strong>
 <br/>
 <br/>
-<br/>
 <img src="https://eaamo.org/home/img/sloan.svg" width="400" height="160">
 </div>
 
