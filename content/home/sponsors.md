@@ -41,11 +41,13 @@ design:
 <strong style="text-align:center">Platinum sponsor</strong>
 <br/>
 <br/>
+<br/>
 <img src="https://eaamo.org/home/img/sloan.svg" width="400" height="160">
 </div>
 
 <div class="col-sm-4 mx-auto" style="display:inline-block">
 <strong style="text-align:center">Platinum sponsor</strong>
+<br/>
 <br/>
 <img src="https://eaamo.org/home/img/macarthur.svg" width="400" height="160">
 </div>
