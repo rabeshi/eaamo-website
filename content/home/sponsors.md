@@ -28,28 +28,28 @@ design:
     <div class="col-sm-3">
       <strong>Platinum sponsor</strong>
       <br/>
-      <img src="img/sloan.svg">
+      <img src="img/sloan.png">
     </div>
     <div class="col-sm-3">
       <strong>Platinum sponsor</strong>
       <br/>
-      <img src="img/macarthur.svg">
+      <img src="img/macarthur.png">
     </div>
     <div class="col-sm-3">
       <strong>Silver sponsor</strong>
       <br/>
-      <img src="img/patterns.svg">
+      <img src="img/patterns.png">
     </div>
   </div>
   <div class=""row>
     <div class="col-sm-3">
-      <img src="img/acm.svg">
+      <img src="img/acm.png">
     </div>
     <div class="col-sm-3">
-      <img src="img/sigaiwide.svg">
+      <img src="img/sigaiwide.png">
     </div>
     <div class="col-sm-3">
-      <img src="img/sigecom_logo_4rgb.svg">
+      <img src="img/sigecom_logo_4rgb.png">
     </div>
   </div>
 </div>
