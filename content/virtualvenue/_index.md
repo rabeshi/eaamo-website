@@ -6,7 +6,7 @@ The main conference is happening on the Gather.town platform and Zoom. Gather.to
 - Authentification: authenticate with the email address that you registered with
 - Tech troubleshooting: helpdesk@eaamo.org
 - EAAMO '21 gather venue map: Coming Soon
-- Social events guide: Coming Soon
+- Social events guide: [at this link](https://eaamo.org/virtualvenue/EAAMO21Socials.pdf)
 
 
 ## Zoom Logistics
