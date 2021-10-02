@@ -33,8 +33,8 @@ ___
 
 # **Discussants** #
 - <a href="https://ericwchan.com/">Eric W. Chan</a>, Assistant Professor, Babson College
-- <a href="https://researchictafrica.net/author/araba-sey/">Araba Sey</a>, Principal Researcher, Research ICT Africa
 - <a href="https://www.mfeldman.sites.tau.ac.il/">Michal Feldman</a>, Professor, Tel-Aviv University
+- <a href="https://researchictafrica.net/author/araba-sey/">Araba Sey</a>, Principal Researcher, Research ICT Africa
 
 <br>
 
@@ -140,7 +140,6 @@ ___
 
 <br>
 
-<img style = "float:left; margin:20px 30px 10px 0px" src="images/sey_square.JPG" width="25%" height = "auto">
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/EricChan_square.jpg" width="25%" height = "auto">
 
@@ -158,6 +157,7 @@ several technology platforms on designing effective educational interventions. D
 degree in Business Management from Babson College, a MA and M.Phil from Teachers College,
 Columbia University, and a Ph.D. in Economics and Education from Columbia University.</p><br>
 
+<img style = "float:left; margin:20px 30px 10px 0px" src="images/sey_square.JPG" width="25%" height = "auto">
 
 ## Araba Sey ##
 #### Principal Researcher, Research ICT Africa ####
