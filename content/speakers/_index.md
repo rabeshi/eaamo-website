@@ -157,6 +157,16 @@ several technology platforms on designing effective educational interventions. D
 degree in Business Management from Babson College, a MA and M.Phil from Teachers College,
 Columbia University, and a Ph.D. in Economics and Education from Columbia University.</p><br>
 
+<img style = "float:left; margin:20px 30px 10px 0px" src="images/Feldman_M.JPG" width="25%" height = "auto">
+
+## Michal Feldman ##
+#### Professor of Computer Science, Tel-Aviv University ####
+
+---
+
+ <p><a href="https://en-exact-sciences.tau.ac.il/EC/Meet-Michal-Feldman">Michal Feldman</a> is a Professor of computer science in the Blavatnik School of Computer Science at Tel Aviv University and a researcher at Microsoft Research (MSR) Herzliya. Her research focuses on the intersection of computer science, game theory and microeconomics. She received her Ph.D. from the University of California at Berkeley in 2005, and did her postdoc at the Hebrew University (2005-07). She was a faculty member in the School of Business Administration and the Center for the study of rationality at the Hebrew University (2007-13), and a visiting professor at Harvard University and Microsoft Research New England (2011-13). Prof. Feldman serves on the editorial board of various journals, including GEB, MOR, JCSS and ACM TEAC. She is the vice chair of ACM SIGEcom, and served as the PC chair of ACM Conference on Economics and Computation 2015. She is the recipient of various grants and fellowships, including ERC (European Research Council), Marie Curie IOF, Alon, and ISF. She is an alumna of the Israeli Young Academy and the Global Young Academy.</p><br>
+
+
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/sey_square.JPG" width="25%" height = "auto">
 
 ## Araba Sey ##
