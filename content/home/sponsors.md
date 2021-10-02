@@ -62,6 +62,7 @@ design:
 <br/>
 <br/>
 <br/>
+<br/>
 <img src="https://eaamo.org/home/img/acm.svg">
 </div>
 
@@ -71,7 +72,6 @@ design:
 </div>
 
 <div class="col-sm-4 mx-auto" style="display:inline-block">
-<br/>
 <br/>
 <br/>
 <br/>
