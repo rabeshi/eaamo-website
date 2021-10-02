@@ -40,33 +40,33 @@ design:
 <div class="col-sm-3">
 <strong style="text-align:center">Platinum sponsor</strong>
 <br/>
-<img src="img/sloan.png">
+<img src="https://eaamo.org/home/img/sloan.svg">
 </div>
 
 <div class="col-sm-3">
 <strong style="text-align:center">Platinum sponsor</strong>
 <br/>
-<img src="img/macarthur.png">
+<img src="https://eaamo.org/home/img/macarthur.svg">
 </div>
 
 <div class="col-sm-3">
 <strong style="text-align:center">Silver sponsor</strong>
 <br/>
-<img src="img/patterns.png">
+<img src="https://eaamo.org/home/img/patterns.svg">
 </div>
 </div>
 
 <div class="row">
 <div class="col-sm-3" style="vertical-align: middle">
-<img src="img/acm.png">
+<img src="https://eaamo.org/home/img/acm.svg">
 </div>
 
 <div class="col-sm-3" style="vertical-align: middle">
-<img src="img/sigaiwide.png">
+<img src="https://eaamo.org/home/img/sigaiwide.svg">
 </div>
 
 <div class="col-sm-3" style="vertical-align: middle">
-<img src="img/sigecom_logo_4rgb.png">
+<img src="https://eaamo.org/home/img/sigecom_logo_4rgb.svg">
 </div>
 </div>
 </div>
