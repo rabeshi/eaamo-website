@@ -16,13 +16,12 @@ header:
   image: ""
 ---
 
-# **Keynote Speakers and Discussants** #
+# **Keynote Speakers** #
 ___
 
 <br>
 
 - <a href="https://campuspress.yale.edu/dirkbergemann/">Dirk Bergemann</a>, Professor, Yale University
-- <a href="https://ericwchan.com/">Eric W. Chan</a>, Assistant Professor, Babson College
 - <a href="https://www.elloraderenoncourt.com/">Ellora Derenoncourt</a>, Assistant Professor, University of California, Berkeley
 - <a href="https://web.stanford.edu/~ashishg/">Ashish Goel</a>, Professor, Stanford University
 - <a href="https://marylgray.org/">Mary L. Gray</a>, Senior Principal Researcher, Microsoft Research
@@ -31,9 +30,15 @@ ___
 - <a href="https://www.some.ox.ac.uk/people/radhika-khosla/">Radhika Khosla</a>, Associate Professor, University of Oxford 
 - <a href="https://www.gob.mx/mejoredu/articulos/sylvia-ortega-salazar-fue-elegida-por-unanimidad-como-presidenta-del-consejo-ciudadano-de-mejoredu">Sylvia Ortega Salazar</a>, Senior Consultant, National College of Vocational and Professional Training
 - <a href="https://bdtrust.org/trooper-sanders/">Trooper Sanders</a>, CEO, Benefits Data Trust
-- <a href="https://researchictafrica.net/author/araba-sey/">Araba Sey</a>, Principal Researcher, Research ICT Africa
 
-# **Keynote Speakers and Discussants Bios** #
+# **Discussants** #
+- <a href="https://ericwchan.com/">Eric W. Chan</a>, Assistant Professor, Babson College
+- <a href="https://researchictafrica.net/author/araba-sey/">Araba Sey</a>, Principal Researcher, Research ICT Africa
+- <a href="https://www.mfeldman.sites.tau.ac.il/">Michal Feldman</a>, Professor, Tel-Aviv University
+
+<br>
+
+# **Keynote Speakers Bios** #
 ___
 
 <br>
@@ -46,23 +51,6 @@ ___
 ---
 
 <p><a href="https://campuspress.yale.edu/dirkbergemann/">Dirk Bergemann</a> is the Douglass and Marion Campbell Professor of Economics at Yale University. He has secondary appointments as Professor of Computer Science in the School of Engineering and Professor of Finance in the School of Management. He received his Ph.D. in Economics from the University of Pennsylvania in 1994. He joined Yale in 1995 as an assistant professor, having previously served as a faculty member at Princeton University. He has been affiliated with the Cowles Foundation for Research in Economics at Yale since 1996 and a fellow of the Econometric Society since 2007. Dirk Bergemann was Chair of the Department of Economics from 2013-2019 and Co-Editor of Econometrica from 2014-2018. He was recently appointed as Co-Editor of American Economic Review: Insights, 2020- and is a Member of the Executive Committee of the Econometric Society 2021. His research is in the area of game theory, contract theory, venture capital and market design. His most recent work is in the area of dynamic mechanism design and dynamic pricing, robust mechanism design, and information design. His research has been supported by grants from the National Science Foundation, the Alfred P. Sloan Research Fellowship, Google Faculty Fellow, the Knight Foundation, the Omidyar Network and the German National Science Foundation.</p><br>
-
-
-<img style = "float:left; margin:20px 30px 10px 0px" src="images/EricChan_square.jpg" width="25%" height = "auto">
-
-## Eric W. Chan ##
-#### Assistant Professor, Babson College ####
-
----
-
-<p><a href="https://ericwchan.com/">Eric W. Chan </a> is an Assistant Professor of Statistics and Public Policy at Babson College. Motivated by a
-previous career in education and public policy, his research focuses on the role that parents and parent-
-focused interventions play in children’s academic outcomes. He is also deeply interested in the interplay
-between residential choice and school choice, and the mechanisms that enhances or discourages such
-choices. He has assisted school districts in designing parent engagement surveys and worked with
-several technology platforms on designing effective educational interventions. Dr. Chan received a BS
-degree in Business Management from Babson College, a MA and M.Phil from Teachers College,
-Columbia University, and a Ph.D. in Economics and Education from Columbia University.</p><br>
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/derenoncourt_square2.JPG" width="25%" height = "auto">
 
@@ -145,7 +133,30 @@ Columbia University, and a Ph.D. in Economics and Education from Columbia Univer
  <p>A Detroit native, <a href="https://bdtrust.org/trooper-sanders/">Trooper</a> has more than 20 years of experience working at the crossroads of business, government, and the nonprofit sector. He currently serves as Chief Executive Officer at Benefits Data Trust, a national nonprofit that helps people live healthier, more independent lives by creating smarter ways to access essential benefits and services. Prior to joining BDT, Trooper was a social impact and policy advisor to financial technology startups, business leaders, and philanthropic initiatives. At the Clinton Foundation, Trooper helped create the Alliance for a Healthier Generation, a joint venture with the American Heart Association to reduce obesity in the U.S. Trooper also held White House policy staff positions during two separate administrations. He most recently served as a Rockefeller Foundation Fellow, carrying out a project to identify opportunities to ensure that artificial intelligence improves social and economic equity. Trooper is a graduate of the University of Michigan and holds a Master of Science degree from the London School of Economics and a Master of Laws from the University of London.</p><br>
  
 
+<br>
+
+# **Discussants Bios** #
+___
+
+<br>
+
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/sey_square.JPG" width="25%" height = "auto">
+
+<img style = "float:left; margin:20px 30px 10px 0px" src="images/EricChan_square.jpg" width="25%" height = "auto">
+
+## Eric W. Chan ##
+#### Assistant Professor, Babson College ####
+
+---
+
+<p><a href="https://ericwchan.com/">Eric W. Chan </a> is an Assistant Professor of Statistics and Public Policy at Babson College. Motivated by a
+previous career in education and public policy, his research focuses on the role that parents and parent-
+focused interventions play in children’s academic outcomes. He is also deeply interested in the interplay
+between residential choice and school choice, and the mechanisms that enhances or discourages such
+choices. He has assisted school districts in designing parent engagement surveys and worked with
+several technology platforms on designing effective educational interventions. Dr. Chan received a BS
+degree in Business Management from Babson College, a MA and M.Phil from Teachers College,
+Columbia University, and a Ph.D. in Economics and Education from Columbia University.</p><br>
 
 
 ## Araba Sey ##
@@ -154,3 +165,5 @@ Columbia University, and a Ph.D. in Economics and Education from Columbia Univer
 ---
 
  <p><a href="https://researchictafrica.net/author/araba-sey/">Araba Sey</a> is a Principal Researcher with Research ICT Africa, and a Principal Research Scientist at the University of Washington Information School. Her research examines digital and social inequalities and explores ways to foster diversity and inclusion. Ongoing projects include studies of gender digital equality in global, regional and national contexts; trends in the deployment of artificial intelligence for development in Africa; misinformation and disinformation in Africa, and approaches to democratizing knowledge creation through inclusive research design and decision-making processes that embrace different types of knowledge.</p><br>
+ 
+ 
