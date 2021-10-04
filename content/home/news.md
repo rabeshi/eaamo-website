@@ -40,7 +40,7 @@ design:
   view: 2
 ---
 
-- EAAMO'21 is live: [click here](https://eaamo.org/virtualvenue/) for accessing the virtual venue! Check-out our schedule [here](https://eaamo.org/schedule/)!
+- EAAMO'21 is live: [click here](https://eaamo.org/virtualvenue/) for accessing the virtual venue! Official program starts tomorrow: ceck-out our schedule [here](https://eaamo.org/schedule/)!
 - All attendees, join our [practitioner and researcher networking session](/networking/) on Monday, October 4 at 12:15 ET.
 - We are honored to be sponsored by the Sloan Foundation, MacArthur Foundation, and Cell Patterns.
 - Schedule is now live [on our website](/schedule)! 
