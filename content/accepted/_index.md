@@ -186,9 +186,6 @@ The De-democratization of AI: Deep Learning and the Compute Divide in Artificial
 Free to go: using algorithms to reduce the scope of cash bail  
 *Alex Albright*
 
-Can Explainable AI Explain Unfairness? A Framework for Evaluating Explainable AI  
-*Kiana Alikhademi, Brianna Richardson, Emma Drobina and Juan E. Gilbert*
-
 Queuing Safely for Elevator Systems amidst a Pandemic  
 *Sai Mali Ananthanarayanan, Charles Branas, Adam Elmachtoub, Clifford Stein and Yeqing Zhou*
 
@@ -237,12 +234,6 @@ Stateful Strategic Regression
 On designing and operating Vote-by-Mail processes  
 *Carmen Haseltine, Adam Schmidt and Laura Albert*
 
-Guaranteeing Half-Maximin Shares Under Cardinality Constraints  
-*Halvard Hummel and Magnus Lie Hetland*
-
-Beyond microtasks: towards more collaborative models of human computation and crowdsourcing  
-*David Lee and Christos Makridis*
-
 Optimal Local Explainer Aggregation for Interpretable Prediction  
 *Qiaomei Li, Yonatan Mintz and Rachel Cummings*
 
@@ -279,9 +270,6 @@ Allocating Stimulus Checks in Times of Crisis
 Linear feedback system models for understanding systemic inequity  
 *Neal Patwari, Pegah Nokhiz, Cathleen Power, Sorelle Friedler and Suresh Venkatasubramanian*
 
-Unmasking human trafficking risk in commercial sex supply chains with machine learning  
-*Pia Ramchandani, Hamsa Bastani and Emily Wyatt*
-
 Hiring as Exploration  
 *Lindsey Raymond, Danielle Li and Peter Bergman*
 
@@ -297,17 +285,11 @@ Online Platforms and the Fair Exposure Problem Under Homophily
 Algorithmic Redistricting and Black Representation  
 *Zachary Schutzman*
 
-Assisted Quick Screener Demonstration: Improving public benefit access for hard-to-reach populations through community based social service organizations  
-*Daniel Singer and Margaret Spring*
-
 An information theory of efficient differential treatment  
 *Emil Temnyalov*
 
 Sophistication and Cautiousness in College Applications  
 *Kentaro Tomoeda, Yan Song and Xiaoyu Xia*
-
-Market Design for a Monopsonistic Labor Market  
-*Wilbur Townsend and Jesse Silbert*
 
 Mapping Normative Frameworks to Fair Ranking  
 *Meike Zehlike, Ke Yang and Julia Stoyanovich*
