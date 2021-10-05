@@ -222,7 +222,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
       <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td><b>Data Economies </b></td>
-      <td><b>Table 4/b></td>
+      <td><b>Table 4</b></td>
       <td><b>Ali Alkhatib, Charles Cui</b></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
@@ -232,7 +232,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
       <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td><b>Development </b></td>
-      <td><b>Table 5/b></td>
+      <td><b>Table 5</b></td>
       <td><b>Tejumade Afonja</b></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
@@ -242,7 +242,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
       <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td><b>Education</b></td>
-      <td><b>Table 6/b></td>
+      <td><b>Table 6</b></td>
       <td><b>No set facilitator</b></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
@@ -252,7 +252,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
       <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td><b>Enviroment</b></td>
-      <td><b>Table 7/b></td>
+      <td><b>Table 7</b></td>
       <td><b>Steven Yin, Lily Xu</b></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
@@ -262,7 +262,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
       <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td><b>Healthcare</b></td>
-      <td><b>Table 8/b></td>
+      <td><b>Table 8</b></td>
       <td><b>Jakob Jonnerby, Bryan Wilder</b></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
@@ -321,7 +321,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
       <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td><b>Data Economies </b></td>
-      <td><b>Table 4/b></td>
+      <td><b>Table 4</b></td>
       <td><b>Ali Alkhatib</b></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
@@ -331,7 +331,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
       <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td><b>Development </b></td>
-      <td><b>Table 5/b></td>
+      <td><b>Table 5</b></td>
       <td><b>Dina Machuve</b></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
@@ -341,7 +341,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
       <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td><b>Education</b></td>
-      <td><b>Table 6/b></td>
+      <td><b>Table 6</b></td>
       <td><b>Caterina Calsamiglia, Renzhe Yu</b></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
@@ -351,7 +351,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
       <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td><b>Enviroment</b></td>
-      <td><b>Table 7/b></td>
+      <td><b>Table 7</b></td>
       <td><b>Cristina Crespo Montañés</b></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
@@ -361,7 +361,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
       <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td><b>Healthcare</b></td>
-      <td><b>Table 8/b></td>
+      <td><b>Table 8</b></td>
       <td><b>Alex DiChristofano, Edwin Lock</b></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
