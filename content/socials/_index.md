@@ -47,8 +47,13 @@ Head over to the whiteboard to contribute to a collective drawing of your take o
 
 ## Quotation Compilation (async)
 
+---
+
 Please share quotes that stuck out to you from one of the talks, posters, papers, or socials throughout the conference! We would love to see them listed here, and also encourage you to tweet — there will be awards for the best tweets! (Tag @ACMEAAMO or #EAAMO2021)
 
+## Schedule
+
+---
 
 
 {{< spoiler text="October 4 (Monday)" >}}
