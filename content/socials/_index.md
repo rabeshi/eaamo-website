@@ -64,7 +64,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
   </thead>
   <tbody>
     <tr eaamo-toggle="collapse" eaamo-target="#collapseMon" aria-expanded="false" aria-controls="collapseMon" class="collapsed">
-      <th scope="row">1</th>
+      <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td>Session: <b>Black affinity social</b></td>
       <td>Session: <b>Tables 1 & 2</b></td>
@@ -74,7 +74,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
     	</td>
     </tr>
     <tr eaamo-toggle="collapse" eaamo-target="#collapseMon" aria-expanded="false" aria-controls="collapseMon" class="collapsed">
-      <th scope="row">1</th>
+      <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td>Session: <b>Latinx affinity social</b></td>
       <td>Session: <b>Tables 3 & 4</b></td>
@@ -84,7 +84,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
     	</td>
     </tr>
      <tr eaamo-toggle="collapse" eaamo-target="#collapseMon" aria-expanded="false" aria-controls="collapseMon" class="collapsed">
-      <th scope="row">1</th>
+      <th scope="row"></th>
       <td>13:15 - 14:00 (ET)</td>
       <td>Session: <b>Queer affinity social</b></td>
       <td>Session: <b>Tables 5 & 6</b></td>
