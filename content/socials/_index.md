@@ -42,6 +42,8 @@ Every day, we will have table discussion socials with discussion facilitators. T
 Head over to the whiteboard to contribute to a collective drawing of your take on a visual representation of EAAMO. Up for interpretation!
 
 <br>
+<br>
+<br>
 
 ## Quotation Compilation (async)
 
