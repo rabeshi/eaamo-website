@@ -138,6 +138,13 @@ ___
 <p><a href="https://u.cs.biu.ac.il/~avinatan/">Avinatan Hassidim</a> is a professor of computer Science at Bar Ilan University, and a director in Google research where he leads the Israel research group. His main research interest is market design, and specifically matching markets. In addition to do theoretical work, Avinatan designed the Israeli medical interns lottery, the Israeli Psychology Match and the Israeli Lawyers' match. Avinatan's group at Google did projects from Flood Forecasting (system protects 200M people in India and Bangladesh), Looking to Listen, Google Duplex and Euphonia. Avinatan's work has won numerous awards, including Editor's choice PRL 2010, Best paper award SIGMETRICS 2011, and Runner Up for Best Paper INFOCOM 2012&2013.</p>
 <br>
 
+<div align="center"> <h3 align="center"> Need vs. Merit: The Large Core of College Admissions Markets </h3> </div>
+
+<p>Abstract: We study college admissions markets, where colleges offer multiple funding levels. Colleges wish to recruit the best-qualified students subject to budget and capacity constraints. Student-proposing deferred acceptance is stable and strategy-proof for students, but the set of stable allocations is large and the scope for manipulation by colleges is substantial, even in large markets. Under deferred acceptance, truthful colleges allocate funding based on merit. Successful manipulations consider applicants' outside options (specifically need) when allocating funding. In Hungary, where the centralized clearinghouse uses deferred acceptance, choosing another stable allocation would increase the number of admitted students by at least 3%.</p>
+
+<br>
+
+
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/radhika_square.JPG" width="25%" height = "auto">
   
 ## Radhika Khosla ##
@@ -146,6 +153,10 @@ ___
 ---
  
 <p><a href="https://www.some.ox.ac.uk/people/radhika-khosla/">Dr. Radhika Khosla</a> is Associate Professor at the Smith School of Enterprise and Environment and Research Director of the Oxford India Centre for Sustainable Development at the University of Oxford. She works on examining the productive tensions between urban transitions, energy services consumption, and climate change, with a focus on developing country cities. Radhika is also the Principal Investigator of the Oxford Martin School's interdisciplinary and multi-country program on the Future of Cooling, and co-investigator for the Oxford Net Zero program. She is a contributing author to the sixth assessment report of the Intergovernmental Panel on Climate Change (IPCC) and lead author of the UNEP Emissions Gap Report. She is a member of the UK Government’s UK-India Advisory Committee and serves on boards of journals, advancing interdisciplinary understanding of how cities in transition manage the tensions of meeting growing energy needs for development while protecting the local and global environment. Previously, she has been at the Massachusetts Institute of Technology, a Fellow at the Centre for Policy Research in New Delhi, and Staff Scientist at the Natural Resources Defense Council in New York. Radhika holds a Ph.D in the Geophysical Sciences from the University of Chicago and undergraduate and Master's degrees in Physics from the University of Oxford.</p><br>
+
+<div align="center"> <h3 align="center"> Sustainability Transitions in a Changing Climate </h3> </div>
+
+<br> 
 
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/sylvia_square.JPG" width="25%" height = "auto">
