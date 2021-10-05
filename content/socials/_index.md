@@ -55,8 +55,8 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
     </tr>
   </thead>
   <tbody>
-    <tr eaamo-toggle="collapse" eaamo-target="#collapseTueTen" aria-expanded="false" aria-controls="collapseTueTen" class="collapsed">
-      <th scope="row">10</th>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapseMon" aria-expanded="false" aria-controls="collapseMon" class="collapsed">
+      <th scope="row">1</th>
       <td>13:15 - 14:00 (ET)</td>
       <td>Session: <b>Affinity group socials</b></td>
       <td>
@@ -64,7 +64,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
     	</td>
     </tr>
     <tr>
-    	<td colspan="6" id="collapseTueTen" class="collapse acc" data-parent="#accordion">
+    	<td colspan="6" id="collapseMon" class="collapse acc" data-parent="#accordion">
     		<table>
 				<thead>
 					<tr>	
