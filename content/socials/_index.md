@@ -39,5 +39,60 @@ Head over to the whiteboard to contribute to a collective drawing of your take o
 
 ## Quotation Compilation (async)
 
-Please share quotes that stuck out to you from one of the talks, posters, papers, or socials throughout the conference! We would love to see them listed here, and also encourage you to tweet — there will be awards for the best tweets! (Tag @ACMEAAMO or #EAAMO2021) 
+Please share quotes that stuck out to you from one of the talks, posters, papers, or socials throughout the conference! We would love to see them listed here, and also encourage you to tweet — there will be awards for the best tweets! (Tag @ACMEAAMO or #EAAMO2021)
 
+
+
+{{< spoiler text="October 4 (Monday)" >}}
+
+<table class="table myaccordion table-hover" id="accordion">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Time</th>
+      <th>Event</th>
+      <th>&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapseTueTen" aria-expanded="false" aria-controls="collapseTueTen" class="collapsed">
+      <th scope="row">10</th>
+      <td>13:15 - 14:00 (ET)</td>
+      <td>Session: <b>Affinity group socials</b></td>
+      <td>
+      	<i class="fa" aria-hidden="false"></i>
+    	</td>
+    </tr>
+    <tr>
+    	<td colspan="6" id="collapseTueTen" class="collapse acc" data-parent="#accordion">
+    		<table>
+				<thead>
+					<tr>	
+					  <th>Table</th>
+					  <th>Social topic</th>
+            <th>Facilitators</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Tables 1 \& 2 </td>
+						<td>Black affinity social</td>
+            <td>Christian Ikeokwu, Ezinne Nwankwo</td>
+					<tr/>
+          <tr>
+						<td>Tables 3 \& 4 </td>
+						<td>Latinx affinity social</td>
+            <td>Tilsa Ore Monago, Ramon Vilarino</td>
+					<tr/>
+          <tr>
+						<td>Tables 5 \& 6 </td>
+						<td>Queer affinity social </td>
+            <td>Logan Stapleton</td>
+					<tr/>
+				</tbody>
+			</table>
+    	</td>
+    </tr>
+</table>
+
+{{< /spoiler >}}
