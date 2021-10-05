@@ -81,6 +81,11 @@
   weight = -10
   parent = "program"
 
+[[main]]
+  name = "Social Events"
+  url = "socials"
+  weight = 10
+  parent = "program"
 
 [[main]]
   identifier = "organization"
