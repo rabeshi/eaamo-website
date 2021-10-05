@@ -162,14 +162,19 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueSix" aria-expanded="false" aria-controls="collapseTueSix" class="collapsed">
       <th scope="row">6</th>
       <td>13:15 - 14:00 (ET)</td>
-      <td>Long Break</td>
+      <td>Long Break - Regional Social Event</td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
     </tr>
     <tr>
     	<td colspan="6" id="collapseTueSix" class="collapse acc" data-parent="#accordion">
-    		<p>Enjoy the long break. Use Gather.town for discussion and meet new people!</p>
+    		<p>Use Gather.town's Social Lounge for discussion and meet new people!</p>
+    		<br/>
+    		<p>Table 1 & 2 - Latin America/Caribbean</p>
+    		<p>Table 3 & 4 - North America</p>
+    		<br/>
+    		<p>Use other tables for discussion on various subjects!</p>
     	</td>
     </tr>
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueSeven" aria-expanded="false" aria-controls="collapseTueSeven" class="collapsed">
@@ -393,7 +398,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedFour" aria-expanded="false" aria-controls="collapseWedFour" class="collapsed">
       <th scope="row">4</th>
       <td>13:19 - 14:00 (ET)</td>
-      <td>Long Break</td>
+      <td>Long Break - Research Topic Social</td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -401,6 +406,18 @@ Please note that this is a **preliminary conference program** and that slight al
     <tr>
     	<td colspan="6" id="collapseWedFour" class="collapse acc" data-parent="#accordion">
     		<p>Enjoy the long break. Use Gather.town for discussion and meet new people!</p>
+    		<br/>
+    		<p>Go to the Social Lounge and discuss about the following topics:</p>
+    		<p>Table 1 - 	Algorithmic Fairness</p>
+    		<p>Table 2 - 	Algorithms, Law, and Policy</p>
+    		<p>Table 3 - 	Civic Participation</p>
+    		<p>Table 4 - 	Data Economies</p>
+    		<p>Table 5 - 	Development</p>
+    		<p>Table 6 - 	Education</p>
+    		<p>Table 7 - 	Enviroment</p>
+    		<p>Table 8 - 	Healthcare</p>
+    		<br/>
+    		<p>Use other tables for discussion on various subjects!</p>
     	</td>
     </tr>
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedFive" aria-expanded="false" aria-controls="collapseWedFive" class="collapsed">
@@ -593,7 +610,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuSix" aria-expanded="false" aria-controls="collapseThuSix" class="collapsed">
       <th scope="row">5</th>
       <td>13:15 - 14:00 (ET)</td>
-      <td>Long Break</td>
+      <td>Long Break - Research Topics Social</td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -601,6 +618,18 @@ Please note that this is a **preliminary conference program** and that slight al
     <tr>
     	<td colspan="6" id="collapseThuSix" class="collapse acc" data-parent="#accordion">
     		<p>Enjoy the long break. Use Gather.town for discussion and meet new people!</p>
+    		<br/>
+    		<p>Go to the Social Lounge and discuss about the following topics:</p>
+    		<p>Table 1 - 	Algorithmic Fairness</p>
+    		<p>Table 2 - 	Algorithms, Law, and Policy</p>
+    		<p>Table 3 - 	Civic Participation</p>
+    		<p>Table 4 - 	Data Economies</p>
+    		<p>Table 5 - 	Development</p>
+    		<p>Table 6 - 	Education</p>
+    		<p>Table 7 - 	Enviroment</p>
+    		<p>Table 8 - 	Healthcare</p>
+    		<br/>
+    		<p>Use other tables for discussion on various subjects!</p>
     	</td>
     </tr>
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuSeven" aria-expanded="false" aria-controls="collapseThuSeven" class="collapsed">
@@ -803,7 +832,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriFour" aria-expanded="false" aria-controls="collapseFriFour" class="collapsed">
       <th scope="row">4</th>
       <td>13:18 - 14:00 (ET)</td>
-      <td>Long Break</td>
+      <td>Long Break - Language Socials</td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -811,6 +840,12 @@ Please note that this is a **preliminary conference program** and that slight al
     <tr>
     	<td colspan="6" id="collapseFriFour" class="collapse acc" data-parent="#accordion">
     		<p>Enjoy the long break. Use Gather.town for discussion and meet new people!</p>
+    		<br/>
+    		<p>Go to the Social Lounge and discuss in:</p>
+    		<p>Tables 1 & 2 - Español (Spanish)</p>
+    		<p>Tables 3 & 4 - Français (French)</p>
+    		<br/>
+    		<p>Use other tables for discussion on various subjects!</p>
     	</td>
     </tr>
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriFive" aria-expanded="false" aria-controls="collapseFriFive" class="collapsed">

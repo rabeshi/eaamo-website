@@ -280,7 +280,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
     <tr>
       <th></th>
       <th>Time</th>
-      <th>Research Topics: Day 1</th>
+      <th>Research Topics: Day 2</th>
       <th>Table</th>
       <th>Facilitators</th>
       <th>&nbsp;</th>
