@@ -95,6 +95,42 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
 			</table>
     	</td>
     </tr>
+    
+    	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueEight" aria-expanded="false" aria-controls="collapseTueEight" class="collapsed">
+      <th scope="row">8</th>
+      <td>14:30 - 15:15 (ET)</td>
+      <td>Session: <b>Data Standards and Datasets</b></td>
+      <td>
+      	<i class="fa" aria-hidden="false"></i>
+    	</td>
+    </tr>
+    <tr>
+    	<td colspan="6" id="collapseTueEight" class="collapse acc" data-parent="#accordion">
+    		<table>
+				<thead>
+					<tr>	
+					  <th>Time</th>
+					  <th>Paper</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>14:30 - 14:46 (ET)</td>
+						<td>Facing an Adult Problem: New Datasets for Fair Machine Learning (F. Ding, M. Hardt, J. Miller and L. Schmidt)</td>
+					<tr/>
+					<tr>
+						<td>14:46 - 15:02 (ET)</td>
+						<td>Measuring Data Collection Diligence for Community Healthcare (R. Karunasena, M. S. Ambiya, A. Sinha, R. Nagar, S. Dalal, D. Thakkar, D. Narayanan and M. Tambe)</td>
+					<tr/>
+					<tr>
+						<td>15:02 - 15:13 (ET)</td>
+						<td>Open Data Standard and Analysis Framework: Towards Response Equity in Local Governments (J. Hsu, R. Ravichandran, E. Zhang and C. Keung)</td>
+					<tr/>
+				</tbody>
+			</table>
+    	</td>
+    </tr>
+
 </table>
 
 {{< /spoiler >}}
