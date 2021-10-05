@@ -95,8 +95,7 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
 			</table>
     	</td>
     </tr>
-    
-    	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueEight" aria-expanded="false" aria-controls="collapseTueEight" class="collapsed">
+    <tr eaamo-toggle="collapse" eaamo-target="#collapseTueEight" aria-expanded="false" aria-controls="collapseTueEight" class="collapsed">
       <th scope="row">8</th>
       <td>14:30 - 15:15 (ET)</td>
       <td>Session: <b>Data Standards and Datasets</b></td>
