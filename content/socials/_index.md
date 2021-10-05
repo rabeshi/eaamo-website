@@ -37,6 +37,8 @@ Every day, we will have table discussion socials with discussion facilitators. T
 
 Head over to the whiteboard to contribute to a collective drawing of your take on a visual representation of EAAMO. Up for interpretation!
 
+<br>
+
 ## Quotation Compilation (async)
 
 Please share quotes that stuck out to you from one of the talks, posters, papers, or socials throughout the conference! We would love to see them listed here, and also encourage you to tweet — there will be awards for the best tweets! (Tag @ACMEAAMO or #EAAMO2021)
