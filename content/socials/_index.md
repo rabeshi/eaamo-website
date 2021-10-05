@@ -137,3 +137,9 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
 </table>
 
 {{< /spoiler >}}
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/popper.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/main.js"></script>
