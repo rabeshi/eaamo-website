@@ -162,7 +162,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueSix" aria-expanded="false" aria-controls="collapseTueSix" class="collapsed">
       <th scope="row">6</th>
       <td>13:15 - 14:00 (ET)</td>
-      <td>Long Break - Regional Social Event</td>
+      <td>Long Break</td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -170,11 +170,6 @@ Please note that this is a **preliminary conference program** and that slight al
     <tr>
     	<td colspan="6" id="collapseTueSix" class="collapse acc" data-parent="#accordion">
     		<p>Use Gather.town's Social Lounge for discussion and meet new people!</p>
-    		<br/>
-    		<p>Table 1 & 2 - Latin America/Caribbean</p>
-    		<p>Table 3 & 4 - North America</p>
-    		<br/>
-    		<p>Use other tables for discussion on various subjects!</p>
     	</td>
     </tr>
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueSeven" aria-expanded="false" aria-controls="collapseTueSeven" class="collapsed">
@@ -309,6 +304,24 @@ Please note that this is a **preliminary conference program** and that slight al
 					<tr/>
 				</tbody>
 			</table>
+    	</td>
+    </tr>
+    	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueTwe" aria-expanded="false" aria-controls="collapseTueTwe" class="collapsed">
+      <th scope="row">6</th>
+      <td>17:15 - 18:00 (ET)</td>
+      <td>Long Break - Regional Social Event</td>
+      <td>
+      	<i class="fa" aria-hidden="false"></i>
+    	</td>
+    </tr>
+    <tr>
+    	<td colspan="6" id="collapseTueTwe" class="collapse acc" data-parent="#accordion">
+    		<p>Use Gather.town's Social Lounge for discussion and meet new people!</p>
+    		<br/>
+    		<p>Table 1 & 2 - Latin America/Caribbean</p>
+    		<p>Table 3 & 4 - North America</p>
+    		<br/>
+    		<p>Use other tables for discussion on various subjects!</p>
     	</td>
     </tr>
 </table>
