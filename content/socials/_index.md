@@ -98,6 +98,74 @@ Please share quotes that stuck out to you from one of the talks, posters, papers
 {{< /spoiler >}}
 
 
+{{< spoiler text="October 5 (Tuesday)" >}}
+
+<table class="table myaccordion table-hover" id="accordion">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Time</th>
+      <th>Regional socials</th>
+      <th>Table</th>
+      <th>Facilitators</th>
+      <th>&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapseMon" aria-expanded="false" aria-controls="collapseMon" class="collapsed">
+      <th scope="row"></th>
+      <td>10:00 - 10:45 (ET)</td>
+      <td>Session: <b>Africa</b></td>
+      <td>Session: <b>Tables 1 & 2</b></td>
+      <td>Session: <b>Lynn Kirabo, Benjamin Otieno</b></td>
+      <td>
+      	<i class="fa" aria-hidden="false"></i>
+    	</td>
+    </tr>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapseMon" aria-expanded="false" aria-controls="collapseMon" class="collapsed">
+      <th scope="row"></th>
+      <td>10:00 - 10:45 (ET)</td>
+      <td>Session: <b>Asia–Pacific</b></td>
+      <td>Session: <b>Tables 3 & 4</b></td>
+      <td>Session: <b>No set facilitator</b></td>
+      <td>
+      	<i class="fa" aria-hidden="false"></i>
+    	</td>
+    </tr>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapseMon" aria-expanded="false" aria-controls="collapseMon" class="collapsed">
+      <th scope="row"></th>
+      <td>10:00 - 10:45 (ET)</td>
+      <td>Session: <b>Europe</b></td>
+      <td>Session: <b>Tables 5 & 6</b></td>
+      <td>Session: <b>Sakina Hansen, Corinna Hertweck</b></td>
+      <td>
+      	<i class="fa" aria-hidden="false"></i>
+    	</td>
+    </tr>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapseMon" aria-expanded="false" aria-controls="collapseMon" class="collapsed">
+      <th scope="row"></th>
+      <td>17:15 - 18:00 (ET)</td>
+      <td>Session: <b>Latin America/Caribbean</b></td>
+      <td>Session: <b>Tables 1 & 2</b></td>
+      <td>Session: <b>Christian Ramirez Romero</b></td>
+      <td>
+      	<i class="fa" aria-hidden="false"></i>
+    	</td>
+    </tr>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapseMon" aria-expanded="false" aria-controls="collapseMon" class="collapsed">
+      <th scope="row"></th>
+      <td>17:15 - 18:00 (ET)</td>
+      <td>Session: <b>North America</b></td>
+      <td>Session: <b>Tables 3 & 4</b></td>
+      <td>Session: <b>No set facilitator</b></td>
+      <td>
+      	<i class="fa" aria-hidden="false"></i>
+    	</td>
+    </tr>
+</table>
+
+{{< /spoiler >}}
+
 <script src="js/jquery.min.js"></script>
 <script src="js/popper.js"></script>
 <script src="js/bootstrap.min.js"></script>
