@@ -60,6 +60,7 @@ ___
 
 <p>Abstract: Digital platforms commonly neither buy nor sell information direction, but rather indirectly. Namely, the trade in individual and social data is bundled with goods and services. For example, a search engine sells information about the searcher together with a query via sponsored search auction. A social network matches advertisers and individual consumers with certain characteristics. As a consequence, digital platforms typically do not compensate individual consumers directly for their information, but rather provide services whose benefits are naturally increasing in the amounts of information they generate. We investigate to what extent the barter of information for service leads to efficient and fair trade in online data markets.</p>
 
+<br> 
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/derenoncourt_square2.JPG" width="25%" height = "auto">
 
@@ -70,6 +71,11 @@ ___
 
 <p><a href="https://www.elloraderenoncourt.com/">Ellora Derenoncourt</a> is a labor economist and economic historian whose work focuses on inequality. Her recent studies have examined northern backlash against the Great Migration and ensuing reductions in Black upward mobility and the role of federal minimum wage policy in closing the racial earnings gap in the Civil Rights Era. She has also written on wage determination in low-wage labor markets and the evolution of the racial wealth gap from pre-Emancipation to the present. Her work has been featured in the Economist, the New York Times, the Wall Street Journal, Fortune Magazine, and NPR. Dr. Derenoncourt received her PhD in Economics from Harvard University in 2019, her MSc in Human Geography from the London School of Economics, and her A.B. at Harvard University.</p><br>
 
+<div align="center"> <h3 align="center"> Racial inequality in the 21st century </h3> </div>
+
+<p>Abstract:The talk covers two key lessons from history for the future of racial inequality and public policy making in the United States.</p>
+
+<br>
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/ashish_square.JPG" width="25%" height = "auto">
 
