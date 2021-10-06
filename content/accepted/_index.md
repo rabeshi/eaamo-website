@@ -16,6 +16,8 @@ header:
   image: ""
 ---
 
+The list of accepted papers and posters can be found below. The PDFs for the accepted papers in non-archival track are linked on this page. Archival papers will be linked in the ACM Digital Library. 
+
 [*Jump to: Posters*](#accepted-posters)
 
 ## Accepted Papers    
