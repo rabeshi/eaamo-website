@@ -26,7 +26,7 @@ The list of accepted papers and posters can be found below. The PDFs for the acc
 [Who Benefits from Faster Public Transit?](acceptednonarchival/EAMO21_paper_37.pdf)  
 *Prottoy Akbar*
 
-[An Economic Framework for Vaccine Prioritization](acceptednonarchival/EAMO21_paper_77.pdf)  
+[An Economic Framework for Vaccine Prioritization](acceptednonarchival/EAMO21_paper_47.pdf)  
 *Mohammad Akbarpour, Eric Budish, Piotr Dworczak and Scott Kominers*
   
 [Redistributive Allocation Mechanisms](acceptednonarchival/EAMO21_paper_46.pdf)  
