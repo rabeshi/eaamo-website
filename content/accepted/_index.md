@@ -180,12 +180,6 @@ Algorithmic Auditing for Social Justice
 Parallel Markets in School Choice (D1, Wednesday)    
 *Mustafa Oguz Afacan, Piotr Evdokimov, Rustamdjan Hakimov and Bertan Turhan*
 
-The effect of personal and community attributes on educational outcomes in Ecuador  
-*Tejumade Afonja, Alex Ben Hassine, Olumurejiwa Fatunde, Michelle González Amador, Victoria Tuck and Siphelele Danisa*
-
-The De-democratization of AI: Deep Learning and the Compute Divide in Artificial Intelligence Research  
-*Nur Ahmed and Muntasir Wahed*
-
 Free to go: using algorithms to reduce the scope of cash bail (E1, Wednesday)  
 *Alex Albright*
 
@@ -197,9 +191,6 @@ Multi-Rank Smart Reserves (C3, Friday)
 
 Regularized Online Allocation Problems: Fairness and Beyond (B2, Friday)  
 *Santiago Balseiro, Haihao Lu and Vahab Mirrokni*
-
-Lorenz optimality for sequencing problems with welfare bounds  
-*Sreoshi Banerjee and Manipushpak Mitra*
 
 XAI systematic reflection method: a practice-oriented, holistic and interdisciplinary approach for human-centred and inclusive AI explanations (D2, Friday)  
 *Jonne van Belle, Cora van Leeuwen and An Jacobs*
@@ -215,9 +206,6 @@ Bid Manipulation in Open Procurement Auctions (D3, Friday)
 
 Do Peer Preferences Matter in School Choice Market Design? Theory and Evidence (E1, Friday)  
 *Natalie Cox, Ricardo Fonseca and Bobby Pakzad-Hurson*
-
-Does Transportation Mean Transplantation? Impact of New Airline Routes on Sharing of Cadaveric Kidneys  
-*Tinglong Dai, Guihua Wang and Ronghuo Zheng*
 
 Delays in Project Supply Chains: A Global Network Perspective (E4, Wednesday)  
 *Vibhuti Dhingra, Harish Krishnan and Juan Serpa*
@@ -251,9 +239,6 @@ Statistical Equity: A Fairness Classification Objective (B4, Wednesday)
 
 Causal Inference Struggles with Agency on Online Platforms (D4, Wednesday)  
 *Smitha Milli, Luca Belli and Moritz Hardt*
-
-An innovative approach to identifying schools for the Robin Hood Learning + Technology Fund  
-*Kaushik Mohan, Wil Yegelwel, Craig Reeson, Erin Stein, Rachael W. Riley, Steven Azeka, Amber Oliver and Chinsol Choe*
 
 Using a Bayesian multi-level microsimulation model to target inequalities in energy access: A case study of Coimbatore (A2, Wednesday)  
 *André Neto-Bradley, Ruchi Choudhary and Peter Challenor*
