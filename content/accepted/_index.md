@@ -285,9 +285,6 @@ Sophistication and Cautiousness in College Applications (D2, Wednesday)
 Mapping Normative Frameworks to Fair Ranking (B1, Friday)  
 *Meike Zehlike, Ke Yang and Julia Stoyanovich*
 
-Partial Completion as a Nonprofit Strategy  
-*Can Zhang, Atalay Atasu and Karthik Ramachandran*
-
 
   
 </details>
