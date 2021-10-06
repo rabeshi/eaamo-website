@@ -15,10 +15,10 @@ header:
   caption: ""
   image: ""
 ---
----
-[*Jump to list of posters*](#accepted-posters)
 
-## Accepted Papers
+[*Jump to: Posters*](#accepted-posters)
+
+## Accepted Papers    
 ---
   
 Who Benefits from Faster Public Transit?  
