@@ -24,7 +24,7 @@ header:
 [Who Benefits from Faster Public Transit?](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_37.pdf)  
 *Prottoy Akbar*
 
-[An Economic Framework for Vaccine Prioritization](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_77.pdf) 
+[An Economic Framework for Vaccine Prioritization](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_77.pdf)  
 *Mohammad Akbarpour, Eric Budish, Piotr Dworczak and Scott Kominers*
   
 [Redistributive Allocation Mechanisms](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_46.pdf)  
@@ -39,7 +39,7 @@ header:
 [(Machine) Learning what Policymakers Value](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_25.pdf)  
 *Daniel Bjorkegren, Joshua Blumenstock and Samsun Knight*
   
-[Unpacking the Black Box: Regulating Algorithmic Decision-Making with Ex-Post Audits](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_107.pdf) 
+[Unpacking the Black Box: Regulating Algorithmic Decision-Making with Ex-Post Audits](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_107.pdf)  
 *Laura Blattner, Scott Nelson and Jann Spiess*
   
 [Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_142.pdf)  
@@ -60,13 +60,13 @@ Proportional Apportionment: A Case Study From the Chilean Constitutional Convent
 [School Choice with Consent: An Experiment](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_31.pdf)   
 *Claudia Cerrone, Yoan Hermstrüwer and Onur Kesten*
 
-Increasing the Demand for Workers with a Criminal Record
+Increasing the Demand for Workers with a Criminal Record  
 *Zoe Cullen, Mitch Hoffman and Will Dobbie*
 
 [Algorithmic Reparation](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_135.pdf)  
 *Jenny L Davis, Apryl Williams and Michael Yang*
 
-Project 412Connect: Bridging Students to Communities
+Project 412Connect: Bridging Students to Communities  
 *Alex DiChristofano, Michael L. Hamilton, Sera Linardi and Mara F. McCloud*
 
 [Facing an Adult Problem: New Datasets for Fair Machine Learning](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_16.pdf)  
