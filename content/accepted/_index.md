@@ -16,6 +16,8 @@ header:
   image: ""
 ---
 
+#### Note: Poster titles are followed by their poster slot and session day
+
 ## Accepted Papers:
 <details open>
 <summary>Click to expand/collapse the list of papers</summary>
@@ -174,7 +176,7 @@ Algorithmic Auditing for Social Justice
 <summary>Click to expand/collapse the list of posters</summary> 
 <br>
 
-Parallel Markets in School Choice  
+Parallel Markets in School Choice (D1, Wednesday) 
 *Mustafa Oguz Afacan, Piotr Evdokimov, Rustamdjan Hakimov and Bertan Turhan*
 
 The effect of personal and community attributes on educational outcomes in Ecuador  
@@ -183,118 +185,118 @@ The effect of personal and community attributes on educational outcomes in Ecuad
 The De-democratization of AI: Deep Learning and the Compute Divide in Artificial Intelligence Research  
 *Nur Ahmed and Muntasir Wahed*
 
-Free to go: using algorithms to reduce the scope of cash bail  
+Free to go: using algorithms to reduce the scope of cash bail (E1, Wednesday)  
 *Alex Albright*
 
-Queuing Safely for Elevator Systems amidst a Pandemic  
+Queuing Safely for Elevator Systems amidst a Pandemic (C2, Wednesday)  
 *Sai Mali Ananthanarayanan, Charles Branas, Adam Elmachtoub, Clifford Stein and Yeqing Zhou*
 
-Multi-Rank Smart Reserves  
+Multi-Rank Smart Reserves (C3, Friday)  
 *Haris Aziz and Zhaohong Sun*
 
-Regularized Online Allocation Problems: Fairness and Beyond  
+Regularized Online Allocation Problems: Fairness and Beyond (B2, Friday)  
 *Santiago Balseiro, Haihao Lu and Vahab Mirrokni*
 
 Lorenz optimality for sequencing problems with welfare bounds  
 *Sreoshi Banerjee and Manipushpak Mitra*
 
-XAI systematic reflection method: a practice-oriented, holistic and interdisciplinary approach for human-centred and inclusive AI explanations  
+XAI systematic reflection method: a practice-oriented, holistic and interdisciplinary approach for human-centred and inclusive AI explanations (D2, Friday)  
 *Jonne van Belle, Cora van Leeuwen and An Jacobs*
 
-Envisioning Communities: A Participatory Approach Towards AI for Social Good  
+Envisioning Communities: A Participatory Approach Towards AI for Social Good (A4, Friday)  
 *Elizabeth Bondi, Lily Xu, Diana Acosta-Navas and Jackson Killian*
 
-Bid Manipulation in Open Procurement Auctions  
+Bid Manipulation in Open Procurement Auctions (D3, Friday)  
 *Hanna Charankevich*
 
-#ContextMatters: Advantages and Limitations of Using Machine Learning to Support Women in Politics  
+#ContextMatters: Advantages and Limitations of Using Machine Learning to Support Women in Politics (E3, Wednesday)  
 *Jacqueline Comer, Sam Work, Kory Mathewson, Lana Cuthbertson and Kasey Machin*
 
-Do Peer Preferences Matter in School Choice Market Design? Theory and Evidence  
+Do Peer Preferences Matter in School Choice Market Design? Theory and Evidence (E1, Friday)  
 *Natalie Cox, Ricardo Fonseca and Bobby Pakzad-Hurson*
 
 Does Transportation Mean Transplantation? Impact of New Airline Routes on Sharing of Cadaveric Kidneys  
 *Tinglong Dai, Guihua Wang and Ronghuo Zheng*
 
-Delays in Project Supply Chains: A Global Network Perspective  
+Delays in Project Supply Chains: A Global Network Perspective (E4, Wednesday)  
 *Vibhuti Dhingra, Harish Krishnan and Juan Serpa*
 
-A Data-Driven Simulation of the New York State Foster Care System  
+A Data-Driven Simulation of the New York State Foster Care System (E2, Friday)  
 *Yuhao Du, Stefania Ionescu and Kenneth Joseph*
 
-Sequential Genealogy Search for Genetic Privacy  
+Sequential Genealogy Search for Genetic Privacy (C3, Wednesday)  
 *Mine Su Erturk and Kuang Xu*
 
-Strategic Instrumental Variable Regression: Recovering Causal Relationships From Strategic Responses  
+Strategic Instrumental Variable Regression: Recovering Causal Relationships From Strategic Responses (D3, Wednesday)  
 *Keegan Harris, Daniel Ngo, Logan Stapleton, Hoda Heidari and Steven Wu*
 
-Stateful Strategic Regression  
+Stateful Strategic Regression (B3, Wednesday)  
 *Keegan Harris, Hoda Heidari and Z. Steven Wu*
 
-On designing and operating Vote-by-Mail processes  
+On designing and operating Vote-by-Mail processes (E2, Wednesday)  
 *Carmen Haseltine, Adam Schmidt and Laura Albert*
 
-Optimal Local Explainer Aggregation for Interpretable Prediction  
+Optimal Local Explainer Aggregation for Interpretable Prediction (D1, Friday)  
 *Qiaomei Li, Yonatan Mintz and Rachel Cummings*
 
-Strategic ranking  
+Strategic ranking (B2, Wednesday)  
 *Lydia Liu, Nikhil Garg and Christian Borgs*
 
-Indecision Modeling  
+Indecision Modeling (A4, Wednesday)  
 *Duncan Mcelfresh, Lok Chan, Kenzie Doyle, Jana Schaich Borg, Walter Sinnott-Armstrong, Vincent Conitzer and John P. Dickerson*
 
-Statistical Equity: A Fairness Classification Objective  
+Statistical Equity: A Fairness Classification Objective (B4, Wednesday)  
 *Ninareh Mehrabi, Yuzhong Huang and Fred Morstatter*
 
-Causal Inference Struggles with Agency on Online Platforms  
+Causal Inference Struggles with Agency on Online Platforms (D4, Wednesday)  
 *Smitha Milli, Luca Belli and Moritz Hardt*
 
 An innovative approach to identifying schools for the Robin Hood Learning + Technology Fund  
 *Kaushik Mohan, Wil Yegelwel, Craig Reeson, Erin Stein, Rachael W. Riley, Steven Azeka, Amber Oliver and Chinsol Choe*
 
-Using a Bayesian multi-level microsimulation model to target inequalities in energy access: A case study of Coimbatore  
+Using a Bayesian multi-level microsimulation model to target inequalities in energy access: A case study of Coimbatore (A2, Wednesday)  
 *André Neto-Bradley, Ruchi Choudhary and Peter Challenor*
 
-Using Algorithms in Public Sector: Notes from Rural Road Planning in India  
+Using Algorithms in Public Sector: Notes from Rural Road Planning in India (A3, Friday)  
 *Harsh Nisar, Deepak Gupta, Pankaj Kumar, M. Srinivasa Rao, A. V. Rajesh and Alka Upadhyaya*
   
-Optimal allocations to heterogeneous agents with an application to stimulus checks  
+Optimal allocations to heterogeneous agents with an application to stimulus checks (C2, Friday)  
 *Vegard Nygaard, Bent Sørensen and Fan Wang*
 
-Robust Estimates of Vulnerability to Poverty using Quantile Estimators  
+Robust Estimates of Vulnerability to Poverty using Quantile Estimators (A3, Wednesday)  
 *Christopher Oconnor*
 
-Allocating Stimulus Checks in Times of Crisis  
+Allocating Stimulus Checks in Times of Crisis (C4, Wednesday)  
 *Marios Papachristou and Jon Kleinberg*
 
-Linear feedback system models for understanding systemic inequity  
+Linear feedback system models for understanding systemic inequity (A1, Wednesday)  
 *Neal Patwari, Pegah Nokhiz, Cathleen Power, Sorelle Friedler and Suresh Venkatasubramanian*
 
-Hiring as Exploration  
+Hiring as Exploration (C4, Friday)  
 *Lindsey Raymond, Danielle Li and Peter Bergman*
 
-Consider the Alternatives: Navigating Fairness-Accuracy Tradeoffs via Disqualification  
+Consider the Alternatives: Navigating Fairness-Accuracy Tradeoffs via Disqualification (B3, Friday)  
 *Guy Rothblum and Gal Yona*
 
-Identifying biases in legal data: An algorithmic fairness perspective  
+Identifying biases in legal data: An algorithmic fairness perspective (A1, Friday)    
 *Jackson Sargent and Melanie Weber*
 
-Online Platforms and the Fair Exposure Problem Under Homophily  
+Online Platforms and the Fair Exposure Problem Under Homophily (B1, Wednesday)  
 *Jakob Schoeffer, Alexander Ritchie, Keziah Naggita, Faidra Monachou, Jessica Finocchiaro and Marc Juarez*
 
-Algorithmic Redistricting and Black Representation  
+Algorithmic Redistricting and Black Representation (A2, Friday)    
 *Zachary Schutzman*
 
 Assisted Quick Screener Demonstration:  Improving public benefit access for hard-to-reach populations through community based social service organizations  
 *Daniel Singer and Margaret Spring*
   
-An information theory of efficient differential treatment  
+An information theory of efficient differential treatment (B4, Friday)  
 *Emil Temnyalov*
 
-Sophistication and Cautiousness in College Applications  
+Sophistication and Cautiousness in College Applications (D2, Wednesday)  
 *Kentaro Tomoeda, Yan Song and Xiaoyu Xia*
 
-Mapping Normative Frameworks to Fair Ranking  
+Mapping Normative Frameworks to Fair Ranking (B1, Friday)  
 *Meike Zehlike, Ke Yang and Julia Stoyanovich*
 
 Partial Completion as a Nonprofit Strategy  
