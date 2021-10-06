@@ -15,7 +15,7 @@ header:
   caption: ""
   image: ""
 ---
-
+---
 [*Jump to list of posters*](#accepted-posters)
 
 ## Accepted Papers
