@@ -20,9 +20,6 @@ header:
 
 ## Accepted Papers
 ---
-<details open>
-<summary>Click to expand/collapse the list of papers</summary>
-<br>
   
 Who Benefits from Faster Public Transit?  
 *Prottoy Akbar*
@@ -168,16 +165,11 @@ Algorithmic Auditing for Social Justice
 *Briana Vecchione, Karen Levy and Solon Barocas*
 
 
-</details>
-
 
 ## Accepted Posters
 ---
 #### Note: Poster titles are followed by their poster slot and session day
 
-<details open>
-<summary>Click to expand/collapse the list of posters</summary> 
-<br>
 
 Parallel Markets in School Choice (D1, Wednesday)    
 *Mustafa Oguz Afacan, Piotr Evdokimov, Rustamdjan Hakimov and Bertan Turhan*
@@ -284,7 +276,4 @@ Sophistication and Cautiousness in College Applications (D2, Wednesday)
 Mapping Normative Frameworks to Fair Ranking (B1, Friday)  
 *Meike Zehlike, Ke Yang and Julia Stoyanovich*
 
-
-  
-</details>
 
