@@ -176,7 +176,7 @@ Algorithmic Auditing for Social Justice
 <summary>Click to expand/collapse the list of posters</summary> 
 <br>
 
-Parallel Markets in School Choice (D1, Wednesday) 
+Parallel Markets in School Choice (D1, Wednesday)    
 *Mustafa Oguz Afacan, Piotr Evdokimov, Rustamdjan Hakimov and Bertan Turhan*
 
 The effect of personal and community attributes on educational outcomes in Ecuador  
