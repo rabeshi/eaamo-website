@@ -276,4 +276,5 @@ Sophistication and Cautiousness in College Applications (D2, Wednesday)
 Mapping Normative Frameworks to Fair Ranking (B1, Friday)  
 *Meike Zehlike, Ke Yang and Julia Stoyanovich*
 
+[*Jump to top*](#accepted-papers)
 
