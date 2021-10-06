@@ -21,28 +21,28 @@ header:
 ## Accepted Papers    
 ---
   
-Who Benefits from Faster Public Transit?  
+[Who Benefits from Faster Public Transit?](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_37.pdf)  
 *Prottoy Akbar*
 
-An Economic Framework for Vaccine Prioritization  
+[An Economic Framework for Vaccine Prioritization](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_77.pdf) 
 *Mohammad Akbarpour, Eric Budish, Piotr Dworczak and Scott Kominers*
   
-Redistributive Allocation Mechanisms  
+[Redistributive Allocation Mechanisms](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_46.pdf)  
 *Mohammad Akbarpour, Piotr Dworczak and Scott Kominers*
   
-How to De-reserve Reserves  
+[How to De-reserve Reserves](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_134.pdf)  
 *Orhan Aygun and Bertan Turhan*
   
-Fair Exploration via Axiomatic Bargaining  
+[Fair Exploration via Axiomatic Bargaining](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_82.pdf)  
 *Jackie Baek and Vivek Farias*
   
-(Machine) Learning what Policymakers Value  
+[(Machine) Learning what Policymakers Value](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_25.pdf)  
 *Daniel Bjorkegren, Joshua Blumenstock and Samsun Knight*
   
 [Unpacking the Black Box: Regulating Algorithmic Decision-Making with Ex-Post Audits](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_107.pdf) 
 *Laura Blattner, Scott Nelson and Jann Spiess*
   
-Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209  
+[Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_142.pdf)  
 *Zachary Bleemer*
   
 Opportunities for a More Interdisciplinary Approach to Perceptions of Fairness in Machine Learning  
@@ -51,43 +51,43 @@ Opportunities for a More Interdisciplinary Approach to Perceptions of Fairness i
 Disaggregated Interventions to Reduce Inequality  
 *Lucius Bynum, Joshua Loftus and Julia Stoyanovich*
 
-Catchment Areas, Stratification and Access to Better Schools  
+[Catchment Areas, Stratification and Access to Better Schools](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_155.pdf)  
 *Caterina Calsamiglia and Antonio Miralles*
 
 Proportional Apportionment: A Case Study From the Chilean Constitutional Convention  
 *Javier Cembrano, Jose Correa, Gonzalo Diaz and Victor Verdugo*
 
-School Choice with Consent: An Experiment  
+[School Choice with Consent: An Experiment](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_31.pdf)   
 *Claudia Cerrone, Yoan Hermstrüwer and Onur Kesten*
 
-Increasing the Demand for Workers with a Criminal Record  
+Increasing the Demand for Workers with a Criminal Record
 *Zoe Cullen, Mitch Hoffman and Will Dobbie*
 
-Algorithmic Reparation  
+[Algorithmic Reparation](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_135.pdf)  
 *Jenny L Davis, Apryl Williams and Michael Yang*
 
-Project 412Connect: Bridging Students to Communities  
+Project 412Connect: Bridging Students to Communities
 *Alex DiChristofano, Michael L. Hamilton, Sera Linardi and Mara F. McCloud*
 
-Facing an Adult Problem: New Datasets for Fair Machine Learning  
+[Facing an Adult Problem: New Datasets for Fair Machine Learning](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_16.pdf)  
 *Frances Ding, Moritz Hardt, John Miller and Ludwig Schmidt*
 
-A Market Design Solution to the Unequal Distribution of Teachers in Schools  
+[A Market Design Solution to the Unequal Distribution of Teachers in Schools](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_89.pdf)  
 *Umut Dur, Julien Combe, Camille Terrrier, Olivier Terciux and Utku Unver*
 
-On Symmetries and Fairness in Multi-Dimensional Mechanism Design  
+[On Symmetries and Fairness in Multi-Dimensional Mechanism Design](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_150.pdf)  
 *Meryem Essaidi and S. Matthew Weinberg*
 
 Accuracy-Efficiency Trade-Offs and Accountability in Distributed ML Systems  
 *A. Feder Cooper, Karen Levy and Christopher De Sa*
 
-Dropping Standardized Testing for Admissions Trades Off Information and Access  
+[Dropping Standardized Testing for Admissions Trades Off Information and Access](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_38.pdf)  
 *Nikhil Garg, Hannah Li and Faidra Monachou*
 
-WordBias: An Interactive Visual Tool for Discovering Intersectional Biases Encoded in Word Embeddings  
+[WordBias: An Interactive Visual Tool for Discovering Intersectional Biases Encoded in Word Embeddings](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_13.pdf)  
 *Bhavya Ghai, Md Naimul Hoque and Klaus Mueller*
 
-School Choice and Housing Market  
+[School Choice and Housing Market](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_23.pdf)  
 *Aram Grigoryan*
 
 The Stereotyping Problem in Collaboratively Filtered Recommender Systems  
@@ -106,10 +106,10 @@ Pavone*
 Measuring Data Collection Diligence for Community Healthcare  
 *Ramesha Karunasena, Mohammad Sarparajul Ambiya, Arunesh Sinha, Ruchit Nagar, Saachi Dalal, Divy Thakkar, Dhyanesh Narayanan and Milind Tambe*
 
-Adaptive Combinatorial Allocation  
+[Adaptive Combinatorial Allocation](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_57.pdf)  
 *Maximilian Kasy and Alexander Teytelboym*
 
-Dynamic College Admissions and the Determinants of Students’ College Retention  
+[Dynamic College Admissions and the Determinants of Students’ College Retention](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_18.pdf)  
 *Tomas Larroucau and Ignacio Rios*
 
 Test-optional Policies: Overcoming Strategic Behavior and Informational Gaps  
@@ -119,40 +119,40 @@ Optimal Testing and Containment Strategies for Universities in Mexico amid COVID
 *Edwin Lock, Francisco Javier Marmolejo Cossio, Jakob Jonnerby, Ninad Rajgopal, Héctor Alonso 
 Guzmán Gutiérrez, Luis Alejandro Benavides Vázquez, José Roberto Tello Ayala and Philip Lazos*
 
-Fair Dynamic Rationing  
+[Fair Dynamic Rationing](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_103.pdf)  
 *Vahideh Manshadi, Rad Niazadeh and Scott Rodilitz*
 
-Improving Policy-Constrained Kidney Exchange via Pre-Screening  
+[Improving Policy-Constrained Kidney Exchange via Pre-Screening](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_153.pdf)  
 *Duncan Mcelfresh, Michael Curry, Tuomas Sandholm and John P. Dickerson*
 
-Exclusion of Extreme Jurors and Minority Representation:The Effect of Jury Selection Procedures  
+[Exclusion of Extreme Jurors and Minority Representation:The Effect of Jury Selection Procedures](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_1.pdf)  
 *Andrea Moro and Martin Van der Linden*
 
-Algorithm is Experiment: Machine Learning, Market Design, and Policy Eligibility Rules  
+[Algorithm is Experiment: Machine Learning, Market Design, and Policy Eligibility Rules](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_58.pdf)  
 *Yusuke Narita and Kohei Yata*
 
 Breaking Taboos in Fair Machine Learning: An Experimental Study  
 *Julian Nyarko, Sharad Goel and Roseanna Sommers*
 
-Prosecutor Politics: The Impact of Election Cycles on Criminal Sentencing in the Era of Rising Incarceration  
+[Prosecutor Politics: The Impact of Election Cycles on Criminal Sentencing in the Era of Rising Incarceration](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_71.pdf)  
 *Chika Okafor*
 
 Preserving Diversity when Partitioning: A Geometric Approach  
 *Sebastian Perez, Alfredo Torrico and Victor Verdugo*
 
-Health Sentinel: A mobile crowdsourcing platform for self-reported surveys provides early detection of COVID-19 clusters in San Luis Potosí, Mexico  
+[Health Sentinel: A mobile crowdsourcing platform for self-reported surveys provides early detection of COVID-19 clusters in San Luis Potosí, Mexico](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_161.pdf)  
 *Salvador Ruiz-Correa, Rúben López-Revilla, Fernando Díaz-Barriga, Francisco Javier Marmolejo Cossio, Viridiana del Carmen Robledo-Valero, Emilio Ernesto Hernández-Huérfano, Leonardo Álvarez-Rivera, Mónica Liliana Rangel-Martínez, Miguel Ángel Lutzow-Steiner, Luis Alfredo Ortiz-Vázquez, Andrea Rebeca Mendoza-Lara, Montserrat Olivo-Rodríguez, Marco Sebastián Galván-Ramírez, Ángel Emanuel Morales-Neri, Víctor Uriel Martínez-Donjuan, Massiel Isabella Cervantes-Irurzo, Andreu Comas-García, Fernando Hernández-Maldonado and Carlos Aguilar-Acosta*
 
 A public transit network optimization model for equitable access to social services  
 *Adam Rumpf and Hemanshu Kaul*
 
-Reverse Cross Subsidization in Healthcare Capitation Programs: Evidence from Medicare Advantage  
+[Reverse Cross Subsidization in Healthcare Capitation Programs: Evidence from Medicare Advantage](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_19.pdf)  
 *Zhaowei She, Turgay Ayer, Bilal Gokpinar and Danny Hughes*
 
 Advancing social justice through linguistic justice: Strategies for building equity fluent NLP technology  
 *Genevieve Macfarlane Smith, Julia Nee, Alicia Sheares and Ishita Rustagi*
 
-Can Shared Service Delivery Increase Customer Engagement? A Study of Shared Medical Appointments  
+[Can Shared Service Delivery Increase Customer Engagement? A Study of Shared Medical Appointments](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_151.pdf)  
 *Nazli Sonmez, Kamalini Ramdas and Ryan W. Buell*
 
 A Framework of Potential Sources of Harm Throughout the Machine Learning Life Cycle  
