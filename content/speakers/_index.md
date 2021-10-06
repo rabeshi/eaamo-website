@@ -38,6 +38,7 @@ ___
 
 - <a href="https://ericwchan.com/">Eric W. Chan</a>, Assistant Professor, Babson College
 - <a href="https://www.mfeldman.sites.tau.ac.il/">Michal Feldman</a>, Professor, Tel-Aviv University
+- <a href="http://www.linardi.gspia.pitt.edu/">Sera Linardi</a>, Associate Professor, University of Pittsburgh
 - <a href="https://researchictafrica.net/author/araba-sey/">Araba Sey</a>, Principal Researcher, Research ICT Africa
 
 <br>
@@ -224,10 +225,18 @@ Columbia University, and a Ph.D. in Economics and Education from Columbia Univer
 
 ---
 
- <p><a href="https://en-exact-sciences.tau.ac.il/EC/Meet-Michal-Feldman">Michal Feldman</a> is the Computation and Economics Professor of Computer Science in the Blavatnik School of Computer Science at Tel Aviv University and a visiting scholar at Microsoft Research (MSR) Herzliya. Her research spans computer science, economics, game theory and operations research. She received her Ph.D. from the University of California at Berkeley in 2005. She held a visiting position at Harvard University and Microsoft Research New England (2011-13). She is an Associate Editor in Games and Economic Behavior, Mathematics of Operations Research, ACM Transactions on Economics and Computation, and Journal of Computer and System Sciences. She served as Vice Chair of ACM SIGecom, and PC chair of ACM EC 2015. She is an alumna of the Global Young Academy of Sciences, and the Israeli Young Academy of Sciences (and its management committee). She is the recipient of two ERC grants of the European Research Council, Marie Curie IOF, Alon, ISF and Amazon Research Award. She was listed in Forbes' list of the 50 most influential women in Israel (2016), and in the The Marker's list 40 under 40 (2014).
+ <p><a href="https://en-exact-sciences.tau.ac.il/EC/Meet-Michal-Feldman">Michal Feldman</a> is the Computation and Economics Professor of Computer Science in the Blavatnik School of Computer Science at Tel Aviv University and a visiting scholar at Microsoft Research (MSR) Herzliya. Her research spans computer science, economics, game theory and operations research. She received her Ph.D. from the University of California at Berkeley in 2005. She held a visiting position at Harvard University and Microsoft Research New England (2011-13). She is an Associate Editor in Games and Economic Behavior, Mathematics of Operations Research, ACM Transactions on Economics and Computation, and Journal of Computer and System Sciences. She served as Vice Chair of ACM SIGecom, and PC chair of ACM EC 2015. She is an alumna of the Global Young Academy of Sciences, and the Israeli Young Academy of Sciences (and its management committee). She is the recipient of two ERC grants of the European Research Council, Marie Curie IOF, Alon, ISF and Amazon Research Award. She was listed in Forbes' list of the 50 most influential women in Israel (2016), and in the The Marker's list 40 under 40 (2014).</p><br>
 
-</p><br>
 
+<img style = "float:left; margin:20px 30px 10px 0px" src="images/sera.jpeg" width="25%" height = "auto">
+
+## Sera Linardi ##
+#### Associate Professor of Economics, University of Pittsburgh ####
+
+---
+
+ <p><a href="http://www.linardi.gspia.pitt.edu/">Sera Linardi</a> is an Associate Professor of Economics at the Graduate School of Public and International Affairs (GSPIA) at the University of Pittsburgh with appointments at the Intelligent Systems Program at the School of Computing and Information and the Department of Economics at Arts & Sciences. Sera founded and direct the Center for Analytical Approaches to Social Innovation (CAASI). Projects currently managed within CAASI includes Pitt Smart Living Human Behavior Laboratory (video) with SCI (NSF #1739413), the Heinz Endowments funded Pitt Wage Study (School of Social Work, SEIU), and an RCT on service utilization among the previously incarcerated with TAMU Econ (funded by the Rapoport Foundation). The lab also recently started the Tipped Worker study (Pitt Law, Katz, SSW, WSU, and Restaurant Opportunity Center). Sera received her PhD in Social Science at the California Institute of Technology in 2010. Before Caltech, Sera was a computer scientist at Adobe Systems, working on the PDF file technology. As an experimental economist in a school of public affairs, I bridge academic research and the day-to-day challenges facing those who provide services to vulnerable populations. Her research focuses on 1) the supply of donated funds and labor (prosocial behavior), 2) the ability for decision makers to aggregate mission-critical information, and 3) the behavior of the population targeted for service.</p></br>
+  
 
 <img style = "float:left; margin:20px 30px 10px 0px" src="images/sey_square.JPG" width="25%" height = "auto">
 
