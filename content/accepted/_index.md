@@ -39,7 +39,7 @@ Fair Exploration via Axiomatic Bargaining
 (Machine) Learning what Policymakers Value  
 *Daniel Bjorkegren, Joshua Blumenstock and Samsun Knight*
   
-Unpacking the Black Box: Regulating Algorithmic Decision-Making with Ex-Post Audits  
+[Unpacking the Black Box: Regulating Algorithmic Decision-Making with Ex-Post Audits](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_107.pdf) 
 *Laura Blattner, Scott Nelson and Jann Spiess*
   
 Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209  
