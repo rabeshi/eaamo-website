@@ -34,7 +34,7 @@
 [[main]]
   name = "Invited Speakers"
   url = "speakers"
-  weight = 30
+  weight = -30
   parent = "program"
 
 [[main]]
@@ -54,7 +54,7 @@
   identifier = "Accepted"
   name = "Accepted Papers and Posters"
   url = "accepted"
-  weight = -30
+  weight = -20
   parent = "program"
 
 [[main]]
