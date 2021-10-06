@@ -285,6 +285,9 @@ Online Platforms and the Fair Exposure Problem Under Homophily
 Algorithmic Redistricting and Black Representation  
 *Zachary Schutzman*
 
+Assisted Quick Screener Demonstration:  Improving public benefit access for hard-to-reach populations through community based social service organizations  
+*Daniel Singer and Margaret Spring*
+  
 An information theory of efficient differential treatment  
 *Emil Temnyalov*
 
