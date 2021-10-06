@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-#### Note: Poster titles are followed by their poster slot and session day
+[*Jump to list of posters*](#accepted-posters:)
 
 ## Accepted Papers:
 <details open>
@@ -170,7 +170,8 @@ Algorithmic Auditing for Social Justice
 </details>
 
 
-## Accepted Posters:
+## Accepted Posters:    
+#### Note: Poster titles are followed by their poster slot and session day
 
 <details open>
 <summary>Click to expand/collapse the list of posters</summary> 
