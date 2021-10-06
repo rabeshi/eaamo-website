@@ -23,7 +23,7 @@ The list of accepted papers and posters can be found below. The PDFs for the acc
 ## Accepted Papers    
 ---
   
-[Who Benefits from Faster Public Transit?](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_37.pdf)  
+[Who Benefits from Faster Public Transit?](acceptednonarchival/EAMO21_paper_37.pdf)  
 *Prottoy Akbar*
 
 [An Economic Framework for Vaccine Prioritization](eaamo.org/accepted/acceptednonarchival/EAMO21_paper_77.pdf)  
