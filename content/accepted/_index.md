@@ -59,7 +59,7 @@ Disaggregated Interventions to Reduce Inequality
 Proportional Apportionment: A Case Study From the Chilean Constitutional Convention  
 *Javier Cembrano, Jose Correa, Gonzalo Diaz and Victor Verdugo*
 
-[School Choice with Consent: An Experiment](acceptednonarchival/EAMO21_paper_31.pdf)   
+[School Choice with Consent: An Experiment](acceptednonarchival/EAMO21_paper_31.pdf) [(slides)](acceptednonarchival/School_Choice_with_Consent.pdf)   
 *Claudia Cerrone, Yoan Hermstrüwer and Onur Kesten*
 
 Increasing the Demand for Workers with a Criminal Record  
