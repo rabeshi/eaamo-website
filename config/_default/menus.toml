@@ -86,6 +86,12 @@
   url = "socials"
   weight = 10
   parent = "program"
+  
+[[main]]
+  name = "Awards"
+  url = "awards"
+  weight = 20
+  parent = "program"
 
 [[main]]
   identifier = "organization"
