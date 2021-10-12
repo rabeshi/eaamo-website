@@ -136,7 +136,7 @@ Guzmán Gutiérrez, Luis Alejandro Benavides Vázquez, José Roberto Tello Ayala
 Breaking Taboos in Fair Machine Learning: An Experimental Study  
 *Julian Nyarko, Sharad Goel and Roseanna Sommers*
 
-[Prosecutor Politics: The Impact of Election Cycles on Criminal Sentencing in the Era of Rising Incarceration](acceptednonarchival/EAMO21_paper_71.pdf)  
+Prosecutor Politics: The Impact of Election Cycles on Criminal Sentencing in the Era of Rising Incarceration 
 *Chika Okafor*
 
 Preserving Diversity when Partitioning: A Geometric Approach  
