@@ -39,8 +39,8 @@ Nós incentivamos as submissões provenientes de todas as disciplinas e que cubr
 ## Tipos de Submissão
 
 Pode-se submeter para uma destas categorias: 
-- [Seção Temática de Investigação](https://eaamo.org/cfpresearchpr/)
-- [Seção Temática de Políticas e Práticas](https://eaamo.org/cfppolicypr/)
+- [Seção Temática de Investigação](https://eaamo2021.eaamo.org/cfpresearchpr/)
+- [Seção Temática de Políticas e Práticas](https://eaamo2021.eaamo.org/cfppolicypr/)
 
 Para todas as submissões independentemente da seção temática, os tópicos de interesse incluem, mas não estão limitados a:
 - Desafios em termos de mercado e mecanismos em contextos com recursos reduzidos
@@ -96,7 +96,7 @@ Os artigos que não se adequem a esta conferência conforme os critérios acima 
 
 A EAAMO’21 irá seguir um Sistema de revisão em duas fases. Todas as submissões passarão pelo processo de revisão de pares por pelo menos 2 revisores num formato completamente anónimo. A comissão reserva o direito de não rever todos os detalhes técnicos das submissões.
 
-Registe-se [aqui](https://eaamo.org/registration) para a conferência. Será prestada assistência financeira para os custos da sua inscrição, tal como para os Planos de Dados. Todos os pedidos para assistência financeira têm de ser submetidos até 14 de junho de 2021, às 17h PT (horário do Pacífico); todos os pedidos recebidos depois desta data não serão considerados.
+Registe-se [aqui](https://eaamo2021.eaamo.org/registration) para a conferência. Será prestada assistência financeira para os custos da sua inscrição, tal como para os Planos de Dados. Todos os pedidos para assistência financeira têm de ser submetidos até 14 de junho de 2021, às 17h PT (horário do Pacífico); todos os pedidos recebidos depois desta data não serão considerados.
  
 ## Informações Importantes
 

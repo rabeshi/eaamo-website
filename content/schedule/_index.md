@@ -51,7 +51,7 @@ Please note that this is a **preliminary conference program** and that slight al
     <tr eaamo-toggle="collapse" eaamo-target="#collapseMonOne" aria-expanded="false" aria-controls="collapseMonOne" class="collapsed">
       <th scope="row">1</th>
       <td>12:15 - 13:15 (ET)</td>
-      <td><b><a href="https://eaamo.org/networking/">Practioner and Researcher networking session.</b><br/>Meet practitioners and researchers on Gather.</td>
+      <td><b><a href="https://eaamo2021.eaamo.org/networking/">Practioner and Researcher networking session.</b><br/>Meet practitioners and researchers on Gather.</td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -101,7 +101,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueTwo" aria-expanded="false" aria-controls="collapseTueTwo" class="collapsed">
       <th scope="row">2</th>
       <td>11:00 - 11:30 (ET)</td>
-      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#mary-gray">Mary Gray</a></td>
+      <td><b>Keynote talk</b>: <a href="https://eaamo2021.eaamo.org/speakers/#mary-gray">Mary Gray</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -116,7 +116,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueThree" aria-expanded="false" aria-controls="collapseTueThree" class="collapsed">
       <th scope="row">3</th>
       <td>11:30 - 12:00 (ET)</td>
-      <td><b>Keynote panel</b>: <a href="https://eaamo.org/speakers/#dirk-bergemann">Dirk Bergemann</a>, <a href="https://eaamo.org/speakers/#mary-gray">Mary Gray</a></td>
+      <td><b>Keynote panel</b>: <a href="https://eaamo2021.eaamo.org/speakers/#dirk-bergemann">Dirk Bergemann</a>, <a href="https://eaamo2021.eaamo.org/speakers/#mary-gray">Mary Gray</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -143,7 +143,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueFive" aria-expanded="false" aria-controls="collapseTueFive" class="collapsed">
       <th scope="row">5</th>
       <td>12:15 - 13:15 (ET)</td>
-      <td><a href="https://eaamo.org/panel_discussion_2021-10-05/">Policy and Practice panel: Latin America focus: Juan Manuel Arribas Berendsohn, Rocio Maciel, and Nancy Rumaldo</a></td>
+      <td><a href="https://eaamo2021.eaamo.org/panel_discussion_2021-10-05/">Policy and Practice panel: Latin America focus: Juan Manuel Arribas Berendsohn, Rocio Maciel, and Nancy Rumaldo</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -175,7 +175,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseTueSeven" aria-expanded="false" aria-controls="collapseTueSeven" class="collapsed">
       <th scope="row">7</th>
       <td>14:00 - 14:30 (ET)</td>
-      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#dirk-bergemann">Dirk Bergemann</a></td>
+      <td><b>Keynote talk</b>: <a href="https://eaamo2021.eaamo.org/speakers/#dirk-bergemann">Dirk Bergemann</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -343,7 +343,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedOne" aria-expanded="false" aria-controls="collapseWedOne" class="collapsed">
       <th scope="row">1</th>
       <td>11:00 - 11:30 (ET)</td>
-      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#krishna-gummadi">Krishna Gummadi</a></td>
+      <td><b>Keynote talk</b>: <a href="https://eaamo2021.eaamo.org/speakers/#krishna-gummadi">Krishna Gummadi</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -358,7 +358,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedTwo" aria-expanded="false" aria-controls="collapseWedTwo" class="collapsed">
       <th scope="row">2</th>
       <td>11:30 - 12:00 (ET)</td>
-      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#ashish-goel">Ashish Goel</a></td>
+      <td><b>Keynote talk</b>: <a href="https://eaamo2021.eaamo.org/speakers/#ashish-goel">Ashish Goel</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -436,7 +436,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseWedFive" aria-expanded="false" aria-controls="collapseWedFive" class="collapsed">
       <th scope="row">5</th>
       <td>14:00 - 14:30 (ET)</td>
-      <td><b>Keynote panel</b>: <a href="https://www.mfeldman.sites.tau.ac.il/">Michal Feldman</a>, <a href="https://eaamo.org/speakers/#ashish-goel">Ashish Goel</a>, <a href="https://eaamo.org/speakers/#krishna-gummadi">Krishna Gummadi</a></td>
+      <td><b>Keynote panel</b>: <a href="https://www.mfeldman.sites.tau.ac.il/">Michal Feldman</a>, <a href="https://eaamo2021.eaamo.org/speakers/#ashish-goel">Ashish Goel</a>, <a href="https://eaamo2021.eaamo.org/speakers/#krishna-gummadi">Krishna Gummadi</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -561,7 +561,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuOne" aria-expanded="false" aria-controls="collapseThuOne" class="collapsed">
       <th scope="row">1</th>
       <td>11:00 - 11:30 (ET)</td>
-      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#radhika-khosla">Radhika Khosla</a></td>
+      <td><b>Keynote talk</b>: <a href="https://eaamo2021.eaamo.org/speakers/#radhika-khosla">Radhika Khosla</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -575,7 +575,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuTwo" aria-expanded="false" aria-controls="collapseThuTwo" class="collapsed">
       <th scope="row">2</th>
       <td>11:30 - 12:00 (ET)</td>
-      <td><b>Keynote panel</b>: <a href="https://eaamo.org/speakers/#radhika-khosla">Radhika Khosla</a>, <a href="https://researchictafrica.net/author/araba-sey/">Araba Sey</a></td>
+      <td><b>Keynote panel</b>: <a href="https://eaamo2021.eaamo.org/speakers/#radhika-khosla">Radhika Khosla</a>, <a href="https://researchictafrica.net/author/araba-sey/">Araba Sey</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -602,7 +602,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseThuFour" aria-expanded="false" aria-controls="collapseThuFour" class="collapsed">
       <th scope="row">4</th>
       <td>12:15 - 13:15 (ET)</td>
-      <td><a href="https://eaamo.org/panel_discussion_2021-10-07/">Policy and Practice panel: refugees and asylees focus: Yeukai Chideya, Richard Thickpenny, Paulina Vera, and Alicia Wrenn</a></td>
+      <td><a href="https://eaamo2021.eaamo.org/panel_discussion_2021-10-07/">Policy and Practice panel: refugees and asylees focus: Yeukai Chideya, Richard Thickpenny, Paulina Vera, and Alicia Wrenn</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -783,7 +783,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriOne" aria-expanded="false" aria-controls="collapseFriOne" class="collapsed">
       <th scope="row">1</th>
       <td>11:00 - 11:30 (ET)</td>
-      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#sylvia-ortega-salazar">Sylvia Ortega Salazar</a></td>
+      <td><b>Keynote talk</b>: <a href="https://eaamo2021.eaamo.org/speakers/#sylvia-ortega-salazar">Sylvia Ortega Salazar</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -864,7 +864,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriFive" aria-expanded="false" aria-controls="collapseFriFive" class="collapsed">
       <th scope="row">5</th>
       <td>14:00 - 14:30 (ET)</td>
-      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#avinatan-hassidim">Avinatan Hassidim</a></a></td>
+      <td><b>Keynote talk</b>: <a href="https://eaamo2021.eaamo.org/speakers/#avinatan-hassidim">Avinatan Hassidim</a></a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -879,7 +879,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseFriSix" aria-expanded="false" aria-controls="collapseFriSix" class="collapsed">
       <th scope="row">6</th>
       <td>14:30 - 15:00 (ET)</td>
-      <td><b>Keynote panel</b>: <a href="https://www.babson.edu/academics/faculty/faculty-profiles/eric-wai-kin-chan.php">Eric Chan</a>, <a href="https://eaamo.org/speakers/#avinatan-hassidim">Avinatan Hassidim</a>, <a href="https://eaamo.org/speakers/#sylvia-ortega-salazar">Sylvia Ortega Salazar</a></td>
+      <td><b>Keynote panel</b>: <a href="https://www.babson.edu/academics/faculty/faculty-profiles/eric-wai-kin-chan.php">Eric Chan</a>, <a href="https://eaamo2021.eaamo.org/speakers/#avinatan-hassidim">Avinatan Hassidim</a>, <a href="https://eaamo2021.eaamo.org/speakers/#sylvia-ortega-salazar">Sylvia Ortega Salazar</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -995,7 +995,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseSatOne" aria-expanded="false" aria-controls="collapseSatOne" class="collapsed">
       <th scope="row">1</th>
       <td>11:00 - 11:30 (ET)</td>
-      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#trooper-sanders">Trooper Sanders</a></td>
+      <td><b>Keynote talk</b>: <a href="https://eaamo2021.eaamo.org/speakers/#trooper-sanders">Trooper Sanders</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -1121,7 +1121,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseSatSeven" aria-expanded="false" aria-controls="collapseSatSeven" class="collapsed">
       <th scope="row">7</th>
       <td>14:00 - 14:30 (ET)</td>
-      <td><b>Keynote talk</b>: <a href="https://eaamo.org/speakers/#ellora-derenoncourt">Ellora Derenoncourt</a></td>
+      <td><b>Keynote talk</b>: <a href="https://eaamo2021.eaamo.org/speakers/#ellora-derenoncourt">Ellora Derenoncourt</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>
@@ -1136,7 +1136,7 @@ Please note that this is a **preliminary conference program** and that slight al
 	<tr eaamo-toggle="collapse" eaamo-target="#collapseSatEight" aria-expanded="false" aria-controls="collapseSatEight" class="collapsed">
       <th scope="row">8</th>
       <td>14:30 - 15:00 (ET)</td>
-      <td><b>Keynote panel</b>: <a href="https://eaamo.org/speakers/#ellora-derenoncourt">Ellora Derenoncourt</a>, <a href="https://eaamo.org/speakers/#trooper-sanders">Trooper Sanders</a>, <a href="http://www.linardi.gspia.pitt.edu/">Sera Linardi</a></td>
+      <td><b>Keynote panel</b>: <a href="https://eaamo2021.eaamo.org/speakers/#ellora-derenoncourt">Ellora Derenoncourt</a>, <a href="https://eaamo2021.eaamo.org/speakers/#trooper-sanders">Trooper Sanders</a>, <a href="http://www.linardi.gspia.pitt.edu/">Sera Linardi</a></td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
     	</td>

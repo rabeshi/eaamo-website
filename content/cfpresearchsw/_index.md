@@ -38,8 +38,8 @@ Tunahimiza mawasilisho kutoka kwenye taaluma za aina mbalimbali na ukigusia maen
 ## Aina za Uwasilishaji
 
 Mawasilisho yatatarajiwa katika moja kati ya vipengele viwili:
-- [Ufuatiliaji wa Utafiti](https://eaamo.org/cfpresearchsw/)
-- [Ufuatiliaji wa Sera na Utendaji](https://eaamo.org/cfppolicysw/)
+- [Ufuatiliaji wa Utafiti](https://eaamo2021.eaamo.org/cfpresearchsw/)
+- [Ufuatiliaji wa Sera na Utendaji](https://eaamo2021.eaamo.org/cfppolicysw/)
  
 
 Kwa mawasilisho yote katika ufuatiliaji wowote, mada za kuzungumziwa zinajumuisha lakini hazizuiliki kwenye:
@@ -98,7 +98,7 @@ Nyaraka ambazo ziko nje ya mtazamo wa kongamano kama zilivyotathminiwa na vigezo
 
 EAAMO’21 itafuata mfumo wa ukaguzi wa awamu mbili. Mawasilisho yote yatakaguliwa na watu wa kada moja ambapo ni angalau wahakiki 2 katika muundo wa kutojua wanahakiki kazi ya nani hasa. Kamati ina haki ya kutopitia maelezo yote ya kiufundi ya maoni ya mawasilisho.
 
-Jisajili [hapa](https://eaamo.org/registration) kushiriki kwenye kongamano. Kongamano hilo litatoa msaada wa kifedha kwa gharama za usajili, pamoja na mipango ya taarifa. **Maombi yote ya msaada wa kifedha lazima yawasilishwe ifikapo tarehe 14 Juni, 2021 saa 11 jioni ET;** maombi yaliyopokelewa baada ya tarehe hii hayatazingatiwa. 
+Jisajili [hapa](https://eaamo2021.eaamo.org/registration) kushiriki kwenye kongamano. Kongamano hilo litatoa msaada wa kifedha kwa gharama za usajili, pamoja na mipango ya taarifa. **Maombi yote ya msaada wa kifedha lazima yawasilishwe ifikapo tarehe 14 Juni, 2021 saa 11 jioni ET;** maombi yaliyopokelewa baada ya tarehe hii hayatazingatiwa. 
 
 ## Taarifa za muhimu
 

@@ -39,8 +39,8 @@ Nous encourageons les soumissions provenant de diverses disciplines et couvrant 
 ## Types de Propositions
 
 Les propositions relèveront de l’une des deux catégories suivantes :
-- [Recherche](https://eaamo.org/cfpresearchfr/)
-- [Pratiques et Politiques Publiques](https://eaamo.org/cfppolicyfr/)
+- [Recherche](https://eaamo2021.eaamo.org/cfpresearchfr/)
+- [Pratiques et Politiques Publiques](https://eaamo2021.eaamo.org/cfppolicyfr/)
  
 
 Toutes les propositions, qu’elles relèvent de l’une ou l’autre de ces deux catégories, s’inscriront, sans s’y limiter, dans les sujets d'intérêts suivants :
@@ -99,7 +99,7 @@ Les articles qui ne correspondent pas à la finalité de la conférence telle qu
 
 EAAMO'21 suivra un système d'évaluation en deux phases. Toutes les propositions seront évaluées par au moins deux évaluateurs dans un format en double aveugle. Le comité se réserve le droit de ne pas examiner tous les détails techniques des propositions.
 
-Inscrivez-vous [ici](https://eaamo.org/registration) pour la conférence. La conférence fournira une aide financière pour les frais d'inscription, ainsi que pour les plans de données. Toutes les demandes d'aide financière doivent être soumises avant le 14 juin 2021 à 17h00 ET (21h00 GMT) ; les demandes reçues après cette date ne seront pas prises en compte.
+Inscrivez-vous [ici](https://eaamo2021.eaamo.org/registration) pour la conférence. La conférence fournira une aide financière pour les frais d'inscription, ainsi que pour les plans de données. Toutes les demandes d'aide financière doivent être soumises avant le 14 juin 2021 à 17h00 ET (21h00 GMT) ; les demandes reçues après cette date ne seront pas prises en compte.
  
 ## Informations importantes
 

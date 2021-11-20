@@ -41,20 +41,20 @@ design:
 <strong style="text-align:center">Platinum sponsor</strong>
 <br/>
 <br/>
-<img src="https://eaamo.org/home/img/sloan.svg" width="400" height="160">
+<img src="https://eaamo2021.eaamo.org/home/img/sloan.svg" width="400" height="160">
 </div>
 
 <div class="col-sm-4 mx-auto" style="display:inline-block">
 <strong style="text-align:center">Platinum sponsor</strong>
 <br/>
 <br/>
-<img src="https://eaamo.org/home/img/macarthur.svg" width="400" height="160">
+<img src="https://eaamo2021.eaamo.org/home/img/macarthur.svg" width="400" height="160">
 </div>
 
 <div class="col-sm-4 mx-auto" style="display:inline-block">
 <strong style="text-align:center">Silver sponsor</strong>
 <br/>
-<img src="https://eaamo.org/home/img/patterns.svg" width="400" height="160">
+<img src="https://eaamo2021.eaamo.org/home/img/patterns.svg" width="400" height="160">
 </div>
 </div>
 
@@ -63,19 +63,19 @@ design:
 <br/>
 <br/>
 <br/>
-<img src="https://eaamo.org/home/img/acm.svg">
+<img src="https://eaamo2021.eaamo.org/home/img/acm.svg">
 </div>
 
 <div class="col-sm-4 mx-auto" style="display:inline-block" width="400" height="160">
 <br/>
-<img src="https://eaamo.org/home/img/sigaiwide.svg">
+<img src="https://eaamo2021.eaamo.org/home/img/sigaiwide.svg">
 </div>
 
 <div class="col-sm-4 mx-auto" style="display:inline-block">
 <br/>
 <br/>
 <br/>
-<img src="https://eaamo.org/home/img/sigecom_logo_4rgb.svg" width="400" height="160">
+<img src="https://eaamo2021.eaamo.org/home/img/sigecom_logo_4rgb.svg" width="400" height="160">
 </div>
 </div>
 </div>

@@ -41,8 +41,8 @@ Aceptaremos solicitudes y contribuciones de varias disciplinas, incluyendo: part
 ## Tipos de Propuestas
 
 Las propuestas se aceptarán a una de dos categorías:
-- [Investigación](https://eaamo.org/cfpresearchspanish/)
-- [Políticas públicas y práctica](https://eaamo.org/cfppolicyspanish)
+- [Investigación](https://eaamo2021.eaamo.org/cfpresearchspanish/)
+- [Políticas públicas y práctica](https://eaamo2021.eaamo.org/cfppolicyspanish)
  
 
 Para todas las propuestas de cualquier categoría, los temas de interés incluyen (entre otros): 
@@ -99,7 +99,7 @@ Propuestas que quedan fuera del ámbito de la conferencia pueden ser rechazadas 
 
 EAAMO’21 utilizará un sistema de revisión de propuestas de dos fases. Todas las propuestas serán revisadas por al menos dos miembros del comité de programa bajo formato doble ciego. El comité se reserva el derecho a no revisar todos los detalles técnicos de las propuestas.
  
-Se puede registrar [aquí](https://eaamo.org/registration) para la conferencia. Se proveerá asistencia financiera para costos de registro, al igual que planes de datos móviles para asistir a los eventos virtuales. **Todas las aplicaciones para asistencia financiera se deberán entregar antes del 14 de Junio a las 5PM ET.** No se considerarán aplicaciones que se reciban después de tal fecha.
+Se puede registrar [aquí](https://eaamo2021.eaamo.org/registration) para la conferencia. Se proveerá asistencia financiera para costos de registro, al igual que planes de datos móviles para asistir a los eventos virtuales. **Todas las aplicaciones para asistencia financiera se deberán entregar antes del 14 de Junio a las 5PM ET.** No se considerarán aplicaciones que se reciban después de tal fecha.
  
  
 ## Información Importante

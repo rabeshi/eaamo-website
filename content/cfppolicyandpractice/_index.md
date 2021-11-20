@@ -39,8 +39,8 @@ We encourage submissions from across various disciplines and covering domains in
 ## Submission Types
 
 Submissions will fall in one of two categories: 
-- [Research Track](https://eaamo.org/cfpresearch/)
-- [Policy and Practice Track](https://eaamo.org/cfppolicyandpractice)
+- [Research Track](https://eaamo2021.eaamo.org/cfpresearch/)
+- [Policy and Practice Track](https://eaamo2021.eaamo.org/cfppolicyandpractice)
  
 For all submissions in either track, topics of interest include but **are not limited to**:
 - market and mechanism design challenges in resource-constrained settings
@@ -104,7 +104,7 @@ Papers that are out of scope of the conference as evaluated by these criteria ma
 
 EAAMO’21 will follow a two-phase reviewing system. All submissions will be peer-reviewed by at least 2 reviewers in a double-blind format. The committee reserves the right to not review all the technical details of submissions. 
  
-Register [here](https://eaamo.org/registration) for the conference. The conference will provide financial assistance for registration costs, as well as data plans. All financial assistance applications must be submitted by June 14th, 2021 at 5 PM ET; applications received after this date will not be considered. 
+Register [here](https://eaamo2021.eaamo.org/registration) for the conference. The conference will provide financial assistance for registration costs, as well as data plans. All financial assistance applications must be submitted by June 14th, 2021 at 5 PM ET; applications received after this date will not be considered. 
  
 ## Important Information:
 

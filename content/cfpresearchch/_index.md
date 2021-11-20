@@ -39,8 +39,8 @@ ACM EAAMO[是社会公益机制设计](https://www.md4sg.com)（MD4SG）倡议�
 ## 提交类型
 
 提交将分为两个类别：
-- [研究方向](https://eaamo.org/cfpresearchch/)
-- [政策与实践方向](https://eaamo.org/cfppolicych)
+- [研究方向](https://eaamo2021.eaamo.org/cfpresearchch/)
+- [政策与实践方向](https://eaamo2021.eaamo.org/cfppolicych)
  
 
 对于这两个方向的所有的提交，感兴趣的主题包括但不限于：
@@ -98,7 +98,7 @@ ACM EAAMO[是社会公益机制设计](https://www.md4sg.com)（MD4SG）倡议�
 
 EAAMO'21将遵循一个两阶段的审查系统。所有的提交将由至少2名评审员以双盲的形式进行同行评审。委员会保留不审查提交的所有技术细节的权利。
 
-点击[这里](https://eaamo.org/registration)注册参与会议。 会议将为注册费用以及数据计划提供财政援助。所有财政援助申请必须在2021年6月14日，太平洋时间下午5点之前提交；在此日期之后收到的申请将不被考虑。 
+点击[这里](https://eaamo2021.eaamo.org/registration)注册参与会议。 会议将为注册费用以及数据计划提供财政援助。所有财政援助申请必须在2021年6月14日，太平洋时间下午5点之前提交；在此日期之后收到的申请将不被考虑。 
  
 ## 重要信息
 
