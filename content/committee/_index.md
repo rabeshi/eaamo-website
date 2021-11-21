@@ -15,7 +15,7 @@ header:
   caption: ""
   image: ""
 ---
-# EAAMO '21 Committees
+# EAAMO '22 Committees
 
 ## Program Co-Chairs:
 
