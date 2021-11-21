@@ -14,13 +14,13 @@
   weight = 20
 
 [[main]]
-  name = "Policies"
-  url = "policies"
+  name = "Committees"
+  url = "committee"
   weight = 30
 
 [[main]]
-  name = "Committees"
-  url = "committee"
+  name = "Policies"
+  url = "policies"
   weight = 40
 
 [[main]]
