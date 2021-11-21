@@ -8,113 +8,30 @@
   url = "#home"
   weight = 10
 
-#[[main]]
-#  name = "About"
-#  url = "#about"
-#  weight = 20
-
-#[[main]]
-#  name = "Invited speakers"
-#  url = "speakers"
-#  weight = 40
-
-
 [[main]]
-#  identifier = "dropcfp"
   name = "Call for Participation"
   url = "cfp"
-  weight = 30
-
-[[main]]
-  identifier = "program"
-  name = "Program"
-  url = "program"
-  weight = 40
-
-[[main]]
-  name = "Invited Speakers"
-  url = "speakers"
-  weight = -30
-  parent = "program"
-
-[[main]]
-  identifier = "participation"
-  name = "Participation"
-  url = "participation"
-  weight = 50
-
-[[main]]
-  identifier = "schedule"
-  name = "Schedule"
-  url = "schedule"
-  weight = -30
-  parent = "program"
-
-[[main]]
-  identifier = "Accepted"
-  name = "Accepted Papers and Posters"
-  url = "accepted"
-  weight = -20
-  parent = "program"
+  weight = 20
 
 [[main]]
   name = "Policies"
   url = "policies"
   weight = 30
-  parent = "participation"
-
-[[main]]
-  name = "Virtual Venue"
-  url = "virtualvenue"
-  weight = -30
-  parent = "participation"
-  
-[[main]]
-  name = "Registration"
-  url = "registration"
-  weight = -10
-  parent = "participation"
-
-[[main]]
-  name = "Policy and Practice Sessions"
-  url = "policypractice"
-  weight = -10
-  parent = "program"
-
-[[main]]
-  name = "Social Events"
-  url = "socials"
-  weight = 10
-  parent = "program"
-  
-[[main]]
-  name = "Awards"
-  url = "awards"
-  weight = 20
-  parent = "program"
-
-[[main]]
-  identifier = "organization"
-  name = "Organization"
-  url = "organization"
-  weight = 60
 
 [[main]]
   name = "Committees"
   url = "committee"
-  weight = -30
-  parent = "organization"
+  weight = 40
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 30
-  parent = "organization"
+  weight = 50
 
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 80
+[[main]]
+  name = "EAAMO 2021"
+  url = "https://eaamo2021.eaamo.org"
+  weight = 60
 
 [[main]]
   name = "MD4SG"
@@ -128,3 +45,16 @@
 #    name = "CV"
 #    url = "media/resume.pdf"
 #    weight = 70
+
+# An example of dropdown menu
+# [[main]]
+#  identifier = "program"
+#  name = "Program"
+#  url = "program"
+#  weight = 40
+
+# [[main]]
+#  name = "Invited Speakers"
+#  url = "speakers"
+#  weight = -30
+#  parent = "program"

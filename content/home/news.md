@@ -40,5 +40,5 @@ design:
   view: 2
 ---
 
-- [EAAMO'21 Awards](/awards) have been announced!
-- We are honored to be sponsored by the Sloan Foundation, MacArthur Foundation, and Cell Patterns.
+- Inaugural [EAAMO'21](https://eaamo2021.eaamo.org) changed its URL!
+- You can still access [EAAMO'21 papers](https://eaamo2021.eaamo.org/accepted/) and [EAAMO'21 Awards](https://eaamo2021.eaamo.org/awards)
