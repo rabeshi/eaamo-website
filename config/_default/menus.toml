@@ -8,10 +8,10 @@
   url = "#home"
   weight = 10
 
-#[[main]]
-#  name = "Call for Participation"
-#  url = "cfp"
-#  weight = 20
+[[main]]
+  name = "Call for Participation"
+  url = "cfp"
+  weight = 20
 
 [[main]]
   name = "Committees"
