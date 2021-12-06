@@ -39,6 +39,6 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-
+- Call for Papers for EAAMO'22 is updated! [Research](https://eaamo.org/cfpresearch/) and [Policy and Practice Track](https://eaamo.org/cfppolicyandpractice/)
 - Inaugural [EAAMO'21](https://eaamo2021.eaamo.org) changed its URL!
 - You can still access [EAAMO'21 papers](https://eaamo2021.eaamo.org/accepted/) and [EAAMO'21 Awards](https://eaamo2021.eaamo.org/awards)
