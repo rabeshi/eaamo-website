@@ -8,7 +8,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/ACMEAAMO
 organizations:
-  - name: #October 2022, Washington DC, USA
+  - name: October 6-9 2022, Washington DC, USA
     url: ""
 email: ""
 superuser: true
