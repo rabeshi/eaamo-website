@@ -20,9 +20,9 @@ header:
 ## Program Co-Chairs:
 
 - [Elena Falcettoni](https://www.elenafalcettoni.com/), Federal Reserve
-- [Dina Machuve](https://nm-aist.ac.tz/index.php/dina), Nelson Mendela Institute
+- [Dina Machuve](https://nm-aist.ac.tz/index.php/dina), Nelson Mandela Institute
 - [Bryan Wilder](https://bryanwilder.github.io/), Harvard & Carnegie Mellon University
-- [Angela Zhou](https://angelamzhou.github.io/), UC Berkeley
+- [Angela Zhou](https://angelamzhou.github.io/), University of California Berkeley & University of Southern California
 
 ## General Chair:
 - [Sanmay Das](https://cs.gmu.edu/~sanmay/), George Mason University
