@@ -16,9 +16,7 @@ header:
   image: ""
 ---
 
-The second **Conference on Equity and Access in Algorithms, Mechanisms, and Optimization** (EAAMO ‘22) Call for Partifipation will be announced soon.
-
-<!--The second **Conference on Equity and Access in Algorithms, Mechanisms, and Optimization** (EAAMO ‘22) will take place in October 2022, in Washington DC, USA.
+The second **Conference on Equity and Access in Algorithms, Mechanisms, and Optimization** (EAAMO ‘22) will take place in October 2022, in Washington DC, USA.
 
 The goal of this event is to highlight work where techniques from algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies, can improve access to opportunity for historically underserved and disadvantaged communities.
 
