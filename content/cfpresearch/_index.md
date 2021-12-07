@@ -20,9 +20,9 @@ header:
 
 ## Call for participation
 
-Deadline: March 16th, 2022, AoE
+Deadline: <span style="color:red">**March 16th, 2022, AoE**</span>
 
-Dates: October 6-9, 2022
+Dates: **October 6-9, 2022**
 
 Submission Link: [EasyChair](https://easychair.org/my/conference?conf=eaamo22)
 
@@ -110,8 +110,6 @@ We will only accept submissions in the English language. MD4SG and EAAMO are com
 
 Submissions will be evaluated on the following criteria:
 
-
-
 * _Quality of submission_ as measured by accuracy and clarity of exposition.
 * _Relevance_ to the goal of the conference.
 * _Novelty of domain:_ we particularly encourage work that explores novel applications or uses novel approaches to study existing application domains.
@@ -135,12 +133,8 @@ The conference will provide financial assistance for registration and travel cos
 
 ## Important Information
 
-
-
 * Paper Submission Deadline: 16 March 2022, AoE
 * Paper Submission Page: [EasyChair](https://easychair.org/my/conference?conf=eaamo22)
 * Financial Assistance Application Deadline: 16 March 2022, AoE
 * Notification: Late June 2022
 * Event Date: 6-9 October 2022
-
-

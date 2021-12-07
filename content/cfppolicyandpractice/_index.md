@@ -18,21 +18,21 @@ header:
 
 ## Call for participation
 
-Deadline: <span style="color:red">**March 2022**</span>
+Deadline: <span style="color:red">**March 16th, 2022, AoE**</span>
 
-Dates: **October 2022**
+Dates: **October 6-9, 2022**
 
-Submission Link: EasyChair (link will be available soon)
+Submission Link: [EasyChair](https://easychair.org/my/conference?conf=eaamo22)
 
-The second **Conference on Equity and Access in Algorithms, Mechanisms, and Optimization** (EAAMO ‘22) will take place in October 2022, virtually, in Washington DC, USA.
- 
-The goal of this event is to highlight work where techniques from algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies, can improve access to opportunity for historically underserved and disadvantaged communities. 
+The second Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ‘22) will take place on October 6-9, 2022, in Washington DC, USA.
 
-The conference aims to foster a multi-disciplinary community, facilitating interactions between academia, industry, and the public and voluntary sectors. To this end, it takes a broad view of how research can contribute to access to opportunity, and welcomes work from along all stages of the research-to-practice pipeline. This also includes work that surfaces novel insights into the workings of social systems. The program will feature keynote presentations from researchers and practitioners as well as contributed presentations in the research and policy & practice tracks. 
+The goal of this event is to highlight work aimed at improving access to opportunity for historically underserved and disadvantaged communities using techniques from algorithms, optimization, and mechanism design, and methods from the social sciences and humanistic studies.
 
-We solicit submissions in the **research track** and **policy and practice track**. Submissions can include research, survey, and position papers as well as problem- and practice-driven submissions by academics from any discipline and practitioners from any sector.
+The conference bridges academic researchers of different fields and methodological tools who nonetheless share interests in areas related to access to opportunity. To this end, it takes a broad view and welcomes work from along all stages of the research-to-practice pipeline. Our call for papers therefore invites participation from various disciplines and subareas which design solutions or insights for real-world problems faced in domain areas. 
 
-We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is March 2022.
+We solicit submissions in the research track and policy and practice track. Submissions can include research, survey, and position papers as well as problem- and practice-driven submissions by academics from any discipline and practitioners from any sector.
+
+We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, health, social work, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is March 16th, 2022, AoE.
 
 *ACM EAAMO is part of the [Mechanism Design for Social Good](https://www.md4sg.com) (MD4SG) initiative, and builds on the MD4SG technical [workshop series](https://www.md4sg.com/workshop/index.html) and tutorials at conferences including ACM EC, ACM COMPASS, ACM FAccT, and WINE.*
 
@@ -80,11 +80,13 @@ The policy and practice track is dedicated to submissions from researchers and d
 
 ## Submission Instructions
 
-For the policy and practice track, submissions will have the option to be either **archival** or **non-archival**, with preference given to archival papers. Papers in the archival track will be published in conference proceedings in the ACM Digital Library; papers in the non-archival track will not be published as part of the conference (and may be submitted in the future to an archival venue, if not already published). The archival track welcomes submissions that constitute new research papers that have not been published in conference proceedings before, as well as papers under submission in journal publications. The non-archival track also welcomes research papers that have been published no earlier than January 2019. Authors should upload a PDF of their paper to EasyChair (link will be available soon). There are no formatting or length requirements for the PDF submission, but accepted **archival** papers will have a page limit of 10 pages in the camera-ready version at the time of publication. In addition to the PDF, authors are asked to upload a 200-250 word description onto EasyChair summarizing their submission and its relevance to the conference.
+For the research track, submissions will have the option to be either archival or non-archival. For papers in disciplinary areas where archival conference papers are the norm, preference will be given to archival submissions. Papers in the archival track will be published in conference proceedings in the ACM Digital Library; papers in the non-archival track will not be published as part of the conference (and may be submitted in the future to an archival venue, if not already published). The archival track welcomes submissions that constitute new research papers that have not been published in conference proceedings before, as well as papers under submission in journal publications. The non-archival track also welcomes research papers that have been published no earlier than January 2020. Authors should upload a PDF of their paper to [EasyChair](https://easychair.org/my/conference?conf=eaamo22). There are no formatting or length requirements for the PDF submission, but accepted archival papers will have a page limit of at most 14 pages in the camera-ready version at the time of publication, using the ACM Traditional Camera Ready Submission [template](http://www.acm.org/publications/proceedings-template). In addition to the PDF, authors are asked to upload a 200-250 word description onto EasyChair summarizing their submission and its relevance to the conference.
 
-Submissions are double-blind: authors should take care to not include the names and affiliations of the authors in the paper, including when referring to previous work. Submitters should list all co-authors on the submitted work in EasyChair but not in the PDF of the submission.
+Submissions are double-blind: authors should take care to not include the names and affiliations of the authors in the paper, including when referring to previous work. Submitters should list all co-authors on the submitted work in EasyChair but not in the PDF of the submission. Where possible, citations to the authors own previous work should be written in the third person; e.g., instead of “We previously developed...(Smith, 2019)”, write “Smith (2019) previously developed…”. If this would compromise the clarity of the paper (i.e., it is necessary to identify previous work as belonging to the authors), use an anonymous citation, e.g., (Anonymous, 2019). These can be replaced in the camera-ready version. Additionally, where possible, authors should avoid referring to specific institutional details in the paper which could reveal their names or affiliations (for example “our team included officials from a large U.S. city” instead of “our team included officials from New York City”). However, institutional information may be included if it is necessary to the research content of the paper, even if it is suggestive of author affiliations. 
 
-Authors may submit unpublished work, work under review, or work that has been published no earlier than January 2019. If the work is already published, please include a citation on EasyChair.
+Submitted papers should include a statement that the study was approved by an Institutional Review Board if such review is required (e.g., for human subjects research conducted by members of a university).
+
+Authors may submit unpublished work, work under review, or work that has been published no earlier than January 2020. If the work is already published, please include a citation on EasyChair.
 
 We will only accept submissions in the English language. MD4SG and EAAMO are committed to building multilingual communities, and we anticipate allowing submissions in other languages at future events.
 
@@ -101,9 +103,19 @@ Submissions will be evaluated on the following criteria:
 Papers that are out of scope of the conference as evaluated by these criteria may be desk rejected.
 
 EAAMO’22 will follow a two-phase reviewing system. All submissions will be peer-reviewed by at least 2 reviewers in a double-blind format. The committee reserves the right to not review all the technical details of submissions. 
- 
-## Important Information:
 
-- Paper Submission Deadline: March 2022
-- Event Date: October 2022
+After the review process, papers may be either accepted as is, rejected, or accepted conditional on a specific set of revisions being made. If revisions are requested, the authors will have a period of approximately 3 weeks, indicated in the dates below, to carry out the revisions. During this period, a designated “shepherd” will be assigned to each paper and will be available to confer with the authors on the revisions. The paper will then be accepted if the area and program chairs believe that the updated paper satisfies the request for revisions. 
+
+Submissions which are not accepted as a full paper may be accepted for poster presentation instead. Posters will be presented to the community during the conference poster sessions but are not accompanied by an archival publication.
+
+## Financial Assistance
+
+The conference will provide financial assistance for registration and travel costs, as well as data plans if the conference is converted to a virtual format. All financial assistance applications must be submitted by March 16, 2022 AoE; applications received after this date will not be considered. More information on the application process for financial assistance will be provided at a later date.
  
+## Important Information
+
+* Paper Submission Deadline: 16 March 2022, AoE
+* Paper Submission Page: [EasyChair](https://easychair.org/my/conference?conf=eaamo22)
+* Financial Assistance Application Deadline: 16 March 2022, AoE
+* Notification: Late June 2022
+* Event Date: 6-9 October 2022
