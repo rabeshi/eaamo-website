@@ -18,7 +18,7 @@ header:
 
 ## Call for participation
 
-Deadline: <span style="color:red">**March 16th, 2022, AoE**</span>
+Deadline: <span style="color:red">**March 24th, 2022, AoE**</span>
 
 Dates: **October 6-9, 2022**
 
@@ -114,8 +114,8 @@ The conference will provide financial assistance for registration and travel cos
  
 ## Important Information
 
-* Paper Submission Deadline: 16 March 2022, AoE
+* Paper Submission Deadline: 24 March 2022, AoE
 * Paper Submission Page: [EasyChair](https://easychair.org/my/conference?conf=eaamo22)
-* Financial Assistance Application Deadline: 16 March 2022, AoE
+* Financial Assistance Application Deadline: 24 March 2022, AoE
 * Notification: Late June 2022
 * Event Date: 6-9 October 2022
