@@ -22,9 +22,10 @@ The goal of this event is to highlight work where techniques from algorithms, op
 
 We solicit submissions in the **research track** and **policy and practice** track. Submissions can include research, survey, and position papers as well as problem- and practice-driven submissions by academics from any discipline and practitioners from any sector. For more details on submitting to each track, please visit each track’s page:
 
- - *(English)* Call for participation:
+- *(English)* Call for participation:
   - [Research Track](https://eaamo.org/cfpresearch/) 
   - [Policy & Practice Track](https://eaamo.org/cfppolicyandpractice/)
+
 
 - *(Kiswahili)* Wito wa Ushiriki:
   - [Ufuatiliaji wa Utafiti](https://eaamo.org/cfpresearchsw/) 
