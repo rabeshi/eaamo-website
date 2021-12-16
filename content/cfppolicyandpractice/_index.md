@@ -32,7 +32,7 @@ The conference bridges academic researchers of different fields and methodologic
 
 We solicit submissions in the research track and policy and practice track. Submissions can include research, survey, and position papers as well as problem- and practice-driven submissions by academics from any discipline and practitioners from any sector.
 
-We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, health, social work, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is March 16th, 2022, AoE.
+We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, health, social work, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is March 24th, 2022, AoE.
 
 *ACM EAAMO is part of the [Mechanism Design for Social Good](https://www.md4sg.com) (MD4SG) initiative, and builds on the MD4SG technical [workshop series](https://www.md4sg.com/workshop/index.html) and tutorials at conferences including ACM EC, ACM COMPASS, ACM FAccT, and WINE.*
 
@@ -110,7 +110,7 @@ Submissions which are not accepted as a full paper may be accepted for poster pr
 
 ## Financial Assistance
 
-The conference will provide financial assistance for registration and travel costs, as well as data plans if the conference is converted to a virtual format. All financial assistance applications must be submitted by March 16, 2022 AoE; applications received after this date will not be considered. More information on the application process for financial assistance will be provided at a later date.
+The conference will provide financial assistance for registration and travel costs, as well as data plans if the conference is converted to a virtual format. All financial assistance applications must be submitted by March 24, 2022 AoE; applications received after this date will not be considered. More information on the application process for financial assistance will be provided at a later date.
  
 ## Important Information
 
