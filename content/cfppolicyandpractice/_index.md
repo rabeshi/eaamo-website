@@ -34,7 +34,7 @@ We solicit submissions in the research track and policy and practice track. Subm
 
 We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, health, social work, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is March 24th, 2022, AoE.
 
-*ACM EAAMO is part of the [Mechanism Design for Social Good](https://www.md4sg.com) (MD4SG) initiative, and builds on the MD4SG technical [workshop series](https://www.md4sg.com/workshop/index.html) and tutorials at conferences including ACM EC, ACM COMPASS, ACM FAccT, and WINE.*
+_ACM EAAMO is part of the [Mechanism Design for Social Good](https://www.md4sg.com/) (MD4SG) initiative, and builds on the MD4SG technical [workshop series](https://www.md4sg.com/workshop/index.html) and tutorials at conferences including ACM EC, ACM COMPASS, ACM FAccT, and WINE._
 
 ## Submission Types
 
@@ -42,27 +42,50 @@ Submissions will fall in one of two categories:
 - [Research Track](https://eaamo.org/cfpresearch/)
 - [Policy and Practice Track](https://eaamo.org/cfppolicyandpractice)
  
-For all submissions in either track, topics of interest include but **are not limited to**:
-- market and mechanism design challenges in resource-constrained settings
-- redistributive mechanisms to improve access to opportunity
-- improving social service delivery and evaluation 
-- allocating health insurance funds and managing access to healthcare
-- equitable provision of healthcare across communities
-- economic inequality and intergenerational mobility
-- mitigating unequal economic outcomes in on- and off-line labor markets
-- detecting existence or causes of exploitative market behavior in labor markets
-- improving diversity and equity using algorithmic approaches
-- market regulations for data and privacy
-- evaluating the impacts of teachers, schools, or education policy
-- improving allocation of educational resources
-- measuring and evaluating progress to achieve sustainable development goals
-- reducing inefficiencies in smallholder farms and under-resourced supply chains
-- algorithmic proposals to encourage civic participation
-- evaluating fairness in electoral representation
-- informing climate change and policy design
-- designing equitable transportation systems
-- tackling infrastructural challenges impacting marginalized communities 
-- ethical considerations when using interventions informed by algorithm and mechanism design in public sector settings 
+For all submissions in either track, methodologies, techniques, and approaches used can include but are not limited to:
+
+
+
+* redistributive mechanisms and optimization to improve access to opportunity
+* mechanism design and optimization challenges in resource-constrained settings
+* improving diversity and equity in allocative or representational systems using algorithmic approaches
+* algorithmic or inferential insights for improving social service delivery and evaluation
+* ethical considerations when using interventions informed by algorithms or mechanism design in public sector settings
+* inference, uncertainty, and algorithms in allocation systems 
+* audit studies of, and methods for, auditing inequities in societally important deployed systems 
+* reliable, trustworthy, and valid inference in societally consequential domains
+* empirical studies of these above topics
+* critical analysis (survey and position papers and other research papers)
+
+These submissions can be on topics including, but not limited to: 
+
+
+
+* equitable provision of healthcare across communities
+* health inequality, its social determinants, and micro- and macroeconomic consequences 
+* improving the provision of services in public, community, and global health
+* inequality and COVID response 
+* economic inequality and intergenerational mobility
+* mitigating unequal economic outcomes in on- and off-line labor markets
+* detecting existence or causes of exploitative market behavior in labor markets
+* improving diversity and equity using algorithmic approaches
+* market regulations for data and privacy
+* evaluating the impacts of teachers, schools, or education policy
+* improving allocation of educational resources
+* inequality in educational achievement and its determinants
+* measuring and evaluating progress to achieve sustainable development goals
+* reducing inefficiencies in smallholder farms and under-resourced supply chains
+* applied machine learning (NLP, vision) specialized to low-resource situations and other challenges
+* algorithmic proposals to encourage civic participation
+* methods for participatory approaches to inference
+* evaluating fairness in electoral representation
+* informing policy design for climate change 
+* economic consequences of climate change and policy considerations
+* designing equitable transportation systems
+* tackling infrastructural challenges impacting marginalized communities
+
+Our list of topics is broad in order to illustrate how a wide variety of perspectives and disciplinary approaches can triangulate progress on focus areas of shared interest. 
+
 
 ## Policy and Practice Track 
  
@@ -93,12 +116,13 @@ We will only accept submissions in the English language. MD4SG and EAAMO are com
 ## Reviewing 
  
 Submissions will be evaluated on the following criteria:
-- *Quality* of submission as measured by accuracy and clarity of the contribution and exposition.
-- *Relevance* to the goal of the conference. 
-- *Novelty of domain*: we particularly encourage work that explores novel applications or uses novel approaches to study existing application domains.
-- Submissions will also be evaluated based on either:
-  - *Potential for interdisciplinary follow-up work*. We welcome submissions with the potential to spark interdisciplinary collaborations,
-  - *Presentation of domain-specific knowledge*. We especially welcome practitioners with interest or experience in translating between practical problems and academic research approaches.
+
+* _Quality of submission_ as measured by accuracy and clarity of exposition.
+* _Relevance_ to the goal of the conference.
+* _Novelty of domain:_ we particularly encourage work that explores novel applications or uses novel approaches to study existing application domains.
+* Submissions will also be evaluated based on either:
+    * _Potential for interdisciplinary follow-up work._ We welcome submissions with the potential to spark interdisciplinary collaborations,
+    * _Presentation of domain-specific knowledge._ We especially welcome practitioners with interest or experience in translating between practical problems and academic research approaches.
 
 Papers that are out of scope of the conference as evaluated by these criteria may be desk rejected.
 
@@ -106,7 +130,7 @@ EAAMO’22 will follow a two-phase reviewing system. All submissions will be pee
 
 After the review process, papers may be either accepted as is, rejected, or accepted conditional on a specific set of revisions being made. If revisions are requested, the authors will have a period of approximately 3 weeks, indicated in the dates below, to carry out the revisions. During this period, a designated “shepherd” will be assigned to each paper and will be available to confer with the authors on the revisions. The paper will then be accepted if the area and program chairs believe that the updated paper satisfies the request for revisions. 
 
-Submissions which are not accepted as a full paper may be accepted for poster presentation instead. Posters will be presented to the community during the conference poster sessions but are not accompanied by an archival publication.
+Submissions which are not accepted as a full paper may be accepted for poster presentation instead. Posters will be presented to the community during the conference poster sessions but are not accompanied by an archival publication.  
 
 ## Financial Assistance
 
