@@ -92,6 +92,14 @@ These submissions can be on topics including, but not limited to:
 
 Our list of topics is broad in order to illustrate how a wide variety of perspectives and disciplinary approaches can triangulate progress on focus areas of shared interest. 
 
+## Research Track
+
+Submissions to the research track can introduce new theory or applications or can be position papers synthesizing existing work and perspectives or highlighting future directions. Submissions will fall into one of five focus areas:
+* **AI and Machine Learning** including AI for social impact, statistical reasoning and probabilistic inference, data science, bias and fairness considerations, fair division and resource allocation, multi-agent systems, and social choice theory. We also welcome work in the intersection of other important areas and AI/ML, such as human computer interaction in socio-technical systems or privacy and security.
+* **Applied and Quantitative Modeling** including proposing and analyzing applied and structural models for novel practical problems in data science, market and mechanism design, operations management (supply chain, service operations), computational social science, and/or economic modeling (structural micro- and macroeconomics, alternative microfoundations, industrial organization).
+* **Empirical Studies** including 1) empirical analysis of existing social systems, policies, and mechanisms, and other domains such as empirical industrial organization/health/education/labor, using reduced-form econometrics, or applied statistics/machine learning, etc; and 2) empirical impact evaluation, e.g. field experiments or quasi-experimental, of systems which incorporate computational tools such as algorithms, mechanisms, or optimization.  
+* **Research Position Papers** that focus on a particular research topic or domain and bring a novel conception of the discussed topic. These submissions will aim to present a novel position, idea, or open a new area of discussion regarding a particular research topic related to the scope of the conference. Submissions will be evaluated based on their novelty and potential to offer new organizing principles for a field, fostering new perspectives and bridges between research and policy/practice.
+* **Theory** including theoretical analysis in algorithm design, fair division and resource allocation, game theory, market and mechanism design, behavioral models, optimization, operations management, computational social choice, social network analysis, economic theory, and theory of machine learning.
 
 ## Submission Instructions
 
