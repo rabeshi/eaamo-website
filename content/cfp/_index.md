@@ -34,7 +34,7 @@ We solicit submissions in the **research track** and **policy and practice** tra
 
   - *(Español)* Convocatoria:
   - [Rama de Investigación](https://eaamo.org/cfpresearch_esp/) 
-  - [Rama de Políticas Públicas y Práctica](https://eaamo.org/cfppolicy_esp/)
+  - [Rama de Políticas Públicas y Práctica](https://eaamo.org/cfppolicyandpractice_esp/)
 
  We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is <span style="color:red">**March 24 2022**.</span> 
 
