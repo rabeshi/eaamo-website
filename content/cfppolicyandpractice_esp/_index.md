@@ -18,7 +18,7 @@ header:
 
 ## Convocatoria
 
-Fecha límite: <span style="color:red">**24 de marzo de 2022, AoE**</span>
+Fecha límite: <span style="color:red">**20 de abril de 2022, AoE**</span>
 
 Fechas: **6-9 de octubre, 2022**
 
@@ -32,7 +32,7 @@ La conferencia une a investigadores/as y académicos/as de diferentes campos y h
 
 Solicitamos entregas en la rama de investigación y en la rama de políticas y práctica. Las entregas pueden incluir artículos de investigación, revisiones de la literatura y artículos de posicionamiento, así como artículos basados en problemas prácticos de parte de académicos/as de cualquier disciplina y profesionales de cualquier sector.
 
-Alentamos entregas de varias disciplinas y que cubran dominios que incluyan temas tales como participación cívica, economía de datos, discriminación y sesgo, desigualdad económica, desarrollo económico, educación, medio ambiente y clima, salud, trabajo social, vivienda, mercados laborales y leyes, y políticas públicas. Los trabajos serán revisados por expertos en el área disciplinar. La fecha límite para las presentaciones es el 24 de marzo de 2022, AoE.
+Alentamos entregas de varias disciplinas y que cubran dominios que incluyan temas tales como participación cívica, economía de datos, discriminación y sesgo, desigualdad económica, desarrollo económico, educación, medio ambiente y clima, salud, trabajo social, vivienda, mercados laborales y leyes, y políticas públicas. Los trabajos serán revisados por expertos en el área disciplinar. La fecha límite para las presentaciones es el 20 de abril de 2022, AoE.
 
 _ACM EAAMO es parte de la iniciativa [Diseño de Mecanismos para el Bien Social](https://www.md4sg.com/) (MD4SG, por sus siglas en inglés) initiative, y se basa en la [serie de talleres](https://www.md4sg.com/workshop/index.html) en conferencias tales como ACM EC, ACM COMPASS, ACM FAccT, y WINE._
 
@@ -132,13 +132,13 @@ Las propuestas que no sean aceptadas en su totalidad pueden ser aceptadas como p
 
 ## Apoyo Económico
 
-La conferencia otorgará ayuda financiera para registración y costos de viaje, además de planes planes de datos móviles por si la conferencia se lleva a cabo en formato virtual. Todas las solicitudes para ayuda financiera deberán ser completadas antes del 24 de marzo, 2022, AoE. Las solicitudes recibidas después de esta fecha no serán consideradas. Más información sobre ayuda financiera se proporcionará en una fecha posterior. 
+La conferencia otorgará ayuda financiera para registración y costos de viaje, además de planes planes de datos móviles por si la conferencia se lleva a cabo en formato virtual. Todas las solicitudes para ayuda financiera deberán ser completadas antes del 20 de abril, 2022, AoE. Las solicitudes recibidas después de esta fecha no serán consideradas. Más información sobre ayuda financiera se proporcionará en una fecha posterior. 
 
 
 ## Información Importante
 
-* Fecha límite para el envío de propuestas: 24 marzo 2022, AoE
+* Fecha límite para el envío de propuestas: 20 abril 2022, AoE
 * Página para el envío electrónico de propuestas: [EasyChair](https://easychair.org/my/conference?conf=eaamo22)
-* Fecha límite para mandar solicitud de ayuda financiera: 24 marzo 2022, AoE
+* Fecha límite para mandar solicitud de ayuda financiera: 20 abril 2022, AoE
 * Notificación de resultados: Finales de junio 2022
 * Fecha de conferencia:  6-9 octubre 2022 

@@ -18,7 +18,7 @@ header:
 
 ## Chamada a participação
 
-Prazo: <span style="color:red">**24 de março de 2022, AoE**</span>
+Prazo: <span style="color:red">**20 de abril de 2022, AoE**</span>
 
 Datas: **6 a 9 de outubro de 2022**
 
@@ -32,7 +32,7 @@ A conferência aproxima pesquisadores acadêmicos de diferentes áreas e ferrame
 
 Solicitamos submissões na seção temática de pesquisa e na seção temática de políticas e práticas. As submissões podem incluir pesquisas, pesquisas e documentos de posição, bem como submissões orientadas por problemas e práticas por acadêmicos de qualquer disciplina e profissionais de qualquer setor.
 
-Incentivamos envios de várias disciplinas e abrangendo domínios que incluem participação cívica, economia de dados, discriminação e preconceito, desigualdade econômica, desenvolvimento econômico, educação, meio ambiente e clima, saúde, assistência social, habitação, mercados de trabalho e leis e políticas. Os trabalhos serão revisados por especialistas na área disciplinar. O prazo para envio é 24 de março de 2022, AoE .
+Incentivamos envios de várias disciplinas e abrangendo domínios que incluem participação cívica, economia de dados, discriminação e preconceito, desigualdade econômica, desenvolvimento econômico, educação, meio ambiente e clima, saúde, assistência social, habitação, mercados de trabalho e leis e políticas. Os trabalhos serão revisados por especialistas na área disciplinar. O prazo para envio é 20 de abril de 2022, AoE.
 
 _O ACM EAAMO faz parte da iniciativa [Mechanism Design for Social Good](https://www.md4sg.com/) (MD4SG) e se baseia na [série de workshops técnicos](https://www.md4sg.com/workshop/index.html) e tutoriais do MD4SG em conferências, incluindo ACM EC, ACM COMPASS, ACM FAccT e WINE._
 
@@ -130,13 +130,13 @@ Submissões que não forem aceitas como trabalho completo podem ser aceitas para
 
 ## Assistência financeira
 
-A conferência fornecerá assistência financeira para custos de inscrição e viagem, bem como planos de dados se a conferência for convertida para um formato virtual. Todos os pedidos de assistência financeira devem ser enviados até 24 de março de 2022 AoE ; candidaturas recebidas após esta data não serão consideradas. Mais informações sobre o processo de solicitação de assistência financeira serão fornecidas posteriormente.
+A conferência fornecerá assistência financeira para custos de inscrição e viagem, bem como planos de dados se a conferência for convertida para um formato virtual. Todos os pedidos de assistência financeira devem ser enviados até 20 de abril de 2022 AoE ; candidaturas recebidas após esta data não serão consideradas. Mais informações sobre o processo de solicitação de assistência financeira serão fornecidas posteriormente.
 
 
 ## Informação importante
 
-* Prazo para envio de artigos: 24 de março de 2022, AoE
+* Prazo para envio de artigos: 20 de abril de 2022, AoE
 * Página de submissão de artigos: [EasyChair](https://easychair.org/my/conference?conf=eaamo22)
-* Prazo para solicitação de assistência financeira: 24 de março de 2022, AoE
+* Prazo para solicitação de assistência financeira: 20 de abril de 2022, AoE
 * Notificação: final de junho de 2022
 * Data do evento: 6 a 9 de outubro de 2022

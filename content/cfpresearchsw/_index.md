@@ -20,7 +20,7 @@ header:
 
 ## Wito wa Ushiriki
 
-Tarehe ya mwisho: <span style="color:red">**Machi 24th, 2022, Kokote Duniani**</span>
+Tarehe ya mwisho: <span style="color:red">**Aprili 20th, 2022, Kokote Duniani**</span>
 
 Tarehe: **Octoba 6-9, 2022**
 
@@ -34,7 +34,7 @@ Kongamano hilo linakusudia kukuza jamii anuwai, kuwezesha muingiliano kati ya wa
 
 Tunaomba mawasilisho katika ufuatiliaji wa utafiti na ufuatiliaji wa sera na utendaji. Mawasilisho yanaweza kujumuisha utafiti, uchunguzi, na nyaraka za lengo lililotakiwa na pia mawasilisho yanayochagizwa na matatizo na utendaji kutoka kwa wasomi kutoka kwenye nyanja yoyote na watendaji kutoka kwenye sekta yoyote.
 
-Tunahimiza mawasilisho kutoka kwenye taaluma za aina mbalimbali na ukigusia maeneo yanayohusisha ushiriki wa raia, data za uchumi, ubaguzi na upendeleo, ukosefu wa usawa wa kiuchumi, maendeleo ya kiuchumi, elimu, mazingira na hali ya hewa, huduma za afya, nyumba, masoko ya kazi, na sheria na sera. Mawasilisho yatapitiwa na wataalamu wenza katika eneo husika la kitaaluma. Mwisho wa mawasilisho ni tarehe 24 Machi, 2022.
+Tunahimiza mawasilisho kutoka kwenye taaluma za aina mbalimbali na ukigusia maeneo yanayohusisha ushiriki wa raia, data za uchumi, ubaguzi na upendeleo, ukosefu wa usawa wa kiuchumi, maendeleo ya kiuchumi, elimu, mazingira na hali ya hewa, huduma za afya, nyumba, masoko ya kazi, na sheria na sera. Mawasilisho yatapitiwa na wataalamu wenza katika eneo husika la kitaaluma. Mwisho wa mawasilisho ni tarehe 20 Aprili, 2022.
 
 _ACM EAAMO ni sehemu ya mpango wa [Kubuni Utaratibu kwa Faida ya Jamii](https://www.md4sg.com) (MD4SG), na unaundwa kwenye [mifululizo ya semina za mafunzo ya kiufundi](https://www.md4sg.com/workshop/index.html) ya MD4SG na semina za ukufunzi kwenye mikutano ikiwa ni pamoja na ACM EC, ACM COMPASS, ACM FAccT, na WINE. and builds on the MD4SG technical [workshop series] and tutorials at conferences including ACM EC, ACM COMPASS, ACM FAccT, and WINE._
 
@@ -120,13 +120,13 @@ Mawasilisho ambayo hayatakubaliwa kama nyaraka kamili zitawasilishwa kuandaa was
 
 ## Msaada wa Kifedha 
 
-Kongamano hili litatoa msaada wa kifedha kwa gharama za usajili na usafiri, pamoja na bando la mtandao kama kongamano litafanyika kwa njia ya mtandao. Maombi yote ya msaada wa kifedha lazima yawasilishwe ifikapo tarehe 24 Machi, 2022 (kokote duniani); maombi yaliyopokelewa baada ya tarehe hii hayatazingatiwa. Taarifa zaidi kuhusu mfumo wa kuomba msaada kwa kifedha zitatolewa siku za usoni.
+Kongamano hili litatoa msaada wa kifedha kwa gharama za usajili na usafiri, pamoja na bando la mtandao kama kongamano litafanyika kwa njia ya mtandao. Maombi yote ya msaada wa kifedha lazima yawasilishwe ifikapo tarehe 20 Aprili, 2022 (kokote duniani); maombi yaliyopokelewa baada ya tarehe hii hayatazingatiwa. Taarifa zaidi kuhusu mfumo wa kuomba msaada kwa kifedha zitatolewa siku za usoni.
 
 
 ## Taarifa za muhimu
 
-* Tarehe ya Mwisho ya Kuwasilisha Utafiti: 24 March 2022, Kokote Duniani
+* Tarehe ya Mwisho ya Kuwasilisha Utafiti: 20 Aprili 2022, Kokote Duniani
 * Ukurasa wa Kuwasilishia Utafiti: [EasyChair](https://easychair.org/my/conference?conf=eaamo22)
-* Tarehe ya mwisho wa Maombi ya Msaada wa Kifedha: 24 March 2022, AoE
+* Tarehe ya mwisho wa Maombi ya Msaada wa Kifedha: 20 Aprili 2022, AoE
 * Siku ya Kujulishwa: Mwisho wa mwezi Juni 2022
 * Tarehe za Tukio: 6-9 October 2022

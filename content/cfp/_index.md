@@ -40,6 +40,6 @@ We solicit submissions in the **research track** and **policy and practice** tra
   - [Seção Temática de Pesquisa](https://eaamo.org/cfpresearch_por/) 
   - [Seção Temática de Políticas e Práticas](https://eaamo.org/cfppolicyandpractice_por/)
 
- We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is <span style="color:red">**March 24 2022**.</span> 
+ We encourage submissions from across various disciplines and covering domains including civic participation, data economies, discrimination and bias, economic inequality, economic development, education, environment and climate, healthcare, housing, labor markets, and law and policy. Papers will be peer-reviewed by experts in the disciplinary area. The deadline for submissions is <span style="color:red">**April 20th 2022**.</span> 
 
 *ACM EAAMO is part of the [Mechanism Design for Social Good](https://www.md4sg.com) (MD4SG) initiative, and builds on the MD4SG technical workshop series and tutorials at conferences including ACM EC, ACM COMPASS, ACM FAccT, and WINE.*
