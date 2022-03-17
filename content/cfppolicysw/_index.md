@@ -18,7 +18,7 @@ header:
 
 ## Wito wa Ushiriki 
 
-Tarehe ya mwisho: <span style="color:red">**Tareche 20 Aprili, 2022, Kokote Duniani**</span>
+Tarehe ya mwisho: <span style="color:red">**20 Aprili, 2022, Kokote Duniani**</span>
 
 Tarehe: **Octoba 6-9, 2022**
 
@@ -119,8 +119,8 @@ Kongamano hili litatoa msaada wa kifedha kwa gharama za usajili na usafiri, pamo
 
 ## Taarifa za muhimu
 
-* Tarehe ya Mwisho ya Kuwasilisha Utafiti: Tarehe 20 Aprili 2022, Kokote Duniani
+* Tarehe ya Mwisho ya Kuwasilisha Utafiti: 20 Aprili 2022, Kokote Duniani
 * Ukurasa wa Kuwasilishia Utafiti: [EasyChair](https://easychair.org/my/conference?conf=eaamo22)
-* Tarehe ya mwisho wa Maombi ya Msaada wa Kifedha: Tarehe 20 Aprili 2022, AoE
+* Tarehe ya mwisho wa Maombi ya Msaada wa Kifedha: 20 Aprili 2022, AoE
 * Siku ya Kujulishwa: Mwisho wa mwezi Juni 2022
 * Tarehe za Tukio: 6-9 October 2022
