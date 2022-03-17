@@ -39,6 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+- Submission deadline extended to <span style="color:red">**April 20th, 2022, AoE**</span>! Please check the [call for papers section](https://eaamo.org/cfp/)!
 - Call for Papers for EAAMO'22 is updated! [Research](https://eaamo.org/cfpresearch/) and [Policy and Practice Track](https://eaamo.org/cfppolicyandpractice/)
 - EAAMO'22 will be held October 6-9, 2022 in Washington, DC (COVID permitting). Submission deadline March 24, 2022!
 - Inaugural [EAAMO'21](https://eaamo2021.eaamo.org) changed its URL!
