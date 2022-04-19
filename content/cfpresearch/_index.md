@@ -113,6 +113,8 @@ Authors may submit unpublished work, work under review, or work that has been pu
 
 We will only accept submissions in the English language. MD4SG and EAAMO are committed to building multilingual communities, and we anticipate allowing submissions in other languages at future events.
 
+We will allow an archival/non-archival grace period until May 26, 2022 for papers under review to change archival/non-archival status. (Email pc22@eaamo.org to change designation). 
+
 
 ## Reviewing
 
