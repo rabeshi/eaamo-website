@@ -138,8 +138,9 @@ Submissions which are not accepted as a full paper may be accepted for poster pr
 
 ## Financial Assistance
 
-The conference will provide financial assistance for registration and travel costs, as well as data plans if the conference is converted to a virtual format. More information on the application process for financial assistance will be provided at a later date.
+The conference will provide financial assistance for registration and travel costs, as well as data plans if the conference is converted to a virtual format, as funds are available. 
 
+Please apply for financial assistance [here](https://docs.google.com/forms/d/e/1FAIpQLSfL4rvmvwuKeBHKyRO5YGeF0wiKGLvFW0rZJk9PuDgl1CDpew/viewform?usp=sf_link) by *May 26, 2022*.
 
 ## Important Information
 
