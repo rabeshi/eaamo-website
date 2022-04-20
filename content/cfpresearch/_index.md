@@ -138,13 +138,12 @@ Submissions which are not accepted as a full paper may be accepted for poster pr
 
 ## Financial Assistance
 
-The conference will provide financial assistance for registration and travel costs, as well as data plans if the conference is converted to a virtual format. All financial assistance applications must be submitted by April 20, 2022 AoE; applications received after this date will not be considered. More information on the application process for financial assistance will be provided at a later date.
+The conference will provide financial assistance for registration and travel costs, as well as data plans if the conference is converted to a virtual format. More information on the application process for financial assistance will be provided at a later date.
 
 
 ## Important Information
 
 * Paper Submission Deadline: 20 April 2022, AoE
 * Paper Submission Page: [EasyChair](https://easychair.org/my/conference?conf=eaamo22)
-* Financial Assistance Application Deadline: 20 April 2022, AoE
 * Notification: Late June 2022
 * Event Date: 6-9 October 2022
