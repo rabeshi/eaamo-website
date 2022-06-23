@@ -8,7 +8,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/ACMEAAMO
 organizations:
-  - name: October 6-9 2022, Washington DC, USA
+  - name: October 6-9 2022, George Mason University, Washington DC, USA
     url: ""
 email: ""
 superuser: true
@@ -18,5 +18,5 @@ highlight_name: false
 The second ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'22) aims to highlight work where techniques from algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies, can help improve equity and access to opportunity for historically disadvantaged and underserved communities. The conference will provide an international forum for presenting research papers, problem pitches, survey and position papers, new datasets, and software demonstrations towards the goal of bridging research and practice. Read more about us <a href="https://eaamo.org/#about">below</a>.
 </div>
 
-<b>Update</b>: The submission deadline for all papers is extended to <b>April 20</b>.
+<b>Location</b>: EAAMO'22 will be held at <a href="https://arlington.gmu.edu/">George Mason University</a>, at the Van Metre Hall, near Washington, DC.
 
