@@ -146,5 +146,5 @@ Please apply for financial assistance [here](https://docs.google.com/forms/d/e/1
 
 * Paper Submission Deadline: 20 April 2022, AoE
 * Paper Submission Page: [EasyChair](https://easychair.org/my/conference?conf=eaamo22)
-* Notification: Late June 2022
+* Notification: July 18 2022
 * Event Date: 6-9 October 2022
