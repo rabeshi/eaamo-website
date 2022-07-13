@@ -21,6 +21,6 @@ The first day of EAAMO 2022 will feature a doctoral consortium for students who 
 
 **Application**: to apply for the DC, fill out the form [here](https://forms.gle/F8F5r53Lrq6LdcwZA). Students who are requesting travel funding should also fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfL4rvmvwuKeBHKyRO5YGeF0wiKGLvFW0rZJk9PuDgl1CDpew/viewform?usp=sf_link).
 
-**Deadline**: Applications for the DC and for travel funding must be received by July 8, 2022. 
+**Deadline**: Applications for the DC and for travel funding must be received by ~~July 8, 2022~~ July 20, 2022. 
 
 **Co-chairs**: Hamsa Bastani (University of Pennsylvania), Juba Ziani (Georgia Institute of Technology)
