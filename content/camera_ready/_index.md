@@ -43,7 +43,8 @@ The following is a summary of the substeps to follow.
 
 ***
 
-### Step 2.1 Making the initial submission to TAPS (highly recommend before September 1, 2022)
+### Step 2.1 Making the initial submission to TAPS 
+***(highly recommend before September 1, 2022)***
 
 - Prepare your materials: create a ZIP file following the specifications. Please check that you are using the correct names for folders and files. 
   -The list of accepted LaTeX packages for ACM TAPS are in the following [link](https://authors.acm.org/proceedings/production-information/accepted-latex-packages)
@@ -62,7 +63,8 @@ Some important notes:
 
 ***
 
-### Step 2.2 Approving Your Final Submissions in ACM TAPS (must be completed before September 8, 2022)
+### Step 2.2 Approving Your Final Submissions in ACM TAPS 
+***(must be completed before September 8, 2022)***
 
 After the final submissions are processed by TAPS, you will receive an email asking you to approve your final version for publication. The link provided will take you to the TAPS Author Dashboard for your paper.
 - *The TAPS Author Dashboard email will only be sent to the contact author*, so it is important that this person is able to respond to emails and complete the form.
