@@ -12,36 +12,41 @@
   name = "Call for Participation"
   url = "cfp"
   weight = 20
+
+[[main]]
+  name = "Camera-ready Paper Instructions"
+  url = "camera_ready"
+  weight = 30
   
 [[main]]
   name = "Keynote Speakers"
   url = "speakers"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Doctoral Consortium"
   url = "doctoral_consortium"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Committees"
   url = "committee"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Policies"
   url = "policies"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "EAAMO 2021"
   url = "https://eaamo2021.eaamo.org"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "MD4SG"
   url = "https://md4sg.com"
-  weight = 80
+  weight = 90
 
 
 # Link to a PDF of your resume/CV from the menu.
