@@ -9,44 +9,60 @@
   weight = 10
 
 [[main]]
+ identifier = "callforpapers"
+ name = "Call for Papers"
+ url = "cfp"
+ weight = 20
+
+[[main]]
   name = "Call for Participation"
   url = "cfp"
-  weight = 20
+  weight = -10
+  parent = "callforpapers"
 
 [[main]]
   name = "Camera-ready Paper Instructions"
   url = "camera_ready"
+  weight = -20
+  parent = "callforpapers"
+
+[[main]]
+  identifier = "program"
+  name = "Program"
+  url = "speakers"
   weight = 30
   
 [[main]]
   name = "Keynote Speakers"
   url = "speakers"
-  weight = 40
+  weight = -10
+  parent = "program"
 
 [[main]]
   name = "Doctoral Consortium"
   url = "doctoral_consortium"
-  weight = 50
+  weight = -20
+  parent = "program"
 
 [[main]]
   name = "Committees"
   url = "committee"
-  weight = 60
+  weight = 40
 
 [[main]]
   name = "Policies"
   url = "policies"
-  weight = 70
+  weight = 50
 
 [[main]]
   name = "EAAMO 2021"
   url = "https://eaamo2021.eaamo.org"
-  weight = 80
+  weight = 60
 
 [[main]]
   name = "MD4SG"
   url = "https://md4sg.com"
-  weight = 90
+  weight = 70
 
 
 # Link to a PDF of your resume/CV from the menu.
