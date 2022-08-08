@@ -17,13 +17,13 @@
 [[main]]
   name = "Call for Participation"
   url = "cfp"
-  weight = -10
+  weight = 10
   parent = "callforpapers"
 
 [[main]]
   name = "Camera-ready Paper Instructions"
   url = "camera_ready"
-  weight = -20
+  weight = 20
   parent = "callforpapers"
 
 [[main]]
@@ -35,13 +35,13 @@
 [[main]]
   name = "Keynote Speakers"
   url = "speakers"
-  weight = -10
+  weight = 10
   parent = "program"
 
 [[main]]
   name = "Doctoral Consortium"
   url = "doctoral_consortium"
-  weight = -20
+  weight = 20
   parent = "program"
 
 [[main]]
