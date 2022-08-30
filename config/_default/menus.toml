@@ -51,24 +51,29 @@
   parent = "program"
 
 [[main]]
+  name = "Venue"
+  url = "venue"
+  weight = 40
+
+[[main]]
   name = "Committees"
   url = "committee"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Policies"
   url = "policies"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "EAAMO 2021"
   url = "https://eaamo2021.eaamo.org"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "MD4SG"
   url = "https://md4sg.com"
-  weight = 70
+  weight = 80
 
 
 # Link to a PDF of your resume/CV from the menu.
