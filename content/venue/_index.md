@@ -44,6 +44,8 @@ Arlington, VA 22201\
 GPS Address (for mobile devices and Google maps): \
 3351 North Fairfax Drive, Arlington, VA 22201
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.697529407351!2d-77.10323648479125!3d38.885161579572554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b6828b5be0d7%3A0xc90a1e6e91b89ed5!2sVan%20Metre%20Hall%2C%20George%20Mason%20University!5e0!3m2!1ssr!2srs!4v1661888612457!5m2!1ssr!2srs" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 [Directions to Mason Square (formerly the Arlington Campus)](https://info.gmu.edu/campus-maps-and-directions/mason-square-directions/)
 
 Paid visitor parking is available in the Van Metre Hall Garage, accessible via Founders Way North. \
