@@ -36,3 +36,42 @@ header:
 - [Sera Linardi](http://www.linardi.gspia.pitt.edu/), University of Pittsburgh
 - [Irene Lo](https://sites.google.com/view/irene-lo), Stanford University
 - [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Columbia University
+
+- - -
+
+### Social Chairs
+- Lily Xu, Harvard University
+- Roozbeh Yousefzadeh, Yale University
+
+### Social Media Chairs
+- Mir Masood Ali, University of Illinois at Chicago
+- Jose M. Alvarez, Scuola Normale Superiore, Pisa
+- Alex DiChristophano, Washington University in St. Louis
+- Sandro Radovanović, University of Belgrade
+- Rhea Tibrewala, Refeyn
+
+### Registration and Grants Chairs
+- Chinasa Okolo, Cornell University
+- Sandro Radovanović, University of Belgrade
+
+### Accessibility Chair
+- Sara Kingsley, Carnegie Mellon University
+
+### Virtual Chairs
+- George Obaido, University of California, San Diego
+- Sandro Radovanović, University of Belgrade
+
+### Doctoral Symposium Chairs
+- Juba Ziani, Georgia Institute of Technology
+- Hamsa Bastani, Wharton School, University of Pennsylvania
+
+### Proceedings Chairs
+- Gourab Patro, IIT Kharagpur
+- Jessie Finocchiaro, Harvard University
+
+### Poster Chair
+- Tasfia Mashiat, George Mason University
+
+### Faculty Network Chairs
+- Nikhil Garg, University of California Berkeley
+- Faidra Monachou, Harvard University
