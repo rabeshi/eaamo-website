@@ -26,6 +26,8 @@ Most of the programs offered are at the graduate and professional levels.
 
 The heart of Mason Square will be Fuse, a technology-forward building where digital innovators, researchers, and entrepreneurs can collaborate and thrive.
 
+- - -
+
 ## Venue information
 
 **3351 North Fairfax Drive, Van Metre Hall**
