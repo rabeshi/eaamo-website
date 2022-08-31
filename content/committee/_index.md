@@ -57,7 +57,7 @@ header:
 - Sara Kingsley, Carnegie Mellon University
 
 ### Virtual Chairs
-- George Obaido, University of California, San Diego
+- George Obaido, University of California Berkeley
 - Sandro Radovanović, University of Belgrade
 
 ### Doctoral Symposium Chairs
@@ -72,5 +72,5 @@ header:
 - Tasfia Mashiat, George Mason University
 
 ### Faculty Network Chairs
-- Nikhil Garg, University of California Berkeley
+- Nikhil Garg, Cornell Tech
 - Faidra Monachou, Harvard University
