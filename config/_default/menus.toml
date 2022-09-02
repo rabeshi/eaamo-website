@@ -31,23 +31,29 @@
   name = "Program"
   url = "speakers"
   weight = 30
-  
+
+[[main]]
+  name = "Preliminary Conference Schedule"
+  url = "schedule"
+  weight = 10
+  parent = "program"
+
 [[main]]
   name = "Keynote Speakers"
   url = "speakers"
-  weight = 10
+  weight = 20
   parent = "program"
 
 [[main]]
   name = "Accepted Papers and Posters"
   url = "papers"
-  weight = 20
+  weight = 30
   parent = "program"
 
 [[main]]
   name = "Doctoral Consortium"
   url = "doctoral_consortium"
-  weight = 30
+  weight = 40
   parent = "program"
 
 [[main]]
