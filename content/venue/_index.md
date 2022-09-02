@@ -16,19 +16,9 @@ header:
   image: ""
 ---
 
-## A George Mason University Campus in Arlington, Virginia
-
-**Mason Square (formerly the Arlington Campus)** is located in the Virginia Square neighborhood of Arlington County. The campus hosts the Antonin Scalia Law School, the Schar School of Policy and Government, the Jimmy and Rosalynn Carter School for Peace and Conflict Resolution, programs in Arts Management and the School of Business, and Continuing and Professional Education.
-
-Most of the programs offered are at the graduate and professional levels.
-
-[Mason Square](https://masonsquare.gmu.edu/) is a dynamic, collaborative hub uniting scholars, students, researchers, policymakers, and business developers that will accelerate the pace of change and solve grand challenges.
-
-The heart of Mason Square will be Fuse, a technology-forward building where digital innovators, researchers, and entrepreneurs can collaborate and thrive.
-
-- - -
-
 ## Venue information
+
+The conference is held at Van Metre Hall, at George Washington University's Mason Square (formerly the Arlington Campus). 
 
 **3351 North Fairfax Drive, Van Metre Hall**
 
