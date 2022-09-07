@@ -35,13 +35,6 @@ Neema Iyer is an artist and a technologist. She is the founder and director of P
 
 - - -
 
-## [John Roemer](https://politicalscience.yale.edu/people/john-roemer)
-*Elizabeth S. and A. Varick Stout Professor of Political Science and Economics, Yale University*
-
-John Roemer is the Elizabeth S. and A. Varick Professor of Political Science and Economics. He is a Fellow of the Econometric Society, and has been a Fellow of the Guggenheim Foundation and the Russell Sage Foundation. His research concerns political economy, and distributive justice. He is currently teaching Political Competition and a Workshop in Political Economy. Publications include: Political Competition, Harvard University Press, 2001; Equality of Opportunity, Harvard University Press, 1998, Theories of Distributive Justice, Harvard University Press, 1996.
-
-- - -
-
 ## [Karen Smilowitz](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/smilowitz-karen.html)
 *James N. and Margie M. Krebs Professor in Industrial Engineering and Management Sciences, Northwestern University*
 
