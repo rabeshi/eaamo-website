@@ -173,7 +173,7 @@ Ranked Prioritization of Groups in Combinatorial Bandit Allocation\
 *Lily Xu, Arpita Biswas, Fei Fang and Milind Tambe*
 
 Accountability Infrastructure for Recommender Systems: Applying Lessons from Public Health to Mitigate Structural Harms\
-*Thomas Gilbert and Nathaniel Lubin*
+*Nathaniel Lubin and Thomas Gilbert*
 
 Dynamic Interventions for Networked Contagions\
 *Marios Papachristou, Siddhartha Banerjee and Jon Kleinberg*
