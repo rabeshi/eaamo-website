@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-Registration for the 2nd ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization is now live! Please [register here](https://cvent.me/L94zQG) to attend the conference.
+Registration for the 2nd ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization is now live! Please **[register here](https://cvent.me/L94zQG)** to attend the conference.
 
 The registration fees for *in-person* participation are the following:
 
