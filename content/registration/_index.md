@@ -18,6 +18,8 @@ header:
 
 Registration for the 2nd ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization is now live! Please **[register here](https://cvent.me/L94zQG)** to attend the conference.
 
+- - -
+
 The registration fees for *in-person* participation are the following:
 
 |  | Early (until September 20) | Regular (until October 4) | Late (after October 4) |
