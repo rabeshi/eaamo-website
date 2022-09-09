@@ -18,7 +18,7 @@ header:
 
 ## Venue information
 
-The conference is held at Van Metre Hall, at George Washington University's Mason Square (formerly the Arlington Campus). 
+The conference is held at Van Metre Hall, at George Mason University's Mason Square (formerly the Arlington Campus). 
 
 **3351 North Fairfax Drive, Van Metre Hall**
 
