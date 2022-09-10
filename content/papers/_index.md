@@ -96,7 +96,7 @@ Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and St
 Improving Maternal Healthcare Information Delivery Over Large Populations via Group Robust Restless Bandit Interventions\
 *Jackson Killian, Arpita Biswas, Lily Xu, Shresth Verma, Vineet Nair, Aparna Taneja, Aparna Hegde, Neha Madhiwalla, Paula Rodriguez Diaz, Sonja Johnson-Yu and Milind Tambe*
 
-How Ethical Justifications of Facial Analysis AI Differ Between Future Developers and Non-experts in AI\
+AI-Competent Individuals and Laypeople Tend to Oppose Facial Analysis AI\
 *Chiara Ullstein, Severin Engelmann, Orestis Papakyriakopoulos, Michel Hohendanner and Jens Grossklags*
 
 Opinion Change or Differential Turnout: Austin’s Budget Feedback Exercise and the Police Department\
