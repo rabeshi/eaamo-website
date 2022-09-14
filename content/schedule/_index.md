@@ -20,7 +20,7 @@ header:
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="css/style.css">
 
-EAAMO 2022 will be organized as a in-person conference with a virtual option. Details of the in-person conference format are described below. Virtual part of the conference will broadcast the keynote talks and session talks, with a possibility to ask a question using Q&A section. 
+EAAMO 2022 will be organized as a in-person conference with a virtual option. Virtual part of the conference will broadcast the keynote talks and session talks, with a possibility to ask a question using Q&A section. Details of the in-person conference format are described below. Session events are collapsable and one can see what talks will be presented during the session.
 
 Both in-person and virtual social vents will be added later, as our social chairs organize them. Events that are organized virtually will have (*virtual*) in the title of the event.
 
