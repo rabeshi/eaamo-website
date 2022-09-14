@@ -23,10 +23,10 @@ header:
 EAAMO 2022 will be organized as a in-person conference with a virtual option. Details of the in-person conference format are described below. Virtual part of the conference will broadcast the keynote talks and session talks, with a possibility to ask a question using Q&A section. Events that are organized virtually will have (*virtual*) in the title of the event.
 
 Please use the following links to jump to the day-specific schedule:\
-[*Jump to: Thursday 10/6*](#Thursday-106)\
-[*Jump to: Friday 10/7*](#Friday-107)\
-[*Jump to: Saturday 10/8*](#Saturday-108)\
-[*Jump to: Sunday 10/9*](#Sunday-109)
+[*Jump to: Thursday 10/6*](#thursday-106)\
+[*Jump to: Friday 10/7*](#friday-107)\
+[*Jump to: Saturday 10/8*](#saturday-108)\
+[*Jump to: Sunday 10/9*](#sunday-109)
 
 - - -
 ## Thursday 10/6
