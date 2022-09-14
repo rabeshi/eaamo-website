@@ -41,45 +41,6 @@ Please use the following links to jump to the day-specific schedule:\
     </tr>
   </thead>
   <tbody>
-    <tr eaamo-toggle="collapse" eaamo-target="#collapseMonOne" aria-expanded="false" aria-controls="collapseMonOne" class="collapsed">
-      <th scope="row">1</th>
-      <td>12:15 - 13:15 (ET)</td>
-      <td><b><a href="https://eaamo2021.eaamo.org/networking/">Practioner and Researcher networking session.</b><br/>Meet practitioners and researchers on Gather.</td>
-      <td>
-      	<i class="fa" aria-hidden="false"></i>
-    	</td>
-    </tr>
-    <tr>
-    	<td colspan="6" id="collapseMonOne" class="collapse acc" data-parent="#accordion">
-    		<p>The day before the conference officially kicks offs, we will host a networking session between researchers and practitioners.</p>
-			<p>A diverse group of practitioners will be present at the networking session, including:</p>
-			<ul>
-			<li><b>Greg Bybee</b>, co-founder and CEO of Avela Education.</li>
-			<li><b>Julia Chen</b>, Assistant Fiction Editor for The Offing and leads communications for the City of San José’s data equity project.	</li>
-			<li><b>Gülşen Güler</b>, data literacy consultant with a background in social work.</li>
-			<li><b>Gina Helfrich</b>, Program Officer for Global Technology at Internews, a nonprofit supporting independent media in 100 countries.</li>
-			<li><b>Christine Keung</b>, Chief Data Officer for the City of San Jose.</li>
-			<li><b>Caitlin Kraft-Buchman</b>, CEO and founder of Women at the Table.</li>
-			<li><b>Anastasia Miliano</b>, Head of Client Success and Services at Avela.</li>
-			<li><b>Catherine Muñoz</b>, director and founder of the Chilean NGO Optia, the first Observatory for Algorithmic and Transparency and Inclusion in Latin America.</li>
-			<li><b>Ramya Ravichandran</b>, a mission-driven consultant, data scientist, and policy professional focused on cross-sector collaboration to build a more equitable world.</li>
-			<li><b>Robert Upton</b>, Data Analyst and Algorithm Engineer at Avela.</li>
-			<li><b>Ben Winters</b>, EPIC Counsel and leads EPIC’s AI and Human Rights Project.</li>
-			</ul>
-    	</td>
-    </tr>
-</table>
-
-<table class="table myaccordion table-hover" id="accordion">
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Time</th>
-      <th>Event</th>
-      <th>&nbsp;</th>
-    </tr>
-  </thead>
-  <tbody>
     <tr eaamo-toggle="collapse" eaamo-target="#collapse11" aria-expanded="false" aria-controls="collapse11" class="collapsed">
         <th scope="row">1</th>
         <td>13:30 - 13:40 (ET)</td>
@@ -403,3 +364,8 @@ Please use the following links to jump to the day-specific schedule:\
   </tr>
   </tbody>
 </table>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/popper.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/main.js"></script>
