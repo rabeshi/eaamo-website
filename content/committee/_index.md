@@ -72,8 +72,9 @@ header:
 - Gourab Patro, IIT Kharagpur
 - Jessie Finocchiaro, Harvard University
 
-### Poster Chair
+### Poster Chairs
 - Tasfia Mashiat, George Mason University
+- Aviva Prins, University of Maryland
 
 ### Faculty Network Chairs
 - Nikhil Garg, Cornell Tech
