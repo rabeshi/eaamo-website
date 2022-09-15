@@ -38,6 +38,10 @@ header:
 
 - - -
 
+### Local Chairs
+- Tasfia Mashiat, George Mason University
+- Gaurab Pokharel, Oberlin College
+
 ### Social Chairs
 - Lily Xu, Harvard University
 - Roozbeh Yousefzadeh, Yale University
