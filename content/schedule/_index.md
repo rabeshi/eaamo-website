@@ -141,7 +141,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse21" aria-expanded="false" aria-controls="collapse21" class="collapsed">
       <th scope="row">1</th>
       <td>9:00 - 10:20 (ET)</td>
-      <td>Session: Allocation/Assignment/Matching under constraints; School Choice, Admissions</td>
+      <td>Session: Allocation under constraints</td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse211" aria-expanded="false" aria-controls="collapse211" class="collapsed">
@@ -177,7 +177,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse23" aria-expanded="false" aria-controls="collapse23" class="collapsed">
       <th scope="row">3</th>
       <td>10:50 - 12:10 (ET)</td>
-      <td>Session: Government and Regulation + Audits</td>
+      <td>Session: Government, Regulation, Audits</td>
       <td></td>
     </tr>
    	<tr eaamo-toggle="collapse" eaamo-target="#collapse231" aria-expanded="false" aria-controls="collapse231" class="collapsed">
@@ -189,7 +189,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse232" aria-expanded="false" aria-controls="collapse232" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Adapting Bias in Algorithmic Pricing: Evidence from Insurance Industry by <i>Ozge Demirci</i></td>
+      <td>Can Gender-Blind Algorithmic Pricing Eliminate the Gender Gap? by <i>Ozge Demirci</i></td>
       <td></td>
     </tr>     
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse233" aria-expanded="false" aria-controls="collapse233" class="collapsed">
@@ -225,7 +225,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse27" aria-expanded="false" aria-controls="collapse27" class="collapsed">
       <th scope="row">7</th>
       <td>15:15 - 17:05 (ET)</td>
-      <td>Session: Quantitative analysis of classical social science/econ models & Conceptual frameworks for fairness, welfarism, equity</td>
+      <td>Session: Quantitative social science and conceptual frameworks</td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse271" aria-expanded="false" aria-controls="collapse271" class="collapsed">
@@ -314,7 +314,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse33" aria-expanded="false" aria-controls="collapse33" class="collapsed">
       <th scope="row">3</th>
       <td>10:50 - 12:10 (ET)</td>
-      <td>Session: Computational Social Choice + Redrawing Boundaries</td>
+      <td>Session: Computational Social Choice and Redrawing Boundaries</td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse331" aria-expanded="false" aria-controls="collapse331" class="collapsed">
@@ -362,7 +362,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse37" aria-expanded="false" aria-controls="collapse37" class="collapsed">
       <th scope="row">7</th>
       <td>14:45 - 16:35 (ET)</td>
-      <td>Session: Policy and Practice + Documentation Papers</td>
+      <td>Session: Policy and Practice; and Documentation</td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse371" aria-expanded="false" aria-controls="collapse371" class="collapsed">
