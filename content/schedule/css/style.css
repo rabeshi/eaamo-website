@@ -8218,7 +8218,7 @@ h1, h2, h3, h4, h5,
         transition: none; } }
   .table tbody th, .table tbody td {
     border: none;
-    padding: 30px;
+    padding: 0px;
     font-size: 14px; }
   .table tbody td.acc {
     background: #f3f3f3;

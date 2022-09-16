@@ -279,18 +279,32 @@ Please use the following links to jump to the day-specific schedule:\
       <th scope="row">1</th>
       <td>9:00 - 10:20 (ET)</td>
       <td>Session: Algorithms for Allocation</td>
-      <td>
-      	<i class="fa" aria-hidden="false"></i>
-    	</td>
+      <td></td>
     </tr>
-    <tr>
-    	<td colspan="6" id="collapse31" class="collapse acc" data-parent="#accordion">
-        <p>Policy Learning with Competing Agents by <i>Roshni Sahoo and Stefan Wager</i></p>
-        <p>Online Algorithms for Matching Platforms with Multi-Channel Traffic by <i>Vahideh Manshadi, Scott Rodilitz, Daniela Saban and Akshaya Suresh</i></p>
-        <p>Improving Maternal Healthcare Information Delivery Over Large Populations via Group Robust Restless Bandit Interventions by <i>Jackson Killian, Arpita Biswas, Lily Xu, Shresth Verma, Vineet Nair, Aparna Taneja, Aparna Hegde, Neha Madhiwalla, Paula Rodriguez Diaz, Sonja Johnson-Yu and Milind Tambe</i></p>
-        <p>Modeling Access Differences to Reduce Disparity in Resource Allocation by <i>Kenya Andrews, Mesrob Ohannessian and Tanya Berger-Wolf</i></p>
-    	</td>
-    </tr>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse311" aria-expanded="false" aria-controls="collapse311" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Policy Learning with Competing Agents by <i>Roshni Sahoo and Stefan Wager</i></td>
+      <td></td>
+    </tr>    
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse312" aria-expanded="false" aria-controls="collapse312" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Online Algorithms for Matching Platforms with Multi-Channel Traffic by <i>Vahideh Manshadi, Scott Rodilitz, Daniela Saban and Akshaya Suresh</i></td>
+      <td></td>
+    </tr>      
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse313" aria-expanded="false" aria-controls="collapse313" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Improving Maternal Healthcare Information Delivery Over Large Populations via Group Robust Restless Bandit Interventions by <i>Jackson Killian, Arpita Biswas, Lily Xu, Shresth Verma, Vineet Nair, Aparna Taneja, Aparna Hegde, Neha Madhiwalla, Paula Rodriguez Diaz, Sonja Johnson-Yu and Milind Tambe</i></td>
+      <td></td>
+    </tr>      
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse314" aria-expanded="false" aria-controls="collapse314" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Modeling Access Differences to Reduce Disparity in Resource Allocation by <i>Kenya Andrews, Mesrob Ohannessian and Tanya Berger-Wolf</i></td>
+      <td></td>
+    </tr>       
   <tr eaamo-toggle="collapse" eaamo-target="#collapse32" aria-expanded="false" aria-controls="collapse32" class="collapsed">
       <th scope="row">2</th>
       <td>10:20 - 10:50 (ET)</td>
@@ -301,18 +315,32 @@ Please use the following links to jump to the day-specific schedule:\
       <th scope="row">3</th>
       <td>10:50 - 12:10 (ET)</td>
       <td>Session: Computational Social Choice + Redrawing Boundaries</td>
-      <td>
-      	<i class="fa" aria-hidden="false"></i>
-    	</td>
+      <td></td>
     </tr>
-    <tr>
-    	<td colspan="6" id="collapse33" class="collapse acc" data-parent="#accordion">
-        <p>Liquid Democracy in Practice: An Empirical Analysis of its Epistemic Performance by <i>Manon Revel, Daniel Halpern, Adam Berinsky and Ali Jadbabaie</i></p>
-        <p>A Quantitative and Qualitative Analysis of the Robustness of (Real-World) Election Winners by <i>Niclas Boehmer, Robert Bredereck, Piotr Faliszewski and Rolf Niedermeier</i></p>
-        <p>Mathematically Quantifying Non-responsiveness of the 2021 Georgia Congressional Districting Plan by <i>Zhanzhan Zhao, Cyrus Hettle, Swati Gupta, Jonathan Mattingly, Dana Randall and Gregory Herschlag</i></p>
-        <p>Redrawing attendance boundaries to increase racial and ethnic diversity in elementary schools by <i>Nabeel Gillani, Doug Beeferman, Christine Vega-Pourheydarian, Cassandra Overney, Pascal Van Hentenryck and Deb Roy</i></p>
-    	</td>
-    </tr> 
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse331" aria-expanded="false" aria-controls="collapse331" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Liquid Democracy in Practice: An Empirical Analysis of its Epistemic Performance by <i>Manon Revel, Daniel Halpern, Adam Berinsky and Ali Jadbabaie</i></td>
+      <td></td>
+    </tr>   
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse332" aria-expanded="false" aria-controls="collapse332" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>A Quantitative and Qualitative Analysis of the Robustness of (Real-World) Election Winners by <i>Niclas Boehmer, Robert Bredereck, Piotr Faliszewski and Rolf Niedermeier</i></td>
+      <td></td>
+    </tr>    
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse333" aria-expanded="false" aria-controls="collapse333" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Mathematically Quantifying Non-responsiveness of the 2021 Georgia Congressional Districting Plan by <i>Zhanzhan Zhao, Cyrus Hettle, Swati Gupta, Jonathan Mattingly, Dana Randall and Gregory Herschlag</i></td>
+      <td></td>
+    </tr>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse334" aria-expanded="false" aria-controls="collapse334" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Redrawing attendance boundaries to increase racial and ethnic diversity in elementary schools by <i>Nabeel Gillani, Doug Beeferman, Christine Vega-Pourheydarian, Cassandra Overney, Pascal Van Hentenryck and Deb Roy</i></td>
+      <td></td>
+    </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse34" aria-expanded="false" aria-controls="collapse34" class="collapsed">
       <th scope="row">4</th>
       <td>12:15 - 13:15 (ET)</td>
@@ -335,17 +363,31 @@ Please use the following links to jump to the day-specific schedule:\
       <th scope="row">7</th>
       <td>14:45 - 16:35 (ET)</td>
       <td>Session: Policy and Practice + Documentation Papers</td>
-      <td>
-      	<i class="fa" aria-hidden="false"></i>
-    	</td>
+      <td></td>
     </tr>
-    <tr>
-    	<td colspan="6" id="collapse37" class="collapse acc" data-parent="#accordion">
-        <p>Opinion Change or Differential Turnout: Austin’s Budget Feedback Exercise and the Police Department by <i>Lodewijk Gelauff and Ashish Goel</i></p>
-        <p>Participation Is not a Design Fix for Machine Learning by <i>Mona Sloane, Emanuel Moss, Olaitan Awomolo and Laura Forlano</i></p>
-        <p>Improving Citizen-initiated Police Reform Efforts through Interactive Design: A Case Study in County A by <i>Yongsu Ahn, Eliana Beigel, Noah Braun, Collin Griffin, Sera Linardi, Blair Mickles and Emmaline Rial</i></p>
-        <p>Learning to Be Fair: A Consequentialist Approach to Equitable Decision-Making by <i>Alex Chohlas-Wood, Madison Coots, Henry Zhu, Emma Brunskill and Sharad Goel</i></p>
-    	</td>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse371" aria-expanded="false" aria-controls="collapse371" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Opinion Change or Differential Turnout: Austin’s Budget Feedback Exercise and the Police Department by <i>Lodewijk Gelauff and Ashish Goel</i></td>
+      <td></td>
+    </tr>    
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse372" aria-expanded="false" aria-controls="collapse372" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Participation Is not a Design Fix for Machine Learning by <i>Mona Sloane, Emanuel Moss, Olaitan Awomolo and Laura Forlano</i></td>
+      <td></td>
+    </tr>   
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse373" aria-expanded="false" aria-controls="collapse373" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Improving Citizen-initiated Police Reform Efforts through Interactive Design: A Case Study in County A by <i>Yongsu Ahn, Eliana Beigel, Noah Braun, Collin Griffin, Sera Linardi, Blair Mickles and Emmaline Rial</i></td>
+      <td></td>
+    </tr> 
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse374" aria-expanded="false" aria-controls="collapse374" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Learning to Be Fair: A Consequentialist Approach to Equitable Decision-Making by <i>Alex Chohlas-Wood, Madison Coots, Henry Zhu, Emma Brunskill and Sharad Goel</i></td>
+      <td></td>
     </tr>
     <tr eaamo-toggle="collapse" eaamo-target="#collapse38" aria-expanded="false" aria-controls="collapse38" class="collapsed">
         <th scope="row">8</th>
