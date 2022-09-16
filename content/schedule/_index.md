@@ -142,18 +142,32 @@ Please use the following links to jump to the day-specific schedule:\
       <th scope="row">1</th>
       <td>9:00 - 10:20 (ET)</td>
       <td>Session: Allocation/Assignment/Matching under constraints; School Choice, Admissions</td>
-      <td>
-      	<i class="fa" aria-hidden="false"></i>
-    	</td>
+      <td></td>
     </tr>
-    <tr>
-    	<td colspan="6" id="collapse21" class="collapse acc" data-parent="#accordion">
-        <p>Priority-Based Assignment with Reserves and Quotas by <i>Atila Abdulkadiroglu and Aram Grigoryan</i></p>
-        <p>Capacity Planning in Stable Matching: An Application to School Choice by <i>Federico Bobbio, Margarida Carvalho, Andrea Lodi, Alfredo Torrico and Ignacio Rios</i></p>
-        <p>Designing School Choice for Diversity in the San Francisco Unified School District by <i>Maxwell Allman, Itai Ashlagi, Irene Lo, Juliette Love, Katherine Mentzer, Henry O'Connell and Lulabel Ruiz-Setz</i></p>
-        <p>On Meritocracy in Optimal Set Selection by <i>Thomas Kleine Buening, Meirav Segal, Debabrota Basu, Anne-Marie George and Christos Dimitrakakis</i></p>
-    	</td>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse211" aria-expanded="false" aria-controls="collapse211" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Priority-Based Assignment with Reserves and Quotas by <i>Atila Abdulkadiroglu and Aram Grigoryan</i></td>
+      <td></td>
+    </tr>    
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse212" aria-expanded="false" aria-controls="collapse212" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Capacity Planning in Stable Matching: An Application to School Choice by <i>Federico Bobbio, Margarida Carvalho, Andrea Lodi, Alfredo Torrico and Ignacio Rios</i></td>
+      <td></td>
     </tr>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse213" aria-expanded="false" aria-controls="collapse213" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Designing School Choice for Diversity in the San Francisco Unified School District by <i>Maxwell Allman, Itai Ashlagi, Irene Lo, Juliette Love, Katherine Mentzer, Henry O'Connell and Lulabel Ruiz-Setz</i></td>
+      <td></td>
+    </tr>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse214" aria-expanded="false" aria-controls="collapse214" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>On Meritocracy in Optimal Set Selection by <i>Thomas Kleine Buening, Meirav Segal, Debabrota Basu, Anne-Marie George and Christos Dimitrakakis</i></td>
+      <td></td>
+    </tr>     
   <tr eaamo-toggle="collapse" eaamo-target="#collapse22" aria-expanded="false" aria-controls="collapse22" class="collapsed">
       <th scope="row">2</th>
       <td>10:20 - 10:50 (ET)</td>
@@ -164,18 +178,32 @@ Please use the following links to jump to the day-specific schedule:\
       <th scope="row">3</th>
       <td>10:50 - 12:10 (ET)</td>
       <td>Session: Government and Regulation + Audits</td>
-      <td>
-      	<i class="fa" aria-hidden="false"></i>
-    	</td>
+      <td></td>
     </tr>
-    <tr>
-    	<td colspan="6" id="collapse23" class="collapse acc" data-parent="#accordion">
-        <p>Bias, Consistency, and Partisanship in U.S. Asylum Cases: A Machine Learning Analysis of Extraneous Factors in Immigration Court Decisions by <i>Vyoma Raman, Catherine Vera and C.J. Manna</i></p>
-        <p>Adapting Bias in Algorithmic Pricing: Evidence from Insurance Industry by <i>Ozge Demirci</i></p>
-        <p>Quantifiable disparate impacts of statistical uncertainty and privacy in Census-guided grants by <i>Ryan Steed, Terrance Liu, Zhiwei Steven Wu and Alessandro Acquisti</i></p>
-        <p>Fair Decision-Making for Food Inspections by <i>Shubham Singh, Bhuvni Shah, Chris Kanich and Ian A. Kash</i></p>
-    	</td>
-    </tr> 
+   	<tr eaamo-toggle="collapse" eaamo-target="#collapse231" aria-expanded="false" aria-controls="collapse231" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Bias, Consistency, and Partisanship in U.S. Asylum Cases: A Machine Learning Analysis of Extraneous Factors in Immigration Court Decisions by <i>Vyoma Raman, Catherine Vera and C.J. Manna</i></td>
+      <td></td>
+    </tr>  
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse232" aria-expanded="false" aria-controls="collapse232" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Adapting Bias in Algorithmic Pricing: Evidence from Insurance Industry by <i>Ozge Demirci</i></td>
+      <td></td>
+    </tr>     
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse233" aria-expanded="false" aria-controls="collapse233" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Quantifiable disparate impacts of statistical uncertainty and privacy in Census-guided grants by <i>Ryan Steed, Terrance Liu, Zhiwei Steven Wu and Alessandro Acquisti</i></td>
+      <td></td>
+    </tr>      
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse234" aria-expanded="false" aria-controls="collapse234" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Fair Decision-Making for Food Inspections by <i>Shubham Singh, Bhuvni Shah, Chris Kanich and Ian A. Kash</i></td>
+      <td></td>
+    </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse24" aria-expanded="false" aria-controls="collapse24" class="collapsed">
       <th scope="row">4</th>
       <td>12:15 - 13:15 (ET)</td>
@@ -198,18 +226,32 @@ Please use the following links to jump to the day-specific schedule:\
       <th scope="row">7</th>
       <td>15:15 - 17:05 (ET)</td>
       <td>Session: Quantitative analysis of classical social science/econ models & Conceptual frameworks for fairness, welfarism, equity</td>
-      <td>
-      	<i class="fa" aria-hidden="false"></i>
-    	</td>
+      <td></td>
     </tr>
-    <tr>
-    	<td colspan="6" id="collapse27" class="collapse acc" data-parent="#accordion">
-        <p>A Heterogeneous Schelling Model for Wealth Disparity and its Effect on Segregation by <i>Zhanzhan Zhao and Dana Randall</i></p>
-        <p>Optimal Credit Scores Under Adverse Selection by <i>Andre Sztutman, Nicole Immorlica and Robert Townsend</i></p>
-        <p>College Major Restrictions and Student Stratification by <i>Zachary Bleemer and Aashish Mehta</i></p>
-        <p>Towards Substantive conceptions of Algorithmic Fairness: Normative guidance from Equal Opportunity doctrines by <i>Falaah Arif Khan, Eleni Manis and Julia Stoyanovich</i></p>
-    	</td>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse271" aria-expanded="false" aria-controls="collapse271" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>A Heterogeneous Schelling Model for Wealth Disparity and its Effect on Segregation by <i>Zhanzhan Zhao and Dana Randall</i></td>
+      <td></td>
+    </tr>    
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse272" aria-expanded="false" aria-controls="collapse272" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Optimal Credit Scores Under Adverse Selection by <i>Andre Sztutman, Nicole Immorlica and Robert Townsend</i></td>
+      <td></td>
+    </tr>      
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse273" aria-expanded="false" aria-controls="collapse273" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>College Major Restrictions and Student Stratification by <i>Zachary Bleemer and Aashish Mehta</i></td>
+      <td></td>
     </tr>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse274" aria-expanded="false" aria-controls="collapse274" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Towards Substantive conceptions of Algorithmic Fairness: Normative guidance from Equal Opportunity doctrines by <i>Falaah Arif Khan, Eleni Manis and Julia Stoyanovich</i></td>
+      <td></td>
+    </tr>           
     <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
         <th scope="row">8</th>
         <td>17:05 - 18:30 (ET)</td>
