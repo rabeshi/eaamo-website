@@ -428,16 +428,25 @@ Please use the following links to jump to the day-specific schedule:\
       <th scope="row">1</th>
       <td>9:00 - 10:50 (ET)</td>
       <td>Session: Allocations in Social Services</td>
-      <td>
-      	<i class="fa" aria-hidden="false"></i>
-    	</td>
+      <td></td>
     </tr>
-    <tr>
-    	<td colspan="6" id="collapse31" class="collapse acc" data-parent="#accordion">
-        <p>Outcome-Driven Dynamic Refugee Assignment with Allocation Balancing by <i>Kirk Bansak and Elisabeth Paulson</i></p>
-        <p>Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya by <i>Bruno Esposito and Anja Sautmann</i></p>
-        <p>Capping Mobile Data Access Creates Value for Bottom-of-the-Pyramid Consumers - Experimental Evidence from a Mumbai Settlement by <i>Alp Sungu and Kamalini Ramdas</i></p>
-    	</td>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse411" aria-expanded="false" aria-controls="collapse411" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Outcome-Driven Dynamic Refugee Assignment with Allocation Balancing by <i>Kirk Bansak and Elisabeth Paulson</i></td>
+      <td></td>
+    </tr>    
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse412" aria-expanded="false" aria-controls="collapse412" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya by <i>Bruno Esposito and Anja Sautmann</i></td>
+      <td></td>
+    </tr>    
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse413" aria-expanded="false" aria-controls="collapse413" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Capping Mobile Data Access Creates Value for Bottom-of-the-Pyramid Consumers - Experimental Evidence from a Mumbai Settlement by <i>Alp Sungu and Kamalini Ramdas</i></td>
+      <td></td>
     </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
       <th scope="row">2</th>
@@ -449,17 +458,26 @@ Please use the following links to jump to the day-specific schedule:\
       <th scope="row">3</th>
       <td>11:35 - 12:30 (ET)</td>
       <td>Session: Human factors</td>
-      <td>
-      	<i class="fa" aria-hidden="false"></i>
-    	</td>
+      <td></td>
     </tr>
-    <tr>
-    	<td colspan="6" id="collapse43" class="collapse acc" data-parent="#accordion">
-        <p>Dimensions of Diversity in Human Perceptions of Algorithmic Fairness by <i>Nina Grgić-Hlača, Gabriel Lima, Adrian Weller and Elissa M. Redmiles</i></p>
-        <p>Attrition of Workers with Marginalized Identities on AI Teams by <i>Jeffrey Brown, Tina Park, Jiyoo Chang, Mckane Andrus, Alice Xiang and Christine Custis</i></p>
-        <p>AI-Competent Individuals and Laypeople Tend to Oppose Facial Analysis AI by <i>Chiara Ullstein, Severin Engelmann, Orestis Papakyriakopoulos, Michel Hohendanner and Jens Grossklags</i></p>
-    	</td>
-    </tr> 
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse431" aria-expanded="false" aria-controls="collapse431" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Dimensions of Diversity in Human Perceptions of Algorithmic Fairness by <i>Nina Grgić-Hlača, Gabriel Lima, Adrian Weller and Elissa M. Redmiles</i></td>
+      <td></td>
+    </tr>    
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse432" aria-expanded="false" aria-controls="collapse432" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Attrition of Workers with Marginalized Identities on AI Teams by <i>Jeffrey Brown, Tina Park, Jiyoo Chang, Mckane Andrus, Alice Xiang and Christine Custis</i></td>
+      <td></td>
+    </tr>     
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse433" aria-expanded="false" aria-controls="collapse433" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>AI-Competent Individuals and Laypeople Tend to Oppose Facial Analysis AI by <i>Chiara Ullstein, Severin Engelmann, Orestis Papakyriakopoulos, Michel Hohendanner and Jens Grossklags</i></td>
+      <td></td>
+    </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse44" aria-expanded="false" aria-controls="collapse44" class="collapsed">
       <th scope="row">4</th>
       <td>12:30 - 13:30 (ET)</td>
