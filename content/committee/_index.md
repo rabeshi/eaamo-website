@@ -40,7 +40,7 @@ header:
 
 ### Local Chairs
 - Tasfia Mashiat, George Mason University
-- Gaurab Pokharel, Oberlin College
+- Gaurab Pokharel, George Mason University
 
 ### Social Chairs
 - Lily Xu, Harvard University
