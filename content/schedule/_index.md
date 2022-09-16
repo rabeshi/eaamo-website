@@ -53,15 +53,19 @@ Please use the following links to jump to the day-specific schedule:\
       <th scope="row">2</th>
       <td>13:40 - 14:20 (ET)</td>
       <td>Session: Service Delivery and Incentives</td>
-      <td>
-      	<i class="fa" aria-hidden="false"></i>
-    	</td>
+      <td></td>
     </tr>
-    <tr>
-    	<td colspan="6" id="collapse12" class="collapse acc" data-parent="#accordion">
-        <p>Two-sided Benefits of Price Transparency in Smallholder Supply Chains by <i>Yuan Shi, Joann de Zegher and Irene Lo</i></p>
-        <p>Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City by <i>Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank</i></p>
-    	</td>
+      <tr eaamo-toggle="collapse" eaamo-target="#collapse121" aria-expanded="false" aria-controls="collapse121" class="collapsed">
+        <th scope="row"></th>
+        <td></td>
+        <td>Two-sided Benefits of Price Transparency in Smallholder Supply Chains by <i>Yuan Shi, Joann de Zegher and Irene Lo</i></td>
+      <td></td>
+    </tr>
+      <tr eaamo-toggle="collapse" eaamo-target="#collapse122" aria-expanded="false" aria-controls="collapse122" class="collapsed">
+        <th scope="row"></th>
+        <td></td>
+        <td>Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City by <i>Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank</i></td>
+      <td></td>
     </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse13" aria-expanded="false" aria-controls="collapse13" class="collapsed">
       <th scope="row">3</th>
@@ -85,18 +89,32 @@ Please use the following links to jump to the day-specific schedule:\
       <th scope="row">5</th>
       <td>16:10 - 17:40 (ET)</td>
       <td>Session: Participation</td>
-      <td>
-      	<i class="fa" aria-hidden="false"></i>
-    	</td>
+      <td></td>
     </tr>
-    <tr>
-    	<td colspan="6" id="collapse15" class="collapse acc" data-parent="#accordion">
-    		  <p>Algorithmic Rural Road Planning in India: Constrained Capacities and Choices in Public Sector by <i>Harsh Nisar, Deepak Gupta, Pankaj Kumar, Srinivasa Rao Murapaka, A. V. Rajesh and Alka Upadhyaya</i></p>
-          <p>Power to the People? Opportunities and Challenges for Participatory AI by <i>Abeba Birhane, William Isaac, Vinodkumar Prabhakaran, Mark Dí­az, Madeleine Clare Elish, Iason Gabriel and Shakir Mohamed</i></p>
-          <p>Diverse Representation via Computational Participatory Elections - Lessons from a Case Study by </>Florian Evéquoz, Johan Rochel, Vijay Keswani and L. Elisa Celis</i></p>
-          <p>It's Not Fairness, and It's Not Fair: The Failure of Distributional Equality and the Promise of Relational Equality in Complete-Information Hiring Games by <i>Benjamin Fish and Luke Stark</i></p>
-    	</td>
+      <tr eaamo-toggle="collapse" eaamo-target="#collapse151" aria-expanded="false" aria-controls="collapse151" class="collapsed">
+        <th scope="row"></th>
+        <td></td>
+        <td>Algorithmic Rural Road Planning in India: Constrained Capacities and Choices in Public Sector by <i>Harsh Nisar, Deepak Gupta, Pankaj Kumar, Srinivasa Rao Murapaka, A. V. Rajesh and Alka Upadhyaya</i></td>
+      <td></td>
     </tr>
+      <tr eaamo-toggle="collapse" eaamo-target="#collapse152" aria-expanded="false" aria-controls="collapse152" class="collapsed">
+        <th scope="row"></th>
+        <td></td>
+        <td>Power to the People? Opportunities and Challenges for Participatory AI by <i>Abeba Birhane, William Isaac, Vinodkumar Prabhakaran, Mark Dí­az, Madeleine Clare Elish, Iason Gabriel and Shakir Mohamed</i></td>
+      <td></td>
+    </tr>
+      <tr eaamo-toggle="collapse" eaamo-target="#collapse153" aria-expanded="false" aria-controls="collapse153" class="collapsed">
+        <th scope="row"></th>
+        <td></td>
+        <td>Diverse Representation via Computational Participatory Elections - Lessons from a Case Study by </>Florian Evéquoz, Johan Rochel, Vijay Keswani and L. Elisa Celis</i></td>
+      <td></td>
+    </tr>
+      <tr eaamo-toggle="collapse" eaamo-target="#collapse154" aria-expanded="false" aria-controls="collapse154" class="collapsed">
+        <th scope="row"></th>
+        <td></td>
+        <td>It's Not Fairness, and It's Not Fair: The Failure of Distributional Equality and the Promise of Relational Equality in Complete-Information Hiring Games by <i>Benjamin Fish and Luke Stark</i></td>
+      <td></td>
+    </tr>     
     <tr eaamo-toggle="collapse" eaamo-target="#collapse16" aria-expanded="false" aria-controls="collapse16" class="collapsed">
         <th scope="row">6</th>
         <td>17:40 - 18:40 (ET)</td>
