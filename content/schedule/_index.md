@@ -83,7 +83,7 @@ Please use the following links to jump to the day-specific schedule:\
   </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse15" aria-expanded="false" aria-controls="collapse15" class="collapsed">
       <th scope="row">5</th>
-      <td>13:40 - 14:20 (ET)</td>
+      <td>16:10 - 17:40 (ET)</td>
       <td>Session: Participation</td>
       <td>
       	<i class="fa" aria-hidden="false"></i>
