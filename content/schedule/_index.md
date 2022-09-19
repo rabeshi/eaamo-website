@@ -451,13 +451,13 @@ Please use the following links to jump to the day-specific schedule:\
 <tr eaamo-toggle="collapse" eaamo-target="#collapse413" aria-expanded="false" aria-controls="collapse413" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification by <i>SAndreas Bjerre-Nielsen and Emil Chrisander</i></td>
+      <td>FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification by <i>Sean Current, Yuntian He, Saket Gurukar and Srinivasan Parthasarathy</i></td>
       <td></td>
     </tr>
 <tr eaamo-toggle="collapse" eaamo-target="#collapse413" aria-expanded="false" aria-controls="collapse413" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties by <i>Sean Current, Yuntian He, Saket Gurukar and Srinivasan Parthasarathy</i></td>
+      <td>Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties by <i>Andreas Bjerre-Nielsen and Emil Chrisander</i></td>
       <td></td>
     </tr>
 	
