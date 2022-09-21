@@ -362,12 +362,30 @@ Please use the following links to jump to the day-specific schedule:\
       <td>Lunch Break</td>
 	  <td></td>
   </tr>
-  <tr eaamo-toggle="collapse" eaamo-target="#collapse35" aria-expanded="false" aria-controls="collapse35" class="collapsed">
-      <th scope="row">5</th>
+<tr eaamo-toggle="collapse" eaamo-target="#collapse37" aria-expanded="false" aria-controls="collapse37" class="collapsed">
+      <th scope="row">7</th>
       <td>13:30 - 14:30 (ET)</td>
-      <td>Keynote talk: Neema Iyer</td>
-	  <td></td>
-  </tr>
+      <td>Session: Algorithmic Fairness and Documentation</td>
+      <td></td>
+    </tr>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse374" aria-expanded="false" aria-controls="collapse374" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Learning to Be Fair: A Consequentialist Approach to Equitable Decision-Making by <i>Alex Chohlas-Wood, Madison Coots, Henry Zhu, Emma Brunskill and Sharad Goel</i></td>
+      <td></td>
+    </tr>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse372" aria-expanded="false" aria-controls="collapse372" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Tackling Documentation Debt: A Survey on Algorithmic Fairness Datasets by <i>	Alessandro Fabris, Stefano Messina, Gianmaria Silvello and Gian Antonio Susto</i></td>
+      <td></td>
+    </tr>   
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse373" aria-expanded="false" aria-controls="collapse373" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Understanding Implementation Challenges in Machine Learning Documentation	 by <i>Jiyoo Chang and Christine Custis</i></td>
+      <td></td>
+    </tr> 
   <tr eaamo-toggle="collapse" eaamo-target="#collapse36" aria-expanded="false" aria-controls="collapse36" class="collapsed">
       <th scope="row">6</th>
       <td>14:30 - 14:45 (ET)</td>
