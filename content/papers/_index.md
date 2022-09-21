@@ -57,9 +57,6 @@ Tackling Documentation Debt: A Survey on Algorithmic Fairness Datasets\
 Policy Learning with Competing Agents\
 *Roshni Sahoo and Stefan Wager*
 
-Outcome-Driven Dynamic Refugee Assignment with Allocation Balancing\
-*Kirk Bansak and Elisabeth Paulson*
-
 FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification\
 *Sean Current, Yuntian He, Saket Gurukar and Srinivasan Parthasarathy*
 
@@ -219,9 +216,6 @@ Algorithmic Audit of Italian Car Insurance: Evidence of Unfairness in Access and
 
 A Sandbox Tool to Bias(Stress)-Test Fairness Algorithms\
 *Nil-Jana Akpinar, Manish Nagireddy, Logan Stapleton, Hao-Fei Cheng, Haiyi Zhu, Steven Wu and Hoda Heidari*
-
-Algorithmic Decision-Making, Fairness, and the Distribution of Impact: Application to Refugee Matching\
-*Kirk Bansak and Linna Martén*
 
 Leximax Approximations and Representative Cohort Selection\
 *Monika Henzinger, Charlotte Peale, Omer Reingold and Judy Hanwen Shen*
