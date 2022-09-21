@@ -20,7 +20,7 @@ header:
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="css/style.css">
 
-EAAMO 2022 will be organized as a in-person conference with a virtual option. Virtual part of the conference will broadcast the keynote talks and session talks, with a possibility to ask a question using Q&A section. Details of the in-person conference format are described below. Session events are collapsable and one can see what talks will be presented during the session.
+EAAMO 2022 will be organized as a in-person conference with a virtual option. Virtual part of the conference will broadcast the keynote talks and session talks, with a possibility to ask a question using Q&A section. Details of the in-person conference format are described below.
 
 Both in-person and virtual social events will be added later, as our social chairs organize them. Events that are organized virtually will have (*virtual*) in the title of the event.
 
@@ -121,6 +121,12 @@ Please use the following links to jump to the day-specific schedule:\
         <td>Doctoral Consortium Poster Session</td>
       <td></td>
     </tr> 
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
+        <th scope="row">7</th>
+        <td>19:00 - undefined (ET)</td>
+        <td>In-person Social Event: PhD student social (dinner)</td>
+      <td></td>
+    </tr>      
   </tbody>
 </table>
 
@@ -222,8 +228,17 @@ Please use the following links to jump to the day-specific schedule:\
       <td>Break</td>
 	  <td></td>
   </tr>
-  <tr eaamo-toggle="collapse" eaamo-target="#collapse27" aria-expanded="false" aria-controls="collapse27" class="collapsed">
+  <tr eaamo-toggle="collapse" eaamo-target="#collapse26" aria-expanded="false" aria-controls="collapse26" class="collapsed">
       <th scope="row">7</th>
+      <td>14:30 - 15:15 (ET)</td>
+      <td>Regional and Affinity Groups: Queer, Africa and the Middle East, Latin America and the Caribbean, Asia/Pacific
+      <br/>
+        <i>Organized during the break</i>
+      </td>
+	  <td></td>
+  </tr>  
+  <tr eaamo-toggle="collapse" eaamo-target="#collapse27" aria-expanded="false" aria-controls="collapse27" class="collapsed">
+      <th scope="row">8</th>
       <td>15:15 - 17:05 (ET)</td>
       <td>Session: Quantitative social science and conceptual frameworks</td>
       <td></td>
@@ -253,11 +268,11 @@ Please use the following links to jump to the day-specific schedule:\
       <td></td>
     </tr>           
     <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
-        <th scope="row">8</th>
+        <th scope="row">9</th>
         <td>17:05 - 18:30 (ET)</td>
         <td>Poster Session and Reception</td>
       <td></td>
-    </tr> 
+    </tr>   
   </tbody>
 </table>
 
@@ -395,14 +410,23 @@ Please use the following links to jump to the day-specific schedule:\
         <td>Break</td>
       <td></td>
     </tr>
-    <tr eaamo-toggle="collapse" eaamo-target="#collapse39" aria-expanded="false" aria-controls="collapse39" class="collapsed">
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse38" aria-expanded="false" aria-controls="collapse38" class="collapsed">
         <th scope="row">9</th>
+        <td>16:35 - 17:00 (ET)</td>
+        <td>In-person Social Event: Application: Healthcare, Education, Civic Participation, Environment, Development, Housing
+          <br/>
+          <i>Organized during the break</i>
+        </td>
+      <td></td>
+    </tr>    
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse39" aria-expanded="false" aria-controls="collapse39" class="collapsed">
+        <th scope="row">10</th>
         <td>17:00 - 18:00 (ET)</td>
         <td>Panel Discussion</td>
       <td></td>
     </tr> 
     <tr eaamo-toggle="collapse" eaamo-target="#collapse310" aria-expanded="false" aria-controls="collapse310" class="collapsed">
-        <th scope="row">10</th>
+        <th scope="row">11</th>
         <td>18:30 - 19:30 (ET)</td>
         <td>Poster Session</td>
       <td></td>
@@ -454,11 +478,18 @@ Please use the following links to jump to the day-specific schedule:\
       <td>FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification by <i>Sean Current, Yuntian He, Saket Gurukar and Srinivasan Parthasarathy⁹</i></td>
       <td></td>
     </tr>
-	
   <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
       <th scope="row">2</th>
       <td>10:50 - 11:35 (ET)</td>
       <td>Coffee Break</td>
+	  <td></td>
+  </tr>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
+      <th scope="row">3</th>
+      <td>10:50 - 11:35 (ET)</td>
+      <td>In-person Social Event: Field-specific: Economics, Law, Public Policy, Healthcare, OR, CS Fairness, CS Theory, CS Application
+        <br/>
+        <i>Organized during the break</i></td>
 	  <td></td>
   </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse43" aria-expanded="false" aria-controls="collapse43" class="collapsed">
