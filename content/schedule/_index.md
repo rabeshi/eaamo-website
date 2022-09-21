@@ -231,7 +231,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse26" aria-expanded="false" aria-controls="collapse26" class="collapsed">
       <th scope="row">7</th>
       <td>14:30 - 15:15 (ET)</td>
-      <td>Regional and Affinity Groups: Queer, Africa and the Middle East, Latin America and the Caribbean, Asia/Pacific
+      <td>In-person Social Event: Regional and Affinity Groups - Queer, Africa and the Middle East, Latin America and the Caribbean, Asia/Pacific
       <br/>
         <i>Organized during the break</i>
       </td>
@@ -413,7 +413,7 @@ Please use the following links to jump to the day-specific schedule:\
     <tr eaamo-toggle="collapse" eaamo-target="#collapse38" aria-expanded="false" aria-controls="collapse38" class="collapsed">
         <th scope="row">9</th>
         <td>16:35 - 17:00 (ET)</td>
-        <td>In-person Social Event: Application: Healthcare, Education, Civic Participation, Environment, Development, Housing
+        <td>In-person Social Event: Application - Healthcare, Education, Civic Participation, Environment, Development, Housing
           <br/>
           <i>Organized during the break</i>
         </td>
@@ -493,7 +493,7 @@ Please use the following links to jump to the day-specific schedule:\
     <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
       <th scope="row">3</th>
       <td>10:50 - 11:35 (ET)</td>
-      <td>In-person Social Event: Field-specific: Economics, Law, Public Policy, Healthcare, OR, CS Fairness, CS Theory, CS Application
+      <td>In-person Social Event: Field-specific - Economics, Law, Public Policy, Healthcare, OR, CS Fairness, CS Theory, CS Application
         <br/>
         <i>Organized during the break</i></td>
 	  <td></td>
