@@ -416,12 +416,6 @@ Please use the following links to jump to the day-specific schedule:\
       <td>Improving Citizen-initiated Police Reform Efforts through Interactive Design: A Case Study in County A by <i>Yongsu Ahn, Eliana Beigel, Noah Braun, Collin Griffin, Sera Linardi, Blair Mickles and Emmaline Rial</i></td>
       <td></td>
     </tr> 
-  	<tr eaamo-toggle="collapse" eaamo-target="#collapse374" aria-expanded="false" aria-controls="collapse374" class="collapsed">
-      <th scope="row"></th>
-      <td></td>
-      <td>Learning to Be Fair: A Consequentialist Approach to Equitable Decision-Making by <i>Alex Chohlas-Wood, Madison Coots, Henry Zhu, Emma Brunskill and Sharad Goel</i></td>
-      <td></td>
-    </tr>
     <tr eaamo-toggle="collapse" eaamo-target="#collapse38" aria-expanded="false" aria-controls="collapse38" class="collapsed">
         <th scope="row">8</th>
         <td>16:35 - 17:00 (ET)</td>
