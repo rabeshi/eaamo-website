@@ -460,9 +460,53 @@ Please use the following links to jump to the day-specific schedule:\
     </tr>
   </thead>
   <tbody>
+      <tr eaamo-toggle="collapse" eaamo-target="#collapse44" aria-expanded="false" aria-controls="collapse44" class="collapsed">
+      <th scope="row">4</th>
+      <td>09:00-10:00 (ET)</td>
+      <td>Keynote talk: Sello Mokwena</td>
+	  <td></td>
+  </tr>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse43" aria-expanded="false" aria-controls="collapse43" class="collapsed">
+      <th scope="row">3</th>
+      <td>10:00-11:00 (ET)</td>
+      <td>Session: Human factors</td>
+      <td></td>
+    </tr>
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse431" aria-expanded="false" aria-controls="collapse431" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Dimensions of Diversity in Human Perceptions of Algorithmic Fairness by <i>Nina Grgić-Hlača, Gabriel Lima, Adrian Weller and Elissa M. Redmiles</i></td>
+      <td></td>
+    </tr>    
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse432" aria-expanded="false" aria-controls="collapse432" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>Attrition of Workers with Marginalized Identities on AI Teams by <i>Jeffrey Brown, Tina Park, Jiyoo Chang, Mckane Andrus, Alice Xiang and Christine Custis</i></td>
+      <td></td>
+    </tr>     
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse433" aria-expanded="false" aria-controls="collapse433" class="collapsed">
+      <th scope="row"></th>
+      <td></td>
+      <td>AI-Competent Individuals and Laypeople Tend to Oppose Facial Analysis AI by <i>Chiara Ullstein, Severin Engelmann, Orestis Papakyriakopoulos, Michel Hohendanner and Jens Grossklags</i></td>
+      <td></td>
+    </tr>
+  <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
+      <th scope="row">2</th>
+      <td>11:00 - 11:30 (ET)</td>
+      <td>Coffee Break</td>
+	  <td></td>
+  </tr>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
+      <th scope="row">3</th>
+      <td>11:00 - 11:30 (ET)</td>
+      <td>In-person Social Event: Field-specific - Economics, Law, Public Policy, Healthcare, OR, CS Fairness, CS Theory, CS Application
+        <br/>
+        <i>Organized during the break</i></td>
+	  <td></td>
+  </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse41" aria-expanded="false" aria-controls="collapse41" class="collapsed">
       <th scope="row">1</th>
-      <td>9:00 - 10:50 (ET)</td>
+      <td>11:30 - 13:20 (ET)</td>
       <td>Session: Allocations in Social Services</td>
       <td></td>
     </tr>
@@ -496,50 +540,9 @@ Please use the following links to jump to the day-specific schedule:\
       <td>Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties by <i>Andreas Bjerre-Nielsen and Emil Chrisander</i></td>
       <td></td>
     </tr>
-  <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
-      <th scope="row">2</th>
-      <td>10:50 - 11:35 (ET)</td>
-      <td>Coffee Break</td>
-	  <td></td>
-  </tr>
-    <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
-      <th scope="row">3</th>
-      <td>10:50 - 11:35 (ET)</td>
-      <td>In-person Social Event: Field-specific - Economics, Law, Public Policy, Healthcare, OR, CS Fairness, CS Theory, CS Application
-        <br/>
-        <i>Organized during the break</i></td>
-	  <td></td>
-  </tr>
-  	<tr eaamo-toggle="collapse" eaamo-target="#collapse43" aria-expanded="false" aria-controls="collapse43" class="collapsed">
-      <th scope="row">3</th>
-      <td>11:35 - 12:30 (ET)</td>
-      <td>Session: Human factors</td>
-      <td></td>
-    </tr>
-  	<tr eaamo-toggle="collapse" eaamo-target="#collapse431" aria-expanded="false" aria-controls="collapse431" class="collapsed">
-      <th scope="row"></th>
-      <td></td>
-      <td>Dimensions of Diversity in Human Perceptions of Algorithmic Fairness by <i>Nina Grgić-Hlača, Gabriel Lima, Adrian Weller and Elissa M. Redmiles</i></td>
-      <td></td>
-    </tr>    
-  	<tr eaamo-toggle="collapse" eaamo-target="#collapse432" aria-expanded="false" aria-controls="collapse432" class="collapsed">
-      <th scope="row"></th>
-      <td></td>
-      <td>Attrition of Workers with Marginalized Identities on AI Teams by <i>Jeffrey Brown, Tina Park, Jiyoo Chang, Mckane Andrus, Alice Xiang and Christine Custis</i></td>
-      <td></td>
-    </tr>     
-  	<tr eaamo-toggle="collapse" eaamo-target="#collapse433" aria-expanded="false" aria-controls="collapse433" class="collapsed">
-      <th scope="row"></th>
-      <td></td>
-      <td>AI-Competent Individuals and Laypeople Tend to Oppose Facial Analysis AI by <i>Chiara Ullstein, Severin Engelmann, Orestis Papakyriakopoulos, Michel Hohendanner and Jens Grossklags</i></td>
-      <td></td>
-    </tr>
-  <tr eaamo-toggle="collapse" eaamo-target="#collapse44" aria-expanded="false" aria-controls="collapse44" class="collapsed">
-      <th scope="row">4</th>
-      <td>12:30 - 13:30 (ET)</td>
-      <td>Keynote talk: Sello Mokwena</td>
-	  <td></td>
-  </tr>
+
+
+
   </tbody>
 </table>
 
