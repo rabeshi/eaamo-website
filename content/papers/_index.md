@@ -84,8 +84,8 @@ Optimal Credit Scores Under Adverse Selection\
 A Heterogeneous Schelling Model for Wealth Disparity and its Effect on Segregation\
 *Zhanzhan Zhao and Dana Randall*
 
-Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya\
-*Bruno Esposito and Anja Sautmann*
+<!--Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya\
+*Bruno Esposito and Anja Sautmann*-->
 
 Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties\
 *Andreas Bjerre-Nielsen and Emil Chrisander*
@@ -193,8 +193,8 @@ Towards An Inclusive AI: Challenges and Opportunities for Public Engagement in A
 Humble Machines: Attending to the Underappreciated Costs of Misplaced Distrust\
 *Bran Knowles, Jason D'Cruz, John T. Richards and Kush R. Varshney*
 
-Strategic Behavior in Two-sided Matching Markets with Recommendation-enhanced Preference-formation\
-*Stefania Ionescu, Yuhao Du, Kenneth Joseph and Aniko Hannak*
+<!--Strategic Behavior in Two-sided Matching Markets with Recommendation-enhanced Preference-formation\
+*Stefania Ionescu, Yuhao Du, Kenneth Joseph and Aniko Hannak*-->
 
 A Unifying Framework for Combining Complementary Strengths of Humans and ML toward Better Predictive Decision-Making\
 *Liu Leqi, Charvi Rastogi, Kenneth Holstein and Hoda Heidari*
@@ -208,8 +208,8 @@ AI and XAI: Bridging the awareness gap among underrepresented communities\
 Matching with Transfers under Distributional Constraints\
 *Devansh Jalota, Michael Ostrovsky and Marco Pavone*
 
-Eliminating Waste in Cadaveric Organ Allocation\
-*Peng Shi and Junxiong Yin*
+<!--Eliminating Waste in Cadaveric Organ Allocation\
+*Peng Shi and Junxiong Yin*-->
 
 Algorithmic Audit of Italian Car Insurance: Evidence of Unfairness in Access and Pricing\
 *Alessandro Fabris, Alan Mishler, Stefano Gottardi, Mattia Carletti, Matteo Daicampi, Gian Antonio Susto and Gianmaria Silvello*
@@ -223,8 +223,8 @@ Leximax Approximations and Representative Cohort Selection\
 Local Justice and ML: Modeling and Inferring Dynamic Ethical Judgments Around High-stakes Allocations\
 *Violet Chen, Joshua Williams, Derek Leben and Hoda Heidari*
 
-To Regulate or Not to Regulate: Using Revenue Maximization Tools to Maximize Consumer Utility\
-*Meryem Essaidi, Kira Goldner and S. Matthew Weinberg*
+<!--To Regulate or Not to Regulate: Using Revenue Maximization Tools to Maximize Consumer Utility\
+*Meryem Essaidi, Kira Goldner and S. Matthew Weinberg* -->
 
 Towards Balanced Information Propagation in Social Media\
 *Mahmoudreza Babaei, Baharan Mirzasoleiman, Jungseock Joo and Adrian Weller*
@@ -256,8 +256,8 @@ The Symptom in the Machine: Leveraging Symptom Search Data to Understand Dispari
 AI Data Policy and Discourse Among Healthcare Institutions\
 *Mahmoud Junior Suleman, Jess Kropczynski and Nora McDonald*
 
-The Effectiveness of Guardrails in Online Fair Allocation\
-*Siddhartha Banerjee, Chamsi Hssaine and Sean Sinclair*
+<!--The Effectiveness of Guardrails in Online Fair Allocation\
+*Siddhartha Banerjee, Chamsi Hssaine and Sean Sinclair*-->
 
 Hacking Bias: Beyond Algorithmic Fairness\
 *Jess de Jesus de Pinho Pinhal*
@@ -321,3 +321,6 @@ Welfare-guided Seeding with Time-constrained Data Collection\
 
 Network bias for Job seekers: The impact of multi-hop referrals\
 *Yiguang Zhang, Reetahan Mukhopadhyay and Augustin Chaintreau*
+
+County-level Algorithmic Audit of Racial Bias in Twitter's Home Timeline\
+*Luca Belli, Kyra Yee, Uthaipon Tantipongpipat, Aaron Gonzales, Kristian Lum and Moritz Hardt*
