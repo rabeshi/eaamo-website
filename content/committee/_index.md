@@ -76,6 +76,9 @@ header:
 - Tasfia Mashiat, George Mason University
 - Aviva Prins, University of Maryland
 
+### Fundraising Chair
+- Francisco Marmolejo-Cossio, Harvard University
+
 ### Faculty Network Chairs
 - Nikhil Garg, Cornell Tech
 - Faidra Monachou, Harvard University
