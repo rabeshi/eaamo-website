@@ -80,13 +80,13 @@ Please use the following links to jump to the day-specific schedule:\
 	  <td></td>
   </tr>  
   <tr eaamo-toggle="collapse" eaamo-target="#collapse1DC" aria-expanded="false" aria-controls="collapse1DC" class="collapsed">
-      <th scope="row">4</th>
-      <td>14:25 - 15:40 (ET)</td>
+      <th scope="row">5</th>
+      <td>16:10 - 17:40 (ET)</td>
       <td><a href="https://eaamo.org/doctoral_consortium/">Doctoral Consortium</a></td>
 	  <td></td>
   </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse15" aria-expanded="false" aria-controls="collapse15" class="collapsed">
-      <th scope="row">5</th>
+      <th scope="row">6</th>
       <td>16:10 - 17:40 (ET)</td>
       <td>Session: Participation</td>
       <td></td>
@@ -116,13 +116,13 @@ Please use the following links to jump to the day-specific schedule:\
       <td></td>
     </tr>     
     <tr eaamo-toggle="collapse" eaamo-target="#collapse16" aria-expanded="false" aria-controls="collapse16" class="collapsed">
-        <th scope="row">6</th>
+        <th scope="row">7</th>
         <td>17:40 - 18:40 (ET)</td>
         <td>Doctoral Consortium Poster Session</td>
       <td></td>
     </tr> 
     <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
-        <th scope="row">7</th>
+        <th scope="row">8</th>
         <td>19:00 - undefined (ET)</td>
         <td>In-person Social Event: PhD student social (dinner)</td>
       <td></td>
@@ -363,7 +363,7 @@ Please use the following links to jump to the day-specific schedule:\
 	  <td></td>
   </tr>
 <tr eaamo-toggle="collapse" eaamo-target="#collapse37" aria-expanded="false" aria-controls="collapse37" class="collapsed">
-      <th scope="row">7</th>
+      <th scope="row">5</th>
       <td>13:30 - 14:30 (ET)</td>
       <td>Session: Algorithmic Fairness and Documentation</td>
       <td></td>
@@ -461,13 +461,13 @@ Please use the following links to jump to the day-specific schedule:\
   </thead>
   <tbody>
       <tr eaamo-toggle="collapse" eaamo-target="#collapse44" aria-expanded="false" aria-controls="collapse44" class="collapsed">
-      <th scope="row">4</th>
+      <th scope="row">1</th>
       <td>09:00-10:00 (ET)</td>
       <td>Keynote talk: Sello Mokwena</td>
 	  <td></td>
   </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse43" aria-expanded="false" aria-controls="collapse43" class="collapsed">
-      <th scope="row">3</th>
+      <th scope="row">2</th>
       <td>10:00-11:00 (ET)</td>
       <td>Session: Human factors</td>
       <td></td>
@@ -491,13 +491,13 @@ Please use the following links to jump to the day-specific schedule:\
       <td></td>
     </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
-      <th scope="row">2</th>
+      <th scope="row">3</th>
       <td>11:00 - 11:30 (ET)</td>
       <td>Coffee Break</td>
 	  <td></td>
   </tr>
     <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
-      <th scope="row">3</th>
+      <th scope="row">4</th>
       <td>11:00 - 11:30 (ET)</td>
       <td>In-person Social Event: Field-specific - Economics, Law, Public Policy, Healthcare, OR, CS Fairness, CS Theory, CS Application
         <br/>
@@ -505,7 +505,7 @@ Please use the following links to jump to the day-specific schedule:\
 	  <td></td>
   </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse41" aria-expanded="false" aria-controls="collapse41" class="collapsed">
-      <th scope="row">1</th>
+      <th scope="row">5</th>
       <td>11:30 - 13:20 (ET)</td>
       <td>Session: Allocations in Social Services</td>
       <td></td>
