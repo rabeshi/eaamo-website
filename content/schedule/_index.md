@@ -228,7 +228,7 @@ Please use the following links to jump to the day-specific schedule:\
       <td>Break
       <br/>
       <br/>
-      In-person Social Event: Regional and Affinity Groups - Queer, Black, Hispanic, Africa and the Middle East, Latin America and the Caribbean, Asia/Pacific
+      In-person Social Event: Regional and Affinity Groups - Queer, Black, Hispanic, Africa and the Middle East, Latin America and the Caribbean, Asia/Pacific <i>(Organized during the break)</i>
       </td>
 	  <td></td>
   </tr>
@@ -417,7 +417,7 @@ Please use the following links to jump to the day-specific schedule:\
         <td>Break
         <br/>
         <br/>
-        In-person Social Event: Application - Healthcare, Education, Civic Participation, Environment, Development, Housing
+        In-person Social Event: Application - Healthcare, Education, Civic Participation, Environment, Development, Housing <i>(Organized during the break)</i>
         </td>
       <td></td>
     </tr>  
@@ -486,7 +486,7 @@ Please use the following links to jump to the day-specific schedule:\
       <td>Coffee Break
       <br/>
       <br/>
-      In-person Social Event: Field-specific - Economics, Law, Public Policy, Healthcare, OR, CS Fairness, CS Theory, CS Application
+      In-person Social Event: Field-specific - Economics, Law, Public Policy, Healthcare, OR, CS Fairness, CS Theory, CS Application <i>(Organized during the break)</i>
       </td>
 	  <td></td>
   </tr>
