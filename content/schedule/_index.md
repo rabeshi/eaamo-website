@@ -94,25 +94,25 @@ Please use the following links to jump to the day-specific schedule:\
       <tr eaamo-toggle="collapse" eaamo-target="#collapse151" aria-expanded="false" aria-controls="collapse151" class="collapsed">
         <th scope="row"></th>
         <td></td>
-        <td>Algorithmic Rural Road Planning in India: Constrained Capacities and Choices in Public Sector by <i>Harsh Nisar, Deepak Gupta, Pankaj Kumar, Srinivasa Rao Murapaka, A. V. Rajesh and Alka Upadhyaya</i></td>
+        <td><a href="https://eaamo.org/papers/nisar-15.pdf" target="_blank">Algorithmic Rural Road Planning in India: Constrained Capacities and Choices in Public Sector by <i>Harsh Nisar, Deepak Gupta, Pankaj Kumar, Srinivasa Rao Murapaka, A. V. Rajesh and Alka Upadhyaya</i></a></td>
       <td></td>
     </tr>
       <tr eaamo-toggle="collapse" eaamo-target="#collapse152" aria-expanded="false" aria-controls="collapse152" class="collapsed">
         <th scope="row"></th>
         <td></td>
-        <td>Power to the People? Opportunities and Challenges for Participatory AI by <i>Abeba Birhane, William Isaac, Vinodkumar Prabhakaran, Mark Dí­az, Madeleine Clare Elish, Iason Gabriel and Shakir Mohamed</i></td>
+        <td><a href="https://eaamo.org/papers/birhane-6.pdf" target="_blank">Power to the People? Opportunities and Challenges for Participatory AI by <i>Abeba Birhane, William Isaac, Vinodkumar Prabhakaran, Mark Dí­az, Madeleine Clare Elish, Iason Gabriel and Shakir Mohamed</i></a></td>
       <td></td>
     </tr>
       <tr eaamo-toggle="collapse" eaamo-target="#collapse153" aria-expanded="false" aria-controls="collapse153" class="collapsed">
         <th scope="row"></th>
         <td></td>
-        <td>Diverse Representation via Computational Participatory Elections - Lessons from a Case Study by </>Florian Evéquoz, Johan Rochel, Vijay Keswani and L. Elisa Celis</i></td>
+        <td><a href="https://eaamo.org/papers/evequoz-13.pdf" target="_blank">Diverse Representation via Computational Participatory Elections - Lessons from a Case Study by <i>Florian Evéquoz, Johan Rochel, Vijay Keswani and L. Elisa Celis</i></a></td>
       <td></td>
     </tr>
       <tr eaamo-toggle="collapse" eaamo-target="#collapse154" aria-expanded="false" aria-controls="collapse154" class="collapsed">
         <th scope="row"></th>
         <td></td>
-        <td>It's Not Fairness, and It's Not Fair: The Failure of Distributional Equality and the Promise of Relational Equality in Complete-Information Hiring Games by <i>Benjamin Fish and Luke Stark</i></td>
+        <td><a href="https://eaamo.org/papers/fish-12.pdf" target="_blank">It's Not Fairness, and It's Not Fair: The Failure of Distributional Equality and the Promise of Relational Equality in Complete-Information Hiring Games by <i>Benjamin Fish and Luke Stark</i></a></td>
       <td></td>
     </tr>     
     <tr eaamo-toggle="collapse" eaamo-target="#collapse16" aria-expanded="false" aria-controls="collapse16" class="collapsed">
@@ -171,7 +171,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse214" aria-expanded="false" aria-controls="collapse214" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>On Meritocracy in Optimal Set Selection by <i>Thomas Kleine Buening, Meirav Segal, Debabrota Basu, Anne-Marie George and Christos Dimitrakakis</i></td>
+      <td><a href="https://eaamo.org/papers/buening-21.pdf" target="_blank">On Meritocracy in Optimal Set Selection by <i>Thomas Kleine Buening, Meirav Segal, Debabrota Basu, Anne-Marie George and Christos Dimitrakakis</i></a></td>
       <td></td>
     </tr>     
   <tr eaamo-toggle="collapse" eaamo-target="#collapse22" aria-expanded="false" aria-controls="collapse22" class="collapsed">
@@ -189,7 +189,7 @@ Please use the following links to jump to the day-specific schedule:\
    	<tr eaamo-toggle="collapse" eaamo-target="#collapse231" aria-expanded="false" aria-controls="collapse231" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Bias, Consistency, and Partisanship in U.S. Asylum Cases: A Machine Learning Analysis of Extraneous Factors in Immigration Court Decisions by <i>Vyoma Raman, Catherine Vera and C.J. Manna</i></td>
+      <td><a href="https://eaamo.org/papers/raman-4.pdf" target="_blank">Bias, Consistency, and Partisanship in U.S. Asylum Cases: A Machine Learning Analysis of Extraneous Factors in Immigration Court Decisions by <i>Vyoma Raman, Catherine Vera and C.J. Manna</i></a></td>
       <td></td>
     </tr>  
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse232" aria-expanded="false" aria-controls="collapse232" class="collapsed">
@@ -207,7 +207,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse234" aria-expanded="false" aria-controls="collapse234" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Fair Decision-Making for Food Inspections by <i>Shubham Singh, Bhuvni Shah, Chris Kanich and Ian A. Kash</i></td>
+      <td><a href="https://eaamo.org/papers/singh-5.pdf" target="_blank">Fair Decision-Making for Food Inspections by <i>Shubham Singh, Bhuvni Shah, Chris Kanich and Ian A. Kash</i></a></td>
       <td></td>
     </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse24" aria-expanded="false" aria-controls="collapse24" class="collapsed">
@@ -241,7 +241,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse271" aria-expanded="false" aria-controls="collapse271" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>A Heterogeneous Schelling Model for Wealth Disparity and its Effect on Segregation by <i>Zhanzhan Zhao and Dana Randall</i></td>
+      <td><a href="https://eaamo.org/papers/zhao-9.pdf" target="_blank">A Heterogeneous Schelling Model for Wealth Disparity and its Effect on Segregation by <i>Zhanzhan Zhao and Dana Randall</i></a></td>
       <td></td>
     </tr>    
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse272" aria-expanded="false" aria-controls="collapse272" class="collapsed">
@@ -259,7 +259,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse274" aria-expanded="false" aria-controls="collapse274" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Towards Substantive conceptions of Algorithmic Fairness: Normative guidance from Equal Opportunity doctrines by <i>Falaah Arif Khan, Eleni Manis and Julia Stoyanovich</i></td>
+      <td><a href="https://eaamo.org/papers/khan-19.pdf" target="_blank">Towards Substantive conceptions of Algorithmic Fairness: Normative guidance from Equal Opportunity doctrines by <i>Falaah Arif Khan, Eleni Manis and Julia Stoyanovich</i></a></td>
       <td></td>
     </tr>           
     <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
@@ -312,7 +312,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse314" aria-expanded="false" aria-controls="collapse314" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Modeling Access Differences to Reduce Disparity in Resource Allocation by <i>Kenya Andrews, Mesrob Ohannessian and Tanya Berger-Wolf</i></td>
+      <td><a href="https://eaamo.org/papers/andrews-18.pdf" target="_blank">Modeling Access Differences to Reduce Disparity in Resource Allocation by <i>Kenya Andrews, Mesrob Ohannessian and Tanya Berger-Wolf</i></a></td>
       <td></td>
     </tr>       
   <tr eaamo-toggle="collapse" eaamo-target="#collapse32" aria-expanded="false" aria-controls="collapse32" class="collapsed">
@@ -336,13 +336,13 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse332" aria-expanded="false" aria-controls="collapse332" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>A Quantitative and Qualitative Analysis of the Robustness of (Real-World) Election Winners by <i>Niclas Boehmer, Robert Bredereck, Piotr Faliszewski and Rolf Niedermeier</i></td>
+      <td><a href="https://eaamo.org/papers/boehmer-8.pdf" target="_blank">A Quantitative and Qualitative Analysis of the Robustness of (Real-World) Election Winners by <i>Niclas Boehmer, Robert Bredereck, Piotr Faliszewski and Rolf Niedermeier</i></a></td>
       <td></td>
     </tr>    
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse333" aria-expanded="false" aria-controls="collapse333" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Mathematically Quantifying Non-responsiveness of the 2021 Georgia Congressional Districting Plan by <i>Zhanzhan Zhao, Cyrus Hettle, Swati Gupta, Jonathan Mattingly, Dana Randall and Gregory Herschlag</i></td>
+      <td><a href="https://eaamo.org/papers/zhao-16.pdf" target="_blank">Mathematically Quantifying Non-responsiveness of the 2021 Georgia Congressional Districting Plan by <i>Zhanzhan Zhao, Cyrus Hettle, Swati Gupta, Jonathan Mattingly, Dana Randall and Gregory Herschlag</i></a></td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse334" aria-expanded="false" aria-controls="collapse334" class="collapsed">
@@ -372,13 +372,13 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse372" aria-expanded="false" aria-controls="collapse372" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Tackling Documentation Debt: A Survey on Algorithmic Fairness Datasets by <i>	Alessandro Fabris, Stefano Messina, Gianmaria Silvello and Gian Antonio Susto</i></td>
+      <td><a href="https://eaamo.org/papers/fabris-2.pdf" target="_blank">Tackling Documentation Debt: A Survey on Algorithmic Fairness Datasets by <i>Alessandro Fabris, Stefano Messina, Gianmaria Silvello and Gian Antonio Susto</i></a></td>
       <td></td>
     </tr>   
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse373" aria-expanded="false" aria-controls="collapse373" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Understanding Implementation Challenges in Machine Learning Documentation	 by <i>Jiyoo Chang and Christine Custis</i></td>
+      <td><a href="https://eaamo.org/papers/chang-17.pdf" target="_blank">Understanding Implementation Challenges in Machine Learning Documentation	 by <i>Jiyoo Chang and Christine Custis</i></a></td>
       <td></td>
     </tr> 
   <tr eaamo-toggle="collapse" eaamo-target="#collapse36" aria-expanded="false" aria-controls="collapse36" class="collapsed">
@@ -396,19 +396,19 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse371" aria-expanded="false" aria-controls="collapse371" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Opinion Change or Differential Turnout: Austin’s Budget Feedback Exercise and the Police Department by <i>Lodewijk Gelauff and Ashish Goel</i></td>
+      <td><a href="https://eaamo.org/papers/gelauff-11.pdf" target="_blank">Opinion Change or Differential Turnout: Austin’s Budget Feedback Exercise and the Police Department by <i>Lodewijk Gelauff and Ashish Goel</i></a></td>
       <td></td>
     </tr>    
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse372" aria-expanded="false" aria-controls="collapse372" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Participation Is not a Design Fix for Machine Learning by <i>Mona Sloane, Emanuel Moss, Olaitan Awomolo and Laura Forlano</i></td>
+      <td><a href="https://eaamo.org/papers/sloane-1.pdf" target="_blank">Participation Is not a Design Fix for Machine Learning by <i>Mona Sloane, Emanuel Moss, Olaitan Awomolo and Laura Forlano</i></a></td>
       <td></td>
     </tr>   
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse373" aria-expanded="false" aria-controls="collapse373" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Improving Citizen-initiated Police Reform Efforts through Interactive Design: A Case Study in County A by <i>Yongsu Ahn, Eliana Beigel, Noah Braun, Collin Griffin, Sera Linardi, Blair Mickles and Emmaline Rial</i></td>
+      <td><a href="https://eaamo.org/papers/ahn-14.pdf" target="_blank">Improving Citizen-initiated Police Reform Efforts through Interactive Design: A Case Study in County A by <i>Yongsu Ahn, Eliana Beigel, Noah Braun, Collin Griffin, Sera Linardi, Blair Mickles and Emmaline Rial</i></a></td>
       <td></td>
     </tr> 
     <tr eaamo-toggle="collapse" eaamo-target="#collapse38" aria-expanded="false" aria-controls="collapse38" class="collapsed">
@@ -465,19 +465,19 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse431" aria-expanded="false" aria-controls="collapse431" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Dimensions of Diversity in Human Perceptions of Algorithmic Fairness by <i>Nina Grgić-Hlača, Gabriel Lima, Adrian Weller and Elissa M. Redmiles</i></td>
+      <td><a href="https://eaamo.org/papers/grgic-hlaca-22.pdf" target="_blank">Dimensions of Diversity in Human Perceptions of Algorithmic Fairness by <i>Nina Grgić-Hlača, Gabriel Lima, Adrian Weller and Elissa M. Redmiles</i></a></td>
       <td></td>
     </tr>    
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse432" aria-expanded="false" aria-controls="collapse432" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Attrition of Workers with Marginalized Identities on AI Teams by <i>Jeffrey Brown, Tina Park, Jiyoo Chang, Mckane Andrus, Alice Xiang and Christine Custis</i></td>
+      <td><a href="https://eaamo.org/papers/brown-20.pdf" target="_blank">Attrition of Workers with Marginalized Identities on AI Teams by <i>Jeffrey Brown, Tina Park, Jiyoo Chang, Mckane Andrus, Alice Xiang and Christine Custis</i></a></td>
       <td></td>
     </tr>     
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse433" aria-expanded="false" aria-controls="collapse433" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>AI-Competent Individuals and Laypeople Tend to Oppose Facial Analysis AI by <i>Chiara Ullstein, Severin Engelmann, Orestis Papakyriakopoulos, Michel Hohendanner and Jens Grossklags</i></td>
+      <td><a href="https://eaamo.org/papers/ullstein-10.pdf" target="_blank">AI-Competent Individuals and Laypeople Tend to Oppose Facial Analysis AI by <i>Chiara Ullstein, Severin Engelmann, Orestis Papakyriakopoulos, Michel Hohendanner and Jens Grossklags</i></a></td>
       <td></td>
     </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
@@ -517,7 +517,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse413" aria-expanded="false" aria-controls="collapse413" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification by <i>Sean Current, Yuntian He, Saket Gurukar and Srinivasan Parthasarathy</i></td>
+      <td><a href="https://eaamo.org/papers/current-3.pdf" target="_blank">FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification by <i>Sean Current, Yuntian He, Saket Gurukar and Srinivasan Parthasarathy</i></a></td>
       <td></td>
     </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse413" aria-expanded="false" aria-controls="collapse413" class="collapsed">
