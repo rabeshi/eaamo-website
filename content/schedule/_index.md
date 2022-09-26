@@ -225,20 +225,15 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse26" aria-expanded="false" aria-controls="collapse26" class="collapsed">
       <th scope="row">6</th>
       <td>14:30 - 15:15 (ET)</td>
-      <td>Break</td>
-	  <td></td>
-  </tr>
-  <tr eaamo-toggle="collapse" eaamo-target="#collapse26" aria-expanded="false" aria-controls="collapse26" class="collapsed">
-      <th scope="row">7</th>
-      <td>14:30 - 15:15 (ET)</td>
-      <td>In-person Social Event: Regional and Affinity Groups - Queer, Africa and the Middle East, Latin America and the Caribbean, Asia/Pacific
+      <td>Break
       <br/>
-        <i>Organized during the break</i>
+      <br/>
+      In-person Social Event: Regional and Affinity Groups - Queer, Black, Hispanic, Africa and the Middle East, Latin America and the Caribbean, Asia/Pacific
       </td>
 	  <td></td>
-  </tr>  
+  </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse27" aria-expanded="false" aria-controls="collapse27" class="collapsed">
-      <th scope="row">8</th>
+      <th scope="row">7</th>
       <td>15:15 - 17:05 (ET)</td>
       <td>Session: Quantitative social science and conceptual frameworks</td>
       <td></td>
@@ -268,7 +263,7 @@ Please use the following links to jump to the day-specific schedule:\
       <td></td>
     </tr>           
     <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
-        <th scope="row">9</th>
+        <th scope="row">8</th>
         <td>17:05 - 18:30 (ET)</td>
         <td>Poster Session and Reception</td>
       <td></td>
@@ -419,26 +414,21 @@ Please use the following links to jump to the day-specific schedule:\
     <tr eaamo-toggle="collapse" eaamo-target="#collapse38" aria-expanded="false" aria-controls="collapse38" class="collapsed">
         <th scope="row">8</th>
         <td>16:35 - 17:00 (ET)</td>
-        <td>Break</td>
-      <td></td>
-    </tr>
-    <tr eaamo-toggle="collapse" eaamo-target="#collapse38" aria-expanded="false" aria-controls="collapse38" class="collapsed">
-        <th scope="row">9</th>
-        <td>16:35 - 17:00 (ET)</td>
-        <td>In-person Social Event: Application - Healthcare, Education, Civic Participation, Environment, Development, Housing
-          <br/>
-          <i>Organized during the break</i>
+        <td>Break
+        <br/>
+        <br/>
+        In-person Social Event: Application - Healthcare, Education, Civic Participation, Environment, Development, Housing
         </td>
       <td></td>
-    </tr>    
+    </tr>  
     <tr eaamo-toggle="collapse" eaamo-target="#collapse39" aria-expanded="false" aria-controls="collapse39" class="collapsed">
-        <th scope="row">10</th>
+        <th scope="row">9</th>
         <td>17:00 - 18:00 (ET)</td>
         <td>Panel Discussion</td>
       <td></td>
     </tr> 
     <tr eaamo-toggle="collapse" eaamo-target="#collapse310" aria-expanded="false" aria-controls="collapse310" class="collapsed">
-        <th scope="row">11</th>
+        <th scope="row">10</th>
         <td>18:30 - 19:30 (ET)</td>
         <td>Poster Session</td>
       <td></td>
@@ -493,19 +483,15 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
       <th scope="row">3</th>
       <td>11:00 - 11:30 (ET)</td>
-      <td>Coffee Break</td>
-	  <td></td>
-  </tr>
-    <tr eaamo-toggle="collapse" eaamo-target="#collapse42" aria-expanded="false" aria-controls="collapse42" class="collapsed">
-      <th scope="row">4</th>
-      <td>11:00 - 11:30 (ET)</td>
-      <td>In-person Social Event: Field-specific - Economics, Law, Public Policy, Healthcare, OR, CS Fairness, CS Theory, CS Application
-        <br/>
-        <i>Organized during the break</i></td>
+      <td>Coffee Break
+      <br/>
+      <br/>
+      In-person Social Event: Field-specific - Economics, Law, Public Policy, Healthcare, OR, CS Fairness, CS Theory, CS Application
+      </td>
 	  <td></td>
   </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse41" aria-expanded="false" aria-controls="collapse41" class="collapsed">
-      <th scope="row">5</th>
+      <th scope="row">4</th>
       <td>11:30 - 13:20 (ET)</td>
       <td>Session: Allocations in Social Services</td>
       <td></td>
@@ -528,21 +514,18 @@ Please use the following links to jump to the day-specific schedule:\
       <td>Capping Mobile Data Access Creates Value for Bottom-of-the-Pyramid Consumers - Experimental Evidence from a Mumbai Settlement by <i>Alp Sungu and Kamalini Ramdas</i></td>
       <td></td>
     </tr>
-<tr eaamo-toggle="collapse" eaamo-target="#collapse413" aria-expanded="false" aria-controls="collapse413" class="collapsed">
+  <tr eaamo-toggle="collapse" eaamo-target="#collapse413" aria-expanded="false" aria-controls="collapse413" class="collapsed">
       <th scope="row"></th>
       <td></td>
       <td>FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification by <i>Sean Current, Yuntian He, Saket Gurukar and Srinivasan Parthasarathy</i></td>
       <td></td>
     </tr>
-<tr eaamo-toggle="collapse" eaamo-target="#collapse413" aria-expanded="false" aria-controls="collapse413" class="collapsed">
+  <tr eaamo-toggle="collapse" eaamo-target="#collapse413" aria-expanded="false" aria-controls="collapse413" class="collapsed">
       <th scope="row"></th>
       <td></td>
       <td>Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties by <i>Andreas Bjerre-Nielsen and Emil Chrisander</i></td>
       <td></td>
     </tr>
-
-
-
   </tbody>
 </table>
 
