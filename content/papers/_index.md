@@ -114,8 +114,10 @@ Online Algorithms for Matching Platforms with Multi-Channel Traffic\
 Diverse Representation via Computational Participatory Elections - Lessons from a Case Study\
 *Florian Evéquoz, Johan Rochel, Vijay Keswani and L. Elisa Celis*
 
+{{< staticref "papers/ahn-14.pdf" "newtab" >}}
 Improving Citizen-initiated Police Reform Efforts through Interactive Design: A Case Study in County A\
 *Yongsu Ahn, Eliana Beigel, Noah Braun, Collin Griffin, Sera Linardi, Blair Mickles and Emmaline Rial*
+{{< /staticref >}}
 
 Capacity Planning in Stable Matching: An Application to School Choice\
 *Federico Bobbio, Margarida Carvalho, Andrea Lodi, Alfredo Torrico and Ignacio Rios*
@@ -129,8 +131,10 @@ Mathematically Quantifying Non-responsiveness of the 2021 Georgia Congressional 
 Understanding Implementation Challenges in Machine Learning Documentation\
 *Jiyoo Chang and Christine Custis*
 
+{{< staticref "papers/andrews-18" "newtab" >}}
 Modeling Access Differences to Reduce Disparity in Resource Allocation\
 *Kenya Andrews, Mesrob Ohannessian and Tanya Berger-Wolf*
+{{< /staticref >}}
 
 Towards Substantive conceptions of Algorithmic Fairness: Normative guidance from Equal Opportunity doctrines\
 *Falaah Arif Khan, Eleni Manis and Julia Stoyanovich*
