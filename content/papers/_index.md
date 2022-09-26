@@ -116,9 +116,9 @@ Diverse Representation via Computational Participatory Elections - Lessons from 
 
 {{< staticref "papers/ahn-14.pdf" "newtab" >}}
 Improving Citizen-initiated Police Reform Efforts through Interactive Design: A Case Study in County A
-
+<br/>
 by Yongsu Ahn, Eliana Beigel, Noah Braun, Collin Griffin, Sera Linardi, Blair Mickles and Emmaline Rial
-{{< /staticref >}}
+{{< /staticref >}}\
 
 
 Capacity Planning in Stable Matching: An Application to School Choice\
@@ -135,9 +135,9 @@ Understanding Implementation Challenges in Machine Learning Documentation\
 
 {{< staticref "papers/andrews-18" "newtab" >}}
 Modeling Access Differences to Reduce Disparity in Resource Allocation
-
+<br/>
 by Kenya Andrews, Mesrob Ohannessian and Tanya Berger-Wolf
-{{< /staticref >}}
+{{< /staticref >}}\
 
 
 Towards Substantive conceptions of Algorithmic Fairness: Normative guidance from Equal Opportunity doctrines\
