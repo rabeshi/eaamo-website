@@ -181,8 +181,12 @@ by <i>Yongsu Ahn, Eliana Beigel, Noah Braun, Collin Griffin, Sera Linardi, Blair
 {{< /staticref >}}
 /
 
-Capacity Planning in Stable Matching: An Application to School Choice\
-by *Federico Bobbio, Margarida Carvalho, Andrea Lodi, Alfredo Torrico and Ignacio Rios*
+{{< staticref "papers/bobbio-124.pdf" "newtab" >}}
+Capacity Planning in Stable Matching: An Application to School Choice <i>(non-archival)</i>
+<br/>
+by <i>Federico Bobbio, Margarida Carvalho, Andrea Lodi, Alfredo Torrico and Ignacio Rios</i>
+{{< /staticref >}}
+/
 
 {{< staticref "papers/nisar-15.pdf" "newtab" >}}
 Algorithmic Rural Road Planning in India: Constrained Capacities and Choices in Public Sector

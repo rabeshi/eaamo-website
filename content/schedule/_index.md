@@ -159,7 +159,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse212" aria-expanded="false" aria-controls="collapse212" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Capacity Planning in Stable Matching: An Application to School Choice by <i>Federico Bobbio, Margarida Carvalho, Andrea Lodi, Alfredo Torrico and Ignacio Rios</i></td>
+      <td><a href="https://eaamo.org/papers/bobbio-124.pdf" target="_blank">Capacity Planning in Stable Matching: An Application to School Choice by <i>Federico Bobbio, Margarida Carvalho, Andrea Lodi, Alfredo Torrico and Ignacio Rios</i></a></td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse213" aria-expanded="false" aria-controls="collapse213" class="collapsed">
