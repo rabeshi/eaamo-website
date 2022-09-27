@@ -46,10 +46,13 @@ by *Atila Abdulkadiroglu and Aram Grigoryan*
 Participation Is not a Design Fix for Machine Learning
 <br/>
 by <i>Mona Sloane, Emanuel Moss, Olaitan Awomolo and Laura Forlano</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
-Learning to Be Fair: A Consequentialist Approach to Equitable Decision-Making\
-by *Alex Chohlas-Wood, Madison Coots, Henry Zhu, Emma Brunskill and Sharad Goel*
+{{< staticref "papers/wood-19.pdf" "newtab" >}}
+Learning to Be Fair: A Consequentialist Approach to Equitable Decision-Making <i>(non-archival)</i>
+<br/>
+by <i>Alex Chohlas-Wood, Madison Coots, Henry Zhu, Emma Brunskill and Sharad Goel</i>
+{{< /staticref >}}
 
 Two-sided Benefits of Price Transparency in Smallholder Supply Chains\
 by *Yuan Shi, Joann de Zegher and Irene Lo*
@@ -58,7 +61,7 @@ by *Yuan Shi, Joann de Zegher and Irene Lo*
 Tackling Documentation Debt: A Survey on Algorithmic Fairness Datasets
 <br>
 by <i>Alessandro Fabris, Stefano Messina, Gianmaria Silvello and Gian Antonio Susto</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 Policy Learning with Competing Agents\
 by *Roshni Sahoo and Stefan Wager*
@@ -67,7 +70,7 @@ by *Roshni Sahoo and Stefan Wager*
 FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification
 <br>
 by <i>Sean Current, Yuntian He, Saket Gurukar and Srinivasan Parthasarathy</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 Designing School Choice for Diversity in the San Francisco Unified School District\
 by *Maxwell Allman, Itai Ashlagi, Irene Lo, Juliette Love, Katherine Mentzer, Henry O'Connell and Lulabel Ruiz-Setz*
@@ -76,31 +79,31 @@ by *Maxwell Allman, Itai Ashlagi, Irene Lo, Juliette Love, Katherine Mentzer, He
 Bias, Consistency, and Partisanship in U.S. Asylum Cases: A Machine Learning Analysis of Extraneous Factors in Immigration Court Decisions
 <br/>
 by <i>Vyoma Raman, Catherine Vera and C.J. Manna</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/singh-5.pdf" "newtab" >}}
 Fair Decision-Making for Food Inspections
 <br>
 by <i>Shubham Singh, Bhuvni Shah, Chris Kanich and Ian A. Kash</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/birhane-6.pdf" "newtab" >}}
 Power to the People? Opportunities and Challenges for Participatory AI
 <br>
 by <i>Abeba Birhane, William Isaac, Vinodkumar Prabhakaran, Mark Dí­az, Madeleine Clare Elish, Iason Gabriel and Shakir Mohamed</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/grgic-hlaca-22.pdf" "newtab" >}}
 Dimensions of Diversity in Human Perceptions of Algorithmic Fairness
 <br>
 by <i>Nina Grgić-Hlača, Gabriel Lima, Adrian Weller and Elissa M. Redmiles</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/boehmer-8.pdf" "newtab" >}}
 A Quantitative and Qualitative Analysis of the Robustness of (Real-World) Election Winners
 <br>
 by <i>Niclas Boehmer, Robert Bredereck, Piotr Faliszewski and Rolf Niedermeier</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 Optimal Credit Scores Under Adverse Selection\
 by *Andre Sztutman, Nicole Immorlica and Robert Townsend*
@@ -109,7 +112,7 @@ by *Andre Sztutman, Nicole Immorlica and Robert Townsend*
 A Heterogeneous Schelling Model for Wealth Disparity and its Effect on Segregation
 <br/>
 by <i>Zhanzhan Zhao and Dana Randall</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 <!--Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya\
 *Bruno Esposito and Anja Sautmann*-->
@@ -124,25 +127,25 @@ by *Jackson Killian, Arpita Biswas, Lily Xu, Shresth Verma, Vineet Nair, Aparna 
 AI-Competent Individuals and Laypeople Tend to Oppose Facial Analysis AI
 <br/>
 by <i>Chiara Ullstein, Severin Engelmann, Orestis Papakyriakopoulos, Michel Hohendanner and Jens Grossklags</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/gelauff-11.pdf" "newtab" >}}
 Opinion Change or Differential Turnout: Austin’s Budget Feedback Exercise and the Police Department
 <br>
 by <i>Lodewijk Gelauff and Ashish Goel</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "https://www.science.org/doi/10.1126/science.abq4481" "newtab" >}}
 Quantifiable disparate impacts of statistical uncertainty and privacy in Census-guided grants <i>(non-archival)</i>
 <br/>
 by <i>Ryan Steed, Terrance Liu, Zhiwei Steven Wu and Alessandro Acquisti</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/fish-12.pdf" "newtab" >}}
 It's Not Fairness, and It's Not Fair: The Failure of Distributional Equality and the Promise of Relational Equality in Complete-Information Hiring Games
 <br>
 by <i>Benjamin Fish and Luke Stark</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 Liquid Democracy in Practice: An Empirical Analysis of its Epistemic Performance\
 by *Manon Revel, Daniel Halpern, Adam Berinsky and Ali Jadbabaie*
@@ -154,13 +157,13 @@ by *Vahideh Manshadi, Scott Rodilitz, Daniela Saban and Akshaya Suresh*
 Diverse Representation via Computational Participatory Elections - Lessons from a Case Study
 <br>
 by <i>Florian Evéquoz, Johan Rochel, Vijay Keswani, L. Elisa Celis</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/ahn-14.pdf" "newtab" >}}
 Improving Citizen-initiated Police Reform Efforts through Interactive Design: A Case Study in County A
 <br/>
 by <i>Yongsu Ahn, Eliana Beigel, Noah Braun, Collin Griffin, Sera Linardi, Blair Mickles and Emmaline Rial</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 Capacity Planning in Stable Matching: An Application to School Choice\
 by *Federico Bobbio, Margarida Carvalho, Andrea Lodi, Alfredo Torrico and Ignacio Rios*
@@ -169,43 +172,43 @@ by *Federico Bobbio, Margarida Carvalho, Andrea Lodi, Alfredo Torrico and Ignaci
 Algorithmic Rural Road Planning in India: Constrained Capacities and Choices in Public Sector
 <br>
 by <i>Harsh Nisar, Deepak Gupta, Pankaj Kumar, Srinivasa Rao Murapaka, A. V. Rajesh and Alka Upadhyaya</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/zhao-16.pdf" "newtab" >}}
 Mathematically Quantifying Non-responsiveness of the 2021 Georgia Congressional Districting Plan
 <br/>
 by <i>Zhanzhan Zhao, Cyrus Hettle, Swati Gupta, Jonathan Mattingly, Dana Randall and Gregory Herschlag</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/chang-17.pdf" "newtab" >}}
 Understanding Implementation Challenges in Machine Learning Documentation
 <br>
 by <i>Jiyoo Chang and Christine Custis</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/andrews-18" "newtab" >}}
 Modeling Access Differences to Reduce Disparity in Resource Allocation
 <br/>
 by <i>Kenya Andrews, Mesrob Ohannessian and Tanya Berger-Wolf</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/khan-19.pdf" "newtab" >}}
 Towards Substantive conceptions of Algorithmic Fairness: Normative guidance from Equal Opportunity doctrines
 <br/>
 by <i>Falaah Arif Khan, Eleni Manis and Julia Stoyanovich</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/brown-20.pdf" "newtab" >}}
 Attrition of Workers with Marginalized Identities on AI Teams
 <br>
 by <i>Jeffrey Brown, Tina Park, Jiyoo Chang, Mckane Andrus, Alice Xiang and Christine Custis</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 {{< staticref "papers/buening-21.pdf" "newtab" >}}
 On Meritocracy in Optimal Set Selection
 <br>
 by <i>Thomas Kleine Buening, Meirav Segal, Debabrota Basu, Anne-Marie George and Christos Dimitrakakis</i>
-{{< /staticref >}}\
+{{< /staticref >}}
 
 Adapting Bias in Algorithmic Pricing: Evidence from Insurance Industry\
 by *Ozge Demirci*
@@ -232,8 +235,11 @@ by *Ulrike Vollstaedt, Patrick Imcke, Franziska Brendel and Christiane Ehses-Fri
 For One and All: Individual and Group Fairness in the Allocation of Indivisible Goods\
 by *Jonathan Scarlett, Nicholas Teh and Yair Zick*
 
-Ranked Prioritization of Groups in Combinatorial Bandit Allocation\
-by *Lily Xu, Arpita Biswas, Fei Fang and Milind Tambe*
+{{< staticref "https://arxiv.org/pdf/2205.05659.pdf" "newtab" >}}
+Ranked Prioritization of Groups in Combinatorial Bandit Allocation
+<br/>
+by <i>Lily Xu, Arpita Biswas, Fei Fang and Milind Tambe</i>
+{{< /staticref >}}
 
 Accountability Infrastructure for Recommender Systems: Applying Lessons from Public Health to Mitigate Structural Harms\
 by *Nathaniel Lubin and Thomas Gilbert*

@@ -201,7 +201,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse233" aria-expanded="false" aria-controls="collapse233" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Quantifiable disparate impacts of statistical uncertainty and privacy in Census-guided grants by <i>Ryan Steed, Terrance Liu, Zhiwei Steven Wu and Alessandro Acquisti</i></td>
+      <td><a href="https://www.science.org/doi/10.1126/science.abq4481" target="_blank">Quantifiable disparate impacts of statistical uncertainty and privacy in Census-guided grants by <i>Ryan Steed, Terrance Liu, Zhiwei Steven Wu and Alessandro Acquisti</i></a></td>
       <td></td>
     </tr>      
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse234" aria-expanded="false" aria-controls="collapse234" class="collapsed">
@@ -366,7 +366,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse374" aria-expanded="false" aria-controls="collapse374" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Learning to Be Fair: A Consequentialist Approach to Equitable Decision-Making by <i>Alex Chohlas-Wood, Madison Coots, Henry Zhu, Emma Brunskill and Sharad Goel</i></td>
+      <td><a href="https://eaamo.org/papers/wood-19.pdf" target="_blank">Learning to Be Fair: A Consequentialist Approach to Equitable Decision-Making by <i>Alex Chohlas-Wood, Madison Coots, Henry Zhu, Emma Brunskill and Sharad Goel</i></a></td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse372" aria-expanded="false" aria-controls="collapse372" class="collapsed">
