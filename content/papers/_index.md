@@ -132,8 +132,11 @@ Opinion Change or Differential Turnout: Austin’s Budget Feedback Exercise and 
 by <i>Lodewijk Gelauff and Ashish Goel</i>
 {{< /staticref >}}\
 
-Quantifiable disparate impacts of statistical uncertainty and privacy in Census-guided grants\
-by *Ryan Steed, Terrance Liu, Zhiwei Steven Wu and Alessandro Acquisti*
+{{< staticref "https://www.science.org/doi/10.1126/science.abq4481" "newtab" >}}
+Quantifiable disparate impacts of statistical uncertainty and privacy in Census-guided grants <i>(non-archival)</i>
+<br/>
+by <i>Ryan Steed, Terrance Liu, Zhiwei Steven Wu and Alessandro Acquisti</i>
+{{< /staticref >}}\
 
 {{< staticref "papers/fish-12.pdf" "newtab" >}}
 It's Not Fairness, and It's Not Fair: The Failure of Distributional Equality and the Promise of Relational Equality in Complete-Information Hiring Games
