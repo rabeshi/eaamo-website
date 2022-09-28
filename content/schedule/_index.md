@@ -261,10 +261,19 @@ Please use the following links to jump to the day-specific schedule:\
       <td></td>
       <td><a href="https://eaamo.org/papers/khan-19.pdf" target="_blank">Towards Substantive conceptions of Algorithmic Fairness: Normative guidance from Equal Opportunity doctrines by <i>Falaah Arif Khan, Eleni Manis and Julia Stoyanovich</i></a></td>
       <td></td>
-    </tr>           
-    <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
+    </tr>      
+        <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
         <th scope="row">8</th>
-        <td>17:05 - 18:30 (ET)</td>
+        <td>17:05 - 17:15 (ET)</td>
+        <td>Awards announcement</td>
+      <td></td>
+    </tr>   
+  </tbody>
+</table>
+
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
+        <th scope="row">9</th>
+        <td>17:15 - 18:30 (ET)</td>
         <td>Poster Session and Reception</td>
       <td></td>
     </tr>   
