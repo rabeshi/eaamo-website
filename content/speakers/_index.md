@@ -38,4 +38,12 @@ Neema Iyer is an artist and a technologist. She is the founder and director of P
 ## [Karen Smilowitz](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/smilowitz-karen.html)
 *James N. and Margie M. Krebs Professor in Industrial Engineering and Management Sciences, Northwestern University*
 
+<img src='https://eaamo.org/images/smilowitz-karen.jpg' width=250 height=250 />
+
 Dr. Karen Smilowitz is the James N. and Margie M. Krebs Professor in Industrial Engineering and Management Science at Northwestern University, with a joint appointment in the Operations group at the Kellogg School of Business. Dr. Smilowitz is an expert in modeling and solution approaches for logistics and transportation systems in both commercial and nonprofit applications. Dr. Smilowitz is the founder of the Northwestern Initiative on Humanitarian and Nonprofit Logistics. She has been instrumental in promoting the use of operations research within the humanitarian and nonproﬁt sectors through the Woodrow Wilson International Center for Scholars, the American Association for the Advancement of Science, and the National Academy of Engineering, as well as various media outlets. Dr. Smilowitz is an Associate Editor for Transportation Science and Operations Research.
+
+
+### Emerging trends and new research directions in volunteer management
+
+*Abstract*: Nonprofit organizations often face challenges related to meeting time-dependent, and sometimes time-critical, operational needs with a workforce composed of volunteers or a mix of volunteers and paid staff.  The operations research literature has explored many important aspects of nonprofit operations, and now emerging trends in online platforms have led to new opportunities in workforce management for nonprofits.  This talk will consider how the nonprofit sector is embracing online platforms, particularly in the area of volunteer management.  The talk will review recent research in the area, highlighting commonalities with commercial applications and unique challenges in volunteer management.
+
