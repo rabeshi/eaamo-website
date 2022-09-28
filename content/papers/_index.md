@@ -30,8 +30,12 @@ The list of accepted papers and posters can be found below.
 Capping Mobile Data Access Creates Value for Bottom-of-the-Pyramid Consumers - Experimental Evidence from a Mumbai Settlement\
 by *Alp Sungu and Kamalini Ramdas*
 
-College Major Restrictions and Student Stratification\
-by *Zachary Bleemer and Aashish Mehta*
+{{< staticref "https://zacharybleemer.com/wp-content/uploads/Working-Papers/Restrictions_Paper.pdf" "newtab" >}}
+College Major Restrictions and Student Stratification <i>(non-archival)</i>
+<br>
+by <i>Zachary Bleemer and Aashish Mehta</i>
+{{< /staticref >}}
+/
 
 Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City\
 by *Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank*
@@ -114,8 +118,12 @@ by <i>Niclas Boehmer, Robert Bredereck, Piotr Faliszewski and Rolf Niedermeier</
 {{< /staticref >}}
 /
 
-Optimal Credit Scores Under Adverse Selection\
-by *Andre Sztutman, Nicole Immorlica and Robert Townsend*
+{{< staticref "papers/sztutman-00.pdf" "newtab" >}}
+Optimal Credit Scores Under Adverse Selection <i>(non-archival)</i>
+<br>
+by <i>Andre Sztutman, Nicole Immorlica and Robert Townsend</i>
+{{< /staticref >}}
+/
 
 {{< staticref "papers/zhao-9.pdf" "newtab" >}}
 A Heterogeneous Schelling Model for Wealth Disparity and its Effect on Segregation

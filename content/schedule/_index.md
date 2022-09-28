@@ -247,13 +247,13 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse272" aria-expanded="false" aria-controls="collapse272" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>Optimal Credit Scores Under Adverse Selection by <i>Andre Sztutman, Nicole Immorlica and Robert Townsend</i></td>
+      <td<a href="https://eaamo.org/papers/sztutman-00.pdf" target="_blank">Optimal Credit Scores Under Adverse Selection by <i>Andre Sztutman, Nicole Immorlica and Robert Townsend</i></a></td>
       <td></td>
     </tr>      
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse273" aria-expanded="false" aria-controls="collapse273" class="collapsed">
       <th scope="row"></th>
       <td></td>
-      <td>College Major Restrictions and Student Stratification by <i>Zachary Bleemer and Aashish Mehta</i></td>
+      <td><a href="https://zacharybleemer.com/wp-content/uploads/Working-Papers/Restrictions_Paper.pdf" target="_blank">College Major Restrictions and Student Stratification by <i>Zachary Bleemer and Aashish Mehta</i></a></td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse274" aria-expanded="false" aria-controls="collapse274" class="collapsed">
