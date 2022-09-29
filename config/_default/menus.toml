@@ -33,7 +33,7 @@
   weight = 30
 
 [[main]]
-  name = "Preliminary Conference Schedule"
+  name = "Conference Schedule"
   url = "schedule"
   weight = 10
   parent = "program"

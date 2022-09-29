@@ -1,5 +1,5 @@
 ---
-title: Preliminary Schedule
+title: Conference Schedule
 cms_exclude: true
 date: "2019-01-01T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
@@ -81,7 +81,7 @@ Please use the following links to jump to the day-specific schedule:\
   </tr>  
   <tr eaamo-toggle="collapse" eaamo-target="#collapse1DC" aria-expanded="false" aria-controls="collapse1DC" class="collapsed">
       <th scope="row">5</th>
-      <td>16:10 - 17:40 (ET)</td>
+      <td>16:10 - 17:30 (ET)</td>
       <td><a href="https://eaamo.org/doctoral_consortium/">Doctoral Consortium</a></td>
 	  <td></td>
   </tr>
