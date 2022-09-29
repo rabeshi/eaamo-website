@@ -276,7 +276,7 @@ Please use the following links to jump to the day-specific schedule:\
     </tr>   
     <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
         <th scope="row">9</th>
-        <td>16:45 - 18:00 (ET)</td>
+        <td>16:45 - 18:30 (ET)</td>
         <td>Poster Session and Reception</td>
       <td></td>
     </tr>  
@@ -447,7 +447,7 @@ Please use the following links to jump to the day-specific schedule:\
     </tr> 
     <tr eaamo-toggle="collapse" eaamo-target="#collapse310" aria-expanded="false" aria-controls="collapse310" class="collapsed">
         <th scope="row">10</th>
-        <td>17:30 - 19:00 (ET)</td>
+        <td>17:30 - 19:30 (ET)</td>
         <td>Poster Session</td>
       <td></td>
     </tr> 
