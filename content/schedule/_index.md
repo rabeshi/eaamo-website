@@ -417,18 +417,19 @@ Please use the following links to jump to the day-specific schedule:\
       <td><a href="https://eaamo.org/papers/gelauff-11.pdf" target="_blank">Opinion Change or Differential Turnout: Austin’s Budget Feedback Exercise and the Police Department by <i>Lodewijk Gelauff and Ashish Goel</i></a></td>
       <td></td>
     </tr>    
-  	<tr eaamo-toggle="collapse" eaamo-target="#collapse372" aria-expanded="false" aria-controls="collapse372" class="collapsed">
-      <th scope="row"></th>
-      <td>15:05 - 15:25 (ET)</td>
-      <td><a href="https://eaamo.org/papers/sloane-1.pdf" target="_blank">Participation Is not a Design Fix for Machine Learning by <i>Mona Sloane, Emanuel Moss, Olaitan Awomolo and Laura Forlano</i></a></td>
-      <td></td>
-    </tr>   
+
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse373" aria-expanded="false" aria-controls="collapse373" class="collapsed">
       <th scope="row"></th>
-      <td>15:25 - 15:45 (ET)</td>
+      <td>15:05 - 15:25 (ET)</td>
       <td><a href="https://eaamo.org/papers/ahn-14.pdf" target="_blank">Improving Citizen-initiated Police Reform Efforts through Interactive Design: A Case Study in County A by <i>Yongsu Ahn, Eliana Beigel, Noah Braun, Collin Griffin, Sera Linardi, Blair Mickles and Emmaline Rial</i></a></td>
       <td></td>
     </tr> 
+  	<tr eaamo-toggle="collapse" eaamo-target="#collapse372" aria-expanded="false" aria-controls="collapse372" class="collapsed">
+      <th scope="row"></th>
+      <td>15:25 - 15:45 (ET)</td>
+      <td><a href="https://eaamo.org/papers/sloane-1.pdf" target="_blank">Participation Is not a Design Fix for Machine Learning by <i>Mona Sloane, Emanuel Moss, Olaitan Awomolo and Laura Forlano</i></a></td>
+      <td></td>
+    </tr>   
     <tr eaamo-toggle="collapse" eaamo-target="#collapse38" aria-expanded="false" aria-controls="collapse38" class="collapsed">
         <th scope="row">8</th>
         <td>15:45 - 16:30 (ET)</td>
