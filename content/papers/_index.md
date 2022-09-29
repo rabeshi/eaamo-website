@@ -252,8 +252,12 @@ by *Ozge Demirci*
 
 ## Accepted Posters
 
-Bayesian Persuasion for Algorithmic Recourse\
-by *Keegan Harris, Valerie Chen, Joon Sik Kim, Ameet Talwalkar, Hoda Heidari and Z. Steven Wu*
+{{< staticref "posters/4-harris.pdf" "newtab" >}}
+Bayesian Persuasion for Algorithmic Recourse
+<br>
+by <i>Keegan Harris, Valerie Chen, Joon Sik Kim, Ameet Talwalkar, Hoda Heidari and Z. Steven Wu</i>
+{{< /staticref >}}
+/
 
 Planning to Fairly Allocate: Probabilistic Fairness in the Restless Bandit Setting\
 by *Christine Herlihy, Aviva Prins, Aravind Srinivasan and John Dickerson*
@@ -261,8 +265,12 @@ by *Christine Herlihy, Aviva Prins, Aravind Srinivasan and John Dickerson*
 Picking on the Same Person: Does Algorithmic Monoculture lead to Outcome Homogenization?\
 by *Rishi Bommasani, Kathleen Creel, Ananya Kumar, Dan Jurafsky and Percy Liang*
 
-Probabilistic Rationing with Categorized Priorities: Processing Reserves Fairly and Efficiently\
-by *Haris Aziz*
+{{< staticref "posters/13-aziz.pdf" "newtab" >}}
+Probabilistic Rationing with Categorized Priorities: Processing Reserves Fairly and Efficiently
+<br>
+by <i>Haris Aziz</i>
+{{< /staticref >}}
+/
 
 Test me if you can - Providing optimal information for consumers through a novel product testing mechanism\
 by *Ulrike Vollstaedt, Patrick Imcke, Franziska Brendel and Christiane Ehses-Friedrich*
@@ -275,12 +283,17 @@ Ranked Prioritization of Groups in Combinatorial Bandit Allocation
 <br/>
 by <i>Lily Xu, Arpita Biswas, Fei Fang and Milind Tambe</i>
 {{< /staticref >}}
+/
 
 Accountability Infrastructure for Recommender Systems: Applying Lessons from Public Health to Mitigate Structural Harms\
 by *Nathaniel Lubin and Thomas Gilbert*
 
-Dynamic Interventions for Networked Contagions\
-by *Marios Papachristou, Siddhartha Banerjee and Jon Kleinberg*
+{{< staticref "posters/28_papachristou.pdf" "newtab" >}}
+Dynamic Interventions for Networked Contagions
+<br>
+by <i>Marios Papachristou, Siddhartha Banerjee and Jon Kleinberg</i>
+{{< /staticref >}}
+/
 
 Collecting, Classifying, Analyzing, and Using Real-World Elections\
 by *Niclas Boehmer and Nathan Schaar*
@@ -291,8 +304,12 @@ by *Furkan Gursoy, Ryan Kennedy and Ioannis Kakadiaris*
 How to De-reserve Reserves: Admissions to Technical Colleges in India\
 by *Orhan Aygün and Bertan Turhan*
 
-Measuring Fairness under Unawareness of Sensitive Attributes: A Quantification-Based Approach\
-by *Alessandro Fabris, Andrea Esuli, Alejandro Moreo and Fabrizio Sebastiani*
+{{< staticref "posters/42_fabris.pdf" "newtab" >}}
+Measuring Fairness under Unawareness of Sensitive Attributes: A Quantification-Based Approach
+<br>
+by <i>Alessandro Fabris, Andrea Esuli, Alejandro Moreo and Fabrizio Sebastiani</i>
+{{< /staticref >}}
+/
 
 Towards An Inclusive AI: Challenges and Opportunities for Public Engagement in AI Development\
 by *Tina Park*
@@ -312,17 +329,29 @@ by *Maximilian Kasy, Roberto Colomboni and Nicolo Cesa-Bianchi*
 AI and XAI: Bridging the awareness gap among underrepresented communities\
 by *Isa Inuwa-Dutse*
 
-Matching with Transfers under Distributional Constraints\
-by *Devansh Jalota, Michael Ostrovsky and Marco Pavone*
+{{< staticref "posters/57_jalota.pdf" "newtab" >}}
+Matching with Transfers under Distributional Constraints
+<br>
+by <i>Devansh Jalota, Michael Ostrovsky and Marco Pavone</i>
+{{< /staticref >}}
+/
 
 <!--Eliminating Waste in Cadaveric Organ Allocation\
 *Peng Shi and Junxiong Yin*-->
 
-Algorithmic Audit of Italian Car Insurance: Evidence of Unfairness in Access and Pricing\
-by *Alessandro Fabris, Alan Mishler, Stefano Gottardi, Mattia Carletti, Matteo Daicampi, Gian Antonio Susto and Gianmaria Silvello*
+{{< staticref "posters/59_fabris.pdf" "newtab" >}}
+Algorithmic Audit of Italian Car Insurance: Evidence of Unfairness in Access and Pricing
+<br>
+by <i>Alessandro Fabris, Alan Mishler, Stefano Gottardi, Mattia Carletti, Matteo Daicampi, Gian Antonio Susto and Gianmaria Silvello</i>
+{{< /staticref >}}
+/
 
-A Sandbox Tool to Bias(Stress)-Test Fairness Algorithms\
-by *Nil-Jana Akpinar, Manish Nagireddy, Logan Stapleton, Hao-Fei Cheng, Haiyi Zhu, Steven Wu and Hoda Heidari*
+{{< staticref "posters/60_akpinar.pdf" "newtab" >}}
+A Sandbox Tool to Bias(Stress)-Test Fairness Algorithms
+<br>
+by <i>Nil-Jana Akpinar, Manish Nagireddy, Logan Stapleton, Hao-Fei Cheng, Haiyi Zhu, Steven Wu and Hoda Heidari</i>
+{{< /staticref >}}
+/
 
 Leximax Approximations and Representative Cohort Selection\
 by *Monika Henzinger, Charlotte Peale, Omer Reingold and Judy Hanwen Shen*
@@ -372,8 +401,12 @@ by *Jess de Jesus de Pinho Pinhal*
 Racial Disparities in Arrests for Drug Violations in the US: What Can We Learn From Publicly Available Data?\
 by *Bradley Butcher, Miri Zilka and Adrian Weller*
 
-Models of Fairness in Federated Learning\
-by *Kate Donahue and Jon Kleinberg*
+{{< staticref "posters/119_donahue.pdf" "newtab" >}}
+Models of Fairness in Federated Learning
+<br>
+by <i>Kate Donahue and Jon Kleinberg</i>
+{{< /staticref >}}
+/
 
 A Human Rights Approach to Responsible AI\
 by *Vinodkumar Prabhakaran, Margaret Mitchell, Timnit Gebru and Iason Gabriel*
@@ -414,8 +447,12 @@ by *Aditya Mate, Aparna Taneja and Milind Tambe*
 Small Area Estimation of Case Growths for Timely COVID-19 Outbreak Detection: A Machine Learning Approach\
 by *Zilong Wang, Zhaowei She, Turgay Ayer and Jagpreet Chhatwal*
 
-PROPX Fair and Efficient Allocation of Indivisible Chores\
-by *Haris Aziz, Bo Li, Herve Moulin, Xiaowei Wu and Xinran Zhu*
+{{< staticref "posters/149_aziz.pdf" "newtab" >}}
+PROPX Fair and Efficient Allocation of Indivisible Chores
+<br>
+by <i>Haris Aziz, Bo Li, Herve Moulin, Xiaowei Wu and Xinran Zhu</i>
+{{< /staticref >}}
+/
 
 Differential Enforcement and the Progression of Disparities within the Criminal Justice System\
 by *Miri Zilka, Carolyn Ashurst, Riccardo Fogliato and Adrian Weller*
