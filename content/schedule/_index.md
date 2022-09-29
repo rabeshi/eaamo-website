@@ -417,7 +417,6 @@ Please use the following links to jump to the day-specific schedule:\
       <td><a href="https://eaamo.org/papers/gelauff-11.pdf" target="_blank">Opinion Change or Differential Turnout: Austin’s Budget Feedback Exercise and the Police Department by <i>Lodewijk Gelauff and Ashish Goel</i></a></td>
       <td></td>
     </tr>    
-
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse373" aria-expanded="false" aria-controls="collapse373" class="collapsed">
       <th scope="row"></th>
       <td>15:05 - 15:25 (ET)</td>
