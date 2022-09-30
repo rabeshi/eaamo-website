@@ -21,7 +21,9 @@ header:
 [*Accessing the Online Conference*](#accessing-the-online-conference)\
 [*Guide to Conference Content*](#guide-to-conference-content)\
 [*Community and Safety*](#community-and-safety)\
-[*Organizers*](#organizing-committee)\
+[*Organizers*](#organizing-committee)
+
+- - -
 
 ## Venue information
 
