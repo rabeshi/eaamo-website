@@ -27,7 +27,7 @@ The list of accepted papers and posters can be found below.
 
 ## Accepted Papers
 
-Capping Mobile Data Access Creates Value for Bottom-of-the-Pyramid Consumers - Experimental Evidence from a Mumbai Settlement\
+Capping Mobile Data Access Creates Value for Bottom-of-the-Pyramid Consumers - Experimental Evidence from a Mumbai Settlement *(non-archival)*\
 by *Alp Sungu and Kamalini Ramdas*
 
 {{< staticref "https://zacharybleemer.com/wp-content/uploads/Working-Papers/Restrictions_Paper.pdf" "newtab" >}}
@@ -37,13 +37,13 @@ by <i>Zachary Bleemer and Aashish Mehta</i>
 {{< /staticref >}}
 /
 
-Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City\
+Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City *(non-archival)*\
 by *Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank*
 
-Redrawing attendance boundaries to increase racial and ethnic diversity in elementary schools\
+Redrawing attendance boundaries to increase racial and ethnic diversity in elementary schools *(non-archival)*\
 by *Nabeel Gillani, Doug Beeferman, Christine Vega-Pourheydarian, Cassandra Overney, Pascal Van Hentenryck and Deb Roy*
 
-Priority-Based Assignment with Reserves and Quotas\
+Priority-Based Assignment with Reserves and Quotas *(non-archival)*\
 by *Atila Abdulkadiroglu and Aram Grigoryan*
 
 {{< staticref "papers/sloane-1.pdf" "newtab" >}}
@@ -60,7 +60,7 @@ by <i>Alex Chohlas-Wood, Madison Coots, Henry Zhu, Emma Brunskill and Sharad Goe
 {{< /staticref >}}
 /
 
-Two-sided Benefits of Price Transparency in Smallholder Supply Chains\
+Two-sided Benefits of Price Transparency in Smallholder Supply Chains *(non-archival)*\
 by *Yuan Shi, Joann de Zegher and Irene Lo*
 
 {{< staticref "papers/fabris-2.pdf" "newtab" >}}
@@ -70,7 +70,7 @@ by <i>Alessandro Fabris, Stefano Messina, Gianmaria Silvello and Gian Antonio Su
 {{< /staticref >}}
 /
 
-Policy Learning with Competing Agents\
+Policy Learning with Competing Agents *(non-archival)*\
 by *Roshni Sahoo and Stefan Wager*
 
 {{< staticref "papers/current-3.pdf" "newtab" >}}
@@ -80,7 +80,7 @@ by <i>Sean Current, Yuntian He, Saket Gurukar and Srinivasan Parthasarathy</i>
 {{< /staticref >}}
 /
 
-Designing School Choice for Diversity in the San Francisco Unified School District\
+Designing School Choice for Diversity in the San Francisco Unified School District *(non-archival)*\
 by *Maxwell Allman, Itai Ashlagi, Irene Lo, Juliette Love, Katherine Mentzer, Henry O'Connell and Lulabel Ruiz-Setz*
 
 {{< staticref "papers/raman-4.pdf" "newtab" >}}
@@ -135,10 +135,10 @@ by <i>Zhanzhan Zhao and Dana Randall</i>
 <!--Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya\
 *Bruno Esposito and Anja Sautmann*-->
 
-Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties\
+Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties *(non-archival)*\
 by *Andreas Bjerre-Nielsen and Emil Chrisander*
 
-Improving Maternal Healthcare Information Delivery Over Large Populations via Group Robust Restless Bandit Interventions\
+Improving Maternal Healthcare Information Delivery Over Large Populations via Group Robust Restless Bandit Interventions *(non-archival)*\
 by *Jackson Killian, Arpita Biswas, Lily Xu, Shresth Verma, Vineet Nair, Aparna Taneja, Aparna Hegde, Neha Madhiwalla, Paula Rodriguez Diaz, Sonja Johnson-Yu and Milind Tambe*
 
 {{< staticref "papers/ullstein-10.pdf" "newtab" >}}
@@ -169,10 +169,10 @@ by <i>Benjamin Fish and Luke Stark</i>
 {{< /staticref >}}
 /
 
-Liquid Democracy in Practice: An Empirical Analysis of its Epistemic Performance\
+Liquid Democracy in Practice: An Empirical Analysis of its Epistemic Performance *(non-archival)*\
 by *Manon Revel, Daniel Halpern, Adam Berinsky and Ali Jadbabaie*
 
-Online Algorithms for Matching Platforms with Multi-Channel Traffic\
+Online Algorithms for Matching Platforms with Multi-Channel Traffic *(non-archival)*\
 by *Vahideh Manshadi, Scott Rodilitz, Daniela Saban and Akshaya Suresh*
 
 {{< staticref "papers/evequoz-13.pdf" "newtab" >}}
@@ -245,7 +245,7 @@ by <i>Thomas Kleine Buening, Meirav Segal, Debabrota Basu, Anne-Marie George and
 {{< /staticref >}}
 /
 
-Adapting Bias in Algorithmic Pricing: Evidence from Insurance Industry\
+Adapting Bias in Algorithmic Pricing: Evidence from Insurance Industry *(non-archival)*\
 by *Ozge Demirci*
 
 - - -
