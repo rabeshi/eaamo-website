@@ -20,20 +20,90 @@ header:
 
 The conference is held at Van Metre Hall, at George Mason University's Mason Square (formerly the Arlington Campus). However, EAAMO 2022 will have a virtual participation option. More specifically, virtual part of the conference will broadcast the keynote talks and session talks, with a possibility to ask a question using Q&A section.
 
+The conference will be presented in English. Please be aware that English is not everyone’s first language. Therefore, be mindful and respectful to everyone and ask for an additional clarification if needed.
+
+- - -
+
 ## Accessing the Online Conference
 
 Our online [conference platform](https://app.hopin.com/events/acm-eaamo-22) will be open for two weeks, starting around October 3. Recorded content will be available for six months after the conference. Please familiarize yourself with it before things get going! And let us know if you have any questions about how to use it.
+
+### Registering with Hopin
 
 Everyone who has registered for the conference will receive a **Magic Link** several days prior to the conference to log in to Hopin. Click **Login & Join Event** to open this link in your browser. You can use whatever browser you want, however Chrome, Edge and Firefox preferred. Then, your account based on your email is automatically created. Please set up your profile and interests if you want.
 
 When you return to Hopin, you can login through your email address. A one-time-password (OTP) will be delivered to your email. The initial screen looks like:
 
-<img src="images/hopin_intro.jpg" alt="HOPIN Introduction Screen" />
+<img src="https://eaamo.org/images/hopin_intro.jpg" alt="Hopin - Introduction Screen" />
 
-When you log in, you’ll be asked to set up a **profile**. In addition to basic personal info (e.g., institution and bio), you can also set your *interests*, which will help you find like-minded people among the conference attendees. We strongly encourage you to set up your profile as other participants can find you and conect to you according to your personal interests. You can later edit this under the *Edit profile* menu at the right sidebar. We kindly ask that you include your preferred pronouns in your profile. 
+### Making your profile
+
+When you log in, you’ll be asked to set up a **profile**. In addition to basic personal info (e.g., institution and bio), you can also set your *interests*, which will help you find like-minded people among the conference attendees. We strongly encourage you to set up your profile as other participants can find you and conect to you according to your personal interests.
+
+You can later edit this under the *Edit profile* menu at the right sidebar. We kindly ask that you include your preferred pronouns in your profile. 
+
+<img src="https://eaamo.org/images/hopin_personal.jpg" alt="Hopin - Set up personal profile" />
+
+### Reception and Schedule
+
+The homepage of the conference is called the **Reception area**. This is where you can find the **Program Schedule**, which you’ll use to plan your viewing of live content at the conference.
+
+<img src="https://eaamo.org/images/hopin_schedule.jpg" alt="Hopin - Reception area" />
+
+You can add content that you want to watch live to your *Agenda*—a personalized schedule of favorites—or directly to your preferred calendar app. You can filter the schedule for content that you’re interested in, by clicking the filter icon. Note that it operates within each day’s program, not across all four days. 
+
+When a given event goes live, you’ll see a *live* banner, and be able to click through from the schedule, or from your personal agenda, to the content you’re interested in. During the conference, the reception will also feature a *What’s Happening Now* panel, which you can click through directly. 
+
+### Sessions
+
+Since EAAMO is a single-track conference, all of the events are conducted on the *Stage* screen. However, in case you missed something, you don't have to worry. You can catch up on content that you missed at *Replay* page.
+
+### People
+
+If you’d like to meet someone new, head to **People**. Click  *Join Now* to be connected with someone else on the platform who also wants to chat. It’s a good way to make new connections. We will have special *Meet Someone* sessions when we coordinate around this tool, but you can use it at any time.
+
+<img src="https://eaamo.org/images/hopin_people.jpg" alt="Hopin - People area" />
+
+You can use People area to be connected to other participants by random (but according to the personal interests), or to find other participants and make them your *connection* during the conference.
+
+We have programmed some time to enable the kind of serendipitous, chance encounters that happen easily at in-person conferences, but are harder to come by online. You just go to the People area of Hopin, and click *Join Now*, to join a Meet Someone session at the time when they’re programmed.
+
+We’ll be inviting some notable figures in the EAAMO community to be available for each one, so you’ll have a chance of chatting with them, but also just of encountering someone you wouldn’t otherwise see. These speed meetings default to five minutes, but you can extend them at will, and share details to continue the conference later.
+
+Meet Someone will be open throughout the conference, but it works best when everyone coordinates on a particular time.
+
+### Booths
+
+Booths is a special area within Hopin to stream special presentations such as in-person social events, links to poster presentations, links to papers within each session, as well as other interested parties such as [MD4SG](https://www.md4sg.com/). 
+
+### Replay
+
+Recordings of all Keynotes talks and in-person Paper presentations, can be viewed later by going to the *Replay* section in your sidebar. All Replay content will be available for six months after the end of the conference.
+
+### Chat
+
+You can chat with other attendees under the *Chat* menu at the right sidebar. You can find people individually, or chat with the whole conference (very loud), or within a particular stage, or booth. 
+
+<img src="https://eaamo.org/images/hopin_chat.jpg" alt="Hopin - Chat" />
+
+Please read our community guidelines about the behaviour when chatting. 
+
+### Q&A
+
+During any content taking place on a Stage the Chair will take questions from the Q&A panel on the right hand side of the screen. This goes for in-person presentations as well as all natively-online content. You can vote up questions that seem interesting to you.
+
+### Accessibility
+
+Hopin was developed by people with a keen interest in making conferences more inclusive and accessible, and has been repeatedly reviewed for accessibility needs, and proven to handle these better than other available alternatives. There may still be needs that are not met; if so, please contact [our accessibility chair or virtual chairs](https://eaamo.org/committee/).
+
+We are encouraging participants to ask questions and engage around papers on Hopin, which can be used to ask questions asynchronously. Moderators for each session will be monitoring booths to include these questions in the live Q+A.
+
+All content that takes place in Sessions will have automated closed captions available. See how to enable them [here](https://support.hopin.com/hc/en-us/articles/360056079432-Accessibility-Tips-on-using-captions-and-translations#:~:text=Closed%20Captions%20in%20Sessions,the%20screen%20you%20are%20viewing.).
+
+All the talks will be livestreamed and recorded, and they will be posted to Hopin later in the day.
 
 
-The first screen you'll see is the *Schedule*. Use Schedule to plan you viewing. All of the events are conducted on the *Stage* screen. In case you missed something, you can catch up on content that you missed at *Replay* page.
+- - -
 
 ## Guide to Conference Content
 
@@ -69,6 +139,8 @@ In-person Social Events will not be stremed. However, there will be dedicated vi
 ### Conference Program
 
 For a complete program of the conference visit the Reception in Hopin or use a dedicated [conference program page](https://eaamo.org/schedule/) for a simpler HTML view.
+
+- - -
 
 ## Community and Safety
 
