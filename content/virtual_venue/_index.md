@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-## Table of Content
+## Table of Contents
 [*Venue information*](#venue-information)\
 [*Accessing the Online Conference*](#accessing-the-online-conference)\
 [*Guide to Conference Content*](#guide-to-conference-content)\
