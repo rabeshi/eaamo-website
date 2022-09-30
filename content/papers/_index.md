@@ -272,16 +272,23 @@ by <i>Haris Aziz</i>
 {{< /staticref >}}
 /
 
-Test me if you can - Providing optimal information for consumers through a novel product testing mechanism\
-by *Ulrike Vollstaedt, Patrick Imcke, Franziska Brendel and Christiane Ehses-Friedrich*
+{{< staticref "posters/21_vollstaedt.pdf" "newtab" >}}
+Test me if you can - Providing optimal information for consumers through a novel product testing mechanism
+<br>
+by <i>Ulrike Vollstaedt, Patrick Imcke, Franziska Brendel and Christiane Ehses-Friedrich</i>
+{{< /staticref >}}
+/
 
 For One and All: Individual and Group Fairness in the Allocation of Indivisible Goods\
 by *Jonathan Scarlett, Nicholas Teh and Yair Zick*
 
-{{< staticref "https://arxiv.org/pdf/2205.05659.pdf" "newtab" >}}
+{{< staticref "posters/simply_the_best_xu.pdf" "newtab" >}}
 Ranked Prioritization of Groups in Combinatorial Bandit Allocation
 <br/>
 by <i>Lily Xu, Arpita Biswas, Fei Fang and Milind Tambe</i>
+{{< /staticref >}}
+{{< staticref "phttps://arxiv.org/pdf/2205.05659.pdf" "newtab" >}}
+<i>(Link to the paper)</i>
 {{< /staticref >}}
 /
 
@@ -377,8 +384,12 @@ by *Maximilian Nickel, Matthew Le and Levent Sagun*
 Constrained Multi-objective Optimization with Contextual Multi-Armed Bandits\
 by *Henry Zhu, Alex Chohlas-Wood, Madison Coots, Sharad Goel and Emma Brunskill*
 
-Generalizing Group Fairness via Utilities\
-by *Jack Blandin and Ian Kash*
+{{< staticref "posters/91_blandin.pdf" "newtab" >}}
+Generalizing Group Fairness via Utilities
+<br>
+by <i>Jack Blandin and Ian Kash</i>
+{{< /staticref >}}
+/
 
 Does Fake News Content Create Echo Chambers?\
 by *Jiding Zhang, Ken Moon and Senthil Veeraraghavan*
@@ -408,8 +419,12 @@ by <i>Kate Donahue and Jon Kleinberg</i>
 {{< /staticref >}}
 /
 
-A Human Rights Approach to Responsible AI\
-by *Vinodkumar Prabhakaran, Margaret Mitchell, Timnit Gebru and Iason Gabriel*
+{{< staticref "posters/121_prabhakaran.pdf" "newtab" >}}
+A Human Rights Approach to Responsible AI
+<br>
+by <i>Vinodkumar Prabhakaran, Margaret Mitchell, Timnit Gebru and Iason Gabriel</i>
+{{< /staticref >}}
+/
 
 Spatial routing of mobile sensors in participatory air quality monitoring with motorcycles in a developing city.\
 by *Daniel Mutembesa and Engineer Bainomugisha*
@@ -429,14 +444,22 @@ by *Violet Turri and Rachel Dzombak*
 Learning Optimal Fair Classification Trees\
 by *Nathanael Jo, Phebe Vayanos, Andrés Gómez and Sina Aghaei*
 
+{{< staticref "posters/143_juarez.pdf" "newtab" >}}
 "You Can't Fix What You Can't Measure": Privately Measuring Demographic Performance Disparities in Federated Learning\
-by *Marc Juarez and Aleksandra Korolova*
+<br>
+by <i>Marc Juarez and Aleksandra Korolova</i>
+{{< /staticref >}}
+/
 
 Is Envy-Freeness Fair? Social Psychology and the Limits of Ego Justification\
 by *Joel Miller and Chris Kanich*
 
+{{< staticref "posters/145_rao.pdf" "newtab" >}}
 An Audit of Images Used by Job Advertisers on Facebook, with Implications to Transparency Desiderata\
-by *Varun Nagaraj Rao and Aleksandra Korolova*
+<br>
+by <i>Varun Nagaraj Rao and Aleksandra Korolova</i>
+{{< /staticref >}}
+/
 
 A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms\
 by *Amanda Coston, Anna Kawakami, Haiyi Zhu, Ken Holstein and Hoda Heidari*
