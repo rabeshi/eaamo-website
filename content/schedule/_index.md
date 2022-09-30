@@ -240,7 +240,7 @@ Please use the following links to jump to the day-specific schedule:\
   </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse27" aria-expanded="false" aria-controls="collapse27" class="collapsed">
       <th scope="row">7</th>
-      <td>15:15 - 16:45 (ET)</td>
+      <td>15:15 - 16:35 (ET)</td>
       <td>Session: Quantitative social science and conceptual frameworks</td>
       <td></td>
     </tr>

@@ -27,6 +27,7 @@ The list of accepted papers and posters can be found below.
 
 ## Accepted Papers
 
+<!--https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4012172-->
 Capping Mobile Data Access Creates Value for Bottom-of-the-Pyramid Consumers - Experimental Evidence from a Mumbai Settlement *(non-archival)*\
 by *Alp Sungu and Kamalini Ramdas*
 
@@ -37,12 +38,14 @@ by <i>Zachary Bleemer and Aashish Mehta</i>
 {{< /staticref >}}
 /
 
+<!-- https://arxiv.org/abs/2202.00138 -->
 Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City *(non-archival)*\
 by *Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank*
 
 Redrawing attendance boundaries to increase racial and ethnic diversity in elementary schools *(non-archival)*\
 by *Nabeel Gillani, Doug Beeferman, Christine Vega-Pourheydarian, Cassandra Overney, Pascal Van Hentenryck and Deb Roy*
 
+<!-- https://www.nber.org/papers/w28689 -->
 Priority-Based Assignment with Reserves and Quotas *(non-archival)*\
 by *Atila Abdulkadiroglu and Aram Grigoryan*
 
@@ -60,6 +63,7 @@ by <i>Alex Chohlas-Wood, Madison Coots, Henry Zhu, Emma Brunskill and Sharad Goe
 {{< /staticref >}}
 /
 
+<!-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928 -->
 Two-sided Benefits of Price Transparency in Smallholder Supply Chains *(non-archival)*\
 by *Yuan Shi, Joann de Zegher and Irene Lo*
 
@@ -70,6 +74,7 @@ by <i>Alessandro Fabris, Stefano Messina, Gianmaria Silvello and Gian Antonio Su
 {{< /staticref >}}
 /
 
+<!-- https://paperswithcode.com/paper/policy-learning-with-competing-agents -->
 Policy Learning with Competing Agents *(non-archival)*\
 by *Roshni Sahoo and Stefan Wager*
 
@@ -80,6 +85,7 @@ by <i>Sean Current, Yuntian He, Saket Gurukar and Srinivasan Parthasarathy</i>
 {{< /staticref >}}
 /
 
+<!-- https://www.uts.edu.au/sites/default/files/2022-06/SFUSD_Policy_Paper_Draft.pdf -->
 Designing School Choice for Diversity in the San Francisco Unified School District *(non-archival)*\
 by *Maxwell Allman, Itai Ashlagi, Irene Lo, Juliette Love, Katherine Mentzer, Henry O'Connell and Lulabel Ruiz-Setz*
 
@@ -132,9 +138,11 @@ by <i>Zhanzhan Zhao and Dana Randall</i>
 {{< /staticref >}}
 /
 
-<!--Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya\
-*Bruno Esposito and Anja Sautmann*-->
+<!-- https://openknowledge.worldbank.org/handle/10986/37602 -->
+Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya *(non-archival)*\
+*Bruno Esposito and Anja Sautmann*
 
+<!-- https://arxiv.org/abs/2206.15096 -->
 Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties *(non-archival)*\
 by *Andreas Bjerre-Nielsen and Emil Chrisander*
 
@@ -169,9 +177,11 @@ by <i>Benjamin Fish and Luke Stark</i>
 {{< /staticref >}}
 /
 
+<!-- https://daniel-halpern.com/files/liquid-in-practice.pdf -->
 Liquid Democracy in Practice: An Empirical Analysis of its Epistemic Performance *(non-archival)*\
 by *Manon Revel, Daniel Halpern, Adam Berinsky and Ali Jadbabaie*
 
+<!-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4036904 -->
 Online Algorithms for Matching Platforms with Multi-Channel Traffic *(non-archival)*\
 by *Vahideh Manshadi, Scott Rodilitz, Daniela Saban and Akshaya Suresh*
 
