@@ -1,5 +1,5 @@
 ---
-title: Venue
+title: Virtual Venue
 cms_exclude: true
 date: "2022-08-30T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
@@ -15,6 +15,13 @@ header:
   caption: ""
   image: ""
 ---
+
+## Table of Content
+[*Venue information*](#venue-information)\
+[*Accessing the Online Conference*](#accessing-the-online-conference)\
+[*Guide to Conference Content*](#guide-to-conference-content)\
+[*Community and Safety*](#community-and-safety)\
+[*Organizers*](#organizing-committee)\
 
 ## Venue information
 
@@ -102,6 +109,17 @@ All content that takes place in Sessions will have automated closed captions ava
 
 All the talks will be livestreamed and recorded, and they will be posted to Hopin later in the day.
 
+### Security
+
+We have taken many steps to ensure the security and safety of attendees. Here are some of the systems in place:
+- Only registered attendees can send questions and interact with other attendees within Hopin. All activity is tied to a single user identity. If there are any verified breaches of the Code of Conduct, the user will not be allowed to access or participate in the conference.
+- Chosen organizers will be scanning submitted questions and discussion boards for any content that is considered inappropriate, and will be available during the sessions to address issues when they arise.
+- We do have the facility to disable conference chat, and have all questions in Q&A undergo moderation before being posted. However, we hope that these measures will not prove necessary, and that the EAAMO community will communicate respectfully and supportively, per our community agreements. 
+
+### Technical Requirements
+
+- The Right Browser: We recommend using Chrome for the best user experience. However, our virtual conference portal works well on Safari, Firefox, and Microsoft Edge.
+- Access to Internet: You will need to have access to the internet in order to access the Hub and watch the livestream.
 
 - - -
 
@@ -188,6 +206,8 @@ We want everyone feeling grounded and ready to participate, with or without snac
 
 Remember, you can watch all of the Keynotes, Paper sessions and tutorials at your leisure so you don’t need to attend everything live.
 
+- - -
+
 ## Organizing Committee
 
 EAAMO'22 couldn't be possible without a lot of people investing their enthusiasm, time, energy to make everyone feel welcomed, appreciated and respected! Massive thanks from all of us to all of these people, who all went well above and beyond the call of duty in bringing this event to life.
@@ -256,6 +276,6 @@ Faculty Network Chairs:
 - Nikhil Garg, Cornell Tech
 - Faidra Monachou, Harvard University
 
-## Support Contacts
+### Support Contacts
 
 For support questions before the conference officially starts, write to gc22@eaamo.org AND/OR travelgrants22@eaamo.org. 
