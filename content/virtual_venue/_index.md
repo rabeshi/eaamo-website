@@ -280,4 +280,4 @@ Faculty Network Chairs:
 
 ### Support Contacts
 
-For support questions before the conference officially starts, write to gc22@eaamo.org AND/OR travelgrants22@eaamo.org. 
+For support questions before the conference officially starts, write to Sandro Radovanović (sandro.radovanovic@gmail.com), or to gc22@eaamo.org AND/OR travelgrants22@eaamo.org.

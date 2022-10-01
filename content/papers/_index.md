@@ -262,20 +262,24 @@ by *Ozge Demirci*
 
 ## Accepted Posters
 
-{{< staticref "posters/4-harris.pdf" "newtab" >}}
+{{< staticref "posters/4_harris.pdf" "newtab" >}}
 Bayesian Persuasion for Algorithmic Recourse
 <br>
 by <i>Keegan Harris, Valerie Chen, Joon Sik Kim, Ameet Talwalkar, Hoda Heidari and Z. Steven Wu</i>
 {{< /staticref >}}
 /
 
-Planning to Fairly Allocate: Probabilistic Fairness in the Restless Bandit Setting\
-by *Christine Herlihy, Aviva Prins, Aravind Srinivasan and John Dickerson*
+{{< staticref "posters/x3_herlihy.pdf" "newtab" >}}
+Planning to Fairly Allocate: Probabilistic Fairness in the Restless Bandit Setting
+<br>
+by <i>Christine Herlihy, Aviva Prins, Aravind Srinivasan and John Dickerson</i>
+{{< /staticref >}}
+/
 
 Picking on the Same Person: Does Algorithmic Monoculture lead to Outcome Homogenization?\
 by *Rishi Bommasani, Kathleen Creel, Ananya Kumar, Dan Jurafsky and Percy Liang*
 
-{{< staticref "posters/13-aziz.pdf" "newtab" >}}
+{{< staticref "posters/13_aziz.pdf" "newtab" >}}
 Probabilistic Rationing with Categorized Priorities: Processing Reserves Fairly and Efficiently
 <br>
 by <i>Haris Aziz</i>
@@ -302,8 +306,12 @@ by <i>Lily Xu, Arpita Biswas, Fei Fang and Milind Tambe</i>
 {{< /staticref >}}
 /
 
-Accountability Infrastructure for Recommender Systems: Applying Lessons from Public Health to Mitigate Structural Harms\
-by *Nathaniel Lubin and Thomas Gilbert*
+{{< staticref "posters/3_gilbert.pdf" "newtab" >}}
+Accountability Infrastructure for Recommender Systems: Applying Lessons from Public Health to Mitigate Structural Harms
+<br>
+by <i>Nathaniel Lubin and Thomas Gilbert</i>
+{{< /staticref >}}
+/
 
 {{< staticref "posters/28_papachristou.pdf" "newtab" >}}
 Dynamic Interventions for Networked Contagions
@@ -312,8 +320,12 @@ by <i>Marios Papachristou, Siddhartha Banerjee and Jon Kleinberg</i>
 {{< /staticref >}}
 /
 
-Collecting, Classifying, Analyzing, and Using Real-World Elections\
-by *Niclas Boehmer and Nathan Schaar*
+{{< staticref "posters/30_boehmer.pdf" "newtab" >}}
+Collecting, Classifying, Analyzing, and Using Real-World Elections
+<br>
+by <i>Niclas Boehmer and Nathan Schaar</i>
+{{< /staticref >}}
+/
 
 A Critical Assessment of the Algorithmic Accountability Act of 2022\
 by *Furkan Gursoy, Ryan Kennedy and Ioannis Kakadiaris*
@@ -331,8 +343,12 @@ by <i>Alessandro Fabris, Andrea Esuli, Alejandro Moreo and Fabrizio Sebastiani</
 Towards An Inclusive AI: Challenges and Opportunities for Public Engagement in AI Development\
 by *Tina Park*
 
-Humble Machines: Attending to the Underappreciated Costs of Misplaced Distrust\
-by *Bran Knowles, Jason D'Cruz, John T. Richards and Kush R. Varshney*
+{{< staticref "posters/46-varshney.pdf" "newtab" >}}
+Humble Machines: Attending to the Underappreciated Costs of Misplaced Distrust
+<br>
+by <i>Bran Knowles, Jason D'Cruz, John T. Richards and Kush R. Varshney</i>
+{{< /staticref >}}
+/
 
 <!--Strategic Behavior in Two-sided Matching Markets with Recommendation-enhanced Preference-formation\
 *Stefania Ionescu, Yuhao Du, Kenneth Joseph and Aniko Hannak*-->
@@ -370,11 +386,19 @@ by <i>Nil-Jana Akpinar, Manish Nagireddy, Logan Stapleton, Hao-Fei Cheng, Haiyi 
 {{< /staticref >}}
 /
 
-Leximax Approximations and Representative Cohort Selection\
-by *Monika Henzinger, Charlotte Peale, Omer Reingold and Judy Hanwen Shen*
+{{< staticref "posters/66_shen.pdf" "newtab" >}}
+Leximax Approximations and Representative Cohort Selection
+<br>
+by <i>Monika Henzinger, Charlotte Peale, Omer Reingold and Judy Hanwen Shen</i>
+{{< /staticref >}}
+/
 
-Local Justice and ML: Modeling and Inferring Dynamic Ethical Judgments Around High-stakes Allocations\
-by *Violet Chen, Joshua Williams, Derek Leben and Hoda Heidari*
+{{< staticref "posters/67_chen.pdf" "newtab" >}}
+Local Justice and ML: Modeling and Inferring Dynamic Ethical Judgments Around High-stakes Allocations
+<br>
+by <i>Violet Chen, Joshua Williams, Derek Leben and Hoda Heidari</i>
+{{< /staticref >}}
+/
 
 <!--To Regulate or Not to Regulate: Using Revenue Maximization Tools to Maximize Consumer Utility\
 *Meryem Essaidi, Kira Goldner and S. Matthew Weinberg* -->
@@ -391,8 +415,12 @@ by *Mandy Lau*
 Diversity and Inclusion in Data Collection via Social Sampling\
 by *Maximilian Nickel, Matthew Le and Levent Sagun*
 
-Constrained Multi-objective Optimization with Contextual Multi-Armed Bandits\
-by *Henry Zhu, Alex Chohlas-Wood, Madison Coots, Sharad Goel and Emma Brunskill*
+{{< staticref "posters/90_zhu.pdf" "newtab" >}}
+Constrained Multi-objective Optimization with Contextual Multi-Armed Bandits
+<br>
+by <i>Henry Zhu, Alex Chohlas-Wood, Madison Coots, Sharad Goel and Emma Brunskill</i>
+{{< /staticref >}}
+/
 
 {{< staticref "posters/91_blandin.pdf" "newtab" >}}
 Generalizing Group Fairness via Utilities
@@ -404,14 +432,22 @@ by <i>Jack Blandin and Ian Kash</i>
 Does Fake News Content Create Echo Chambers?\
 by *Jiding Zhang, Ken Moon and Senthil Veeraraghavan*
 
-How to Allocate and Access Equity of CS Education Resources\
-by *Aaja Christie, Emma McDaniel, Chetan Tiwari, Armin Mikler and Anu Bourgeois*
+{{< staticref "posters/96_christie.pdf" "newtab" >}}
+How to Allocate and Access Equity of CS Education Resources
+<br>
+by <i>Aaja Christie, Emma McDaniel, Chetan Tiwari, Armin Mikler and Anu Bourgeois</i>
+{{< /staticref >}}
+/
 
 The Symptom in the Machine: Leveraging Symptom Search Data to Understand Disparities in U.S. Mental Health Care\
 by *Ben Rochford, Sachin Pendse, Neha Kumar and Munmun De Choudhury*
 
-AI Data Policy and Discourse Among Healthcare Institutions\
-by *Mahmoud Junior Suleman, Jess Kropczynski and Nora McDonald*
+{{< staticref "posters/x4_mahmoud_junior.pdf" "newtab" >}}
+AI Data Policy and Discourse Among Healthcare Institutions
+<br>
+by <i>Mahmoud Junior Suleman, Jess Kropczynski and Nora McDonald</i>
+{{< /staticref >}}
+/
 
 <!--The Effectiveness of Guardrails in Online Fair Allocation\
 *Siddhartha Banerjee, Chamsi Hssaine and Sean Sinclair*-->
@@ -419,8 +455,12 @@ by *Mahmoud Junior Suleman, Jess Kropczynski and Nora McDonald*
 Hacking Bias: Beyond Algorithmic Fairness\
 by *Jess de Jesus de Pinho Pinhal*
 
-Racial Disparities in Arrests for Drug Violations in the US: What Can We Learn From Publicly Available Data?\
-by *Bradley Butcher, Miri Zilka and Adrian Weller*
+{{< staticref "posters/113_zilka.pdf" "newtab" >}}
+Racial Disparities in Arrests for Drug Violations in the US: What Can We Learn From Publicly Available Data?
+<br>
+by <i>Bradley Butcher, Miri Zilka and Adrian Weller</i>
+{{< /staticref >}}
+/
 
 {{< staticref "posters/119_donahue.pdf" "newtab" >}}
 Models of Fairness in Federated Learning
@@ -436,20 +476,36 @@ by <i>Vinodkumar Prabhakaran, Margaret Mitchell, Timnit Gebru and Iason Gabriel<
 {{< /staticref >}}
 /
 
-Spatial routing of mobile sensors in participatory air quality monitoring with motorcycles in a developing city.\
-by *Daniel Mutembesa and Engineer Bainomugisha*
+{{< staticref "posters/130_mutumbesa.pdf" "newtab" >}}
+Spatial routing of mobile sensors in participatory air quality monitoring with motorcycles in a developing city
+<br>
+by <i>Daniel Mutembesa and Engineer Bainomugisha</i>
+{{< /staticref >}}
+/
 
-An Anti-subordination Approach to Fair Classification\
-by *Vijay Keswani and L. Elisa Celis*
+{{< staticref "posters/131_keswani.pdf" "newtab" >}}
+An Anti-subordination Approach to Fair Classification
+<br>
+by <i>Vijay Keswani and L. Elisa Celis</i>
+{{< /staticref >}}
+/
 
 Optimizing the order of actions in contact tracing\
 by *Michela Meister and Jon Kleinberg*
 
-Ranger Patrols Deter Poachers: Causal Inference with Bayesian Modeling and Field Tests as an Instrument\
-by *Rachel Guo, Lily Xu and Andrew Perrault*
+{{< staticref "posters/137_guo.pdf" "newtab" >}}
+Ranger Patrols Deter Poachers: Causal Inference with Bayesian Modeling and Field Tests as an Instrument
+<br>
+by <i>Rachel Guo, Lily Xu and Andrew Perrault</i>
+{{< /staticref >}}
+/
 
-Why We Need to Know More:  Exploring the State of AI Incident Documentation Practices\
-by *Violet Turri and Rachel Dzombak*
+{{< staticref "posters/138_turri.pdf" "newtab" >}}
+Why We Need to Know More: Exploring the State of AI Incident Documentation Practices
+<br>
+by <i>Violet Turri and Rachel Dzombak</i>
+{{< /staticref >}}
+/
 
 Learning Optimal Fair Classification Trees\
 by *Nathanael Jo, Phebe Vayanos, Andrés Gómez and Sina Aghaei*
@@ -461,8 +517,12 @@ by <i>Marc Juarez and Aleksandra Korolova</i>
 {{< /staticref >}}
 /
 
-Is Envy-Freeness Fair? Social Psychology and the Limits of Ego Justification\
-by *Joel Miller and Chris Kanich*
+{{< staticref "posters/x1_miller.pdf" "newtab" >}}
+Is Envy-Freeness Fair? Social Psychology and the Limits of Ego Justification
+<br>
+by <i>Joel Miller and Chris Kanich</i>
+{{< /staticref >}}
+/
 
 {{< staticref "posters/145_rao.pdf" "newtab" >}}
 An Audit of Images Used by Job Advertisers on Facebook, with Implications to Transparency Desiderata\
@@ -487,17 +547,37 @@ by <i>Haris Aziz, Bo Li, Herve Moulin, Xiaowei Wu and Xinran Zhu</i>
 {{< /staticref >}}
 /
 
-Differential Enforcement and the Progression of Disparities within the Criminal Justice System\
-by *Miri Zilka, Carolyn Ashurst, Riccardo Fogliato and Adrian Weller*
+{{< staticref "posters/151_zilka.pdf" "newtab" >}}
+Differential Enforcement and the Progression of Disparities within the Criminal Justice System
+<br>
+by <i>Miri Zilka, Carolyn Ashurst, Riccardo Fogliato and Adrian Weller</i>
+{{< /staticref >}}
+/
 
-Use of Algorithms in the Public Sector: Decision Support or Control Systems?\
-by *Sanjana Malhotra, Harsh Nisar, Dibyendu Mishra and Richa Marwah*
+{{< staticref "posters/152_malhotra.pdf" "newtab" >}}
+Use of Algorithms in the Public Sector: Decision Support or Control Systems?
+<br>
+by <i>Sanjana Malhotra, Harsh Nisar, Dibyendu Mishra and Richa Marwah</i>
+{{< /staticref >}}
+/
 
-Welfare-guided Seeding with Time-constrained Data Collection\
-by *Carlos Hurtado, M. Amin Rahimian, Md Sanzeed Anwar and Dean Eckles*
+{{< staticref "posters/x2_hurtado.pdf" "newtab" >}}
+Welfare-guided Seeding with Time-constrained Data Collection
+<br>
+by <i>Carlos Hurtado, M. Amin Rahimian, Md Sanzeed Anwar and Dean Eckles</i>
+{{< /staticref >}}
+/
 
-Network bias for Job seekers: The impact of multi-hop referrals\
-by *Yiguang Zhang, Reetahan Mukhopadhyay and Augustin Chaintreau*
+{{< staticref "posters/158_zhang.pdf" "newtab" >}}
+Network bias for Job seekers: The impact of multi-hop referrals
+<br>
+by <i>Yiguang Zhang, Reetahan Mukhopadhyay and Augustin Chaintreau</i>
+{{< /staticref >}}
+/
 
-County-level Algorithmic Audit of Racial Bias in Twitter's Home Timeline\
-by *Luca Belli, Kyra Yee, Uthaipon Tantipongpipat, Aaron Gonzales, Kristian Lum and Moritz Hardt*
+{{< staticref "posters/30_belli.pdf" "newtab" >}}
+County-level Algorithmic Audit of Racial Bias in Twitter's Home Timeline
+<br>
+by <i>Luca Belli, Kyra Yee, Uthaipon Tantipongpipat, Aaron Gonzales, Kristian Lum and Moritz Hardt</i>
+{{< /staticref >}}
+/
