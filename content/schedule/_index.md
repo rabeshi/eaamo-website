@@ -366,7 +366,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse334" aria-expanded="false" aria-controls="collapse334" class="collapsed">
       <th scope="row"></th>
       <td>11:50 - 12:10 (ET)</td>
-      <td>Redrawing attendance boundaries to increase racial and ethnic diversity in elementary schools by <i>Nabeel Gillani, Doug Beeferman, Christine Vega-Pourheydarian, Cassandra Overney, Pascal Van Hentenryck and Deb Roy</i></td>
+      <td><a href="https://eaamo.org/papers/gillani-x1.pdf" target="_blank">Redrawing attendance boundaries to increase racial and ethnic diversity in elementary schools by <i>Nabeel Gillani, Doug Beeferman, Christine Vega-Pourheydarian, Cassandra Overney, Pascal Van Hentenryck and Deb Roy</i></a></td>
       <td></td>
     </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse34" aria-expanded="false" aria-controls="collapse34" class="collapsed">
