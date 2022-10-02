@@ -186,8 +186,12 @@ Liquid Democracy in Practice: An Empirical Analysis of its Epistemic Performance
 by *Manon Revel, Daniel Halpern, Adam Berinsky and Ali Jadbabaie*
 
 <!-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4036904 -->
-Online Algorithms for Matching Platforms with Multi-Channel Traffic *(non-archival)*\
-by *Vahideh Manshadi, Scott Rodilitz, Daniela Saban and Akshaya Suresh*
+{{< staticref "papers/rodilitz-115.pdf" "newtab" >}}
+Online Algorithms for Matching Platforms with Multi-Channel Traffic *(non-archival)*
+<br>
+by <i>Vahideh Manshadi, Scott Rodilitz, Daniela Saban and Akshaya Suresh</i>
+{{< /staticref >}}
+/
 
 {{< staticref "papers/evequoz-13.pdf" "newtab" >}}
 Diverse Representation via Computational Participatory Elections - Lessons from a Case Study

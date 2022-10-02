@@ -318,7 +318,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse312" aria-expanded="false" aria-controls="collapse312" class="collapsed">
       <th scope="row"></th>
       <td>9:20 - 9:40 (ET)</td>
-      <td>Online Algorithms for Matching Platforms with Multi-Channel Traffic by <i>Vahideh Manshadi, Scott Rodilitz, Daniela Saban and Akshaya Suresh</i></td>
+      <td><a href="https://eaamo.org/papers/rodilitz-115.pdf" target="_blank">Online Algorithms for Matching Platforms with Multi-Channel Traffic by <i>Vahideh Manshadi, Scott Rodilitz, Daniela Saban and Akshaya Suresh</i></a></td>
       <td></td>
     </tr>      
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse313" aria-expanded="false" aria-controls="collapse313" class="collapsed">
