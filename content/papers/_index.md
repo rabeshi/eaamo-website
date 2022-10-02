@@ -42,8 +42,12 @@ by <i>Zachary Bleemer and Aashish Mehta</i>
 Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City *(non-archival)*\
 by *Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank*
 
-Redrawing attendance boundaries to increase racial and ethnic diversity in elementary schools *(non-archival)*\
-by *Nabeel Gillani, Doug Beeferman, Christine Vega-Pourheydarian, Cassandra Overney, Pascal Van Hentenryck and Deb Roy*
+{{< staticref "papers/gillani-x1.pdf" "newtab" >}}
+Redrawing attendance boundaries to increase racial and ethnic diversity in elementary schools *(non-archival)*
+<br>
+by <i>Nabeel Gillani, Doug Beeferman, Christine Vega-Pourheydarian, Cassandra Overney, Pascal Van Hentenryck and Deb Roy</i>
+{{< /staticref >}}
+/
 
 <!-- https://www.nber.org/papers/w28689 -->
 Priority-Based Assignment with Reserves and Quotas *(non-archival)*\
