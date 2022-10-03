@@ -74,11 +74,11 @@
   weight = 20
   parent = "participation"
 
-#[[main]]
-#  name = "Virtual Venue"
-#  url = "virtual_venue"
-#  weight = 30
-#  parent = "participation"
+[[main]]
+  name = "Virtual Venue"
+  url = "virtual_venue"
+  weight = 30
+  parent = "participation"
 
 [[main]]
   name = "Policies"
