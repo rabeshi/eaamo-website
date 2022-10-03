@@ -67,9 +67,12 @@ by <i>Alex Chohlas-Wood, Madison Coots, Henry Zhu, Emma Brunskill and Sharad Goe
 {{< /staticref >}}
 /
 
-<!-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928 -->
-Two-sided Benefits of Price Transparency in Smallholder Supply Chains *(non-archival)*\
-by *Yuan Shi, Joann de Zegher and Irene Lo*
+{{< staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928" "newtab" >}}
+Two-sided Benefits of Price Transparency in Smallholder Supply Chains <i>(non-archival)</i>
+<br/>
+by <i>Yuan Shi, Joann de Zegher and Irene Lo</i>
+{{< /staticref >}}
+/
 
 {{< staticref "papers/fabris-2.pdf" "newtab" >}}
 Tackling Documentation Debt: A Survey on Algorithmic Fairness Datasets

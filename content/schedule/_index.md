@@ -58,7 +58,7 @@ Please use the following links to jump to the day-specific schedule:\
       <tr eaamo-toggle="collapse" eaamo-target="#collapse121" aria-expanded="false" aria-controls="collapse121" class="collapsed">
         <th scope="row"></th>
         <td>13:40 - 14:00 (ET)</td>
-        <td>Two-sided Benefits of Price Transparency in Smallholder Supply Chains by <i>Yuan Shi, Joann de Zegher and Irene Lo</i></td>
+        <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928" target="_blank">Two-sided Benefits of Price Transparency in Smallholder Supply Chains by <i>Yuan Shi, Joann de Zegher and Irene Lo</i></a></td>
       <td></td>
     </tr>
       <tr eaamo-toggle="collapse" eaamo-target="#collapse122" aria-expanded="false" aria-controls="collapse122" class="collapsed">
@@ -82,7 +82,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse1DC" aria-expanded="false" aria-controls="collapse1DC" class="collapsed">
       <th scope="row">5</th>
       <td>16:10 - 17:30 (ET)</td>
-      <td><a href="https://eaamo.org/doctoral_consortium/">Doctoral Consortium</a></td>
+      <td><a href="https://eaamo.org/doctoral_consortium/" target="_blank">Doctoral Consortium</a></td>
 	  <td></td>
   </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse15" aria-expanded="false" aria-controls="collapse15" class="collapsed">
