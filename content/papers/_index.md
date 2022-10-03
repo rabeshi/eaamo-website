@@ -190,11 +190,13 @@ by <i>Benjamin Fish and Luke Stark</i>
 {{< /staticref >}}
 /
 
-<!-- https://daniel-halpern.com/files/liquid-in-practice.pdf -->
-Liquid Democracy in Practice: An Empirical Analysis of its Epistemic Performance *(non-archival)*\
-by *Manon Revel, Daniel Halpern, Adam Berinsky and Ali Jadbabaie*
+{{< staticref "papers/revel-x1.pdf" "newtab" >}}
+Liquid Democracy in Practice: An Empirical Analysis of its Epistemic Performance <i>(non-archival)</i>
+<br>
+by <i>Manon Revel, Daniel Halpern, Adam Berinsky and Ali Jadbabaie</i>
+{{< /staticref >}}
+/
 
-<!-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4036904 -->
 {{< staticref "papers/rodilitz-115.pdf" "newtab" >}}
 Online Algorithms for Matching Platforms with Multi-Channel Traffic *(non-archival)*
 <br>

@@ -348,7 +348,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse331" aria-expanded="false" aria-controls="collapse331" class="collapsed">
       <th scope="row"></th>
       <td>10:50 - 11:10 (ET)</td>
-      <td>Liquid Democracy in Practice: An Empirical Analysis of its Epistemic Performance by <i>Manon Revel, Daniel Halpern, Adam Berinsky and Ali Jadbabaie</i></td>
+      <td><a href="https://eaamo.org/papers/revel-x1.pdf" target="_blank">Liquid Democracy in Practice: An Empirical Analysis of its Epistemic Performance by <i>Manon Revel, Daniel Halpern, Adam Berinsky and Ali Jadbabaie</i></a></td>
       <td></td>
     </tr>   
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse332" aria-expanded="false" aria-controls="collapse332" class="collapsed">
