@@ -155,9 +155,12 @@ by <i>Zhanzhan Zhao and Dana Randall</i>
 Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya *(non-archival)*\
 *Bruno Esposito and Anja Sautmann*
 
-<!-- https://arxiv.org/abs/2206.15096 -->
-Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties *(non-archival)*\
-by *Andreas Bjerre-Nielsen and Emil Chrisander*
+{{< staticref "https://arxiv.org/abs/2206.15096" "newtab" >}}
+Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties <i>(non-archival)</i>
+<br>
+by <i>Andreas Bjerre-Nielsen and Emil Chrisander</i>
+{{< /staticref >}}
+/
 
 Improving Maternal Healthcare Information Delivery Over Large Populations via Group Robust Restless Bandit Interventions *(non-archival)*\
 by *Jackson Killian, Arpita Biswas, Lily Xu, Shresth Verma, Vineet Nair, Aparna Taneja, Aparna Hegde, Neha Madhiwalla, Paula Rodriguez Diaz, Sonja Johnson-Yu and Milind Tambe*

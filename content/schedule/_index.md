@@ -547,7 +547,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse413" aria-expanded="false" aria-controls="collapse413" class="collapsed">
       <th scope="row"></th>
       <td>12:30 - 12:50 (ET)</td>
-      <td>Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties by <i>Andreas Bjerre-Nielsen and Emil Chrisander</i></td>
+      <td><a href="https://arxiv.org/abs/2206.15096" target="_blank">Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties by <i>Andreas Bjerre-Nielsen and Emil Chrisander</i></a></td>
       <td></td>
     </tr>
   </tbody>
