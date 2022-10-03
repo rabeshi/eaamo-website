@@ -21,7 +21,7 @@ header:
 [*Accessing the Online Conference*](#accessing-the-online-conference)\
 [*Guide to Conference Content*](#guide-to-conference-content)\
 [*Community and Safety*](#community-and-safety)\
-[*Organizers*](#organizing-committee)
+[*Support contacts*](#support-contacts)
 
 - - -
 
@@ -183,12 +183,12 @@ In attending the ACM EAAMO'22 conference, participants abide by [ACM’s Policy 
 
 Remember, you can watch all of the Keynotes, Paper sessions and tutorials at your leisure so you don’t need to attend everything live.
 
-### COVID-19 guidelines 
+## COVID-19 guidelines 
 
 Given the ongoing COVID-19 pandemic, we encourage all of our participants to practice safety when attending in-person events. We encourage all participants to wear masks, particularly indoors. Our in-person conference venue does not require any specific documentation nor does it require mask usage for accessing the venue. Please respect your fellow participants' preferences regarding wearing masks. If you are feeling unwell, please refrain for joining in-person activities for everyone's safety. If you can no longer present in-person, please contact our Program Chairs (pc22@eaamo.org) and we will arrange for a virtual presentation instead. 
 
 If flying from outside of the US, please be mindful of the current guidelines related to COVID-19 for entering the country. Please check the latest [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html#:~:text=Air%20Travel%3A%20All%20non%2DU.S.,this%20requirement%20and%20accepted%20vaccines.) before entering the United States. 
 
-### Support Contacts
+## Support Contacts
 
 For support questions before the conference officially starts, write to Sandro Radovanović ([sandro.radovanovic@gmail.com](mailto:sandro.radovanovic@gmail.com)), or to [gc22@eaamo.org](mailto:gc22@eaamo.org) AND/OR [travelgrants22@eaamo.org](mailto:travelgrants22@eaamo.org).
