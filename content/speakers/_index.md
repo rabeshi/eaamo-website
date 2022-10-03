@@ -1,5 +1,5 @@
 ---
-title: Keynote speakers
+title: Keynote and Panel speakers
 cms_exclude: true
 date: "2019-01-01T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
@@ -26,13 +26,11 @@ Marcella Alsan is an applied microeconomist studying health inequality. She rece
 ## [Sello Mokwena](https://za.linkedin.com/in/sello-mokwena-a3a01b3b)
 *Senior Lecturer and Head of Department, Tshwane University of Technology*
 
+
 - - -
 
-## [Neema Iyer](https://pacscenter.stanford.edu/person/neema-iyer/) 
-*Founder and Director of Pollicy. Practitioner Fellow, Digital Civil Society Lab, Stanford PACS*
-
-Neema Iyer is an artist and a technologist. She is the founder and director of Pollicy, a civic technology organization based in Kampala, Uganda. Pollicy uses data, design and technology to improve how citizens and government engage around public service delivery. She has a Masters in Public Health from Emory University and has worked on large-scale mobile and digital projects across Africa as part of TTC Mobile (previously Text to Change) and Viamo (previously VOTO Mobile). She currently leads the design of a number of projects focused on building data skills, on fostering conversations on data privacy and digital security, and on innovating around policy.
-
+## [Rebecca Johnson](https://www.rebeccajohnson.io/)
+*Assistant Professor at McCourt School of Public Policy, Georgetown University*
 - - -
 
 ## [Karen Smilowitz](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/smilowitz-karen.html)
