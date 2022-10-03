@@ -39,7 +39,7 @@
   parent = "program"
 
 [[main]]
-  name = "Keynote Speakers"
+  name = "Keynote and Panel Speakers"
   url = "speakers"
   weight = 20
   parent = "program"
