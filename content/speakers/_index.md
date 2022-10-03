@@ -29,8 +29,14 @@ Marcella Alsan is an applied microeconomist studying health inequality. She rece
 
 - - -
 
+## [Emanuela Galasso](https://www.worldbank.org/en/about/people/e/emanuela-galasso)
+*Senior Economist in the Development Research Group (Poverty and Inequality Team) at the World Bank*
+
+- - -
+
 ## [Rebecca Johnson](https://www.rebeccajohnson.io/)
 *Assistant Professor at McCourt School of Public Policy, Georgetown University*
+
 - - -
 
 ## [Karen Smilowitz](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/smilowitz-karen.html)
