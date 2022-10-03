@@ -27,7 +27,7 @@ header:
 
 ## Venue information
 
-The conference is held at Van Metre Hall, at George Mason University's Mason Square (formerly the Arlington Campus). However, EAAMO 2022 will have a virtual participation option. More specifically, virtual part of the conference will broadcast the keynote talks and session talks, with a possibility to ask a question using Q&A section.
+The conference is held at Van Metre Hall, at George Mason University's Mason Square (formerly the Arlington Campus). Venue information and directions can be found on [our website](https://eaamo.org/venue/). In addition, EAAMO 2022 will also have a virtual participation option. More specifically, virtual part of the conference will broadcast the keynote talks and session talks, with a possibility to ask a question using Q&A section, using the Hopin platform.
 
 The conference will be presented in English. Please be aware that English is not everyone’s first language. Therefore, be mindful and respectful to everyone and ask for an additional clarification if needed.
 
@@ -35,7 +35,7 @@ The conference will be presented in English. Please be aware that English is not
 
 ## Accessing the Online Conference
 
-Our online [conference platform](https://app.hopin.com/events/acm-eaamo-22) will be open for two weeks, starting around October 3. Recorded content will be available for six months after the conference. Please familiarize yourself with it before things get going! And let us know if you have any questions about how to use it.
+Our online [conference platform](https://app.hopin.com/events/acm-eaamo-22) will be open for two weeks, starting on October 4. Recorded content will be available for six months after the conference. Please familiarize yourself with it before things get going! And let us know if you have any questions about how to use it. We would like to thank the [FAccT'22 Organizing team](https://facctconference.org/2022/committees.html) for their support and guidance in using the Hopin platform. The following guidelines on using Hopin are adapted from the [FAccT'22 virtual venue guidelines](https://docs.google.com/document/d/1T_GtfZnqiLtJlTISp0m2WcISnAsnIgK1JHJIFyzk_l8/edit#heading=h.7p93vkxmqhhw).
 
 ### Registering with Hopin
 
@@ -164,49 +164,32 @@ For a complete program of the conference visit the Reception in Hopin or use a d
 
 ## Community and Safety
 
-Please review the following community agreements before joining the conference. [These agreements](https://eaamo.org/policies/) reflect the values of our community and are designed to foster inclusive and respectful interaction. They are based on the ACM Anti-harrassment Policy and ACM Privacy Policy. 
+Please review [our policies](https://eaamo.org/policies/) and the following community agreements before joining the conference. We are committed to fostering an inclusive and safe environment for all our participants. As an ACM-sponsored conference, we abide by the ACM Anti-harrassment Policy and ACM Privacy Policy. 
 
-As we believe they are important and well defined, please follow the guidelines (taken from FAccT 2022):
-
-- **A safe and inclusive conference space is our priority.**
+- **Prioritizing a safe and inclusive conference space.**
   - Participants must abide by ACM's Policy Against Harassment at ACM Activities and the ACM Code of Ethics and Professional Conduct and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee.
-  - If you are involved in or witness any such incident, please submit a complaint to the conference organizers and the members of the Virtual conference team will review the case.
+  - If you are involved in or witness any such incident, please submit a complaint to the conference organizers (contacts below).
 - **Respect fellow participants and scholars. Refrain from demeaning, discriminatory, or harassing behavior and speech.**
-- **Practice explicit affirmative verbal consent**. Do not record or screenshot any session without notification and consent.
+- **Practice explicit affirmative verbal consent**. Do not record, screenshot, or photograph any session or participants without notification and explicit consent.
 - **Understand that there are a wide variety of ways that people communicate, process information, and express themselves.** Exercise consideration and respect in your speech and action.
-- **Ask questions before assuming.** The best way to understand the choices, actions, or intentions of one another is by asking.
-- **No one knows everything; together we know a lot.**
-  - In any conversation, especially ones about systemic power (race, class, gender, etc.), we know that each person is coming to the conversation with different levels of lived experience and embodied expertise. We also believe that each person has something to contribute to the conversation. This agreement asks that we all practice being humble, and look for what we have to learn from each person in the room. It asks us to share what we know, as well as our questions, so that others may learn from us.
-- **Ask for clarification.** No question is a bad question. Be mindful of your fellow participants and do not imply that there things that everybody should know.
 - **Calling in instead of calling out.** Whenever appropriate, try contacting someone directly to voice your grievances, criticisms, or concerns about their speech or actions before denouncing them publicly. If you are involved in or witness harassment or behavior that deviates from these community guidelines, please submit a complaint to the conference organizers and the members of the Virtual conference team will review the case.
-- **Stay flexible and patient around any technology needs, changes, cancellations or schedule shifts throughout the conference.** We are doing this for the very first time!
+- **Please be patient for any technology-related issues.** We are working with a hybrid format for the first time. Do not hesitate to contact us for any issues accessing the virtual venue, scheduling, or other concerns (contacts below).
 - **If you need something at the conference, ask for it!**
   - Regarding registration or conference access, please email travelgrants22@eaamo.org.
   - Regarding accessibility and inclusion, please email travelgrants22@eaamo.org.
-  - With general questions or concerns, please email gc22@eaamo.org.
+  - For any general questions or concerns, please email gc22@eaamo.org.
 
-It is extremely important to the FaaCT organizing team that all presenters and attendees have access to a safe conference space in order to participate fully and contribute to this vast, interdisciplinary community. We have developed a variety of systems to limit high-level access and reduce harassment during the conference. Still, no security is perfect and we want to respond both proactively and reactively.
-
-To facilitate an environment that promotes respect, shared learning and collaboration, we request that all participants abide by the following guidelines:
-- Exercise consideration and respect in your speech and actions;
-- Refrain from demeaning, discriminatory, or harassing behavior and speech;
-- Be mindful of your fellow participants and do not imply that there things that everybody should know;
-
-In attending the FAccT conference, participants abide by [ACM’s Policy Against Harassment](https://www.acm.org/about-acm/policy-against-harassment) at [ACM Activities and the ACM Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/policy-against-harassment) and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee. If you are involved in or witness any such incident, please submit a complaint to the organizing team and the members of the Safety and Inclusion team will review the case.
-
-If a complaint is submitted to the conference, the case will be reviewed by the conference’s Virtual Panel. The panel will be composed of three of the following: 1) Conference General Chair, 2) Conference Executive Committee Member, and 3) Virtual Chair. The panel will convene to review a complaint as soon as feasible and decide based on the code of conduct policies and available or relevant evidence appropriate disciplinary action which can include but not limited to partial or full dismissal from the conference. Regardless of the enforcement decision, the panel should encourage all submitters to complete a [confidential complaint to ACM](https://services.acm.org/harass/harass.cfm).
-
-EAAMO is full of activities, but we don’t want you all to push past your personal limit in order to participate. We want your wellbeing to come first, and engagement to come second!
-
-If you’re online, remember to:
-- Take breaks when you need to.
-- Turn your video off when you feel like it during a session.
-- Remember to drink water and eat meals when you want.
-- Get up from your seat to move, stretch, jump, shake or dance. Really anything to re-energize and connect to your body does wonders!
-
-We want everyone feeling grounded and ready to participate, with or without snacks at hand. For more information on self-care in a virtual environment, check out [this resource from Allied Media Conference](https://amc.alliedmedia.org/how-to-virtual-amc/self-care).
+In attending the ACM EAAMO'22 conference, participants abide by [ACM’s Policy Against Harassment](https://www.acm.org/about-acm/policy-against-harassment) at [ACM Activities and the ACM Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/policy-against-harassment) and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee. If you are involved in or witness any such incident, please submit a complaint to the organizing team. We encourage all submitters to also complete a [confidential complaint to ACM](https://services.acm.org/harass/harass.cfm).
 
 Remember, you can watch all of the Keynotes, Paper sessions and tutorials at your leisure so you don’t need to attend everything live.
+
+### COVID-19 guidelines 
+
+Given the ongoing COVID-19 pandemic, we encourage all of our participants to practice safety when attending in-person events. We encourage all participants to wear masks, particularly indoors. Our in-person conference venue does not require any specific documentation nor does it require mask usage for accessing the venue. Please respect your fellow participants' preferences regarding wearing masks. If you are feeling unwell, please refrain for joining in-person activities for everyone's safety. If you can no longer present in-person, please contact our Program Chairs (pc22@eaamo.org) and we will arrange for a virtual presentation instead. 
+
+If flying from outside of the US, please be mindful of the current guidelines related to COVID-19 for entering the country. Please check the latest [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html#:~:text=Air%20Travel%3A%20All%20non%2DU.S.,this%20requirement%20and%20accepted%20vaccines.) before entering the United States. 
+
+
 
 - - -
 
