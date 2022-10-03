@@ -179,7 +179,7 @@ Please review [our policies](https://eaamo.org/policies/) and the following comm
   - Regarding accessibility and inclusion, please email travelgrants22@eaamo.org.
   - For any general questions or concerns, please email gc22@eaamo.org.
 
-In attending the ACM EAAMO'22 conference, participants abide by [ACM’s Policy Against Harassment](https://www.acm.org/about-acm/policy-against-harassment) at [ACM Activities and the ACM Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/policy-against-harassment) and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee. If you are involved in or witness any such incident, please submit a complaint to the organizing team. We encourage all submitters to also complete a [confidential complaint to ACM](https://services.acm.org/harass/harass.cfm).
+In attending the ACM EAAMO'22 conference, participants abide by [ACM’s Policy Against Harassment](https://www.acm.org/about-acm/policy-against-harassment) at [ACM Activities and the ACM Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/policy-against-harassment) and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee. If you are involved in or witness any such incident, please submit a complaint to the organizing team (to be found on [our website](https://eaamo.org/committee/)). We encourage all submitters to also complete a [confidential complaint to ACM](https://services.acm.org/harass/harass.cfm).
 
 Remember, you can watch all of the Keynotes, Paper sessions and tutorials at your leisure so you don’t need to attend everything live.
 
@@ -189,78 +189,3 @@ Given the ongoing COVID-19 pandemic, we encourage all of our participants to pra
 
 If flying from outside of the US, please be mindful of the current guidelines related to COVID-19 for entering the country. Please check the latest [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html#:~:text=Air%20Travel%3A%20All%20non%2DU.S.,this%20requirement%20and%20accepted%20vaccines.) before entering the United States. 
 
-
-
-- - -
-
-## Organizing Committee
-
-EAAMO'22 couldn't be possible without a lot of people investing their enthusiasm, time, energy to make everyone feel welcomed, appreciated and respected! Massive thanks from all of us to all of these people, who all went well above and beyond the call of duty in bringing this event to life.
-
-Program Co-Chairs:
-- Elena Falcettoni, Federal Reserve
-- Dina Machuve, Nelson Mandela Institute
-- Bryan Wilder, Harvard & Carnegie Mellon University
-- Angela Zhou, University of California Berkeley & University of Southern California
-
-General Chair:
-- Sanmay Das, George Mason University
-
-Executive Committee:
-- Rediet Abebe, University of California Berkeley & Harvard Society of Fellows
-- Kira Goldner, Boston University
-- Maximilian Kasy, University of Oxford
-- Jon Kleinberg, Cornell University
-- Illenin Kondo, Federal Reserve Bank of Minneapolis
-- Sera Linardi, University of Pittsburgh
-- Irene Lo, Stanford University
-- Ana-Andreea Stoica, Columbia University
-
-(Special thanks to) Local Chairs:
-- Tasfia Mashiat, George Mason University
-- Gaurab Pokharel, George Mason University
-
-Social Chairs:
-- Lily Xu, Harvard University
-- Roozbeh Yousefzadeh, Yale University
-
-Social Media Chairs:
-- Mir Masood Ali, University of Illinois at Chicago
-- Jose M. Alvarez, Scuola Normale Superiore, Pisa
-- Alex DiChristophano, Washington University in St. Louis
-- Sandro Radovanović, University of Belgrade
-- Rhea Tibrewala, Refeyn
-
-Registration and Grants Chairs:
-- Chinasa Okolo, Cornell University
-- Sandro Radovanović, University of Belgrade
-
-Accessibility Chair:
-- Sara Kingsley, Carnegie Mellon University
-
-Virtual Chairs:
-- George Obaido, University of California Berkeley
-- Sandro Radovanović, University of Belgrade
-
-Proceedings Chairs:
-- Gourab Patro, IIT Kharagpur
-- Jessie Finocchiaro, Harvard University
-
-Poster Chairs:
-- Tasfia Mashiat, George Mason University
-- Aviva Prins, University of Maryland
-
-Fundraising Chair
-- Francisco Marmolejo-Cossio, Harvard University
-
-Doctoral Symposium Chairs:
-- Juba Ziani, Georgia Institute of Technology
-- Hamsa Bastani, Wharton School, University of Pennsylvania
-
-Faculty Network Chairs:
-- Nikhil Garg, Cornell Tech
-- Faidra Monachou, Harvard University
-
-### Support Contacts
-
-For support questions before the conference officially starts, write to Sandro Radovanović (sandro.radovanovic@gmail.com), or to gc22@eaamo.org AND/OR travelgrants22@eaamo.org.
