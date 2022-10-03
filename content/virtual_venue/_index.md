@@ -189,3 +189,6 @@ Given the ongoing COVID-19 pandemic, we encourage all of our participants to pra
 
 If flying from outside of the US, please be mindful of the current guidelines related to COVID-19 for entering the country. Please check the latest [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html#:~:text=Air%20Travel%3A%20All%20non%2DU.S.,this%20requirement%20and%20accepted%20vaccines.) before entering the United States. 
 
+### Support Contacts
+
+For support questions before the conference officially starts, write to Sandro Radovanović ([sandro.radovanovic@gmail.com](mailto:sandro.radovanovic@gmail.com)), or to [gc22@eaamo.org](mailto:gc22@eaamo.org) AND/OR [travelgrants22@eaamo.org](mailto:travelgrants22@eaamo.org).
