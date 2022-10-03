@@ -18,7 +18,7 @@ header:
 
 ## Venue information
 
-The conference is held at Van Metre Hall, at George Mason University's Mason Square (formerly the Arlington Campus). 
+The EAAMO'22 conference is held at Van Metre Hall, at George Mason University's Mason Square (formerly the Arlington Campus, more details below). EAAMO'22 will also have a virtual participation option through the Hopin platform (details about accessing the virtual platform can be found on [our website](https://eaamo.org/virtual_venue/)).
 
 **3351 North Fairfax Drive, Van Metre Hall**
 
@@ -40,3 +40,30 @@ Take the Orange Line to the Virginia Square/GMU station. The Arlington Campus is
 
 Paid visitor parking is available in the Van Metre Hall Garage, accessible via Founders Way North. \
 The conference does not have a reserved hotel room block.
+
+## Community and Safety
+
+Please review [our policies](https://eaamo.org/policies/) and the following community agreements before joining the conference. We are committed to fostering an inclusive and safe environment for all our participants. As an ACM-sponsored conference, we abide by the ACM Anti-harrassment Policy and ACM Privacy Policy. 
+
+- **Prioritizing a safe and inclusive conference space.**
+  - Participants must abide by ACM's Policy Against Harassment at ACM Activities and the ACM Code of Ethics and Professional Conduct and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee.
+  - If you are involved in or witness any such incident, please submit a complaint to the conference organizers (contacts below).
+- **Respect fellow participants and scholars. Refrain from demeaning, discriminatory, or harassing behavior and speech.**
+- **Practice explicit affirmative verbal consent**. Do not record, screenshot, or photograph any session or participants without notification and explicit consent.
+- **Understand that there are a wide variety of ways that people communicate, process information, and express themselves.** Exercise consideration and respect in your speech and action.
+- **Calling in instead of calling out.** Whenever appropriate, try contacting someone directly to voice your grievances, criticisms, or concerns about their speech or actions before denouncing them publicly. If you are involved in or witness harassment or behavior that deviates from these community guidelines, please submit a complaint to the conference organizers and the members of the Virtual conference team will review the case.
+- **Please be patient for any technology-related issues.** We are working with a hybrid format for the first time. Do not hesitate to contact us for any issues accessing the virtual venue, scheduling, or other concerns (contacts below).
+- **If you need something at the conference, ask for it!**
+  - Regarding registration or conference access, please email travelgrants22@eaamo.org.
+  - Regarding accessibility and inclusion, please email travelgrants22@eaamo.org.
+  - For any general questions or concerns, please email gc22@eaamo.org.
+
+In attending the ACM EAAMO'22 conference, participants abide by [ACM’s Policy Against Harassment](https://www.acm.org/about-acm/policy-against-harassment) at [ACM Activities and the ACM Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/policy-against-harassment) and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee. If you are involved in or witness any such incident, please submit a complaint to the organizing team. We encourage all submitters to also complete a [confidential complaint to ACM](https://services.acm.org/harass/harass.cfm).
+
+### COVID-19 guidelines 
+
+Given the ongoing COVID-19 pandemic, we encourage all of our participants to practice safety when attending in-person events. We encourage all participants to wear masks, particularly indoors. Our in-person conference venue does not require any specific documentation nor does it require mask usage for accessing the venue. Please respect your fellow participants' preferences regarding wearing masks. If you are feeling unwell, please refrain for joining in-person activities for everyone's safety. If you can no longer present in-person, please contact our Program Chairs (pc22@eaamo.org) and we will arrange for a virtual presentation instead. 
+
+If flying from outside of the US, please be mindful of the current guidelines related to COVID-19 for entering the country. Please check the latest [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html#:~:text=Air%20Travel%3A%20All%20non%2DU.S.,this%20requirement%20and%20accepted%20vaccines.) before entering the United States. 
+
+
