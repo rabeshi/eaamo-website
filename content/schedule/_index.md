@@ -64,7 +64,7 @@ Please use the following links to jump to the day-specific schedule:\
       <tr eaamo-toggle="collapse" eaamo-target="#collapse122" aria-expanded="false" aria-controls="collapse122" class="collapsed">
         <th scope="row"></th>
         <td>14:00 - 14:20 (ET)</td>
-        <td>Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City by <i>Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank</i></td>
+        <td><a href="https://eaamo.org/papers/kaya-8.pdf" target="_blank">Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City by <i>Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank</i></a></td>
       <td></td>
     </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse13" aria-expanded="false" aria-controls="collapse13" class="collapsed">
@@ -312,7 +312,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse311" aria-expanded="false" aria-controls="collapse311" class="collapsed">
       <th scope="row"></th>
       <td>9:00 - 9:20 (ET)</td>
-      <td>Policy Learning with Competing Agents by <i>Roshni Sahoo and Stefan Wager</i></td>
+      <td><a href="https://eaamo.org/papers/sahoo-43.pdf" target="_blank">Policy Learning with Competing Agents by <i>Roshni Sahoo and Stefan Wager</i></a></td>
       <td></td>
     </tr>    
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse312" aria-expanded="false" aria-controls="collapse312" class="collapsed">

@@ -38,9 +38,12 @@ by <i>Zachary Bleemer and Aashish Mehta</i>
 {{< /staticref >}}
 /
 
-<!-- https://arxiv.org/abs/2202.00138 -->
-Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City *(non-archival)*\
-by *Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank*
+{{< staticref "papers/kaya-8.pdf" "newtab" >}}
+Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City *(non-archival)*
+<br>
+by <i>Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank</i>
+{{< /staticref >}}
+/
 
 {{< staticref "papers/gillani-x1.pdf" "newtab" >}}
 Redrawing attendance boundaries to increase racial and ethnic diversity in elementary schools *(non-archival)*
@@ -81,9 +84,12 @@ by <i>Alessandro Fabris, Stefano Messina, Gianmaria Silvello and Gian Antonio Su
 {{< /staticref >}}
 /
 
-<!-- https://paperswithcode.com/paper/policy-learning-with-competing-agents -->
-Policy Learning with Competing Agents *(non-archival)*\
-by *Roshni Sahoo and Stefan Wager*
+{{< staticref "papers/sahoo-43.pdf" "newtab" >}}
+Policy Learning with Competing Agents *(non-archival)*
+<br>
+by <i>Roshni Sahoo and Stefan Wager</i>
+{{< /staticref >}}
+/
 
 {{< staticref "papers/current-3.pdf" "newtab" >}}
 FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification
