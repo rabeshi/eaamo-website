@@ -298,8 +298,12 @@ by <i>Christine Herlihy, Aviva Prins, Aravind Srinivasan and John Dickerson</i>
 {{< /staticref >}}
 /
 
-Picking on the Same Person: Does Algorithmic Monoculture lead to Outcome Homogenization?\
-by *Rishi Bommasani, Kathleen Creel, Ananya Kumar, Dan Jurafsky and Percy Liang*
+{{< staticref "posters/x5_bommasani.pdf" "newtab" >}}
+Picking on the Same Person: Does Algorithmic Monoculture lead to Outcome Homogenization?
+<br>
+by <i>Rishi Bommasani, Kathleen Creel, Ananya Kumar, Dan Jurafsky and Percy Liang</i>
+{{< /staticref >}}
+/
 
 {{< staticref "posters/13_aziz.pdf" "newtab" >}}
 Probabilistic Rationing with Categorized Priorities: Processing Reserves Fairly and Efficiently
@@ -381,8 +385,12 @@ by *Liu Leqi, Charvi Rastogi, Kenneth Holstein and Hoda Heidari*
 Adaptive maximization of social welfare\
 by *Maximilian Kasy, Roberto Colomboni and Nicolo Cesa-Bianchi*
 
-AI and XAI: Bridging the awareness gap among underrepresented communities\
-by *Isa Inuwa-Dutse*
+{{< staticref "posters/53_inuwa_dutse.pdf" "newtab" >}}
+AI and XAI: Bridging the awareness gap among underrepresented communities
+<br>
+by <i>Isa Inuwa-Dutse</i>
+{{< /staticref >}}
+/
 
 {{< staticref "posters/57_jalota.pdf" "newtab" >}}
 Matching with Transfers under Distributional Constraints
@@ -553,8 +561,12 @@ by <i>Varun Nagaraj Rao and Aleksandra Korolova</i>
 {{< /staticref >}}
 /
 
-A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms\
-by *Amanda Coston, Anna Kawakami, Haiyi Zhu, Ken Holstein and Hoda Heidari*
+{{< staticref "posters/146_coston.pdf" "newtab" >}}
+A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms
+<br>
+by <i>Amanda Coston, Anna Kawakami, Haiyi Zhu, Ken Holstein and Hoda Heidari</i>
+{{< /staticref >}}
+/
 
 Evaluating Restless Multi-Armed Bandit Solutions to Resource Allocation Problems in Public Health\
 by *Aditya Mate, Aparna Taneja and Milind Tambe*
