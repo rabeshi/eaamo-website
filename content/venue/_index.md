@@ -34,7 +34,7 @@ GPS Address (for mobile devices and Google maps): \
 To Mason Square (formerly Arlington Campus) (3351 North Fairfax Dr., Arlington) by Metro: 
 Take the Orange Line to the Virginia Square/GMU station. The Arlington Campus is approximately 2 blocks Take the escalator to the street level, and turn to face Fairfax Drive. Across the street and to the right, you will see the FDIC building. Cross the street and continue past the FDIC building. Mason Square (formerly Arlington Campus) is on the left.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.697529407351!2d-77.10323648479125!3d38.885161579572554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b6828b5be0d7%3A0xc90a1e6e91b89ed5!2sVan%20Metre%20Hall%2C%20George%20Mason%20University!5e0!3m2!1ssr!2srs!4v1661888612457!5m2!1ssr!2srs" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12422.787561132407!2d-77.1010296!3d38.8851762!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc90a1e6e91b89ed5!2sVan%20Metre%20Hall%2C%20George%20Mason%20University!5e0!3m2!1sen!2srs!4v1664913843908!5m2!1sen!2srs" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 [Directions to Mason Square (formerly the Arlington Campus)](https://info.gmu.edu/campus-maps-and-directions/mason-square-directions/)
 
