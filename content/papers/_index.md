@@ -473,8 +473,12 @@ by <i>Aaja Christie, Emma McDaniel, Chetan Tiwari, Armin Mikler and Anu Bourgeoi
 {{< /staticref >}}
 /
 
-The Symptom in the Machine: Leveraging Symptom Search Data to Understand Disparities in U.S. Mental Health Care\
-by *Ben Rochford, Sachin Pendse, Neha Kumar and Munmun De Choudhury*
+{{< staticref "posters/101_rochford.pdf" "newtab" >}}
+The Symptom in the Machine: Leveraging Symptom Search Data to Understand Disparities in U.S. Mental Health Care
+<br>
+by <i>Ben Rochford, Sachin Pendse, Neha Kumar and Munmun De Choudhury</i>
+{{< /staticref >}}
+/
 
 {{< staticref "posters/x4_mahmoud_junior.pdf" "newtab" >}}
 AI Data Policy and Discourse Among Healthcare Institutions
