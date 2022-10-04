@@ -436,8 +436,12 @@ by <i>Violet Chen, Joshua Williams, Derek Leben and Hoda Heidari</i>
 Towards Balanced Information Propagation in Social Media\
 by *Mahmoudreza Babaei, Baharan Mirzasoleiman, Jungseock Joo and Adrian Weller*
 
-Equalizing credit opportunity in algorithms: Aligning algorithmic fairness research with U.S. fair lending regulation.\
-by *I. Elizabeth Kumar, Keegan Hines and John P. Dickerson*
+{{< staticref "posters/85_kumar.pdf" "newtab" >}}
+Equalizing credit opportunity in algorithms: Aligning algorithmic fairness research with U.S. fair lending regulation.
+<br>
+by <i>I. Elizabeth Kumar, Keegan Hines and John P. Dickerson</i>
+{{< /staticref >}}
+/
 
 Battle of the words: The symbiotic relationship between content moderation and language policy\
 by *Mandy Lau*

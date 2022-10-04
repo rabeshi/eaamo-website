@@ -44,6 +44,12 @@ Please use the following links to jump to the day-specific schedule:\
   </thead>
   <tbody>
     <tr eaamo-toggle="collapse" eaamo-target="#collapse11" aria-expanded="false" aria-controls="collapse11" class="collapsed">
+        <th scope="row">0</th>
+        <td>11:30 - 13:20 (ET)</td>
+        <td>Speed Networking <i>(virtual)</i></td>
+      <td></td>
+    </tr>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse11" aria-expanded="false" aria-controls="collapse11" class="collapsed">
         <th scope="row">1</th>
         <td>13:30 - 13:40 (ET)</td>
         <td>Opening remarks</td>
@@ -126,7 +132,13 @@ Please use the following links to jump to the day-specific schedule:\
         <td>19:00 - undefined (ET)</td>
         <td>In-person Social Event: PhD student social (dinner)</td>
       <td></td>
-    </tr>      
+    </tr>  
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
+        <th scope="row">8</th>
+        <td>19:00 - 20:00 (ET)</td>
+        <td>Discussion Tables <i>(virtual)</i></td>
+      <td></td>
+    </tr>    
   </tbody>
 </table>
 
@@ -143,34 +155,40 @@ Please use the following links to jump to the day-specific schedule:\
       <th>&nbsp;</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody>    
     <tr eaamo-toggle="collapse" eaamo-target="#collapse21" aria-expanded="false" aria-controls="collapse21" class="collapsed">
       <th scope="row">0</th>
-      <td>8:00 - 9:00 (ET)</td>
+      <td>08:00 - 09:00 (ET)</td>
+      <td>Speed Networking and Discussion Tables <i>(virtual)</i></td>
+      <td></td>
+    </tr>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse21" aria-expanded="false" aria-controls="collapse21" class="collapsed">
+      <th scope="row">0</th>
+      <td>08:00 - 09:00 (ET)</td>
       <td>Breakfast</td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse21" aria-expanded="false" aria-controls="collapse21" class="collapsed">
       <th scope="row">1</th>
-      <td>9:00 - 10:20 (ET)</td>
+      <td>09:00 - 10:20 (ET)</td>
       <td>Session: Allocation under constraints</td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse211" aria-expanded="false" aria-controls="collapse211" class="collapsed">
       <th scope="row"></th>
-      <td>9:00 - 9:20 (ET)</td>
+      <td>09:00 - 09:20 (ET)</td>
       <td>Priority-Based Assignment with Reserves and Quotas by <i>Atila Abdulkadiroglu and Aram Grigoryan</i></td>
       <td></td>
     </tr>    
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse212" aria-expanded="false" aria-controls="collapse212" class="collapsed">
       <th scope="row"></th>
-      <td>9:20 - 9:40 (ET)</td>
+      <td>09:20 - 09:40 (ET)</td>
       <td><a href="https://eaamo.org/papers/bobbio-124.pdf" target="_blank">Capacity Planning in Stable Matching: An Application to School Choice by <i>Federico Bobbio, Margarida Carvalho, Andrea Lodi, Alfredo Torrico and Ignacio Rios</i></a></td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse213" aria-expanded="false" aria-controls="collapse213" class="collapsed">
       <th scope="row"></th>
-      <td>9:40 - 10:00 (ET)</td>
+      <td>09:40 - 10:00 (ET)</td>
       <td>Designing School Choice for Diversity in the San Francisco Unified School District by <i>Maxwell Allman, Itai Ashlagi, Irene Lo, Juliette Love, Katherine Mentzer, Henry O'Connell and Lulabel Ruiz-Setz</i></td>
       <td></td>
     </tr>
@@ -297,15 +315,21 @@ Please use the following links to jump to the day-specific schedule:\
     </tr>
   </thead>
   <tbody>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse21" aria-expanded="false" aria-controls="collapse21" class="collapsed">
+      <th scope="row">0</th>
+      <td>08:00 - 09:00 (ET)</td>
+      <td>Speed Networking and Discussion Tables <i>(virtual)</i></td>
+      <td></td>
+    </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse31" aria-expanded="false" aria-controls="collapse31" class="collapsed">
       <th scope="row">0</th>
-      <td>8:00 - 9:00 (ET)</td>
+      <td>08:00 - 09:00 (ET)</td>
       <td>Breakfast</td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse31" aria-expanded="false" aria-controls="collapse31" class="collapsed">
       <th scope="row">1</th>
-      <td>9:00 - 10:20 (ET)</td>
+      <td>09:00 - 10:20 (ET)</td>
       <td>Session: Algorithms for Allocation</td>
       <td></td>
     </tr>
@@ -468,21 +492,27 @@ Please use the following links to jump to the day-specific schedule:\
     </tr>
   </thead>
   <tbody>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse21" aria-expanded="false" aria-controls="collapse21" class="collapsed">
+      <th scope="row">0</th>
+      <td>08:00 - 09:00 (ET)</td>
+      <td>Speed Networking and Discussion Tables <i>(virtual)</i></td>
+      <td></td>
+    </tr>
     <tr eaamo-toggle="collapse" eaamo-target="#collapse44" aria-expanded="false" aria-controls="collapse44" class="collapsed">
       <th scope="row">0</th>
-      <td>08:00-9:00 (ET)</td>
+      <td>08:00 - 09:00 (ET)</td>
       <td>Breakfast</td>
 	  <td></td>
   </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse44" aria-expanded="false" aria-controls="collapse44" class="collapsed">
       <th scope="row">1</th>
-      <td>09:00-10:00 (ET)</td>
+      <td>09:00 - 10:00 (ET)</td>
       <td>Keynote talk: Sello Mokwena</td>
 	  <td></td>
   </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse43" aria-expanded="false" aria-controls="collapse43" class="collapsed">
       <th scope="row">2</th>
-      <td>10:00-11:00 (ET)</td>
+      <td>10:00 - 11:00 (ET)</td>
       <td>Session: Human factors</td>
       <td></td>
     </tr>
@@ -548,6 +578,12 @@ Please use the following links to jump to the day-specific schedule:\
       <th scope="row"></th>
       <td>12:30 - 12:50 (ET)</td>
       <td><a href="https://arxiv.org/abs/2206.15096" target="_blank">Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties by <i>Andreas Bjerre-Nielsen and Emil Chrisander</i></a></td>
+      <td></td>
+    </tr>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse21" aria-expanded="false" aria-controls="collapse21" class="collapsed">
+      <th scope="row">5</th>
+      <td>13:00 - 14:00 (ET)</td>
+      <td>Speed Networking and Discussion Tables <i>(virtual)</i></td>
       <td></td>
     </tr>
   </tbody>
