@@ -16,6 +16,8 @@ header:
   image: ""
 ---
 
+# Keynotes
+
 ## [Marcella Alsan](https://www.hks.harvard.edu/faculty/marcella-alsan)
 *Professor of Public Policy, Harvard Kennedy School*
 
@@ -24,18 +26,16 @@ Marcella Alsan is an applied microeconomist studying health inequality. She rece
 - - -
 
 ## [Sello Mokwena](https://za.linkedin.com/in/sello-mokwena-a3a01b3b)
+
+<img src='https://eaamo.org/images/mokwena-sello.jpg' width=250 height=250 />
+
 *Senior Lecturer and Head of Department, Tshwane University of Technology*
 
+Associate Professor of Computer Science at University of Limpopo, Limpopo Province, South Africa. Formerly head of department at Tshwane University of Technology. A South African National Research Foundation C rated researcher. Has supervised to completion more than 20 Master and 3 Doctoral students in Information Systems. Has published in local and international journals. A frequent conference speaker. Wrote a popular book entitled “The Sanity Gap – A recipe for not losing your mind. A mentee in article writing in the Africa AI Deep Learning Indaba. Offers courses in article writing to other universities.
 
-- - -
+### Factors influencing low adoption rate of technolgies in developing countries
 
-## [Emanuela Galasso](https://www.worldbank.org/en/about/people/e/emanuela-galasso)
-*Senior Economist in the Development Research Group (Poverty and Inequality Team) at the World Bank*
-
-- - -
-
-## [Rebecca Johnson](https://www.rebeccajohnson.io/)
-*Assistant Professor at McCourt School of Public Policy, Georgetown University*
+*Abstract*: Technologies such as machine learning Cloud computing and IoT seem to be the most attractive solution to a myriad of problems basseting developing countries, but there is a general low adoption rate of these technologies in developing countries in general, and South African Small Medium Enterprises (SMEs), consumers and government institutions especially in rural areas. There is need to investigate the significant factors hindering the adoption of these technologies. We have adopted various theories such Technology Acceptance Model (TAM) Diffusion of Innovation Theory (DOI) and sometimes combine these theories with other Information Systems theories as a theoretical lens to shed light on the reasons for low adoptions rates.  Good use of theory aids in designing the study more effectively, as well as being useful to take a broad view of the end results. Both qualitative and quantitate method have been employed to increase the understanding of this phenomenon. Quantitative data was collected through questionnaires and analysed using regression analysis or structural equation modelling and machine learning algorithms. Qualitative data is collected through interviews and analysed using thematic analysis. These studies findings indicate that some of the reasons of low adoption rates is awareness. Some respondents argue that they will adopt the technologies if it will reduce organization’s IT expenditure. Some find the complexity and cost of these technologies were the most significant factors determining their potential for the adoption. In this paper we will look at the case studies of the adoption of cloud computing, Internet banking and School management system.
 
 - - -
 
@@ -51,3 +51,14 @@ Dr. Karen Smilowitz is the James N. and Margie M. Krebs Professor in Industrial 
 
 *Abstract*: Nonprofit organizations often face challenges related to meeting time-dependent, and sometimes time-critical, operational needs with a workforce composed of volunteers or a mix of volunteers and paid staff.  The operations research literature has explored many important aspects of nonprofit operations, and now emerging trends in online platforms have led to new opportunities in workforce management for nonprofits.  This talk will consider how the nonprofit sector is embracing online platforms, particularly in the area of volunteer management.  The talk will review recent research in the area, highlighting commonalities with commercial applications and unique challenges in volunteer management.
 
+- - -
+
+# Panelists
+
+## [Emanuela Galasso](https://www.worldbank.org/en/about/people/e/emanuela-galasso)
+*Senior Economist in the Development Research Group (Poverty and Inequality Team) at the World Bank*
+
+- - -
+
+## [Rebecca Johnson](https://www.rebeccajohnson.io/)
+*Assistant Professor at McCourt School of Public Policy, Georgetown University*
