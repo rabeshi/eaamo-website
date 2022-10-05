@@ -189,7 +189,7 @@ Please use the following links to jump to the day-specific schedule:\
     <tr eaamo-toggle="collapse" eaamo-target="#collapse21" aria-expanded="false" aria-controls="collapse21" class="collapsed">
       <th scope="row">0</th>
       <td>08:00 - 09:00 (ET)</td>
-      <td>Breakfast</td>
+      <td>Breakfast (conference provided)</td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse21" aria-expanded="false" aria-controls="collapse21" class="collapsed">
@@ -261,7 +261,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse24" aria-expanded="false" aria-controls="collapse24" class="collapsed">
       <th scope="row">4</th>
       <td>12:15 - 13:15 (ET)</td>
-      <td>Lunch Break</td>
+      <td>Lunch Break (conference provided)</td>
 	  <td></td>
   </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse25" aria-expanded="false" aria-controls="collapse25" class="collapsed">
@@ -374,7 +374,7 @@ Please use the following links to jump to the day-specific schedule:\
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse31" aria-expanded="false" aria-controls="collapse31" class="collapsed">
       <th scope="row">0</th>
       <td>08:00 - 09:00 (ET)</td>
-      <td>Breakfast</td>
+      <td>Breakfast (conference provided)</td>
       <td></td>
     </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse31" aria-expanded="false" aria-controls="collapse31" class="collapsed">
@@ -446,7 +446,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse34" aria-expanded="false" aria-controls="collapse34" class="collapsed">
       <th scope="row">4</th>
       <td>12:15 - 13:15 (ET)</td>
-      <td>Lunch Break</td>
+      <td>Lunch Break (conference provided)</td>
 	  <td></td>
   </tr>
 <tr eaamo-toggle="collapse" eaamo-target="#collapse37" aria-expanded="false" aria-controls="collapse37" class="collapsed">
@@ -522,7 +522,7 @@ Please use the following links to jump to the day-specific schedule:\
     <tr eaamo-toggle="collapse" eaamo-target="#collapse310" aria-expanded="false" aria-controls="collapse310" class="collapsed">
         <th scope="row">10</th>
         <td>17:30 - 19:30 (ET)</td>
-        <td>Poster Session (click here to see the list of posters)</td>
+        <td>Poster Session and Reception (click here to see the list of posters)</td>
       <td></td>
     </tr>
     <tr>
@@ -576,7 +576,7 @@ Please use the following links to jump to the day-specific schedule:\
     <tr eaamo-toggle="collapse" eaamo-target="#collapse44" aria-expanded="false" aria-controls="collapse44" class="collapsed">
       <th scope="row">0</th>
       <td>08:00 - 09:00 (ET)</td>
-      <td>Breakfast</td>
+      <td>Breakfast (conference provided)</td>
 	  <td></td>
   </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse44" aria-expanded="false" aria-controls="collapse44" class="collapsed">
