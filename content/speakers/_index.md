@@ -63,7 +63,7 @@ Dr. Karen Smilowitz is the James N. and Margie M. Krebs Professor in Industrial 
 
 ## [Rebecca Johnson](https://www.rebeccajohnson.io/)
 
-<img src='https://eaamo.org/images/rebecca-johnson.jpg' width=250 height=250 />
+<img src='https://eaamo.org/images/rebecca_johnson.jpg' width=250 height=250 />
 
 *Assistant Professor at McCourt School of Public Policy, Georgetown University*
 
