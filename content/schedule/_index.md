@@ -521,7 +521,7 @@ Please use the following links to jump to the day-specific schedule:\
     </tr> 
     <tr eaamo-toggle="collapse" eaamo-target="#collapse310" aria-expanded="false" aria-controls="collapse310" class="collapsed">
         <th scope="row">10</th>
-        <td>17:30 - 19:30 (ET)</td>
+        <td>17:30 - 19:00 (ET)</td>
         <td>Poster Session and Reception (click here to see the list of posters)</td>
       <td></td>
     </tr>
