@@ -29,7 +29,7 @@ Marcella Alsan is an applied microeconomist studying health inequality. She rece
 
 <img src='https://eaamo.org/images/mokwena-sello.jpg' width=250 height=250 />
 
-*Senior Lecturer and Head of Department, Tshwane University of Technology*
+*Professor of Computer Science, University of Limpopo*
 
 Associate Professor of Computer Science at University of Limpopo, Limpopo Province, South Africa. Formerly head of department at Tshwane University of Technology. A South African National Research Foundation C rated researcher. Has supervised to completion more than 20 Master and 3 Doctoral students in Information Systems. Has published in local and international journals. A frequent conference speaker. Wrote a popular book entitled “The Sanity Gap – A recipe for not losing your mind. A mentee in article writing in the Africa AI Deep Learning Indaba. Offers courses in article writing to other universities.
 
