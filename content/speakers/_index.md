@@ -62,4 +62,9 @@ Dr. Karen Smilowitz is the James N. and Margie M. Krebs Professor in Industrial 
 - - -
 
 ## [Rebecca Johnson](https://www.rebeccajohnson.io/)
+
+<img src='https://eaamo.org/images/rebecca-johnson.jpg' width=250 height=250 />
+
 *Assistant Professor at McCourt School of Public Policy, Georgetown University*
+
+Rebecca Johnson is an Assistant Professor in Georgetown’s McCourt School of Public Policy, where she teaches computational social science and is affiliated with the Massive Data Institute (MDI) and the Department of Sociology. Her research focuses on how social policies use a mix of data and discretion to decide which individuals need help most urgently, combining computational methods (field experiments; supervised machine learning) with normative analysis. Previously, she received her BA/MA from Stanford University, her PhD in Sociology, Demography, and Social Policy from Princeton University, and served as an Assistant Professor in Dartmouth College’s Program in Quantitative Social Science. Her research has received funding from the Princeton Center for Human Values, the National Science Foundation, the American Bar Foundation/JPB Foundation Access to Justice Scholars Program, and the National Academies of Education/Spencer Foundation.
