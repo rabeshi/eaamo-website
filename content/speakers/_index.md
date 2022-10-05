@@ -24,7 +24,7 @@ Marcella Alsan is an applied microeconomist studying health inequality. She rece
 - - -
 
 ## [Sello Mokwena](https://za.linkedin.com/in/sello-mokwena-a3a01b3b)
-*Senior Lecturer and Head of Department, Tshwane University of Technology*
+*Professor of Computer Science, University of Limpopo*
 
 
 - - -
