@@ -126,6 +126,28 @@ Please use the following links to jump to the day-specific schedule:\
         <td>17:30 - 18:50 (ET)</td>
         <td>Doctoral Consortium Poster Session</td>
       <td></td>
+    </tr>
+    <tr>
+    	<td colspan="6" id="collapse16" class="collapse acc" data-parent="#accordion">
+    		<a href="https://eaamo.org/dc/dc_03_jin.pdf" target="_blank">Adversarial Scrutiny of Evidentiary Statistical Software by Angela C. Jin</a><br>
+        <a href="https://eaamo.org/dc/dc_04_carter.pdf" target="_blank">Investigating mechanisms that drive disparate crowdfunding outcomes by Anthonia Carter</a><br>
+        <a href="https://eaamo.org/dc/dc_17_maughan.pdf" target="_blank">Continual Audit of Individual Fairness in Deployed Classifiers via Prediction Sensitivity by Krystal Maughan, Ivoline Ngong, Joe Near</a><br>
+        <a href="https://eaamo.org/dc/dc_22_oloko-oba.pdf" target="_blank">Ensemble of Convolution Neural Networks for Automatic Tuberculosis Classification by Mustapha Oloko-Oba and Serestina Viriri</a><br>
+        <a href="https://eaamo.org/dc/dc_23_christianson.pdf" target="_blank">Online optimization with black-box advice by Nicolas Christianson, Tinashe Handina, Adam Wierman</a><br>
+        <a href="https://eaamo.org/dc/dc_26_tahi.pdf" target="_blank">An approach to get the best parameters for high yields: case of maize yield in Benin Republic by G. P. Souand Tahi, Castro G. Hounmènou, V. Ratheil Houndji & L. Romain Glèlè Kakaï</a><br>
+        <a href="https://eaamo.org/dc/dc_35_meister.pdf" target="_blank">Optimizing the Order of Actions in a Model of Contact Tracing by Michela Meister and Jon Kleinberg</a><br>
+        <a href="https://eaamo.org/dc/dc_38_donahue.pdf" target="_blank">Fairness, Efficiency, and Uncertainty in Societal Resource Allocation Models by Kate Donahue</a><br>
+        <a href="https://eaamo.org/dc/dc_39_xu.pdf" target="_blank">Learning and Planning Under Uncertainty for Wildlife Conservation by Lily Xu</a><br>
+        <a href="https://eaamo.org/dc/dc_40_akpinar.pdf" target="_blank">A Sandbox Tool to Bias(Stress)-Test Fairness Algorithms by Nil-Jana Akpinar, Manish Nagireddy, Logan Stapelton, Hao-Fei Cheng, Haiyi Zhu, Steven Wu, Hoda Heidari</a><br>
+        <a href="https://eaamo.org/dc/dc_42_pendse.pdf" target="_blank">The Algorithm Keeps the Score: Identity, Community, and Power in Technology-Mediated Care by Sachin Pendse</a><br>
+        <a href="https://eaamo.org/dc/dc_copocyt_idalia_rojas_martinez.pdf" target="_blank">Degree of knowledge about humanized childbirthnin pregnant women holders to Basic Community Hospital of Aquismon, S.L.P by Idalia Rojas</a><br>
+        <a href="https://eaamo.org/dc/dc_copocyt_leydi_rojas.pdf" target="_blank">Factors Associated with Malnutrition in older adults in an Indigenous Community of Tancanhuitz S. L.P. by Leydi Rojas</a><br>
+        <a href="https://eaamo.org/dc/dc_copocyt_maria_teresa_santiago.pdf" target="_blank">LENGUAS INDÍGENAS Y DERECHOS LINGÜISTICOS EN MÉXICO: PERCEPCIÓN Y CONOCIMIENTO DE DERECHOS LINGÜISTICOS EN LAS JUVENTUDES TÉNEK by María Teresa Santiago Marcelino</a><br>
+        <a href="https://eaamo.org/dc/dc_copocyt_marlene_martinez.pdf" target="_blank">Contextualizing Tuberculosis Medication Adherence in Indigenous Communities of the Huasteca Potosina: A Roadmap to Adequate AI-facilitated Approaches by L.E. Eira Krystel González Pérez, L.E Edna Marlene Martínez Hernández, Dr. Francisco Javier Marmolejo Cossío</a><br>
+        <a href="https://eaamo.org/dc/dc_copocyt_nancy_santiago_santos.jpg" target="_blank">Adequate Housing for Indigenous Teenek Population by Nancy Santiago Santos</a><br>
+        <a href="https://eaamo.org/dc/dc_copocyt_ruben_martinez_cardenas.pdf" target="_blank">Adequate Housing, The Case of Fraud Against Indigenous Women in Xilitla San Luis Potosi by Xóchitl Rosales Terán</a><br>
+        <a href="https://eaamo.org/papers/boehmer-8.pdf" target="_blank">Collecting, Classifying, Analyzing, and Using Real-World Elections by Niclas Boehmer</a><br>
+    	</td>
     </tr> 
     <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
         <th scope="row">8</th>
