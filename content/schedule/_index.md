@@ -124,7 +124,7 @@ Please use the following links to jump to the day-specific schedule:\
     <tr eaamo-toggle="collapse" eaamo-target="#collapse16" aria-expanded="false" aria-controls="collapse16" class="collapsed">
         <th scope="row">7</th>
         <td>17:30 - 18:50 (ET)</td>
-        <td>Doctoral Consortium Poster Session</td>
+        <td>Doctoral Consortium Poster Session (click here to see the list of posters)</td>
       <td></td>
     </tr>
     <tr>
@@ -319,7 +319,7 @@ Please use the following links to jump to the day-specific schedule:\
     <tr eaamo-toggle="collapse" eaamo-target="#collapse29" aria-expanded="false" aria-controls="collapse29" class="collapsed">
         <th scope="row">9</th>
         <td>16:45 - 18:30 (ET)</td>
-        <td>Poster Session and Reception</td>
+        <td>Poster Session and Reception (click here to see the list of posters)</td>
       <td></td>
     </tr>
     <tr>
@@ -522,8 +522,33 @@ Please use the following links to jump to the day-specific schedule:\
     <tr eaamo-toggle="collapse" eaamo-target="#collapse310" aria-expanded="false" aria-controls="collapse310" class="collapsed">
         <th scope="row">10</th>
         <td>17:30 - 19:30 (ET)</td>
-        <td>Poster Session</td>
+        <td>Poster Session (click here to see the list of posters)</td>
       <td></td>
+    </tr>
+    <tr>
+    	<td colspan="6" id="collapse310" class="collapse acc" data-parent="#accordion">
+      <ul>
+      <li><a href="https://eaamo.org/posters/4_harris.pdf" target="_blank">Bayesian Persuasion for Algorithmic Recourse by Keegan Harris, Valerie Chen, Joon Sik Kim, Ameet Talwalkar, Hoda Heidari and Z. Steven Wu</a></li>
+      <li><a href="https://eaamo.org/posters/x3_herlihy.pdf" taget="_blank">Planning to Fairly Allocate: Probabilistic Fairness in the Restless Bandit Setting by Christine Herlihy, Aviva Prins, Aravind Srinivasan and John Dickerson</a></li>
+      <li><a href="https://eaamo.org/posters/x5_bommasani.pdf" target="_blank">Picking on the Same Person: Does Algorithmic Monoculture lead to Outcome Homogenization? by Rishi Bommasani, Kathleen A. Creel, Ananya Kumar, Dan Jurafsky, Percy Liang</a></li>
+      <li><a href="https://eaamo.org/posters/3_gilbert.pdf" target="_blank">Accountability Infrastructure for Recommender Systems: Applying Lessons from Public Health to Mitigate Structural Harms by Nathaniel Lubin and Thomas Gilbert</a></li>
+      <li><a href="https://eaamo.org/posters/28_papachristou.pdf" target="_blank">Dynamic Interventions for Networked Contagions by Marios Papachristou, Siddhartha Banerjee and Jon Kleinberg</a></li>
+      <li><a href="https://eaamo.org/posters/42_fabris.pdf" target="_blank">Measuring Fairness under Unawareness of Sensitive Attributes: A Quantification-Based Approach by Alessandro Fabris, Andrea Esuli, Alejandro Moreo and Fabrizio Sebastiani</a></li>
+      <li><a href="https://eaamo.org/posters/46_varshney.pdf" target="_blank">Humble Machines: Attending to the Underappreciated Costs of Misplaced Distrust by Bran Knowles, Jason D'Cruz, John T. Richards and Kush R. Varshney</a></li>
+      <li><a href="https://eaamo.org/posters/57_jalota.pdf" target="_blank">Matching with Transfers Under Distributional Constraints by Devansh Jalota, Michael Ostrovsky, Marco Pavone</a></li>
+      <li><a href="https://eaamo.org/posters/67_chen.pdf" target="_blank">Local Justice and Machine Learning: Modeling and inferring Dynamic Ethical Preferences around High-stakes Allocations by Violet (Xinying) Chen, Joshua Williams, Hoda Heidari, Derek Leben</a></li>
+      <li><a href="https://eaamo.org/posters/90_zhu.pdf" target="_blank">Constrained Multi-objective Optimization with Contextual Multi-Armed Bandits by Henry Zhu, Alex Chohlas-Wood, Madison Coots, Sharad Goel and Emma Brunskill</a></li>
+      <li><a href="https://eaamo.org/posters/96_christie.pdf" target="_blank">How to Allocate and Access Equity of CS Education Resources by Aaja Christie, Emma McDaniel, Chetan Tiwari, Armin Mikler and Anu Bourgeois</a></li>
+      <li><a href="https://eaamo.org/posters/137_guo.pdf" target="_blank">Ranger Patrols Deter Poachers: Causal Inference with Bayesian Modeling and Field Tests as an Instrument by Rachel Guo, Lily Xu and Andrew Perrault</a></li>
+      <li><a href="https://eaamo.org/posters/143_juarez.pdf" target="_blank">"You Can't Fix What You Can't Measure": Privately Measuring Demographic Performance Disparities in Federated Learning by Marc Juarez and Aleksandra Korolova (presented by Varun Rao)</a></li>
+      <li><a href="https://eaamo.org/posters/x1_miller.pdf" target="_blank">Is Envy-Freeness Fair? Social Psychology and the Limits of Ego Justification by Joel Miller and Chris Kanich</a></li>
+      <li><a href="https://eaamo.org/posters/145_rao.pdf" target="_blank">An Audit of Images Used by Job Advertisers on Facebook, with Implications to Transparency Desiderata by Varun Nagaraj Rao and Aleksandra Korolova</a></li>
+      <li><a href="https://eaamo.org/posters/146_coston.pdf" target="_blank">A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms by Amanda Coston, Anna Kawakami, Haiyi Zhu, Ken Holstein and Hoda Heidari</a></li>
+      <li><a href="https://eaamo.org/posters/151_zilka.pdf" target="_blank">Differential Enforcement and the Progression of Disparities within the Criminal Justice System by Miri Zilka, Carolyn Ashurst, Riccardo Fogliato and Adrian Weller </a></li>
+      <li><a href="https://eaamo.org/posters/152_malhotra.pdf" target="_blank">Use of Algorithms in the Public Sector: Decision Support or Control Systems? by Sanjana Malhotra, Harsh Nisar, Dibyendu Mishra and Richa Marwah </a></li>
+      <li><a href="https://eaamo.org/posters/x2_hurtado.pdf" taget="_blank">Welfare-guided Seeding with Time-constrained Data Collection by Carlos Hurtado, M. Amin Rahimian, Md Sanzeed Anwar and Dean Eckles</a></li>
+      </ul>
+    	</td>
     </tr> 
   </tbody>
 </table>
