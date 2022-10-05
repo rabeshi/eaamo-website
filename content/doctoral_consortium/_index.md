@@ -19,7 +19,24 @@ header:
 
 The first day of EAAMO 2022 will feature a doctoral consortium for students who have interests relevant to the conference. The event will allow students to meet other students in the field, learn about related career paths, and have individual meetings with faculty mentors. The first part of the doctoral consortium consists of the roundtable discussions, while the second part consists of poster session. Please find a short list of posters.
 
-[Adversarial Scrutiny of Evidentiary Statistical Software](dc/dc_03_jin.pdf)
+- [Adversarial Scrutiny of Evidentiary Statistical Software by Anglea Jin](../dc/dc_03_jin.pdf)
+- [Investigating mechanisms that drive disparate crowdfunding outcomes by Anthonia Carter](../dc/dc_04_carter.pdf)
+- [Continual Audit of Individual Fairness in Deployed Classifiers via Prediction Sensitivity by Krystal Maughan](../dc/dc_17_maughan.pdf)
+- [Ensemble of Convolution Neural Networks for Automatic Tuberculosis Classification by Mustapha Oloko-Oba](../dc/dc_03_jin.pdf)
+- [Online optimization with black-box advice by Nicolas Christianson](../dc/dc_23_christianson.pdf)
+- [An approach to get the best parameters for high yields: case of maize yield in Benin Republic by G. P. Souand Tahi](../dc/dc_03_jin.pdf)
+- [Optimizing the Order of Actions in a Model of Contact Tracing by Michela Meister](../dc/dc_35_meister.pdf)
+- [Supervised Learning with General Risk Functionals by Liu Leqi](../dc/dc_37_liu.pdf)
+- [Fairness, Efficiency, and Uncertainty in Societal Resource Allocation Models by Kate Donahue](../dc/dc_38_donahue.pdf)
+- [Learning and Planning Under Uncertainty for Wildlife Conservation by Lily Xu](../dc/dc_39_xu.pdf)
+- [A Sandbox Tool to Bias(Stress)-Test Fairness Algorithms by Nil-Jana Akpinar](../dc/dc_40_akpinar.pdf)
+- [The Algorithm Keeps the Score: Identity, Community, and Power in Technology-Mediated Care by Sachin Pendse](../dc/dc_42_pendse.pdf)
+- [Degree of knowledge about humanized childbirthnin pregnant women holders to Basic Community Hospital of Aquismon, S.L.P by Idalia Rojas](../dc/dc_copocyt_idalia_rojas_martinez.pdf)
+- [Factors Associated with Malnutrition in Older Adults in an Indigenous Community of Tancanhuitz S. L.P. by Leydi Rojas](../dc/dc_copocyt_leydi_rojas.pdf)
+- [Lenguas Indigenas y Derechos Linguisticos en Mexico: Perception y Conocimiento de Derechos Linguisticos en las Juventudes Tenek by María Teresa Santiago Marcelino](../dc/dc_copocyt_maria_teresa_santiago.pdf)
+- [Contextualizing Tuberculosis Medication Adherence in Indigenous Communities of the Huasteca Potosina: A Roadmap to Adequate AI-facilitated Approaches by L.E. Eira Krystel González Pérez and L.E. Edna Marlene Martínez Hernández](../dc/dc_copocyt_marlene_martinez.pdf)
+- [Adequate Housing for Indigenous Teenek Population by Nancy Santiago Santos](../dc/dc_copocyt_nancy_santiago_santos.jpg)
+- [Adequate Housing, The Case of Fraud Against Indigenous Women in Xilitla San Luis Potosi by Xóchitl Rosales Terán](../dc/dc_copocyt_ruben_martinez_cardenas.pdf)
 
 - - -
 
