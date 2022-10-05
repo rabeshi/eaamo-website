@@ -580,8 +580,12 @@ by <i>Amanda Coston, Anna Kawakami, Haiyi Zhu, Ken Holstein and Hoda Heidari</i>
 {{< /staticref >}}
 /
 
-Evaluating Restless Multi-Armed Bandit Solutions to Resource Allocation Problems in Public Health\
-by *Aditya Mate, Aparna Taneja and Milind Tambe*
+{{< staticref "posters/x6_mate.pdf" "newtab" >}}
+Evaluating Restless Multi-Armed Bandit Solutions to Resource Allocation Problems in Public Health
+<br>
+by <i>Aditya Mate, Aparna Taneja and Milind Tambe</i>
+{{< /staticref >}}
+/
 
 Small Area Estimation of Case Growths for Timely COVID-19 Outbreak Detection: A Machine Learning Approach\
 by *Zilong Wang, Zhaowei She, Turgay Ayer and Jagpreet Chhatwal*
