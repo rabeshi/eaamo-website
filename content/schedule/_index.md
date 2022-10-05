@@ -316,12 +316,38 @@ Please use the following links to jump to the day-specific schedule:\
         <td>Awards announcement</td>
       <td></td>
     </tr>   
-    <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse29" aria-expanded="false" aria-controls="collapse29" class="collapsed">
         <th scope="row">9</th>
         <td>16:45 - 18:30 (ET)</td>
         <td>Poster Session and Reception</td>
       <td></td>
-    </tr>  
+    </tr>
+    <tr>
+    	<td colspan="6" id="collapse29" class="collapse acc" data-parent="#accordion">
+        <ul>
+        <li><a href="https://eaamo.org/posters/13_aziz.pdf" target="_blank">Probabilistic Rationing with Categorized Priorities: Processing Reserves Fairly and Efficiently by Haris Aziz</a></li>
+        <li><a href="https://eaamo.org/posters/21_vollstaedt.pdf" target="_blank">Test me if you can - Providing optimal information for consumers through a novel product testing mechanism by Ulrike Vollstaedt, Patrick Imcke, Franziska Brendel and Christiane Ehses-Friedrich</a></li>
+        <li><a href="https://eaamo.org/posters/simply_the_best_xu.pdf" target="_blank">Ranked Prioritization of Groups in Combinatorial Bandit Allocation by Lily Xu, Arpita Biswas, Fei Fang and Milind Tambe</a></li>
+        <li><a href="https://eaamo.org/papers/boehmer-8.pdf" target="_blank">Collecting, Classifying, Analyzing, and Using Real-World Elections by Niclas Boehmer</a></li>
+        <li><a href="https://eaamo.org/posters/53_inuwa_dutse.pdf" target="_blank">AI and XAI: Bridging the awareness gap among underrepresented communities by Isa Inuwa-Dutse</a></li>
+        <li><a href="https://eaamo.org/posters/30_belli.pdf" target="_blank">County-level Algorithmic Audit of Racial Bias in Twitter's Home Timeline by Luca Belli, Kyra Yee, Uthaipon Tantipongpipat, Aaron Gonzales, Kristian Lum and Moritz Hardt</a></li>
+        <li><a href="https://eaamo.org/posters/59_fabris.pdf" target="_blank">Algorithmic Audit of Italian Car Insurance: Evidence of Unfairness in Access and Pricing by Alessandro Fabris, Alan Mishler, Stefano Gottardi, Mattia Carletti, Matteo Daicampi, Gian Antonio Susto and Gianmaria Silvello</a></li> 
+        <li><a href="https://eaamo.org/posters/66_shen.pdf" target="_blank">Leximax Approximations and Representative Cohort Selection by Monika Henzinger, Charlotte Peale, Omer Reingold and Judy Hanwen Shen</a></li>
+        <li><a href="http://eaamo.org/posters/91_blandin.pdf" target="_blank">Generalizing Group Fairness via Utilities by Jack Blandin, Ian Kash</a></li>
+        <li><a href="http://eaamo.org/posters/101_rochford.pdf" target="_blank">The Symptom in the Machine: Leveraging Symptom Search Data to Understand Disparities in U.S. Mental Health Care by Ben Rochford, Sachin Pendse, Neha Kumar and Munmun De Choudhury</a></li>
+        <li><a href="https://eaamo.org/posters/x4_mahmoud_junior.pdf" target="_blank">AI Data Policy and Discourse Among Healthcare Institutions by Mahmoud Junior Suleman, Jess Kropczynski and Nora McDonald</a></li>
+        <li><a href="https://eaamo.org/posters/113_zilka.pdf" target="_blank">Racial Disparities in Arrests for Drug Violations in the US: What Can We Learn From Publicly Available Data? by Bradley Butcher, Miri Zilka and Adrian Weller</a></li>
+        <li><a href="https://eaamo.org/posters/119_donahue.pdf" target="_blank">Models of Fairness in Federated Learning by Kate Donahue and Jon Kleinberg</a></li>
+        <li><a href="https://eaamo.org/posters/121_prabhakaran.pdf" target="_blank">A Human Rights Approach to Responsible AI by Vinodkumar Prabhakaran, Margaret Mitchell, Timnit Gebru and Iason Gabriel</a></li>
+        <li><a href="https://eaamo.org/posters/130_mutumbesa.pdf" target="_blank">Spatial routing of mobile sensors in participatory air quality monitoring with motorcycles in a developing city by Daniel Mutembesa and Engineer Bainomugisha</a></li>
+        <li><a href="https://eaamo.org/posters/131_keswani.pdf" taget="_blank">An Anti-subordination Approach to Fair Classification by Vijay Keswani and L. Elisa Celis</a></li>
+        <li><a href="https://eaamo.org/posters/138_turri.pdf" target="_blank">Why We Need to Know More: Exploring the State of AI Incident Documentation Practices by Violet Turri and Rachel Dzombak</a></li>
+        <li><a href="http://eaamo.org/posters/x6_mate.pdf" target="_blank">Evaluating Restless Multi-Armed Bandit Solutions to Resource Allocation Problems in Public Health by Aditya Mate, Aparna Taneja, Milind Tambe</a></li>
+        <li><a href="https://eaamo.org/posters/149_aziz.pdf" taget="_blank">PROPX Fair and Efficient Allocation of Indivisible Chores by Haris Aziz, Bo Li, Herve Moulin, Xiaowei Wu and Xinran Zhu</a></li>
+        <li><a href="https://eaamo.org/posters/158_zhang.pdf" target="_blank">Network bias for Job seekers: The impact of multi-hop referrals by Yiguang Zhang, Reetahan Mukhopadhyay and Augustin Chaintreau</a></li>
+        </ul>
+    	</td>
+    </tr> 
   </tbody>
 </table>
 
