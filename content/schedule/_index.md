@@ -88,7 +88,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse1DC" aria-expanded="false" aria-controls="collapse1DC" class="collapsed">
       <th scope="row">5</th>
       <td>16:10 - 17:30 (ET)</td>
-      <td><a href="https://eaamo.org/doctoral_consortium/" target="_blank">Doctoral Consortium</a></td>
+      <td><a href="https://eaamo.org/doctoral_consortium/" target="_blank">Doctoral Consortium - Roundtable Discussions</a></td>
 	  <td></td>
   </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse15" aria-expanded="false" aria-controls="collapse15" class="collapsed">

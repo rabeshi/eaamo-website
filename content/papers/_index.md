@@ -369,7 +369,7 @@ by <i>Alessandro Fabris, Andrea Esuli, Alejandro Moreo and Fabrizio Sebastiani</
 Towards An Inclusive AI: Challenges and Opportunities for Public Engagement in AI Development\
 by *Tina Park*
 
-{{< staticref "posters/46-varshney.pdf" "newtab" >}}
+{{< staticref "posters/46_varshney.pdf" "newtab" >}}
 Humble Machines: Attending to the Underappreciated Costs of Misplaced Distrust
 <br>
 by <i>Bran Knowles, Jason D'Cruz, John T. Richards and Kush R. Varshney</i>
@@ -379,8 +379,12 @@ by <i>Bran Knowles, Jason D'Cruz, John T. Richards and Kush R. Varshney</i>
 <!--Strategic Behavior in Two-sided Matching Markets with Recommendation-enhanced Preference-formation\
 *Stefania Ionescu, Yuhao Du, Kenneth Joseph and Aniko Hannak*-->
 
-A Unifying Framework for Combining Complementary Strengths of Humans and ML toward Better Predictive Decision-Making\
-by *Liu Leqi, Charvi Rastogi, Kenneth Holstein and Hoda Heidari*
+{{< staticref "posters/48_liu.pdf" "newtab" >}}
+A Unifying Framework for Combining Complementary Strengths of Humans and ML toward Better Predictive Decision-Making
+<br>
+by <i>Liu Leqi, Charvi Rastogi, Kenneth Holstein and Hoda Heidari</i>
+{{< /staticref >}}
+/
 
 Adaptive maximization of social welfare\
 by *Maximilian Kasy, Roberto Colomboni and Nicolo Cesa-Bianchi*

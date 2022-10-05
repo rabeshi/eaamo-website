@@ -17,7 +17,13 @@ header:
   image: ""
 ---
 
-The first day of EAAMO 2022 will feature a doctoral consortium for students who have interests relevant to the conference. The event will allow students to meet other students in the field, learn about related career paths, and have individual meetings with faculty mentors. Depending on funding availability, some travel support may be available. While primarily targeted at PhD students, the DC is open as well to undergraduate and masters students. Content will be primarily designed for students in computer science, operations research, and economics programs, but students from all fields are welcome to apply.
+The first day of EAAMO 2022 will feature a doctoral consortium for students who have interests relevant to the conference. The event will allow students to meet other students in the field, learn about related career paths, and have individual meetings with faculty mentors. The first part of the doctoral consortium consists of the roundtable discussions, while the second part consists of poster session. Please find a short list of posters.
+
+[Adversarial Scrutiny of Evidentiary Statistical Software](dc/dc_03_jin.pdf)
+
+- - -
+
+Depending on funding availability, some travel support may be available. While primarily targeted at PhD students, the DC is open as well to undergraduate and masters students. Content will be primarily designed for students in computer science, operations research, and economics programs, but students from all fields are welcome to apply.
 
 **Application**: to apply for the DC, fill out the form [here](https://forms.gle/F8F5r53Lrq6LdcwZA). Students who are requesting travel funding should also fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfL4rvmvwuKeBHKyRO5YGeF0wiKGLvFW0rZJk9PuDgl1CDpew/viewform?usp=sf_link).
 
