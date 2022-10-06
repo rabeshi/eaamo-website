@@ -283,6 +283,8 @@ Please use the following links to jump to the day-specific schedule:\
       <br/>
       <br/>
       In-person Social Event: Regional and Affinity Groups - Queer, Black, Hispanic, Africa and the Middle East, Latin America and the Caribbean, Asia/Pacific <i>(Organized during the break)</i>
+      <br>
+      Facilitators: Henry Zhu, Benjamin Laufer, Kenya Andrews, Chinasa T. Okolo, Yaren Bilge Kaya, Francisco Marmolejo Cossío
       </td>
 	  <td></td>
   </tr>
@@ -516,6 +518,8 @@ Please use the following links to jump to the day-specific schedule:\
         <br/>
         <br/>
         In-person Social Event: Application - Healthcare, Education, Civic Participation, Environment, Development, Housing <i>(Organized during the break)</i>
+        <br>
+        Facilitators: Kate Donahue, Alex DiChristofano, Tom Gilbert, Shubham Singh, Mir Masood, Edosa Leta
         </td>
       <td></td>
     </tr>  
@@ -622,6 +626,8 @@ Please use the following links to jump to the day-specific schedule:\
       <br/>
       <br/>
       In-person Social Event: Field-specific - Economics, Law, Public Policy, Healthcare, OR, CS Fairness, CS Theory, CS Application <i>(Organized during the break)</i>
+      <br>
+      Facilitators: Brian Brubach
       </td>
 	  <td></td>
   </tr>
