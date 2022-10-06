@@ -147,7 +147,7 @@ Please use the following links to jump to the day-specific schedule:\
         <li><a href="https://eaamo.org/dc/dc_copocyt_marlene_martinez.pdf" target="_blank">Contextualizing Tuberculosis Medication Adherence in Indigenous Communities of the Huasteca Potosina: A Roadmap to Adequate AI-facilitated Approaches by L.E. Eira Krystel González Pérez, L.E Edna Marlene Martínez Hernández, Dr. Francisco Javier Marmolejo Cossío</a></li>
         <li><a href="https://eaamo.org/dc/dc_copocyt_nancy_santiago_santos.jpg" target="_blank">Adequate Housing for Indigenous Teenek Population by Nancy Santiago Santos</a></li>
         <li><a href="https://eaamo.org/dc/dc_copocyt_ruben_martinez_cardenas.pdf" target="_blank">Adequate Housing, The Case of Fraud Against Indigenous Women in Xilitla San Luis Potosi by Xóchitl Rosales Terán</a></li>
-        <li><a href="https://eaamo.org/posters/30_boehmer.pdf" target="_blank">Collecting, Classifying, Analyzing, and Using Real-World Elections by Niclas Boehmer</a></li>
+        <li><a href="https://eaamo.org/posters/30_boehmer.pdf" target="_blank">Collecting, Classifying, Analyzing, and Using Real-World Elections by Niclas Boehmer and Nathan Schaar</a></li>
         </ul>
     	</td>
     </tr> 
