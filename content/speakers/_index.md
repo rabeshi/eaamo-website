@@ -19,9 +19,14 @@ header:
 # Keynotes
 
 ## [Marcella Alsan](https://www.hks.harvard.edu/faculty/marcella-alsan)
+
+<img src='https://eaamo.org/images/marcella-alsan.jpg' width=250 height=250 />
+
 *Professor of Public Policy, Harvard Kennedy School*
 
 Marcella Alsan is an applied microeconomist studying health inequality. She received a BA from Harvard University, a master’s in public health from Harvard School of Public Health, a MD from Loyola University Chicago Stritch School of Medicine, and a PhD in Economics from Harvard University. Alsan trained at Brigham and Women’s Hospital Hiatt Global Health Equity Residency Fellowship – then combined the PhD with an Infectious Disease Fellowship at Massachusetts General Hospital. Prior to returning to Harvard she was on faculty at Stanford. She is currently on the Board of Editors for Science Magazine, Co-Editor of the Journal of Health Economics and Co-Chair of the Health Care Delivery Initiative of Abdul Latif Jameel Poverty Action Lab based out of MIT. She is the co-recipient of the 2019 Arrow Award for Best Paper in Health Economics, the 2021 William G. Manning Memorial Award for the Best Research in Health Econometrics and recipient of a MacArthur Fellowship.
+
+### Representation and extrapolation: Evidence from clinical trials
 
 - - -
 
