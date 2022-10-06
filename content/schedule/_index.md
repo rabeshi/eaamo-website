@@ -150,7 +150,13 @@ Please use the following links to jump to the day-specific schedule:\
         <li><a href="https://eaamo.org/posters/30_boehmer.pdf" target="_blank">Collecting, Classifying, Analyzing, and Using Real-World Elections by Niclas Boehmer and Nathan Schaar</a></li>
         </ul>
     	</td>
-    </tr> 
+    </tr>
+    <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
+        <th scope="row">7</th>
+        <td>17:30 - 18:30 (ET)</td>
+        <td>Discussion Tables <i>(virtual)</i></td>
+      <td></td>
+    </tr>   
     <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
         <th scope="row">8</th>
         <td>19:00 - onwards (ET)</td>
@@ -162,13 +168,7 @@ Please use the following links to jump to the day-specific schedule:\
         Outdoor dining with tacos and margaritas
         </td>
       <td></td>
-    </tr>  
-    <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
-        <th scope="row">8</th>
-        <td>19:00 - 20:00 (ET)</td>
-        <td>Discussion Tables <i>(virtual)</i></td>
-      <td></td>
-    </tr>    
+    </tr>   
   </tbody>
 </table>
 
