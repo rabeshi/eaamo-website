@@ -45,7 +45,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tbody>
     <tr eaamo-toggle="collapse" eaamo-target="#collapse11" aria-expanded="false" aria-controls="collapse11" class="collapsed">
         <th scope="row">0</th>
-        <td>11:30 - 13:20 (ET)</td>
+        <td>12:30 - 13:30 (ET)</td>
         <td>Speed Networking <i>(virtual)</i></td>
       <td></td>
     </tr>
