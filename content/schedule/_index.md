@@ -76,7 +76,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse13" aria-expanded="false" aria-controls="collapse13" class="collapsed">
       <th scope="row">3</th>
       <td>14:25 - 15:25 (ET)</td>
-      <td>Keynote talk: Marcella Alsan</td>
+      <td>Keynote talk: Marcella Alsan (room 134)</td>
 	  <td></td>
   </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse14" aria-expanded="false" aria-controls="collapse14" class="collapsed">
@@ -124,7 +124,7 @@ Please use the following links to jump to the day-specific schedule:\
     <tr eaamo-toggle="collapse" eaamo-target="#collapse16" aria-expanded="false" aria-controls="collapse16" class="collapsed">
         <th scope="row">7</th>
         <td>17:30 - 18:50 (ET)</td>
-        <td>Doctoral Consortium Poster Session (click here to see the list of posters)</td>
+        <td>Doctoral Consortium Poster Session - room 126 (click here to see the list of posters)</td>
       <td></td>
     </tr>
     <tr>
@@ -267,13 +267,13 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse24" aria-expanded="false" aria-controls="collapse24" class="collapsed">
       <th scope="row">4</th>
       <td>12:15 - 13:15 (ET)</td>
-      <td>Lunch Break (conference provided)</td>
+      <td>Lunch Break - room 126 (conference provided)</td>
 	  <td></td>
   </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse25" aria-expanded="false" aria-controls="collapse25" class="collapsed">
       <th scope="row">5</th>
       <td>13:30 - 14:30 (ET)</td>
-      <td>Keynote talk: Karen Smilowitz</td>
+      <td>Keynote talk: Karen Smilowitz (room 134)</td>
 	  <td></td>
   </tr>
   <tr eaamo-toggle="collapse" eaamo-target="#collapse26" aria-expanded="false" aria-controls="collapse26" class="collapsed">
@@ -458,7 +458,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse34" aria-expanded="false" aria-controls="collapse34" class="collapsed">
       <th scope="row">4</th>
       <td>12:15 - 13:15 (ET)</td>
-      <td>Lunch Break (conference provided)</td>
+      <td>Lunch Break - room 126 (conference provided)</td>
 	  <td></td>
   </tr>
 <tr eaamo-toggle="collapse" eaamo-target="#collapse37" aria-expanded="false" aria-controls="collapse37" class="collapsed">
@@ -598,7 +598,7 @@ Please use the following links to jump to the day-specific schedule:\
   <tr eaamo-toggle="collapse" eaamo-target="#collapse44" aria-expanded="false" aria-controls="collapse44" class="collapsed">
       <th scope="row">1</th>
       <td>09:00 - 10:00 (ET)</td>
-      <td>Keynote talk: Sello Mokwena</td>
+      <td>Keynote talk: Sello Mokwena (room 134)</td>
 	  <td></td>
   </tr>
   	<tr eaamo-toggle="collapse" eaamo-target="#collapse43" aria-expanded="false" aria-controls="collapse43" class="collapsed">
