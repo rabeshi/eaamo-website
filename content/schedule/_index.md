@@ -357,6 +357,7 @@ Please use the following links to jump to the day-specific schedule:\
         <li><a href="http://eaamo.org/posters/x6_mate.pdf" target="_blank">Evaluating Restless Multi-Armed Bandit Solutions to Resource Allocation Problems in Public Health by Aditya Mate, Aparna Taneja, Milind Tambe</a></li>
         <li><a href="https://eaamo.org/posters/149_aziz.pdf" taget="_blank">PROPX Fair and Efficient Allocation of Indivisible Chores by Haris Aziz, Bo Li, Herve Moulin, Xiaowei Wu and Xinran Zhu</a></li>
         <li><a href="https://eaamo.org/posters/158_zhang.pdf" target="_blank">Network bias for Job seekers: The impact of multi-hop referrals by Yiguang Zhang, Reetahan Mukhopadhyay and Augustin Chaintreau</a></li>
+        <li><a href="https://eaamo.org/posters/158_zhang.pdf" target="_blank">Equalizing credit opportunity in algorithms: Aligning algorithmic fairness research with U.S. fair lending regulation by I. Elizabeth Kumar, Keegan Hines and John P. Dickerson</a></li>
         </ul>
     	</td>
     </tr> 
