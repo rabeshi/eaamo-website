@@ -282,7 +282,11 @@ Please use the following links to jump to the day-specific schedule:\
       <td>Break
       <br/>
       <br/>
-      In-person Social Event: Regional and Affinity Groups - Queer, Black, Hispanic, Africa and the Middle East, Latin America and the Caribbean, Asia/Pacific <i>(Organized during the break)</i>
+      In-person Social Event: Regional and Affinity Groups <i>(Organized during the break)</i>
+      <br>
+      Affinity groups: Queer and Black
+      <br>
+      Regional groups: Africa and the Middle East, Latin America and the Caribbean, Asia/Pacific, Europe
       <br>
       Facilitators: Henry Zhu, Benjamin Laufer, Kenya Andrews, Chinasa T. Okolo, Yaren Bilge Kaya, Francisco Marmolejo Cossío
       </td>
@@ -517,7 +521,9 @@ Please use the following links to jump to the day-specific schedule:\
         <td>Break
         <br/>
         <br/>
-        In-person Social Event: Application - Healthcare, Education, Civic Participation, Environment, Development, Housing <i>(Organized during the break)</i>
+        In-person Social Event: Application Areas <i>(Organized during the break)</i>
+        <br>
+        Healthcare, Housing, Education, Environment, Civic Participation, Algorithmic Bias
         <br>
         Facilitators: Kate Donahue, Alex DiChristofano, Tom Gilbert, Shubham Singh, Mir Masood, Edosa Leta
         </td>
@@ -625,7 +631,9 @@ Please use the following links to jump to the day-specific schedule:\
       <td>Coffee Break
       <br/>
       <br/>
-      In-person Social Event: Field-specific - Economics, Law, Public Policy, Healthcare, OR, CS Fairness, CS Theory, CS Application <i>(Organized during the break)</i>
+      In-person Social Event: Research Fields <i>(Organized during the break)</i>
+      <br>
+      CS theory and CS fairness, law and public policy, economics, operations research
       <br>
       Facilitators: Brian Brubach
       </td>
