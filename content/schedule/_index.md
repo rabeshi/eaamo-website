@@ -153,8 +153,14 @@ Please use the following links to jump to the day-specific schedule:\
     </tr> 
     <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
         <th scope="row">8</th>
-        <td>19:00 - undefined (ET)</td>
-        <td>In-person Social Event: PhD student social (dinner)</td>
+        <td>19:00 - onwards (ET)</td>
+        <td>
+        In-person Social Event: PhD student social (dinner)
+        <br>
+        at El Rey 4201 Wilson Blvd, 15 min walk from venue. 
+        <br>
+        Outdoor dining with tacos and margaritas
+        </td>
       <td></td>
     </tr>  
     <tr eaamo-toggle="collapse" eaamo-target="#collapse28" aria-expanded="false" aria-controls="collapse28" class="collapsed">
