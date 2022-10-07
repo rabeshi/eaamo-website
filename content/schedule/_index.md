@@ -347,7 +347,7 @@ Please use the following links to jump to the day-specific schedule:\
         <li><a href="https://eaamo.org/posters/66_shen.pdf" target="_blank">Leximax Approximations and Representative Cohort Selection by Monika Henzinger, Charlotte Peale, Omer Reingold and Judy Hanwen Shen</a></li>
         <li><a href="http://eaamo.org/posters/91_blandin.pdf" target="_blank">Generalizing Group Fairness via Utilities by Jack Blandin, Ian Kash</a></li>
         <li><a href="http://eaamo.org/posters/101_rochford.pdf" target="_blank">The Symptom in the Machine: Leveraging Symptom Search Data to Understand Disparities in U.S. Mental Health Care by Ben Rochford, Sachin Pendse, Neha Kumar and Munmun De Choudhury</a></li>
-        <li><a href="https://eaamo.org/posters/x4_mahmoud_junior.pdf" target="_blank">AI Data Policy and Discourse Among Healthcare Institutions by Mahmoud Junior Suleman, Jess Kropczynski and Nora McDonald</a></li>
+        <li><a href="https://eaamo.org/posters/x4_mamoud_junior.pdf" target="_blank">AI Data Policy and Discourse Among Healthcare Institutions by Mahmoud Junior Suleman, Jess Kropczynski and Nora McDonald</a></li>
         <li><a href="https://eaamo.org/posters/113_zilka.pdf" target="_blank">Racial Disparities in Arrests for Drug Violations in the US: What Can We Learn From Publicly Available Data? by Bradley Butcher, Miri Zilka and Adrian Weller</a></li>
         <li><a href="https://eaamo.org/posters/119_donahue.pdf" target="_blank">Models of Fairness in Federated Learning by Kate Donahue and Jon Kleinberg</a></li>
         <li><a href="https://eaamo.org/posters/121_prabhakaran.pdf" target="_blank">A Human Rights Approach to Responsible AI by Vinodkumar Prabhakaran, Margaret Mitchell, Timnit Gebru and Iason Gabriel</a></li>
