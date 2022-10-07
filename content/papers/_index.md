@@ -36,21 +36,21 @@ College Major Restrictions and Student Stratification <i>(non-archival)</i>
 <br>
 by <i>Zachary Bleemer and Aashish Mehta</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/kaya-8.pdf" "newtab" >}}
-Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City *(non-archival)*
+Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City <i>(non-archival)*</i>
 <br>
 by <i>Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/gillani-x1.pdf" "newtab" >}}
-Redrawing attendance boundaries to increase racial and ethnic diversity in elementary schools *(non-archival)*
+Redrawing attendance boundaries to increase racial and ethnic diversity in elementary schools <i>(non-archival)</i>
 <br>
 by <i>Nabeel Gillani, Doug Beeferman, Christine Vega-Pourheydarian, Cassandra Overney, Pascal Van Hentenryck and Deb Roy</i>
 {{< /staticref >}}
-/
+<br>
 
 <!-- https://www.nber.org/papers/w28689 -->
 Priority-Based Assignment with Reserves and Quotas *(non-archival)*\
@@ -61,42 +61,42 @@ Participation Is not a Design Fix for Machine Learning
 <br/>
 by <i>Mona Sloane, Emanuel Moss, Olaitan Awomolo and Laura Forlano</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/wood-19.pdf" "newtab" >}}
 Learning to Be Fair: A Consequentialist Approach to Equitable Decision-Making <i>(non-archival)</i>
 <br/>
 by <i>Alex Chohlas-Wood, Madison Coots, Henry Zhu, Emma Brunskill and Sharad Goel</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4052928" "newtab" >}}
 Two-sided Benefits of Price Transparency in Smallholder Supply Chains <i>(non-archival)</i>
 <br/>
 by <i>Yuan Shi, Joann de Zegher and Irene Lo</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/fabris-2.pdf" "newtab" >}}
 Tackling Documentation Debt: A Survey on Algorithmic Fairness Datasets
 <br>
 by <i>Alessandro Fabris, Stefano Messina, Gianmaria Silvello and Gian Antonio Susto</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/sahoo-43.pdf" "newtab" >}}
-Policy Learning with Competing Agents *(non-archival)*
+Policy Learning with Competing Agents <i>(non-archival)</i>
 <br>
 by <i>Roshni Sahoo and Stefan Wager</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/current-3.pdf" "newtab" >}}
 FairEGM: Fair Link Prediction and Recommendation via Emulated Graph Modification
 <br>
 by <i>Sean Current, Yuntian He, Saket Gurukar and Srinivasan Parthasarathy</i>
 {{< /staticref >}}
-/
+<br>
 
 <!-- https://www.uts.edu.au/sites/default/files/2022-06/SFUSD_Policy_Paper_Draft.pdf -->
 Designing School Choice for Diversity in the San Francisco Unified School District *(non-archival)*\
@@ -107,49 +107,49 @@ Bias, Consistency, and Partisanship in U.S. Asylum Cases: A Machine Learning Ana
 <br/>
 by <i>Vyoma Raman, Catherine Vera and C.J. Manna</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/singh-5.pdf" "newtab" >}}
 Fair Decision-Making for Food Inspections
 <br>
 by <i>Shubham Singh, Bhuvni Shah, Chris Kanich and Ian A. Kash</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/birhane-6.pdf" "newtab" >}}
 Power to the People? Opportunities and Challenges for Participatory AI
 <br>
 by <i>Abeba Birhane, William Isaac, Vinodkumar Prabhakaran, Mark Dí­az, Madeleine Clare Elish, Iason Gabriel and Shakir Mohamed</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/grgic-hlaca-22.pdf" "newtab" >}}
 Dimensions of Diversity in Human Perceptions of Algorithmic Fairness
 <br>
 by <i>Nina Grgić-Hlača, Gabriel Lima, Adrian Weller and Elissa M. Redmiles</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/boehmer-8.pdf" "newtab" >}}
 A Quantitative and Qualitative Analysis of the Robustness of (Real-World) Election Winners
 <br>
 by <i>Niclas Boehmer, Robert Bredereck, Piotr Faliszewski and Rolf Niedermeier</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/sztutman-00.pdf" "newtab" >}}
 Optimal Credit Scores Under Adverse Selection <i>(non-archival)</i>
 <br>
 by <i>Andre Sztutman, Nicole Immorlica and Robert Townsend</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/zhao-9.pdf" "newtab" >}}
 A Heterogeneous Schelling Model for Wealth Disparity and its Effect on Segregation
 <br/>
 by <i>Zhanzhan Zhao and Dana Randall</i>
 {{< /staticref >}}
-/
+<br>
 
 <!-- https://openknowledge.worldbank.org/handle/10986/37602 -->
 Adaptive Experiments for Policy Choice: Phone Calls for Home Reading in Kenya *(non-archival)*\
@@ -160,7 +160,7 @@ Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and St
 <br>
 by <i>Andreas Bjerre-Nielsen and Emil Chrisander</i>
 {{< /staticref >}}
-/
+<br>
 
 Improving Maternal Healthcare Information Delivery Over Large Populations via Group Robust Restless Bandit Interventions *(non-archival)*\
 by *Jackson Killian, Arpita Biswas, Lily Xu, Shresth Verma, Vineet Nair, Aparna Taneja, Aparna Hegde, Neha Madhiwalla, Paula Rodriguez Diaz, Sonja Johnson-Yu and Milind Tambe*
@@ -170,112 +170,112 @@ AI-Competent Individuals and Laypeople Tend to Oppose Facial Analysis AI
 <br/>
 by <i>Chiara Ullstein, Severin Engelmann, Orestis Papakyriakopoulos, Michel Hohendanner and Jens Grossklags</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/gelauff-11.pdf" "newtab" >}}
 Opinion Change or Differential Turnout: Austin’s Budget Feedback Exercise and the Police Department
 <br>
 by <i>Lodewijk Gelauff and Ashish Goel</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "https://www.science.org/doi/10.1126/science.abq4481" "newtab" >}}
 Quantifiable disparate impacts of statistical uncertainty and privacy in Census-guided grants <i>(non-archival)</i>
 <br/>
 by <i>Ryan Steed, Terrance Liu, Zhiwei Steven Wu and Alessandro Acquisti</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/fish-12.pdf" "newtab" >}}
 It's Not Fairness, and It's Not Fair: The Failure of Distributional Equality and the Promise of Relational Equality in Complete-Information Hiring Games
 <br>
 by <i>Benjamin Fish and Luke Stark</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/revel-x1.pdf" "newtab" >}}
 Liquid Democracy in Practice: An Empirical Analysis of its Epistemic Performance <i>(non-archival)</i>
 <br>
 by <i>Manon Revel, Daniel Halpern, Adam Berinsky and Ali Jadbabaie</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/rodilitz-115.pdf" "newtab" >}}
-Online Algorithms for Matching Platforms with Multi-Channel Traffic *(non-archival)*
+Online Algorithms for Matching Platforms with Multi-Channel Traffic <i>(non-archival)</i>
 <br>
 by <i>Vahideh Manshadi, Scott Rodilitz, Daniela Saban and Akshaya Suresh</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/evequoz-13.pdf" "newtab" >}}
 Diverse Representation via Computational Participatory Elections - Lessons from a Case Study
 <br>
 by <i>Florian Evéquoz, Johan Rochel, Vijay Keswani, L. Elisa Celis</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/ahn-14.pdf" "newtab" >}}
 Improving Citizen-initiated Police Reform Efforts through Interactive Design: A Case Study in County A
 <br/>
 by <i>Yongsu Ahn, Eliana Beigel, Noah Braun, Collin Griffin, Sera Linardi, Blair Mickles and Emmaline Rial</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/bobbio-124.pdf" "newtab" >}}
 Capacity Planning in Stable Matching: An Application to School Choice <i>(non-archival)</i>
 <br/>
 by <i>Federico Bobbio, Margarida Carvalho, Andrea Lodi, Alfredo Torrico and Ignacio Rios</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/nisar-15.pdf" "newtab" >}}
 Algorithmic Rural Road Planning in India: Constrained Capacities and Choices in Public Sector
 <br>
 by <i>Harsh Nisar, Deepak Gupta, Pankaj Kumar, Srinivasa Rao Murapaka, A. V. Rajesh and Alka Upadhyaya</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/zhao-16.pdf" "newtab" >}}
 Mathematically Quantifying Non-responsiveness of the 2021 Georgia Congressional Districting Plan
 <br/>
 by <i>Zhanzhan Zhao, Cyrus Hettle, Swati Gupta, Jonathan Mattingly, Dana Randall and Gregory Herschlag</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/chang-17.pdf" "newtab" >}}
 Understanding Implementation Challenges in Machine Learning Documentation
 <br>
 by <i>Jiyoo Chang and Christine Custis</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/andrews-18" "newtab" >}}
 Modeling Access Differences to Reduce Disparity in Resource Allocation
 <br/>
 by <i>Kenya Andrews, Mesrob Ohannessian and Tanya Berger-Wolf</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/khan-19.pdf" "newtab" >}}
 Towards Substantive conceptions of Algorithmic Fairness: Normative guidance from Equal Opportunity doctrines
 <br/>
 by <i>Falaah Arif Khan, Eleni Manis and Julia Stoyanovich</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/brown-20.pdf" "newtab" >}}
 Attrition of Workers with Marginalized Identities on AI Teams
 <br>
 by <i>Jeffrey Brown, Tina Park, Jiyoo Chang, Mckane Andrus, Alice Xiang and Christine Custis</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "papers/buening-21.pdf" "newtab" >}}
 On Meritocracy in Optimal Set Selection
 <br>
 by <i>Thomas Kleine Buening, Meirav Segal, Debabrota Basu, Anne-Marie George and Christos Dimitrakakis</i>
 {{< /staticref >}}
-/
+<br>
 
 Adapting Bias in Algorithmic Pricing: Evidence from Insurance Industry *(non-archival)*\
 by *Ozge Demirci*
