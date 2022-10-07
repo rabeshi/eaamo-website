@@ -463,6 +463,12 @@ Please use the following links to jump to the day-specific schedule:\
       <td>Lunch Break - room 126 (conference provided)</td>
 	  <td></td>
   </tr>
+<tr eaamo-toggle="collapse" eaamo-target="#collapse34" aria-expanded="false" aria-controls="collapse34" class="collapsed">
+      <th scope="row">4</th>
+      <td>12:15 - 13:15 (ET)</td>
+      <td>Faculty Network Event - room 120</td>
+	  <td></td>
+  </tr>
 <tr eaamo-toggle="collapse" eaamo-target="#collapse37" aria-expanded="false" aria-controls="collapse37" class="collapsed">
       <th scope="row">5</th>
       <td>13:30 - 14:30 (ET)</td>
