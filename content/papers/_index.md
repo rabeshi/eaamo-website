@@ -39,7 +39,7 @@ by <i>Zachary Bleemer and Aashish Mehta</i>
 <br>
 
 {{< staticref "papers/kaya-8.pdf" "newtab" >}}
-Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City <i>(non-archival)*</i>
+Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City <i>(non-archival)</i>
 <br>
 by <i>Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank</i>
 {{< /staticref >}}
@@ -289,35 +289,35 @@ Bayesian Persuasion for Algorithmic Recourse
 <br>
 by <i>Keegan Harris, Valerie Chen, Joon Sik Kim, Ameet Talwalkar, Hoda Heidari and Z. Steven Wu</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/x3_herlihy.pdf" "newtab" >}}
 Planning to Fairly Allocate: Probabilistic Fairness in the Restless Bandit Setting
 <br>
 by <i>Christine Herlihy, Aviva Prins, Aravind Srinivasan and John Dickerson</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/x5_bommasani.pdf" "newtab" >}}
 Picking on the Same Person: Does Algorithmic Monoculture lead to Outcome Homogenization?
 <br>
 by <i>Rishi Bommasani, Kathleen Creel, Ananya Kumar, Dan Jurafsky and Percy Liang</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/13_aziz.pdf" "newtab" >}}
 Probabilistic Rationing with Categorized Priorities: Processing Reserves Fairly and Efficiently
 <br>
 by <i>Haris Aziz</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/21_vollstaedt.pdf" "newtab" >}}
 Test me if you can - Providing optimal information for consumers through a novel product testing mechanism
 <br>
 by <i>Ulrike Vollstaedt, Patrick Imcke, Franziska Brendel and Christiane Ehses-Friedrich</i>
 {{< /staticref >}}
-/
+<br>
 
 For One and All: Individual and Group Fairness in the Allocation of Indivisible Goods\
 by *Jonathan Scarlett, Nicholas Teh and Yair Zick*
@@ -330,28 +330,28 @@ by <i>Lily Xu, Arpita Biswas, Fei Fang and Milind Tambe</i>
 {{< staticref "phttps://arxiv.org/pdf/2205.05659.pdf" "newtab" >}}
 <i>(Link to the paper)</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/3_gilbert.pdf" "newtab" >}}
 Accountability Infrastructure for Recommender Systems: Applying Lessons from Public Health to Mitigate Structural Harms
 <br>
 by <i>Nathaniel Lubin and Thomas Gilbert</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/28_papachristou.pdf" "newtab" >}}
 Dynamic Interventions for Networked Contagions
 <br>
 by <i>Marios Papachristou, Siddhartha Banerjee and Jon Kleinberg</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/30_boehmer.pdf" "newtab" >}}
 Collecting, Classifying, Analyzing, and Using Real-World Elections
 <br>
 by <i>Niclas Boehmer and Nathan Schaar</i>
 {{< /staticref >}}
-/
+<br>
 
 A Critical Assessment of the Algorithmic Accountability Act of 2022\
 by *Furkan Gursoy, Ryan Kennedy and Ioannis Kakadiaris*
@@ -364,7 +364,7 @@ Measuring Fairness under Unawareness of Sensitive Attributes: A Quantification-B
 <br>
 by <i>Alessandro Fabris, Andrea Esuli, Alejandro Moreo and Fabrizio Sebastiani</i>
 {{< /staticref >}}
-/
+<br>
 
 Towards An Inclusive AI: Challenges and Opportunities for Public Engagement in AI Development\
 by *Tina Park*
@@ -374,7 +374,7 @@ Humble Machines: Attending to the Underappreciated Costs of Misplaced Distrust
 <br>
 by <i>Bran Knowles, Jason D'Cruz, John T. Richards and Kush R. Varshney</i>
 {{< /staticref >}}
-/
+<br>
 
 <!--Strategic Behavior in Two-sided Matching Markets with Recommendation-enhanced Preference-formation\
 *Stefania Ionescu, Yuhao Du, Kenneth Joseph and Aniko Hannak*-->
@@ -384,7 +384,7 @@ A Unifying Framework for Combining Complementary Strengths of Humans and ML towa
 <br>
 by <i>Liu Leqi, Charvi Rastogi, Kenneth Holstein and Hoda Heidari</i>
 {{< /staticref >}}
-/
+<br>
 
 Adaptive maximization of social welfare\
 by *Maximilian Kasy, Roberto Colomboni and Nicolo Cesa-Bianchi*
@@ -394,14 +394,14 @@ AI and XAI: Bridging the awareness gap among underrepresented communities
 <br>
 by <i>Isa Inuwa-Dutse</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/57_jalota.pdf" "newtab" >}}
 Matching with Transfers under Distributional Constraints
 <br>
 by <i>Devansh Jalota, Michael Ostrovsky and Marco Pavone</i>
 {{< /staticref >}}
-/
+<br>
 
 <!--Eliminating Waste in Cadaveric Organ Allocation\
 *Peng Shi and Junxiong Yin*-->
@@ -411,28 +411,28 @@ Algorithmic Audit of Italian Car Insurance: Evidence of Unfairness in Access and
 <br>
 by <i>Alessandro Fabris, Alan Mishler, Stefano Gottardi, Mattia Carletti, Matteo Daicampi, Gian Antonio Susto and Gianmaria Silvello</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/60_akpinar.pdf" "newtab" >}}
 A Sandbox Tool to Bias(Stress)-Test Fairness Algorithms
 <br>
 by <i>Nil-Jana Akpinar, Manish Nagireddy, Logan Stapleton, Hao-Fei Cheng, Haiyi Zhu, Steven Wu and Hoda Heidari</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/66_shen.pdf" "newtab" >}}
 Leximax Approximations and Representative Cohort Selection
 <br>
 by <i>Monika Henzinger, Charlotte Peale, Omer Reingold and Judy Hanwen Shen</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/67_chen.pdf" "newtab" >}}
 Local Justice and ML: Modeling and Inferring Dynamic Ethical Judgments Around High-stakes Allocations
 <br>
 by <i>Violet Chen, Joshua Williams, Derek Leben and Hoda Heidari</i>
 {{< /staticref >}}
-/
+<br>
 
 <!--To Regulate or Not to Regulate: Using Revenue Maximization Tools to Maximize Consumer Utility\
 *Meryem Essaidi, Kira Goldner and S. Matthew Weinberg* -->
@@ -445,7 +445,7 @@ Equalizing credit opportunity in algorithms: Aligning algorithmic fairness resea
 <br>
 by <i>I. Elizabeth Kumar, Keegan Hines and John P. Dickerson</i>
 {{< /staticref >}}
-/
+<br>
 
 Battle of the words: The symbiotic relationship between content moderation and language policy\
 by *Mandy Lau*
@@ -458,14 +458,14 @@ Constrained Multi-objective Optimization with Contextual Multi-Armed Bandits
 <br>
 by <i>Henry Zhu, Alex Chohlas-Wood, Madison Coots, Sharad Goel and Emma Brunskill</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/91_blandin.pdf" "newtab" >}}
 Generalizing Group Fairness via Utilities
 <br>
 by <i>Jack Blandin and Ian Kash</i>
 {{< /staticref >}}
-/
+<br>
 
 Does Fake News Content Create Echo Chambers?\
 by *Jiding Zhang, Ken Moon and Senthil Veeraraghavan*
@@ -475,21 +475,21 @@ How to Allocate and Access Equity of CS Education Resources
 <br>
 by <i>Aaja Christie, Emma McDaniel, Chetan Tiwari, Armin Mikler and Anu Bourgeois</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/101_rochford.pdf" "newtab" >}}
 The Symptom in the Machine: Leveraging Symptom Search Data to Understand Disparities in U.S. Mental Health Care
 <br>
 by <i>Ben Rochford, Sachin Pendse, Neha Kumar and Munmun De Choudhury</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/x4_mahmoud_junior.pdf" "newtab" >}}
 AI Data Policy and Discourse Among Healthcare Institutions
 <br>
 by <i>Mahmoud Junior Suleman, Jess Kropczynski and Nora McDonald</i>
 {{< /staticref >}}
-/
+<br>
 
 <!--The Effectiveness of Guardrails in Online Fair Allocation\
 *Siddhartha Banerjee, Chamsi Hssaine and Sean Sinclair*-->
@@ -502,35 +502,35 @@ Racial Disparities in Arrests for Drug Violations in the US: What Can We Learn F
 <br>
 by <i>Bradley Butcher, Miri Zilka and Adrian Weller</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/119_donahue.pdf" "newtab" >}}
 Models of Fairness in Federated Learning
 <br>
 by <i>Kate Donahue and Jon Kleinberg</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/121_prabhakaran.pdf" "newtab" >}}
 A Human Rights Approach to Responsible AI
 <br>
 by <i>Vinodkumar Prabhakaran, Margaret Mitchell, Timnit Gebru and Iason Gabriel</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/130_mutumbesa.pdf" "newtab" >}}
 Spatial routing of mobile sensors in participatory air quality monitoring with motorcycles in a developing city
 <br>
 by <i>Daniel Mutembesa and Engineer Bainomugisha</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/131_keswani.pdf" "newtab" >}}
 An Anti-subordination Approach to Fair Classification
 <br>
 by <i>Vijay Keswani and L. Elisa Celis</i>
 {{< /staticref >}}
-/
+<br>
 
 Optimizing the order of actions in contact tracing\
 by *Michela Meister and Jon Kleinberg*
@@ -540,14 +540,14 @@ Ranger Patrols Deter Poachers: Causal Inference with Bayesian Modeling and Field
 <br>
 by <i>Rachel Guo, Lily Xu and Andrew Perrault</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/138_turri.pdf" "newtab" >}}
 Why We Need to Know More: Exploring the State of AI Incident Documentation Practices
 <br>
 by <i>Violet Turri and Rachel Dzombak</i>
 {{< /staticref >}}
-/
+<br>
 
 Learning Optimal Fair Classification Trees\
 by *Nathanael Jo, Phebe Vayanos, Andrés Gómez and Sina Aghaei*
@@ -557,35 +557,35 @@ by *Nathanael Jo, Phebe Vayanos, Andrés Gómez and Sina Aghaei*
 <br>
 by <i>Marc Juarez and Aleksandra Korolova</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/x1_miller.pdf" "newtab" >}}
 Is Envy-Freeness Fair? Social Psychology and the Limits of Ego Justification
 <br>
 by <i>Joel Miller and Chris Kanich</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/145_rao.pdf" "newtab" >}}
 An Audit of Images Used by Job Advertisers on Facebook, with Implications to Transparency Desiderata\
 <br>
 by <i>Varun Nagaraj Rao and Aleksandra Korolova</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/146_coston.pdf" "newtab" >}}
 A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms
 <br>
 by <i>Amanda Coston, Anna Kawakami, Haiyi Zhu, Ken Holstein and Hoda Heidari</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/x6_mate.pdf" "newtab" >}}
 Evaluating Restless Multi-Armed Bandit Solutions to Resource Allocation Problems in Public Health
 <br>
 by <i>Aditya Mate, Aparna Taneja and Milind Tambe</i>
 {{< /staticref >}}
-/
+<br>
 
 Small Area Estimation of Case Growths for Timely COVID-19 Outbreak Detection: A Machine Learning Approach\
 by *Zilong Wang, Zhaowei She, Turgay Ayer and Jagpreet Chhatwal*
@@ -595,39 +595,39 @@ PROPX Fair and Efficient Allocation of Indivisible Chores
 <br>
 by <i>Haris Aziz, Bo Li, Herve Moulin, Xiaowei Wu and Xinran Zhu</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/151_zilka.pdf" "newtab" >}}
 Differential Enforcement and the Progression of Disparities within the Criminal Justice System
 <br>
 by <i>Miri Zilka, Carolyn Ashurst, Riccardo Fogliato and Adrian Weller</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/152_malhotra.pdf" "newtab" >}}
 Use of Algorithms in the Public Sector: Decision Support or Control Systems?
 <br>
 by <i>Sanjana Malhotra, Harsh Nisar, Dibyendu Mishra and Richa Marwah</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/x2_hurtado.pdf" "newtab" >}}
 Welfare-guided Seeding with Time-constrained Data Collection
 <br>
 by <i>Carlos Hurtado, M. Amin Rahimian, Md Sanzeed Anwar and Dean Eckles</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/158_zhang.pdf" "newtab" >}}
 Network bias for Job seekers: The impact of multi-hop referrals
 <br>
 by <i>Yiguang Zhang, Reetahan Mukhopadhyay and Augustin Chaintreau</i>
 {{< /staticref >}}
-/
+<br>
 
 {{< staticref "posters/30_belli.pdf" "newtab" >}}
 County-level Algorithmic Audit of Racial Bias in Twitter's Home Timeline
 <br>
 by <i>Luca Belli, Kyra Yee, Uthaipon Tantipongpipat, Aaron Gonzales, Kristian Lum and Moritz Hardt</i>
 {{< /staticref >}}
-/
+<br>
