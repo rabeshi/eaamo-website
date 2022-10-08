@@ -684,14 +684,14 @@ Please use the following links to jump to the day-specific schedule:\
       <td><a href="https://arxiv.org/abs/2206.15096" target="_blank">Voluntary Information Disclosure in Deferred Acceptance: Efficiency Gains and Strategic Properties by <i>Andreas Bjerre-Nielsen and Emil Chrisander</i></a></td>
       <td></td>
     </tr>
-  <tr eaamo-toggle="collapse" eaamo-target="#collapse413" aria-expanded="false" aria-controls="collapse413" class="collapsed">
-      <th scope="row"></th>
+  <tr eaamo-toggle="collapse" eaamo-target="#collapse45" aria-expanded="false" aria-controls="collapse45" class="collapsed">
+      <th scope="row">5</th>
       <td>12:50 - 13:00 (ET)</td>
-      <td><a href="https://arxiv.org/abs/2206.15096" target="_blank">Closing remarks</a></td>
+      <td>Closing remarks</td>
       <td></td>
     </tr>
     <tr eaamo-toggle="collapse" eaamo-target="#collapse21" aria-expanded="false" aria-controls="collapse21" class="collapsed">
-      <th scope="row">5</th>
+      <th scope="row">6</th>
       <td>13:00 - 14:00 (ET)</td>
       <td>Speed Networking and Discussion Tables <i>(virtual)</i></td>
       <td></td>
