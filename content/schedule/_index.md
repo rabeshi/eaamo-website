@@ -288,7 +288,7 @@ Please use the following links to jump to the day-specific schedule:\
       <br>
       Regional groups: Africa and the Middle East, Latin America and the Caribbean, Asia/Pacific, Europe
       <br>
-      Facilitators: Henry Zhu, Benjamin Laufer, Kenya Andrews, Chinasa T. Okolo, Yaren Bilge Kaya, Francisco Marmolejo Cossío
+      Facilitators: Henry Zhu, Benjamin Laufer, Kenya Andrews, Chinasa T. Okolo, Yaren Bilge Kaya, Francisco Marmolejo Cossío, Niclas Boehmer, Harsh Nisar
       </td>
 	  <td></td>
   </tr>
@@ -533,7 +533,7 @@ Please use the following links to jump to the day-specific schedule:\
         <br>
         Healthcare, Housing, Education, Environment, Civic Participation, Algorithmic Bias
         <br>
-        Facilitators: Kate Donahue, Alex DiChristofano, Tom Gilbert, Shubham Singh, Mir Masood, Edosa Leta
+        Facilitators: Kate Donahue, Alex DiChristofano, Thomas Krendl Gilbert, Shubham Singh, Mir Masood, Edosa Leta
         </td>
       <td></td>
     </tr>  
@@ -645,6 +645,8 @@ Please use the following links to jump to the day-specific schedule:\
       CS theory and CS fairness, law and public policy, economics, operations research
       <br>
       Facilitators: Brian Brubach
+      <br>
+      Please note this social will be in room 318, as the multi-purpose hall will be occupied by a different event this day.
       </td>
 	  <td></td>
   </tr>
