@@ -249,7 +249,7 @@ by <i>Jiyoo Chang and Christine Custis</i>
 {{< /staticref >}}
 <br>
 
-{{< staticref "papers/andrews-18" "newtab" >}}
+{{< staticref "papers/andrews-18.pdf" "newtab" >}}
 Modeling Access Differences to Reduce Disparity in Resource Allocation
 <br/>
 by <i>Kenya Andrews, Mesrob Ohannessian and Tanya Berger-Wolf</i>
