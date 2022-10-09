@@ -541,6 +541,8 @@ Please use the following links to jump to the day-specific schedule:\
         <th scope="row">9</th>
         <td>16:30 - 17:30 (ET)</td>
         <td>Panel Discussion</td>
+        <br>
+        Opportunities and Barriers in Bridging Research and Practice
       <td></td>
     </tr> 
     <tr eaamo-toggle="collapse" eaamo-target="#collapse310" aria-expanded="false" aria-controls="collapse310" class="collapsed">
