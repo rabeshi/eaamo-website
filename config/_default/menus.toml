@@ -51,9 +51,15 @@
   parent = "program"
 
 [[main]]
+  name = "Best paper awards"
+  url = "awards"
+  weight = 40
+  parent = "program"
+
+[[main]]
   name = "Doctoral Consortium"
   url = "doctoral_consortium"
-  weight = 40
+  weight = 50
   parent = "program"
 
 [[main]]
