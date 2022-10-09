@@ -22,7 +22,7 @@ The Best Paper award winners are:
 
 The Best Paper with Student Presenter:
 - [Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City](../../static/papers/kaya-8.pdf) by *Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank*
-- [On Meritocracy in Optimal Set Selection](../../static/papers/buening-21.pdf) \ by *Thomas Kleine Buening, Meirav Segal, Debabrota Basu, Anne-Marie George and Christos Dimitrakakis*
+- [On Meritocracy in Optimal Set Selection](../../static/papers/buening-21.pdf) by *Thomas Kleine Buening, Meirav Segal, Debabrota Basu, Anne-Marie George and Christos Dimitrakakis*
 
 The New Horizons Award that recognizes a paper that pushes the frontiers of AI research goes to:
 - [Dimensions of Diversity in Human Perceptions of Algorithmic Fairness](../../static/papers/grgic-hlaca-22.pdf) by *Nina Grgić-Hlača, Gabriel Lima, Adrian Weller and Elissa M. Redmiles*
