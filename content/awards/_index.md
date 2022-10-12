@@ -31,4 +31,4 @@ The New Horizons Award that recognizes a paper that pushes the frontiers of AI r
 
 Process: 
 
-Area chairs of each track were previously asked to combine rankings of papers within each track. Top-review-scoring papers from each track were collected and re-ranked/voted upon with considerations for: coverage, awards not going to those who won an award in previous years, downweighting papers from authors on the executive committee, archival vs. non-archival status. Paper awards this year are not editorial statements. 
+Area chairs of each track were previously asked to combine rankings of papers within each track. Top-review-scoring papers from each track were collected and re-ranked/voted upon with additional considerations.
