@@ -19,7 +19,7 @@ header:
 
 The first day of EAAMO 2022 will feature a doctoral consortium for students who have interests relevant to the conference. The event will allow students to meet other students in the field, learn about related career paths, and have individual meetings with faculty mentors. The first part of the doctoral consortium consists of the roundtable discussions, while the second part consists of poster session. Please find a short list of posters.
 
-- [Adversarial Scrutiny of Evidentiary Statistical Software by Anglea Jin](../dc/dc_03_jin.pdf)
+- [Adversarial Scrutiny of Evidentiary Statistical Software by Angela Jin](../dc/dc_03_jin.pdf)
 - [Investigating mechanisms that drive disparate crowdfunding outcomes by Anthonia Carter](../dc/dc_04_carter.pdf)
 - [Continual Audit of Individual Fairness in Deployed Classifiers via Prediction Sensitivity by Krystal Maughan](../dc/dc_17_maughan.pdf)
 - [Ensemble of Convolution Neural Networks for Automatic Tuberculosis Classification by Mustapha Oloko-Oba](../dc/dc_03_jin.pdf)
