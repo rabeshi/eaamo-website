@@ -647,7 +647,7 @@ Please use the following links to jump to the day-specific schedule:\
       <br>
       CS theory and CS fairness, law and public policy, economics, operations research
       <br>
-      Facilitators: Brian Brubach
+      Facilitators: Brian Brubach, Joel Miller, Jiyoo Chang
       <br>
       Please note this social will be in room 318, as the multi-purpose hall will be occupied by a different event this day.
       </td>
