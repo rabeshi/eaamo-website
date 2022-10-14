@@ -37,38 +37,58 @@ design:
 <div class="container">
   <div class="row mb-10 mx-auto">
     <div class="col-sm-4 mx-auto" style="display:inline-block">
-      <img src="../sponsors/sloan_logo.png" width="400" height="160">
+      <br/>
+      <br/>
+      <img src="../sponsors/sloan_logo.png" width="400">
     </div>
     <div class="col-sm-4 mx-auto" style="display:inline-block">
       <br/>
       <br/>
       <br/>
-      <img src="../sponsors/mcarthur_logo.png" width="400" height="160">
+      <img src="../sponsors/mcarthur_logo.png" width="400">
     </div>
     <div class="col-sm-4 mx-auto" style="display:inline-block">
       <br/>
       <br/>
       <br/>
       <br/>
-      <img src="../sponsors/pit_logo.webp" width="400" height="160">
+      <img src="../sponsors/pit_logo.webp" width="400">
     </div>
   </div>
   <div class="row mb-10 mx-auto">
-    <div class="col-sm-4" style="display:inline-block" width="300" height="160">
+    <div class="col-sm-4" style="display:inline-block" width="250">
       <br/>
       <br/>
       <br/>
-      <img src="../sponsors/acm_logo.png" width="300" height="160">
+      <img src="../sponsors/acm_logo.png" width="250">
     </div>
-    <div class="col-sm-4 mx-auto" style="display:inline-block" width="300" height="160">
+    <div class="col-sm-4 mx-auto" style="display:inline-block" width="250">
       <br/>
-      <img src="../sponsors/sigai.png" width="300" height="160">
+      <img src="../sponsors/sigai.png" width="250">
     </div>
     <div class="col-sm-4 mx-auto" style="display:inline-block">
       <br/>
       <br/>
       <br/>
-      <img src="../sponsors/sigecom.png" width="300" height="160">
+      <img src="../sponsors/sigecom.png" width="250">
+    </div>
+  </div>
+  <div class="row mb-10 mx-auto">
+    <div class="col-sm-4" style="display:inline-block" width="250">
+      <br/>
+      <br/>
+      <br/>
+      <img src="../sponsors/gmu_logo.png" width="250">
+    </div>
+    <div class="col-sm-4 mx-auto" style="display:inline-block" width="250">
+      <br/>
+      <img src="../sponsors/anuites_logo.png" width="250">
+    </div>
+    <div class="col-sm-4 mx-auto" style="display:inline-block">
+      <br/>
+      <br/>
+      <br/>
+      <img src="../sponsors/mexico_gov_logo.png" width="250">
     </div>
   </div>
 </div>
