@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 title: Sponsors
 subtitle:
@@ -67,14 +67,11 @@ design:
     <div class="col-sm-4 mx-auto" style="display:inline-block" width="250" height="100">
       <br/>
       <br/>
-      <br/>
       <img src="../sponsors/sigecom.png" width="250" height="100">
     </div>
   </div>
   <div class="row mb-10 mx-auto">
     <div class="col-sm-4" style="display:inline-block" width="100" height="100">
-      <br/>
-      <br/>
       <br/>
       <img src="../sponsors/gmu_logo.png" width="100" height="100">
     </div>
@@ -83,7 +80,6 @@ design:
       <img src="../sponsors/anuites_logo.png" width="200" height="200">
     </div>
     <div class="col-sm-4 mx-auto" style="display:inline-block" width="200" height="200">
-      <br/>
       <br/>
       <br/>
       <img src="../sponsors/mexico_gov_logo.png" width="200" height="200">
