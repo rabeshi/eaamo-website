@@ -60,7 +60,7 @@ design:
       <br/>
       <img src="../sponsors/acm_logo.png" width="250" height="100">
     </div>
-    <div class="col-sm-4 mx-auto" style="text-align: center" width="120" height="100">
+    <div class="col-sm-4 mx-auto" style="display: inline-block;text-align: center" width="120" height="100">
       <br/>
       <img src="../sponsors/sigai.png" width="120" height="120">
     </div>
@@ -71,7 +71,7 @@ design:
     </div>
   </div>
   <div class="row mb-10 mx-auto">
-    <div class="col-sm-4" style="text-align: center" width="100" height="100">
+    <div class="col-sm-4" style="display: inline-block;text-align: center" width="100" height="100">
       <br/>
       <img src="../sponsors/gmu_logo.png" width="100" height="100">
     </div>
