@@ -34,5 +34,42 @@ design:
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 
 ---
-![Alfred P. Sloan Foundation](../sponsors/sloan_logo.png "Alfred P. Sloan Foundation Logo")
-![MacArthur Foundation](../sponsors/mcarthur_logo_logo.png "MacArthur Foundation Logo")
+<div class="container">
+  <div class="row mb-10 mx-auto">
+    <div class="col-sm-4 mx-auto" style="display:inline-block">
+      <strong style="text-align:center">Platinum sponsor</strong>
+      <br/>
+      <br/>
+      <img src="../sponsors/sloan_logo.png" width="400" height="160">
+    </div>
+    <div class="col-sm-4 mx-auto" style="display:inline-block">
+      <strong style="text-align:center">Platinum sponsor</strong>
+      <br/>
+      <br/>
+      <img src="../sponsors/mcarthur_logo.png" width="400" height="160">
+    </div>
+    <div class="col-sm-4 mx-auto" style="display:inline-block">
+      <strong style="text-align:center">Silver sponsor</strong>
+      <br/>
+      <img src="../sponsors/pit_logo.webp" width="400" height="160">
+    </div>
+  </div>
+  <div class="row mb-10 mx-auto">
+    <div class="col-sm-4" style="display:inline-block" width="300" height="160">
+      <br/>
+      <br/>
+      <br/>
+      <img src="../sponsors/acm_logo.svg">
+    </div>
+    <div class="col-sm-4 mx-auto" style="display:inline-block" width="300" height="160">
+      <br/>
+      <img src="../sponsors/sigai.png">
+    </div>
+    <div class="col-sm-4 mx-auto" style="display:inline-block">
+      <br/>
+      <br/>
+      <br/>
+      <img src="../sponsors/sigecom.png" width="300" height="160">
+    </div>
+  </div>
+</div>
