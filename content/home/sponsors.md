@@ -62,9 +62,9 @@ design:
       <br/>
       <img src="../sponsors/acm_logo.png" width="250" height="100">
     </div>
-    <div class="col-sm-4 mx-auto" style="display:inline-block" width="250" height="100">
+    <div class="col-sm-4 mx-auto" style="display:inline-block" width="120" height="100">
       <br/>
-      <img src="../sponsors/sigai.png" width="250" height="100">
+      <img src="../sponsors/sigai.png" width="120" height="120">
     </div>
     <div class="col-sm-4 mx-auto" style="display:inline-block" width="250" height="100">
       <br/>
@@ -74,21 +74,21 @@ design:
     </div>
   </div>
   <div class="row mb-10 mx-auto">
-    <div class="col-sm-4" style="display:inline-block" width="250" height="100">
+    <div class="col-sm-4" style="display:inline-block" width="100" height="100">
       <br/>
       <br/>
       <br/>
-      <img src="../sponsors/gmu_logo.png" width="250" height="100">
+      <img src="../sponsors/gmu_logo.png" width="100" height="100">
     </div>
-    <div class="col-sm-4 mx-auto" style="display:inline-block" width="250" height="100">
+    <div class="col-sm-4 mx-auto" style="display:inline-block" width="100" height="100">
       <br/>
-      <img src="../sponsors/anuites_logo.png" width="250" height="100">
+      <img src="../sponsors/anuites_logo.png" width="100" height="100">
     </div>
-    <div class="col-sm-4 mx-auto" style="display:inline-block">
+    <div class="col-sm-4 mx-auto" style="display:inline-block" width="100" height="100">
       <br/>
       <br/>
       <br/>
-      <img src="../sponsors/mexico_gov_logo.png" width="250" height="100">
+      <img src="../sponsors/mexico_gov_logo.png" width="100" height="100">
     </div>
   </div>
 </div>
