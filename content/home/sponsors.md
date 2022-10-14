@@ -37,19 +37,18 @@ design:
 <div class="container">
   <div class="row mb-10 mx-auto">
     <div class="col-sm-4 mx-auto" style="display:inline-block">
-      <strong style="text-align:center">Platinum sponsor</strong>
-      <br/>
-      <br/>
       <img src="../sponsors/sloan_logo.png" width="400" height="160">
     </div>
     <div class="col-sm-4 mx-auto" style="display:inline-block">
-      <strong style="text-align:center">Platinum sponsor</strong>
+      <br/>
       <br/>
       <br/>
       <img src="../sponsors/mcarthur_logo.png" width="400" height="160">
     </div>
     <div class="col-sm-4 mx-auto" style="display:inline-block">
-      <strong style="text-align:center">Silver sponsor</strong>
+      <br/>
+      <br/>
+      <br/>
       <br/>
       <img src="../sponsors/pit_logo.webp" width="400" height="160">
     </div>
@@ -59,11 +58,11 @@ design:
       <br/>
       <br/>
       <br/>
-      <img src="../sponsors/acm_logo.svg">
+      <img src="../sponsors/acm_logo.png" width="300" height="160">
     </div>
     <div class="col-sm-4 mx-auto" style="display:inline-block" width="300" height="160">
       <br/>
-      <img src="../sponsors/sigai.png">
+      <img src="../sponsors/sigai.png" width="300" height="160">
     </div>
     <div class="col-sm-4 mx-auto" style="display:inline-block">
       <br/>
