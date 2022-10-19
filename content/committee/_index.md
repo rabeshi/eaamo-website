@@ -82,3 +82,21 @@ header:
 ### Faculty Network Chairs
 - Nikhil Garg, Cornell Tech
 - Faidra Monachou, Harvard University
+
+### Area Chairs
+- Nikhil Garg, Cornell Tech
+- Elisabeth Paulson, Harvard University
+- Milena Almagro, University of Chicago, Booth School of Business
+- Neha Bairoliya, University of Southern California, Marshall School of Business
+- Michael Best, Columbia
+- Sam Taggart, Oberlin
+- Eric Chan, Babson
+- Fernando Delgado, Cornell University
+- Moritz Hardt, Max Planck Institute for Intelligent Systems, Tübingen
+- Allison Koenecke, Cornell Unviersity
+- Jack Hessel, Allen AI 
+- Matthew Olckers, UNSW
+- Alex Teytelboym, Oxford
+- Jose Correa, Universidad de Chile
+- Maria Rodriguez, University of Buffalo
+- Rebecca Wexler, University of California, Berkeley 
