@@ -68,7 +68,7 @@ Increasing the Demand for Workers with a Criminal Record
 [Algorithmic Reparation](acceptednonarchival/EAMO21_paper_135.pdf)  
 *Jenny L Davis, Apryl Williams and Michael Yang*
 
-Project 412Connect: Bridging Students and Communities  
+[Project 412Connect: Bridging Students and Communities](https://arxiv.org/abs/2109.06287)
 *Alex DiChristofano, Michael L. Hamilton, Sera Linardi and Mara F. McCloud*
 
 [Facing an Adult Problem: New Datasets for Fair Machine Learning](acceptednonarchival/EAMO21_paper_16.pdf)  
