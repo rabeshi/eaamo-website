@@ -42,7 +42,7 @@ We are thrilled to announce the following awards given at EAAMO'21:
 - [Facing an Adult Problem: New Datasets for Fair Machine Learning](../accepted/acceptednonarchival/EAMO21_paper_16.pdf)  
 *Frances Ding, Moritz Hardt, John Miller and Ludwig Schmidt*
 
-- [Project 412Connect: Bridging Students and Communities](https://arxiv.org/abs/2109.06287)
+- [Project 412Connect: Bridging Students and Communities](https://arxiv.org/abs/2109.06287)  
 *Alex DiChristofano, Michael L. Hamilton, Sera Linardi and Mara F. McCloud*
 
 ## Most Popular Poster
