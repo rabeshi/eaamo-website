@@ -39,6 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+- **EAAMO'22 Proceedings are now available in [ACM Digital Library](https://dl.acm.org/doi/proceedings/10.1145/3551624)**
 - **[Best Paper Awards](/awards)** have been announced!
 - **[Conference schedule](https://eaamo.org/schedule/)** is now available!
 - Registration is now live! Register at [this link](https://cvent.me/L94zQG) for early admission (reduced price until September 20).
