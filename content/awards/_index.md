@@ -27,3 +27,4 @@ The Best Paper with Student Presenter:
 The New Horizons Award that recognizes a paper that pushes the frontiers of AI research goes to:
 - [Dimensions of Diversity in Human Perceptions of Algorithmic Fairness](../../papers/grgic-hlaca-22.pdf) by *Nina Grgić-Hlača, Gabriel Lima, Adrian Weller and Elissa M. Redmiles*
 
+
