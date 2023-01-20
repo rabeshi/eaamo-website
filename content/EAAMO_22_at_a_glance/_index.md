@@ -41,11 +41,13 @@ Registration map. The countries of registrants are highlighted in blue.
 
 Financial assistance was given for fourty-five in-person and forty-one virtual registrations, sixteen travel grants, and twenty-three accommodation grants. The Registration and Grants Cochairs tried their best to ensure diversity, equality, and inclusion while giving grants, so students, researchers, and practitioners from a variety of countries and fields could have an opportunity to participate at EAAMO ’22.
 
-<img src='../images/registration_waivers.png' width="300" alt='The number of registration waivers.'>
+<!--<img src='../images/registration_waivers.png' width="300" alt='The number of registration waivers.'>
 
 <img src='../images/travel_awards.png' width="300" alt='The number of travel awards.'>
 
-<img src='../images/accommodation_grants.png' width="300" alt='The number of accommodation grants.'>
+<img src='../images/accommodation_grants.png' width="300" alt='The number of accommodation grants.'>-->
+
+<img src='../images/grants.png' alt='The number of grants.'>
 
 - - -
 
