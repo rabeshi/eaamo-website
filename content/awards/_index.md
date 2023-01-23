@@ -18,7 +18,6 @@ header:
 
 The Best Paper award winners are:
 - [Bias, Consistency, and Partisanship in U.S. Asylum Cases: A Machine Learning Analysis of Extraneous Factors in Immigration Court Decisions](../../papers/raman-4.pdf) by *Vyoma Raman, Catherine Vera and C.J. Manna*
-- Capping Mobile Data Access Creates Value for Bottom-of-the-Pyramid Consumers - Experimental Evidence from a Mumbai Settlement by *Alp Sungu and Kamalini Ramdas*
 
 The Best Paper with Student Presenter:
 - [Improving Access to Housing and Supportive Services for Runaway and Homeless Youth: Reducing Vulnerability to Human Trafficking in New York City](../../papers/kaya-8.pdf) by *Yaren Bilge Kaya, Kayse Maass, Geri Dimas, Renata Konrad, Andrew Trapp and Meredith Dank*
