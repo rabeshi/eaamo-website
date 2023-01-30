@@ -74,7 +74,7 @@ Navigation links:
 
 <img src='../copocyt/C1.jpg'>
 
-Poster: [“Perception and Knowledge of Linguistic Rights in Tének Youth”](https://eaamo.org/dc/dc_copocyt_maria_teresa_santiago.pdf)
+Poster: [“Perception and Knowledge of Linguistic Rights in Tének Youth”](https://eaamo.org/dc/dc_copocyt_maria_teresa_santiago.pdf)\
 Mentor: [Michelle González-Amador](https://www.merit.unu.edu/about-us/profile/?staff_id=2422)
 
 - Can you tell us more about your community? (Name, language, geography, some traditions, etc.)
@@ -116,7 +116,7 @@ Mentor: [Michelle González-Amador](https://www.merit.unu.edu/about-us/profile/?
 
 <img src='../copocyt/C2.jpg'>
 
-Poster: [“Equitable Housing for Indigeneous Tenek Communities”](https://eaamo.org/dc/dc_copocyt_nancy_santiago_santos.jpg)
+Poster: [“Equitable Housing for Indigeneous Tenek Communities”](https://eaamo.org/dc/dc_copocyt_nancy_santiago_santos.jpg)\
 Mentor: [Dr. Rubén Martínez Cárdenas](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx)
 
 - Can you tell us more about your community? (Name, language, geography, some traditions, etc.)
@@ -158,7 +158,7 @@ Mentor: [Dr. Rubén Martínez Cárdenas](https://www.dmu.ac.uk/about-dmu/academi
 
 <img src='../copocyt/C3.jpg'>
 
-Poster: [“Contextualizing Tuberculosis Medication Adherence in Indigenous Communities of the Huasteca Potosina: A Roadmap to Adequate AI-facilitated Approaches”](https://eaamo.org/dc/dc_copocyt_marlene_martinez.pdf)
+Poster: [“Contextualizing Tuberculosis Medication Adherence in Indigenous Communities of the Huasteca Potosina: A Roadmap to Adequate AI-facilitated Approaches”](https://eaamo.org/dc/dc_copocyt_marlene_martinez.pdf)\
 Mentor: [Dr. Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)
 
 - Can you tell us more about your community? (Name, language, geography, some traditions, etc.)
@@ -200,7 +200,7 @@ Mentor: [Dr. Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)
 
 <img src='../copocyt/C4.jpg'>
 
-Poster: [“Learning about Humanizing Childbirth from Pregnant Women in a Rural Community of Tancanhuitz, S.L.P.”](https://eaamo.org/dc/dc_copocyt_idalia_rojas_martinez.pdf)
+Poster: [“Learning about Humanizing Childbirth from Pregnant Women in a Rural Community of Tancanhuitz, S.L.P.”](https://eaamo.org/dc/dc_copocyt_idalia_rojas_martinez.pdf)\
 Mentor: [Dra. Tilsa Ore Monago](https://tilsaore.github.io/)
 
 - Can you tell us more about your community? (Name, language, geography, some traditions, etc.)
@@ -242,7 +242,7 @@ Mentor: [Dra. Tilsa Ore Monago](https://tilsaore.github.io/)
 
 <img src='../copocyt/C5.jpg'>
 
-Poster: [“Factors Associated with Senior Adult Malnutrition in an Indigenous Community of Tancanhuitz, S.L.P.”](https://eaamo.org/dc/dc_copocyt_leydi_rojas.pdf)
+Poster: [“Factors Associated with Senior Adult Malnutrition in an Indigenous Community of Tancanhuitz, S.L.P.”](https://eaamo.org/dc/dc_copocyt_leydi_rojas.pdf)\
 Mentors: [Dra. Tilsa Ore Monago](https://tilsaore.github.io/) and [Dra. Imelda Flores Vazquez](https://www.linkedin.com/in/dr-imelda-flores-vazquez-1a3262171/)
 
 - Can you tell us more about your community? (Name, language, geography, some traditions, etc.)
@@ -284,7 +284,7 @@ Mentors: [Dra. Tilsa Ore Monago](https://tilsaore.github.io/) and [Dra. Imelda F
 
 <img src='../copocyt/C6.jpg'>
 
-Poster: [“Contextualizing Tuberculosis Medication Adherence in Indigenous Communities of the Huasteca Potosina: A Roadmap to Adequate AI-facilitated Approaches”](https://eaamo.org/dc/dc_copocyt_marlene_martinez.pdf)
+Poster: [“Contextualizing Tuberculosis Medication Adherence in Indigenous Communities of the Huasteca Potosina: A Roadmap to Adequate AI-facilitated Approaches”](https://eaamo.org/dc/dc_copocyt_marlene_martinez.pdf)\
 Mentor: [Dr. Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)
 
 - Can you tell us more about your community? (Name, language, geography, some traditions, etc.)
@@ -326,7 +326,7 @@ Mentor: [Dr. Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)
 
 <img src='../copocyt/C7.jpg'>
 
-Poster: [“Dignified Housing: the Case of Housing Fraud against Indigenous Women in the Municipality of Xilitla, S.L.P, Mexico”](https://eaamo.org/dc/dc_copocyt_ruben_martinez_cardenas.pdf)
+Poster: [“Dignified Housing: the Case of Housing Fraud against Indigenous Women in the Municipality of Xilitla, S.L.P, Mexico”](https://eaamo.org/dc/dc_copocyt_ruben_martinez_cardenas.pdf)\
 Mentor: [Dr. Rubén Martínez Cárdenas](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx)
 
 - Can you tell us more about your community? (Name, language, geography, some traditions, etc.)
