@@ -27,25 +27,25 @@ This year’s students were selected with projects under the themes of: preserva
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" width='300' src="../copocyt/Picture1.jpg" alt="COPOCYT 1">
+      <img class="d-block w-50" src="../copocyt/Picture1.jpg" alt="COPOCYT 1">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" width='300' src="../copocyt/Picture2.jpg" alt="COPOCYT 2">
+      <img class="d-block w-50" src="../copocyt/Picture2.jpg" alt="COPOCYT 2">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" width='300' src="../copocyt/Picture3.jpg" alt="COPOCYT 3">
+      <img class="d-block w-50" src="../copocyt/Picture3.jpg" alt="COPOCYT 3">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" width='300' src="../copocyt/Picture4.jpg" alt="COPOCYT 4">
+      <img class="d-block w-50" src="../copocyt/Picture4.jpg" alt="COPOCYT 4">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" width='300' src="../copocyt/Picture5.jpg" alt="COPOCYT 5">
+      <img class="d-block w-50" src="../copocyt/Picture5.jpg" alt="COPOCYT 5">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" width='300' src="../copocyt/Picture6.jpg" alt="COPOCYT 6">
+      <img class="d-block w-50" src="../copocyt/Picture6.jpg" alt="COPOCYT 6">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" width='300' src="../copocyt/Picture7.jpg" alt="COPOCYT 7">
+      <img class="d-block w-50" src="../copocyt/Picture7.jpg" alt="COPOCYT 7">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
