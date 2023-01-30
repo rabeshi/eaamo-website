@@ -36,10 +36,16 @@ This program came about as the result of ongoing collaboration between EAAMO,  M
 
 We are particularly encouraged by the fact that our participation spanned 25 countries, with close to 20% participants coming from the Global South. The conference benefited from gender diversity as well, with approximately 55% of participants identifying as female. We believe these are excellent indicators of our success in  creating a conference that welcomes and centers members of marginalized and underrepresented communities.
 
-<img src='../images/registration_info.png' alt='The Registration info.'>
+<figure>
+  <img src='../images/registration_info.png' alt='The Registration info.'>
+  <figcaption>Fig. 1 - Registration info</figcaption>
+</figure>
 
 Registration map. The countries of registrants are highlighted in blue.
-<img src='../images/registrations.png' alt='The countries of registrants are highlighted in blue.'>
+<figure>
+  <img src='../images/registrations.png' alt='The countries of registrants are highlighted in blue.'>
+  <figcaption>Fig. 2 - The countries of registrants are highlighted in blue</figcaption>
+</figure>
 
 Financial assistance was given for fourty-five in-person and forty-one virtual registrations, sixteen travel grants, and twenty-three accommodation grants. The Registration and Grants Cochairs tried their best to ensure diversity, equality, and inclusion while giving grants, so students, researchers, and practitioners from a variety of countries and fields could have an opportunity to participate at EAAMO ’22.
 
@@ -49,7 +55,10 @@ Financial assistance was given for fourty-five in-person and forty-one virtual r
 
 <img src='../images/accommodation_grants.png' width="300" alt='The number of accommodation grants.'>-->
 
-<img src='../images/grants.png' alt='The number of grants.'>
+<figure>
+  <img src='../images/grants.png' alt='The number of grants.'>
+  <figcaption>Fig. 3 - The total number of grants per type</figcaption>
+</figure>
 
 - - -
 
