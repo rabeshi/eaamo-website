@@ -58,7 +58,7 @@ This year’s students were selected with projects under the themes of: preserva
   </a>
 </div>
 
-Links for navigation:
+Navigation links:
 
 [María Teresa Santiago Marcelino](#maría-teresa-santiago-marcelino)\
 [Nancy Santiago Santos](#nancy-santiago-santos)\
