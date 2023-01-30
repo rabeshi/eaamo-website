@@ -324,6 +324,8 @@ Mentor: [Dr. Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)
 
 ## Xóchilt Rosales Terán
 
+<img src='../copocyt/C7.jpg'>
+
 Poster: [“Dignified Housing: the Case of Housing Fraud against Indigenous Women in the Municipality of Xilitla, S.L.P, Mexico”](https://eaamo.org/dc/dc_copocyt_ruben_martinez_cardenas.pdf)
 Mentor: [Dr. Rubén Martínez Cárdenas](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx)
 
