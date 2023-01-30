@@ -27,25 +27,25 @@ This year’s students were selected with projects under the themes of: preserva
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-50" src="../copocyt/Picture1.jpg" alt="COPOCYT 1">
+      <img class="d-block w-100" src="../copocyt/Picture1.jpg" alt="COPOCYT 1">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-50" src="../copocyt/Picture2.jpg" alt="COPOCYT 2">
+      <img class="d-block w-100" src="../copocyt/Picture2.jpg" alt="COPOCYT 2">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-50" src="../copocyt/Picture3.jpg" alt="COPOCYT 3">
+      <img class="d-block w-100" src="../copocyt/Picture3.jpg" alt="COPOCYT 3">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-50" src="../copocyt/Picture4.jpg" alt="COPOCYT 4">
+      <img class="d-block w-100" src="../copocyt/Picture4.jpg" alt="COPOCYT 4">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-50" src="../copocyt/Picture5.jpg" alt="COPOCYT 5">
+      <img class="d-block w-100" src="../copocyt/Picture5.jpg" alt="COPOCYT 5">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-50" src="../copocyt/Picture6.jpg" alt="COPOCYT 6">
+      <img class="d-block w-100" src="../copocyt/Picture6.jpg" alt="COPOCYT 6">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-50" src="../copocyt/Picture7.jpg" alt="COPOCYT 7">
+      <img class="d-block w-100" src="../copocyt/Picture7.jpg" alt="COPOCYT 7">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -63,9 +63,10 @@ Navigation links:
 [María Teresa Santiago Marcelino](#maría-teresa-santiago-marcelino)\
 [Nancy Santiago Santos](#nancy-santiago-santos)\
 [Eira Krystel González Pérez](#eira-krystel-gonzález-pérez)\
-[Idalia Rojas M.](#idalia-rojas-m.)\
+[Idalia Rojas M.](#idalia-rojas-m)\
 [Leydi Rojas Martínez](#leydi-rojas-martínez)\
-[Edna Marlene Martinez Hernández](#edna-marlene-martinez-hernández)
+[Edna Marlene Martinez Hernández](#edna-marlene-martinez-hernández)\
+[Xóchilt Rosales Terán](#xóchilt-rosales-terán)
 
 - - -
 
@@ -318,3 +319,43 @@ Mentor: [Dr. Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)
 
 - What are some key memories you have from EAAMO?
 > My favorite memory was being able to present the poster pertaining to our Summer research. This allowed us to share our experiences with people from different universities and see the interest generated from our local realities.
+
+- - -
+
+## Xóchilt Rosales Terán
+
+Poster: [“Dignified Housing: the Case of Housing Fraud against Indigenous Women in the Municipality of Xilitla, S.L.P, Mexico”](https://eaamo.org/dc/dc_copocyt_ruben_martinez_cardenas.pdf)
+Mentor: [Dr. Rubén Martínez Cárdenas](https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx)
+
+- Can you tell us more about your community? (Name, language, geography, some traditions, etc.)
+> My community is called Tierra Blanca Fracción. We are of the Náhuatl ethnicity and we are located in the municipality of Xilitla, San Luis Potosí.
+
+- Can you tell us more about your family?
+> My mother’s name is Prisciliana and she is currently an auxiliary judge in our community. My father’s name is Asunción and he works in the fields. I have 4 brothers, two older and two younger, and I am the only daughter. 
+
+- What did you study?
+> Undergraduate degree in Law
+
+- Can you give us more details regarding your research area or research project?
+> My research project is focused on access to justice amongst indigenous women of the municipality of Xilitla, S.L.P. More specifically, I focus on criminal activity pertaining to housing fraud in my municipality in 2019.
+
+- What motivated you to work on your Summer project?
+> The need to fight for my people, for women and for the access to justice. 
+
+- What are some of the key challenges you have faced in the project or in the past more generally?
+> Organizing and obtaining interviews from victims was very difficult, since it is not easy to obtain authorization to talk about criminal problems and to expose these problems as well. 
+
+- What are some of the key findings from your project?
+> The level of confidence that women in our community have towards authorities is nonexistent. Women were not only affected in terms of their savings, but they were also deeply affected psychologically. Most of the women we talked to were also single mothers without steady streams of income. 
+
+- What is the future of your work?
+> I want to be an activist for the rights of indigenous communities. I want to give a voice to those who do not speak. 
+
+- How did you become involved with MD4SG/EAAMO?
+> The COPOCYT shared the call for proposals to work with MD4SG. 
+
+- What was your experience like at EAAMO?
+> It was an incredible experience to get to know researchers from all over the world, along with their projects. What most impacted me though is that each of them and each of us have a same goal… to fight and solve societal issues. 
+
+- What are some key memories you have from EAAMO?
+> What I most remember is simply getting to know other people from the conference, even when we did not speak the same language. We were able to connect through our respective projects, and I am glad to know that there are people from all over fighting to improve the world, and that we could coincide at a conference.
