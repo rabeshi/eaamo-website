@@ -36,6 +36,8 @@ This program came about as the result of ongoing collaboration between EAAMO,  M
 
 We are particularly encouraged by the fact that our participation spanned 25 countries, with close to 20% participants coming from the Global South. The conference benefited from gender diversity as well, with approximately 30% of participants identifying as women. We believe these are excellent indicators of our success in  creating a conference that welcomes and centers members of marginalized and underrepresented communities.
 
+<img src='../images/registration_info.png' alt='The Registration info.'>
+
 Registration map. The countries of registrants are highlighted in blue.
 <img src='../images/registrations.png' alt='The countries of registrants are highlighted in blue.'>
 
