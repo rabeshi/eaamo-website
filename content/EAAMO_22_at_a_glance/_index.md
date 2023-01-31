@@ -34,20 +34,19 @@ This program came about as the result of ongoing collaboration between EAAMO,  M
 
 ### Diversity in Participation
 
-We are particularly encouraged by the fact that our participation spanned 25 countries, with close to 20% participants coming from the Global South. The conference benefited from gender diversity as well, with approximately 55% of participants identifying as female. We believe these are excellent indicators of our success in  creating a conference that welcomes and centers members of marginalized and underrepresented communities.
+We are particularly encouraged by the fact that our participation spanned 25 countries (Figure 1), with close to 20% participants coming from the Global South. The conference benefited from gender diversity as well, with approximately 55% of participants identifying as female (Figure 2). We believe these are excellent indicators of our success in  creating a conference that welcomes and centers members of marginalized and underrepresented communities.
+
+<figure>
+  <img src='../images/registrations.png' alt='The countries of registrants are highlighted in blue.'>
+  <figcaption>Fig. 1 - The countries of registrants are highlighted in blue</figcaption>
+</figure>
 
 <figure>
   <img src='../images/registration_info.png' alt='The Registration info.'>
-  <figcaption>Fig. 1 - Registration info</figcaption>
+  <figcaption>Fig. 2 - Registration info</figcaption>
 </figure>
 
-Registration map. The countries of registrants are highlighted in blue.
-<figure>
-  <img src='../images/registrations.png' alt='The countries of registrants are highlighted in blue.'>
-  <figcaption>Fig. 2 - The countries of registrants are highlighted in blue</figcaption>
-</figure>
-
-Financial assistance was given for fourty-five in-person and forty-one virtual registrations, sixteen travel grants, and twenty-three accommodation grants. The Registration and Grants Cochairs tried their best to ensure diversity, equality, and inclusion while giving grants, so students, researchers, and practitioners from a variety of countries and fields could have an opportunity to participate at EAAMO ’22.
+Financial assistance was given for fourty-five in-person and forty-one virtual registrations, sixteen travel grants, and twenty-three accommodation grants (Figure 3). The Registration and Grants Cochairs tried their best to ensure diversity, equality, and inclusion while giving grants, so students, researchers, and practitioners from a variety of countries and fields could have an opportunity to participate at EAAMO ’22.
 
 <!--<img src='../images/registration_waivers.png' width="300" alt='The number of registration waivers.'>
 
