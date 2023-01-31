@@ -261,7 +261,7 @@ Mentoras: [Dra. Tilsa Ore Monago](https://tilsaore.github.io/) and [Dra. Imelda 
 > Al percatarme que en mi comunidad existen personas adultas mayores que tienen desnutrición, y que muchas de ellas no cuentan con los recursos necesarios para cubrir una alimentación balanceada de acuerdo a sus necesidades, me dí a la tarea de realizar esta pequeña investigación.
 
 - ¿Cuáles son algunos de los desafíos claves que has enfrentado?
-> Un desafío durante mi vida fue la discriminación cuando era estudiante de licenciatura por ser de comunidad indígena.
+> Uno de los desafíos que he enfrentado es la distancia física de mi comunidad, sobre todo porque actualmente estoy estudiando en otro estado, y mi comunidad me queda a 8 horas, la accesibilidad de costear los viajes si ha sido un gran desafio.
 
 - ¿Cuáles son algunos resultados clave de tu proyecto de verano?
 > Encontramos algunos factores que se asocian a mi problemática y estamos buscando la manera de implementar las acciones y poder contribuir a mejorar la calidad de vida en el adulto mayor

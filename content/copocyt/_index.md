@@ -92,7 +92,7 @@ Mentor: [Michelle González-Amador](https://www.merit.unu.edu/about-us/profile/?
 - What motivated you to work on your Summer project?
 > I was motivated to work on my project by the fact that I was precisely starting a summer course on the Tének language for children in primary and secondary schools in my community. Once I saw the call for proposals, I saw an opportunity to continue learning and to share my research with others who might be interested in it.
 
-- What are some of the key challenges you have faced in the project or in the past more generally?
+- What are some of the key challenges you have faced in the project?
 > The main challenge was to pick up old research once again, albeit with a different vision, more maturity and other perspectives.
 
 - What are some of the key findings from your project?
@@ -134,7 +134,7 @@ Mentor: [Dr. Rubén Martínez Cárdenas](https://www.dmu.ac.uk/about-dmu/academi
 - What motivated you to work on your Summer project?
 > I had already studied issues pertaining to elderly individuals in the community after working with pension departments of the federal government. Now in my graduate studies I am focusing the topic on how indigenous communities have more land ownership, despite which women often suffer from dispossession and abandonment. In my Summer project I am studying how to properly endow affordable housing for elderly indigenous women with sanitary infrastructure. 
 
-- What are some of the key challenges you have faced in the project or in the past more generally?
+- What are some of the key challenges you have faced in the project?
 > The biggest challenge I have faced is the physical distance from my community, especially since I am currently working in the capital of the state and my community is far from here. In particular, the time required and cost to travel to my community can be difficult. 
 
 - What are some of the key findings from your project?
@@ -176,7 +176,7 @@ Mentor: [Dr. Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)
 - What motivated you to work on your Summer project?
 > To bring relevant public health knowledge to my community and to contribute to a future in which we can eradicate or greatly decrease the incidence of this sickness.
 
-- What are some of the key challenges you have faced in the project or in the past more generally?
+- What are some of the key challenges you have faced in the project?
 > A key part of our project consisted of preparing a survey for 150 families in our community. Only 100 families accepted and received the corresponding information. In addition, the survey had a component that asked families whether they would be open to novel methods for tackling adherence, such as using mobile technology. This was difficult to contextualize due to the fact that many individuals surveyed do not even have access to mobile devices. 
 
 - What are some of the key findings from your project?
@@ -218,7 +218,7 @@ Mentor: [Dra. Tilsa Ore Monago](https://tilsaore.github.io/)
 - What motivated you to work on your Summer project?
 > I am motivated by the knowledge held by traditional midwives. I am interested in how they are able to facilitate respectful and humane childbirth in spite of the fact that they often lack further scientific studies, have cultural/language barriers, and operate in low-resourced settings. Respectful and humane childbirth is diminishing in certain communities as many women have suffered obstetric violence or simply are unaware of what legal rights they have pertaining to childbirth. 
 
-- What are some of the key challenges you have faced in the project or in the past more generally?
+- What are some of the key challenges you have faced in the project?
 > A great challenge for me was getting women to participate in my project in the first place. There were women who did not want to participate due to fear or shame. Furthermore, language barriers were a key issue, for women from a non-Tének speaking background were less likely to participate. A final challenge was simply the fact that women whom we wished to work with typically lacked the time to do so due to their working schedules. 
 
 - What are some of the key findings from your project?
@@ -260,7 +260,7 @@ Mentors: [Dra. Tilsa Ore Monago](https://tilsaore.github.io/) and [Dra. Imelda F
 - What motivated you to work on your Summer project?
 > I realized that there are many elderly adults in my community who suffer from malnutrition, and many of them do not have the necessary resources to cover a balanced diet according to their necessities. 
 
-- What are some of the key challenges you have faced in the project or in the past more generally?
+- What are some of the key challenges you have faced in the project?
 > A great challenge I faced during my life was discrimination against my indigenous background while I was studying my undergraduate degree in nursing. 
 
 - What are some of the key findings from your project?
@@ -302,7 +302,7 @@ Mentor: [Dr. Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)
 - What motivated you to work on your Summer project?
 > The ability to further expand my knowledge on this relevant public health problem for our community. 
 
-- What are some of the key challenges you have faced in the project or in the past more generally?
+- What are some of the key challenges you have faced in the project?
 > The biggest challenges we faced were with regards to public participation in our survey-based research as well as obtaining relevant permissions from local government. 
 
 - What are some of the key findings from your project?
@@ -344,7 +344,7 @@ Mentor: [Dr. Rubén Martínez Cárdenas](https://www.dmu.ac.uk/about-dmu/academi
 - What motivated you to work on your Summer project?
 > The need to fight for my people, for women and for the access to justice. 
 
-- What are some of the key challenges you have faced in the project or in the past more generally?
+- What are some of the key challenges you have faced in the project?
 > Organizing and obtaining interviews from victims was very difficult, since it is not easy to obtain authorization to talk about criminal problems and to expose these problems as well. 
 
 - What are some of the key findings from your project?
