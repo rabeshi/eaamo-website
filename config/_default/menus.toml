@@ -98,16 +98,28 @@
   weight = 40
 
 [[main]]
+  name = "EAAMO Archive"
+  identifier = "eaamo_archive"
+  weight = 50
+
+[[main]]
+  name = "EAAMO 2022"
+  url = "https://eaamo2022.eaamo.org"
+  weight = -10
+  parent = "eaamo_archive"
+
+[[main]]
   name = "EAAMO 2021"
   url = "https://eaamo2021.eaamo.org"
-  weight = 50
+  weight = -20
+  parent = "eaamo_archive"
 
 [[main]]
   name = "MD4SG"
   url = "https://md4sg.com"
   weight = 60
 
-  [[main]]
+[[main]]
   name = "EAAMO at a glance"
   url = "EAAMO_22_at_a_glance"
   weight = 70
