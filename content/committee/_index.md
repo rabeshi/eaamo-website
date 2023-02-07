@@ -117,7 +117,7 @@ header:
 - Mario Banuelos , Fresno State University
 - Michael Best, Georgia Institute of Technology
 - Cami Bohorquez, Fundación Ceiba
-- Patricia Cabero Tapia, 
+- Patricia Cabero Tapia
 - Caterina Calsamiglia, Barcelona IPEG
 - Augustin Chaintreau, Columbia University 
 - Hau Chan , Univeristy of Nebraska-Lincoln
