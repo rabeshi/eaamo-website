@@ -100,3 +100,108 @@ header:
 - Jose Correa, Universidad de Chile
 - Maria Rodriguez, University of Buffalo
 - Rebecca Wexler, University of California, Berkeley 
+
+- - -
+
+### Program Committee
+
+- Swati Gupta, Georgia Institute of Technology
+- Smitha Milli, University of California at Berkeley
+- Robbie Netzorg,University of California at Berkeley
+- Stratis Tsirtsis, Max Planck Institute for Software Systems
+- Andrés Abeliuk, Universidad de Chile
+- Sina Aghaei, University of Southern California
+- Nick Arnosti, Columbia University 
+- Itai Ashlagi, Stanford University 
+- Sid Banerjee, Cornell University 
+- Mario Banuelos , Fresno State University
+- Michael Best, Georgia Institute of Technology
+- Cami Bohorquez, Fundación Ceiba
+- Patricia Cabero Tapia, 
+- Caterina Calsamiglia, Barcelona IPEG
+- Augustin Chaintreau, Columbia University 
+- Hau Chan , Univeristy of Nebraska-Lincoln
+- Tinglong Dai, John Hopkins University
+- Krishna Dasaratha, Harvard University
+- Bikramaditya Datta, IIT Kanpur
+- John Dickerson, University of Maryland
+- Kate Donahue, Cornell University
+- Alon Eden , Harvard University
+- Edith Elkind, Oxford University
+- Wedad Elmaghraby, University of Maryland
+- Meryem Essaidi, Princeton University
+- Elizabeth Evans, Cayenna Capital
+- Jessie Finocchiaro, University of Colorado Boulder
+- Abie Flaxman, University of Washington
+- Neil Gaikwad, MIT Media Lab
+- Paul Gölz, Carnegie Mellon University
+- Michelle Gonzalez Amador, Maastricht University
+- Alban Grastien, Australia National University
+- Michael Hamilton, University of Pittsburgh
+- Moritz Hardt, Max Planck Institute for Intelligent Systems
+- Yoan Hermstrüwer, Max Planck Institute for Software Systems
+- Jack Hessel, Allen AI
+- Jonas Israel, Technical University of Berlin
+- Kenny Joseph, University of Buffalo
+- Marc Juarez, University of Southern California
+- Anson Kahng, Carnegie Mellon University
+- Adam Kapor, Princeton University
+- Atoosa Kasirzadeh, Australia National University and University of Toronto
+- Sara Kingsley, Carnegie Mellon University
+- Lynn Kirabo, Carnegie Mellon University
+- Marlene Koffi, University of Toronto
+- Aviv Landau, Columbia University
+- Seth Lazar, Australia National University
+- David Lee, University of California Santa Cruz
+- Michael Lewis, City University of New York at Buffalo
+- Wanyi Li, Stanford University
+- Edwin Lock, Oxford University
+- Dina Machuve, Nelson Mandela Inst
+- Roland Maio, Columbia University
+- Amelie Marian, Rutgers University
+- Siva Mathiyazhagan, Columbia University
+- Nick Mattei, Tulane University
+- Duncan McElfresh, University of Maryland
+- Teddy Mekonnen, Brown University
+- Faidra Monachou, Stanford University
+- Ken Moon, University of Pennsylvania
+- Nyalleng Moorosi, Google
+- Zanele Munyikwa, MIT
+- Suresh Naidu, Columbia University
+- Abdoulaye Ndiaye, New York University
+- Diana Negoescu, LinkedIn
+- Christopher Neilson, Princeton University
+- George Obaido, University of California at Berkeley
+- Chinasa Okolo, Cornell University
+- Matt Olckers, Monash University
+- Tilsa Ore-Monago, Rice University
+- Bobby Pakzad-Hurson, Brown University
+- Gourab Patro, IIT Kanpur
+- Elisabeth Paulson, MIT
+- Manolis Pountourakis, Drexel University
+- Jose R. Correa, Universidad de Chile
+- Manish Raghavan, Cornell University
+- Aida Ramahtallabi, University of Southern California
+- Sekou Remy, IBM Africa
+- Alejandro Robinson-Cortes, University of Exeter
+- Scott Rodilitz, Yale University
+- Maria Rodriguez, U at Buffalo
+- Daniela Saban, Stanford University
+- Melanie Sage , University of Buffalo
+- Jacob Schoeffer, Karlsruhe Institute of Technology (KIT)
+- Rajiv Sethi, Barnard/Columbia
+- Zhaowei She, Georgia Tech
+- Harvineet Singh, New York University
+- Somya Singhvi, University of Southern California
+- Karen Smilowitz, Northwestern University
+- Eric Sodomka, Facebook Research
+- Harini Suresh, MIT
+- Alex Teytelboym, Oxford University
+- Neil Thakral, Brown University
+- Kentaro Toyama, University Michigan
+- Winnie van Dijk, Harvard University
+- Serena Wang, University of California at Berkeley
+- Ingmar Weber, Qatar Computing Research Institute
+- James Wright, University of Alberta
+- Can Zhang, Duke University
+- Juba Ziani, Georgia Institute of Technology
