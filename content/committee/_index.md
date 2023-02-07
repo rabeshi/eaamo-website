@@ -187,7 +187,7 @@ header:
 - Scott Rodilitz, Yale University
 - Maria Rodriguez, University at Buffalo
 - Daniela Saban, Stanford University
-- Melanie Sage , University of Buffalo
+- Melanie Sage, University of Buffalo
 - Jacob Schoeffer, Karlsruhe Institute of Technology (KIT)
 - Rajiv Sethi, Barnard/Columbia
 - Zhaowei She, Georgia Tech
