@@ -98,9 +98,15 @@
   weight = 40
 
 [[main]]
-  name = "EAAMO Archive"
+  name = "EAAMO Archives"
   identifier = "eaamo_archive"
   weight = 50
+
+[[main]]
+  name = "EAAMO 22 at a glance"
+  url = "EAAMO_22_at_a_glance"
+  weight = -30
+  parent = "eaamo_archive"
 
 [[main]]
   name = "EAAMO 2022"
@@ -118,11 +124,6 @@
   name = "MD4SG"
   url = "https://md4sg.com"
   weight = 60
-
-[[main]]
-  name = "EAAMO at a glance"
-  url = "EAAMO_22_at_a_glance"
-  weight = 70
 
 
 # Link to a PDF of your resume/CV from the menu.
