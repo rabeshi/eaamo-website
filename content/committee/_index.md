@@ -107,26 +107,26 @@ header:
 
 - Swati Gupta, Georgia Institute of Technology
 - Smitha Milli, University of California at Berkeley
-- Robbie Netzorg,University of California at Berkeley
+- Robbie Netzorg, University of California at Berkeley
 - Stratis Tsirtsis, Max Planck Institute for Software Systems
 - Andrés Abeliuk, Universidad de Chile
 - Sina Aghaei, University of Southern California
 - Nick Arnosti, Columbia University 
 - Itai Ashlagi, Stanford University 
 - Sid Banerjee, Cornell University 
-- Mario Banuelos , Fresno State University
+- Mario Banuelos, Fresno State University
 - Michael Best, Georgia Institute of Technology
 - Cami Bohorquez, Fundación Ceiba
 - Patricia Cabero Tapia
 - Caterina Calsamiglia, Barcelona IPEG
 - Augustin Chaintreau, Columbia University 
-- Hau Chan , Univeristy of Nebraska-Lincoln
+- Hau Chan, Univeristy of Nebraska-Lincoln
 - Tinglong Dai, John Hopkins University
 - Krishna Dasaratha, Harvard University
 - Bikramaditya Datta, IIT Kanpur
 - John Dickerson, University of Maryland
 - Kate Donahue, Cornell University
-- Alon Eden , Harvard University
+- Alon Eden, Harvard University
 - Edith Elkind, Oxford University
 - Wedad Elmaghraby, University of Maryland
 - Meryem Essaidi, Princeton University
@@ -185,7 +185,7 @@ header:
 - Sekou Remy, IBM Africa
 - Alejandro Robinson-Cortes, University of Exeter
 - Scott Rodilitz, Yale University
-- Maria Rodriguez, U at Buffalo
+- Maria Rodriguez, University at Buffalo
 - Daniela Saban, Stanford University
 - Melanie Sage , University of Buffalo
 - Jacob Schoeffer, Karlsruhe Institute of Technology (KIT)
