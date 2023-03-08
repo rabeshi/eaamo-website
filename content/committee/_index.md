@@ -31,6 +31,8 @@ To be added.
 - [Sera Linardi](http://www.linardi.gspia.pitt.edu/), University of Pittsburgh
 - [Irene Lo](https://sites.google.com/view/irene-lo), Stanford University
 - [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Columbia University
+- [George Obaido](https://www.georgeobaido.com/), University of California Berkeley
+- [Araba Sey](https://tascha.uw.edu/people/araba-sey/), University of Washington Information School
 
 - - -
 
