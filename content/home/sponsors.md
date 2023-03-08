@@ -34,7 +34,7 @@ design:
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 
 ---
-<div class="container">
+<!--<div class="container">
   <div class="row mb-10 mx-auto">
     <div class="col-sm-4 mx-auto" style="display:inline-block">
       <br/>
@@ -85,4 +85,4 @@ design:
       <img src="../sponsors/mexico_gov_logo.png" width="200" height="200">
     </div>
   </div>
-</div>
+</div>-->

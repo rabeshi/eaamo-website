@@ -9,88 +9,14 @@
   weight = 10
 
 [[main]]
- identifier = "callforpapers"
- name = "Call for Papers"
- url = "cfp"
- weight = 20
-
-[[main]]
   name = "Call for Participation"
   url = "cfp"
-  weight = 10
-  parent = "callforpapers"
-
-[[main]]
-  name = "Camera-ready Paper Instructions"
-  url = "camera_ready"
   weight = 20
-  parent = "callforpapers"
-
-[[main]]
-  identifier = "program"
-  name = "Program"
-  url = "speakers"
-  weight = 30
-
-[[main]]
-  name = "Conference Schedule"
-  url = "schedule"
-  weight = 10
-  parent = "program"
-
-[[main]]
-  name = "Keynote and Panel Speakers"
-  url = "speakers"
-  weight = 20
-  parent = "program"
-
-[[main]]
-  name = "Accepted Papers and Posters"
-  url = "papers"
-  weight = 30
-  parent = "program"
-
-[[main]]
-  name = "Best paper awards"
-  url = "awards"
-  weight = 40
-  parent = "program"
-
-[[main]]
-  name = "Doctoral Consortium"
-  url = "doctoral_consortium"
-  weight = 50
-  parent = "program"
-
-[[main]]
- identifier = "participation"
- name = "Participation"
- url = ""
- weight = 30
-
-[[main]]
-  name = "Registration"
-  url = "registration"
-  weight = 10
-  parent = "participation"
-
-[[main]]
-  name = "Venue"
-  url = "venue"
-  weight = 20
-  parent = "participation"
-
-[[main]]
-  name = "Virtual Venue"
-  url = "virtual_venue"
-  weight = 30
-  parent = "participation"
 
 [[main]]
   name = "Policies"
   url = "policies"
-  weight = 40
-  parent = "participation"
+  weight = 30
 
 [[main]]
   name = "Committees"
