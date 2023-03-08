@@ -20,6 +20,6 @@ design:
   columns: '2'
 ---
 
-For questions about the conference logistics: gc@eaamo.org.  
-For questions about the conference program: pc@eaamo.org.  
+For questions about the conference logistics: gc23@eaamo.org.  
+For questions about the conference program: pc23@eaamo.org.  
 For general questions about the conference: ec@eaamo.org.  
