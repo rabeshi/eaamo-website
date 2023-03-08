@@ -23,7 +23,7 @@ To be added.
 To be added.
 
 ## Executive Committee:
-- [Rediet Abebe](https://www.cs.cornell.edu/~red/), University of California Berkeley & Harvard Society of Fellows
+- [Rediet Abebe](https://www.cs.cornell.edu/~red/), Harvard Society of Fellows
 - [Kira Goldner](https://www.kiragoldner.com/), Boston University
 - [Maximilian Kasy](https://maxkasy.github.io/home/), University of Oxford
 - [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), Cornell University
@@ -42,5 +42,4 @@ To be added.
 - - -
 
 ### Program Committee
-
 To be added.
