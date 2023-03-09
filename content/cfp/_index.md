@@ -16,11 +16,11 @@ header:
   image: ""
 ---
 
-(Kiswahili) Wito wa Ushiriki (link to be added)
+<!-- (Kiswahili) Wito wa Ushiriki (link to be added)
 
 (Español) Convocatoria (link to be added)
 
-(Portuguese) Chamada a participação (link to be added)
+(Portuguese) Chamada a participação (link to be added) -->
 
 The third ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization ([EAAMO '23](https://eaamo.org)) will take place October 30 - November 1, 2023 at Boston University in Boston, MA, USA.
 

@@ -34,6 +34,21 @@ design:
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 
 ---
+
+<div class="container">
+  <div class="row mb-10 mx-auto">
+    <div class="col-sm-4 mx-auto" style="display:inline-block;text-align: center" width="120" height="100">
+      <br/>
+      <img src="../sponsors/sigai.png" style="display:inline-block;text-align: center" width="120" height="120">
+    </div>
+    <div class="col-sm-4 mx-auto" style="display:inline-block" width="250" height="100">
+      <br/>
+      <br/>
+      <img src="../sponsors/sigecom.png" width="250" height="100">
+    </div>
+  </div>
+</div>
+
 <!--<div class="container">
   <div class="row mb-10 mx-auto">
     <div class="col-sm-4 mx-auto" style="display:inline-block">
