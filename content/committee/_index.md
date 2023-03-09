@@ -17,7 +17,10 @@ header:
 ---
 
 ## Program Co-Chairs:
-To be added.
+- [Vahideh Manshadi](https://vahideh-manshadi.com/), Yale University
+- [Celestine Mendler-Dünner](http://www.celestine.ai/), Max Planck Institute for Intelligent Systems
+- [Elissa Redmiles](https://elissaredmiles.com/), Max Planck Institute for Intelligent Systems
+- [Maria Rodriguez](https://socialwork.buffalo.edu/faculty-research/full-time-faculty/maria-rodriguez.html), University at Buffalo
 
 ## General Chair:
 To be added.
