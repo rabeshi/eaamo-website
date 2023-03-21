@@ -34,7 +34,7 @@ We solicit submissions in the **research track** and **policy and practice track
 - Submission Notification: **18 July 2023**
 - Event Dates: **30 October - 1 November 2023**
 
-The deadline for submissions is <span style="color:red">**May 10 2023**</span>.
+The deadline for submissions is <span style="color:red">**May 10, 2023**</span>.
 
 ## Areas of Interest
 
