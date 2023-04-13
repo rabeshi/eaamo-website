@@ -22,8 +22,9 @@ header:
 - [Elissa Redmiles](https://elissaredmiles.com/), Max Planck Institute for Intelligent Systems
 - [Maria Rodriguez](https://socialwork.buffalo.edu/faculty-research/full-time-faculty/maria-rodriguez.html), University at Buffalo
 
-## General Chair:
-To be added.
+## General Chairs:
+- [Abraham Flaxman](https://globalhealth.washington.edu/faculty/abraham-flaxman), University of Washington
+- [Adam Smith](https://www.bu.edu/cs/profiles/adam-smith/), Boston University 
 
 ## Executive Committee:
 - [Rediet Abebe](https://www.cs.cornell.edu/~red/), Harvard Society of Fellows
