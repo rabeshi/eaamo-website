@@ -37,7 +37,7 @@ header:
 - [Irene Lo](https://sites.google.com/view/irene-lo), Stanford University
 - [George Obaido](https://www.georgeobaido.com/), University of California Berkeley
 - [Araba Sey](https://tascha.uw.edu/people/araba-sey/), University of Washington Information School
-- [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Max Planck Institute for Intelligen Systems
+- [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Max Planck Institute for Intelligent Systems
 
 - - -
 
