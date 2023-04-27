@@ -42,7 +42,22 @@ header:
 - - -
 
 ### Area Chairs
-To be added.
+- Alex Teytelboym, Oxford
+- Can Zhang, Duke University
+- Caterina Calsamiglia, IPEG
+- Elisabeth Paulson, Harvard University
+- Faidra Monachou, Stanford University
+- Ingmar Weber, Qatar Computing Research Institute
+- John Dickerson, University of Maryland
+- Juba Ziani, Georgia Tech
+- Krishna Dasaratha, BU
+- Manish Raghavan, MIT
+- Michael Best, Columbia
+- Nick Vincent, Northwestern
+- Nina Grgic-Hlaca, Max Planck Institute for Software Systems
+- Smitha Milli, Cornell Tech
+
+(more will be provided)
 
 - - -
 
