@@ -47,7 +47,7 @@ header:
 - Caterina Calsamiglia, IPEG
 - Elisabeth Paulson, Harvard University
 - Faidra Monachou, Stanford University
-- Ingmar Weber, Qatar Computing Research Institute
+- Ingmar Weber, Saarland University
 - John Dickerson, University of Maryland
 - Juba Ziani, Georgia Tech
 - Krishna Dasaratha, BU
@@ -56,6 +56,7 @@ header:
 - Nick Vincent, Northwestern
 - Nina Grgic-Hlaca, Max Planck Institute for Software Systems
 - Smitha Milli, Cornell Tech
+- Bobby Pakzad-Hurson, Brown University
 
 (more will be provided)
 
