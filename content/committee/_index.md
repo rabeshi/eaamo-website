@@ -42,22 +42,22 @@ header:
 - - -
 
 ### Area Chairs
+- Michael Best, Columbia University
 - Caterina Calsamiglia, IPEG
-- Krishna Dasaratha, BU
+- Krishna Dasaratha, Boston University
 - John Dickerson, University of Maryland
 - Nina Grgic-Hlaca, Max Planck Institute for Software Systems
-- Christoph Kern, USGS
+- Christoph Kern, Ludwig Maximilian University of Munich
 - Smitha Milli, Cornell Tech
 - Faidra Monachou, Stanford University
+- Bobby Pakzad-Hurson, Brown University
 - Elisabeth Paulson, Harvard University
 - Manish Raghavan, MIT
-- Can Zhang, Duke University
 - Alex Teytelboym, Oxford
-- Bobby Pakzad-Hurson, Brown University
-- Michael Best, Columbia
 - Nick Vincent, UC Davis
-- Juba Ziani, Georgia Tech
 - Ingmar Weber, Saarland University
+- Juba Ziani, Georgia Tech
+- Can Zhang, Duke University
 
 - - -
 
