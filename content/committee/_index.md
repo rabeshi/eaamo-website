@@ -42,23 +42,22 @@ header:
 - - -
 
 ### Area Chairs
-- Alex Teytelboym, Oxford
-- Can Zhang, Duke University
 - Caterina Calsamiglia, IPEG
-- Elisabeth Paulson, Harvard University
-- Faidra Monachou, Stanford University
-- Ingmar Weber, Saarland University
-- John Dickerson, University of Maryland
-- Juba Ziani, Georgia Tech
 - Krishna Dasaratha, BU
-- Manish Raghavan, MIT
-- Michael Best, Columbia
-- Nick Vincent, Northwestern
+- John Dickerson, University of Maryland
 - Nina Grgic-Hlaca, Max Planck Institute for Software Systems
+- Christoph Kern, USGS
 - Smitha Milli, Cornell Tech
+- Faidra Monachou, Stanford University
+- Elisabeth Paulson, Harvard University
+- Manish Raghavan, MIT
+- Can Zhang, Duke University
+- Alex Teytelboym, Oxford
 - Bobby Pakzad-Hurson, Brown University
-
-(more will be provided)
+- Michael Best, Columbia
+- Nick Vincent, UC Davis
+- Juba Ziani, Georgia Tech
+- Ingmar Weber, Saarland University
 
 - - -
 
