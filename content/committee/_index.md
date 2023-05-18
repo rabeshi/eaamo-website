@@ -46,7 +46,7 @@ header:
 - Caterina Calsamiglia, IPEG
 - Krishna Dasaratha, Boston University
 - John Dickerson, University of Maryland
-- Nina Grgic-Hlaca, Max Planck Institute for Software Systems
+- Nina Grgić-Hlača, Max Planck Institute for Software Systems
 - Christoph Kern, Ludwig Maximilian University of Munich
 - Smitha Milli, Cornell Tech
 - Faidra Monachou, Stanford University
