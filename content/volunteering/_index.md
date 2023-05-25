@@ -49,6 +49,6 @@ Join EAAMO Conference 2023 as a volunteer and be part of an enriching academic c
 
 - - -
 
-Please apply for volunteering using this [link](https://docs.google.com/forms/d/e/1FAIpQLScbl8POKXDuzIrtgujEb0hYW84Fj15iTbTs3t8cMfuvdBAHfA/viewform).
+Please apply for volunteering using this **[link](https://docs.google.com/forms/d/e/1FAIpQLScbl8POKXDuzIrtgujEb0hYW84Fj15iTbTs3t8cMfuvdBAHfA/viewform)**.
 
 - - -

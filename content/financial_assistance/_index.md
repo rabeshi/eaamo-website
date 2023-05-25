@@ -31,7 +31,7 @@ As we anticipate a high demand for travel grants, we kindly request that individ
 The application will be available up to <span style="color:red">**August 10, 2023**</span>.
 The travel grant chairs will carefully analyze every application and decide by the **end of August**.
 
-Please apply for financial assistence using this [link](https://docs.google.com/forms/d/e/1FAIpQLSdDPDae4pspkE6fd9ALp1oVM0JKhCCfLIBLhL5NnDLMrc18YA/viewform).
+Please apply for financial assistence using this **[link](https://docs.google.com/forms/d/e/1FAIpQLSdDPDae4pspkE6fd9ALp1oVM0JKhCCfLIBLhL5NnDLMrc18YA/viewform)**.
 
 - - -
 
