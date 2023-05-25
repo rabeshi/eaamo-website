@@ -46,6 +46,10 @@ The EAAMO Conference 2023 is seeking dedicated volunteers to contribute to its s
 
 Join EAAMO Conference 2023 as a volunteer and be part of an enriching academic community. Help us create an exceptional event for all participants. Register now and make a meaningful impact!
 
+- - -
+
 Please apply for volunteering using this [link](https://docs.google.com/forms/d/e/1FAIpQLScbl8POKXDuzIrtgujEb0hYW84Fj15iTbTs3t8cMfuvdBAHfA/viewform).
+
+- - - 
 
 Thank you for applying for EAAMO'23 and for helping us on this journey toward creating a truly diverse and inclusive conference experience at EAAMO'23. We look forward to welcoming you and collaborating with you to make this event a resounding success.

@@ -24,9 +24,13 @@ To handle the financial support process efficiently, we have dedicated travel gr
 
 As we anticipate a high demand for travel grants, we kindly request that individuals apply for funding only if they do not have alternative resources to support their participation. If possible, we encourage applicants to seek funding from their own institutions or alternative sources. Additionally, we ask that applicants consider the minimum amount necessary to attend the conference, taking into account travel, accommodation, and subsistence costs. This approach ensures that we can fulfill the needs and support as many individuals as possible.
 
+- - -
+
 The application will be available up to <span style="color:red">**August 10, 2023**</span>.
 The travel grant chairs will carefully analyze every application and decide by the **end of August**.
 
 Please apply for financial assistence using this [link](https://docs.google.com/forms/d/e/1FAIpQLSdDPDae4pspkE6fd9ALp1oVM0JKhCCfLIBLhL5NnDLMrc18YA/viewform).
+
+- - -
 
 Thank you for joining us on this journey toward creating a truly diverse and inclusive conference experience at EAAMO'23. We look forward to welcoming you and collaborating with you to make this event a resounding success.
