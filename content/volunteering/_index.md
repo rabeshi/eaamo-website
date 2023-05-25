@@ -36,13 +36,14 @@ The EAAMO Conference 2023 is seeking dedicated volunteers to contribute to its s
 **Social Media Positions:**
 
 - Twitter Announcements Curator (Pre-conference): Create engaging posts for announcements, curate threads about keynote speakers and session themes.
-- Throwbacks Curator (Pre-conference): Share #EAAMO2021-related content to generate excitement.
+- Throwbacks Curator (Pre-conference): Share #EAAMO2023-related content to generate excitement.
 - Day Captains (During the conference): Manage social media queries and approve posts during assigned time periods.
 - Session Tweeting (During the conference): Live-tweet sessions to provide real-time updates and insights.
 - Quick Response (Session Support) (During the conference): Assist session chairs and respond to social media queries promptly.
 - Audience Interaction Profiles (During the conference): Conduct interviews with attendees for post-conference write-ups.
 - Session/Keynote Summaries (Post-conference): Write social media posts and blogs summarizing sessions and keynotes.
-- Note: Registration and A/V volunteer roles require in-person attendance. If you have travel and accommodation covered, consider these roles along with others.
+
+Note: Registration and A/V volunteer roles require in-person attendance. If you have travel and accommodation covered, consider these roles along with others.
 
 Join EAAMO Conference 2023 as a volunteer and be part of an enriching academic community. Help us create an exceptional event for all participants. Register now and make a meaningful impact!
 
@@ -50,6 +51,4 @@ Join EAAMO Conference 2023 as a volunteer and be part of an enriching academic c
 
 Please apply for volunteering using this [link](https://docs.google.com/forms/d/e/1FAIpQLScbl8POKXDuzIrtgujEb0hYW84Fj15iTbTs3t8cMfuvdBAHfA/viewform).
 
-- - - 
-
-Thank you for applying for EAAMO'23 and for helping us on this journey toward creating a truly diverse and inclusive conference experience at EAAMO'23. We look forward to welcoming you and collaborating with you to make this event a resounding success.
+- - -

@@ -18,6 +18,8 @@ header:
 
 At EAAMO'23, we strive to create an inclusive and accessible conference where everyone has an opportunity to participate and contribute. We firmly believe that diversity enriches our conference, and we are eager to collaborate with participants to create a welcoming and inclusive environment for all. As part of our commitment to promoting diversity and removing barriers to attendance, we are delighted to offer financial assistance to individuals in need. We understand that attending conferences can incur expenses, and we want to ensure that financial limitations do not prevent deserving individuals from joining us.
 
+- - -
+
 Our financial assistance program includes two options: a **registration fee waiver** and/or a **travel grant**. The registration fee waiver eliminates the cost of attending the conference, allowing individuals to participate at EAAMO'23. The travel grant provides additional support to cover travel, accommodation, and subsistence costs associated with attending EAAMO'23.
 
 To handle the financial support process efficiently, we have dedicated travel grant chairs who will promptly respond to inquiries and provide assistance. They are committed to addressing any questions or concerns regarding the financial support application process.
