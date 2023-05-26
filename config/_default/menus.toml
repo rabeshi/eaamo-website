@@ -10,8 +10,26 @@
 
 [[main]]
   name = "Call for Participation"
-  url = "cfp"
+  identifier = "call_for_participation"
   weight = 20
+
+[[main]]
+  name = "Call for Papers"
+  url = "cfp"
+  weight = 10
+  parent = "call_for_participation"
+
+[[main]]
+  name = "Financial Assistance"
+  url = "financial_assistance"
+  weight = 20
+  parent = "call_for_participation"
+
+[[main]]
+  name = "Call for Volunteering"
+  url = "volunteering"
+  weight = 30
+  parent = "call_for_participation"
 
 [[main]]
   name = "Policies"
