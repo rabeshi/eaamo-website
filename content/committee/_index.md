@@ -43,23 +43,109 @@ header:
 
 ### Area Chairs
 - Michael Best, Columbia University
-- Caterina Calsamiglia, IPEG
-- Krishna Dasaratha, Boston University
+- Caterina Calsamiglia, CEMFI
+- Krishna Dasaratha, Harvard University
 - John Dickerson, University of Maryland
-- Nina Grgić-Hlača, Max Planck Institute for Software Systems
-- Christoph Kern, Ludwig Maximilian University of Munich
-- Smitha Milli, Cornell Tech
-- Faidra Monachou, Stanford University
+- Nina Grgic-Hlaca, Max Planck Institute for Software Systems (MPI-SWS)
+- Yoan Hermstrüwer, University of Zurich
+- Christoph Kern, LMU Munich
+- Smitha Milli, University of California, Berkeley
+- Faidra Monachou, Yale University
 - Bobby Pakzad-Hurson, Brown University
 - Elisabeth Paulson, Harvard University
 - Manish Raghavan, MIT
-- Alex Teytelboym, Oxford
-- Nick Vincent, UC Davis
+- Sekou Remy, IBM
+- Alex Teytelboym, University of Oxford
+- Dhanaraj Thakur, Center for Democracy & Technology
+- Mamello Thinyane, United Nations University institute on Computing and Society
+- Nick Vincent, Northwestern University
 - Ingmar Weber, Saarland University
-- Juba Ziani, Georgia Tech
+- Lirong Xia, RPI
 - Can Zhang, Duke University
+- Juba Ziani, Georgia Institute of Technology
+- Miri Zilka, University of Cambridge
 
 - - -
 
 ### Program Committee
-To be added.
+- Andrés	Abeliuk, University of Chile
+- Maxwell	Allman, Stanford University
+- Michelle	Amador, UNU-MERIT
+- Itai	Ashlagi, Stanford University
+- Jackie	Baek, MIT
+- Mario	Banuelos, California State University, Fresno
+- Michael	Blair, Yale University
+- Cami	Bohorquez, Universidad de los Andes
+- Elizabeth	Bondi, MIT
+- Alicia	Boyd, New York University
+- Casey	Breen, University of California, Berkeley
+- Brian	Brubach, University of Maryland
+- Hau	Chan, University of Nebraska-Lincoln
+- Yatong	Chen, UC Santa Cruz
+- Amanda	Coston, CMU
+- Lenore	Cowen, Tufts University
+- Michael	Curry, University of Zurich
+- Tinglong	Dai, Johns Hopkins University
+- Kate	Donahue, Cornell University
+- Samuel	Dooley, University of Maryland
+- Alon	Eden, Tel Aviv University
+- Jessie	Finocchiaro, University of Colorado Boulder
+- Bailey	Flanigan, Carnegie Mellon University
+- Abraham	Flaxman, University of Washington
+- Daniel	Freund, MIT
+- Neil	Gaikwad, MIT
+- Nikhil	Garg, Cornell Tech
+- Bhavya	Ghai, Amazon
+- Ashish	Goel, Stanford University
+- Michael	Hamilton, University of Pittsburgh
+- Christine	Herlihy, University of Maryland, College Park
+- Jonas	Israel, TU Berlin
+- Jonas	Jonasson, MIT
+- Kenny	Joseph, University at Buffalo
+- Anson	Kahng, University of Toronto
+- Adam	Kapor, Princeton University
+- Sara	Kingsley, Carnegie Mellon University
+- Marina	Knittel, University of Maryland
+- Wanyi	Li, Lightspark
+- Hannah	Li, MIT
+- Edwin	Lock, University of Oxford
+- Brendan	Lucier, Microsoft
+- Henrietta	Lyons, University of Melbourne
+- Dina	Machuve, Nelson Mandela African Institution of Science and Technology
+- Roland	Maio, Columbia University
+- Siva	Mathiyazhagan, University of Pennsylvania
+- Nicholas	Mattei, Tulane University
+- Jaron	Mink, University of Illinois at Urbana-Champaign
+- Nyalleng	Moorosi, University of Fort Hare
+- Tilsa	Oré-Mónago, Baker Institute for Public Policy
+- Chara	Podimata, MIT
+- Emmanouil	Pountourakis, Northwestern University
+- Lucy	Qin, Brown University
+- Pia	Ramchandani, PricewaterhouseCoopers
+- Ignacio	Rios, The University of Texas at Dallas
+- Scott	Rodilitz, UCLA
+- Esther	Rolfs, Harvard University
+- Atri	Rudra, University at Buffalo, SUNY
+- Elizabeth	Salas, University of Washington
+- Jad	Salem, Georgia Institute of Technology
+- Samira	Samadi, Max Planck Institute for Intelligent Systems
+- Saiph	Savage, Universidad Nacional Autonoma de Mexico (UNAM)
+- Zhaowei	She, Singapore Management University
+- Shubham	Singh, University of Illinois at Chicago
+- Somya	Singhvi, USC Marshall School of Business
+- Tom	Sühr, Max Planck Institute for Intelligent Systems
+- Akshaya	Suresh, Yale University
+- Emil	Temnyalov, University of Technology, Sydney
+- Neil	Thakral, Brown University
+- Kentaro	Tomoeda, University of Technology, Sydney
+- Isabel	Valera, Uni Saarland
+- Suresh	Venkatasubramanian, Brown University
+- Sarah	Wang, University of California, Berkeley / Meta Platforms Inc.
+- Bryan	Wilder, Harvard University
+- Lily	Xu, Harvard University
+- Nari	Yoo, New York University Silver School of Social Work
+- Renzhe	Yu, Teachers College, Columbia University
+- Savvas	Zannettou, Delft University of Technology
+- Angela	Zhou, University of Southern California
+- Tijana	Zrnic, University of California, Berkeley
+
