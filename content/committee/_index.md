@@ -41,6 +41,49 @@ header:
 
 - - -
 
+## Doctoral Symposium co-chairs
+- Miri Zilka, University of Cambridge
+- Juba Ziani, Georgia Institute of Technology
+
+## Travel grants and registration co-chairs
+- Chinasa Okolo, Cornell University
+- Sandro Radovanovic, University of Belgrade
+
+## Poster co-chairs
+- Matheus Venturyne, Harvard University
+- Paula Rodriguez, Harvard University
+
+## Fundraising chair
+- Francisco Marmolejo-Cossio, Harvard University
+
+## Social co-chairs
+- Jessie Finocchiaro, Harvard University
+- Lily Xu, Harvard University
+
+## Social media co-chairs
+- Raysa Benatti, University of Campinas
+- Mir Masood Ali, University of Illinois Chicago
+- Alex DiChristophano, Washington University in St. Louis
+- Rhea Tibrewala, Refeyn
+
+## Accessibility co-chair
+- Sara Kingsley, Carnegie Mellon University
+
+## Proceedings co-chairs
+- Gourab Patro, IIT Kharagpur
+- Felipe Verastegui-Grunewald, Columbia University
+
+## Treasurer
+- Federico Bobbio, Université de Montréal
+
+## Operations chair
+- George Obaido, University of California, Berkeley
+
+## Local Student co-chair
+- Bhushan Suwal, Boston University 
+
+- - -
+
 ### Area Chairs
 - Michael Best, Columbia University
 - Caterina Calsamiglia, CEMFI
