@@ -41,45 +41,45 @@ header:
 
 - - -
 
-## Doctoral Symposium co-chairs
+### Doctoral Symposium co-chairs
 - Miri Zilka, University of Cambridge
 - Juba Ziani, Georgia Institute of Technology
 
-## Travel grants and registration co-chairs
+### Travel grants and registration co-chairs
 - Chinasa Okolo, Cornell University
 - Sandro Radovanovic, University of Belgrade
 
-## Poster co-chairs
+### Poster co-chairs
 - Matheus Venturyne, Harvard University
 - Paula Rodriguez, Harvard University
 
-## Fundraising chair
+### Fundraising chair
 - Francisco Marmolejo-Cossio, Harvard University
 
-## Social co-chairs
+### Social co-chairs
 - Jessie Finocchiaro, Harvard University
 - Lily Xu, Harvard University
 
-## Social media co-chairs
+### Social media co-chairs
 - Raysa Benatti, University of Campinas
 - Mir Masood Ali, University of Illinois Chicago
 - Alex DiChristophano, Washington University in St. Louis
 - Rhea Tibrewala, Refeyn
 
-## Accessibility co-chair
+### Accessibility co-chair
 - Sara Kingsley, Carnegie Mellon University
 
-## Proceedings co-chairs
+### Proceedings co-chairs
 - Gourab Patro, IIT Kharagpur
 - Felipe Verastegui-Grunewald, Columbia University
 
-## Treasurer
+### Treasurer
 - Federico Bobbio, Université de Montréal
 
-## Operations chair
+### Operations chair
 - George Obaido, University of California, Berkeley
 
-## Local Student co-chair
+### Local Student co-chair
 - Bhushan Suwal, Boston University 
 
 - - -
@@ -191,4 +191,3 @@ header:
 - Savvas	Zannettou, Delft University of Technology
 - Angela	Zhou, University of Southern California
 - Tijana	Zrnic, University of California, Berkeley
-
