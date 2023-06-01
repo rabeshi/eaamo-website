@@ -63,7 +63,7 @@ header:
 ### Social media co-chairs
 - Raysa Benatti, University of Campinas
 - Mir Masood Ali, University of Illinois Chicago
-- Alex DiChristophano, Washington University in St. Louis
+- Alex DiChristofano, Washington University in St. Louis
 - Rhea Tibrewala, Refeyn
 
 ### Accessibility co-chair
