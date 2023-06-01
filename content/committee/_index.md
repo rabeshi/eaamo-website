@@ -66,7 +66,7 @@ header:
 - Alex DiChristofano, Washington University in St. Louis
 - Rhea Tibrewala, Refeyn
 
-### Accessibility co-chair
+### Accessibility chair
 - Sara Kingsley, Carnegie Mellon University
 
 ### Proceedings co-chairs
