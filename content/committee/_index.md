@@ -79,7 +79,7 @@ header:
 ### Operations chair
 - George Obaido, University of California, Berkeley
 
-### Local Student co-chair
+### Local Student chair
 - Bhushan Suwal, Boston University 
 
 - - -
